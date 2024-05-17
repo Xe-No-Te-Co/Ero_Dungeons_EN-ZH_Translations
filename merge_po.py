@@ -87,17 +87,46 @@ def merge_po_files(po0_path, po1_path, merged_po_path):
 			po0.append(entry)
 			print('')
 
+	
 
 	# 将合并后的 po 文件保存
+	# export_po(merged_po_path, po0)
 	po0.save(merged_po_path)
+	
 	# Normalize the saved .po file
-	normalize_po_file(merged_po_path)
+	# normalize_po_file(merged_po_path)
 
+def export_po(fp, po):
+	def to_string(pre, string):
+		return f'{pre} \"{string}\"\n'
+
+	header = '''msgid ""
+msgstr ""
+"Project-Id-Version: zh_HANS\\n"
+"POT-Creation-Date: \\n"
+"PO-Revision-Date: \\n"
+"Last-Translator: \\n"
+"Language-Team: \\n"
+"Language: zh_CN\\n"
+"MIME-Version: 1.0\\n"
+"Content-Type: text/plain; charset=UTF-8\\n"
+"Content-Transfer-Encoding: 8bit\\n"
+"X-Generator: Poedit 3.4.2\\n"
+	\n'''
+	with open(fp, 'w', encoding='utf8') as f:
+		f.write(header)
+		for entry in po:
+			f.write(f'# {entry.tcomment}\n')
+			if entry.msgctxt:
+				f.write(to_string('msgctxt', entry.msgctxt))
+			f.write(to_string('msgid', entry.msgid))
+			f.write(to_string('msgstr', entry.msgstr))
+			f.write('\n')
 
 # 示例用法
 path = { 
 	"base": 'Translations/base.po',
-	'zh_hans': 'Translations/zh_HANS.po',
-	'zh_hans_merged': 'Translations/zh_HANS_merged.po'
+	'zh_hans': 'Translations/zh_HANS_pre.po',
+	'zh_hans_merged': 'Translations/zh_HANS.po'
 	}
 merge_po_files(path["base"], path["zh_hans"], path["zh_hans_merged"])

@@ -2533,8 +2533,8 @@ msgstr "鼠人军营"
 
 # From Data: Curios-Curios-brainwashing-description
 msgctxt "Description of a curio."
-msgid "Between the heavy locks and large helmet, the device exudes an air of malice. Below it stands, in ancient imperial script: \\\"persoonlijksheidsverbeteringsapparaat\\\". Whatever that may mean."
-msgstr "Between the heavy locks and large helmet, the device exudes an air of malice. Below it stands, in ancient imperial script: \\\"persoonlijksheidsverbeteringsapparaat\\\". Whatever that may mean."
+msgid "Between the heavy locks and large helmet, the device exudes an air of malice. Below it stands, in ancient imperial script: \"persoonlijksheidsverbeteringsapparaat\". Whatever that may mean."
+msgstr "Between the heavy locks and large helmet, the device exudes an air of malice. Below it stands, in ancient imperial script: \"persoonlijksheidsverbeteringsapparaat\". Whatever that may mean."
 
 # From Data: Curios-Curios-brainwashing-name
 msgctxt "Name of a curio."
@@ -2553,8 +2553,8 @@ msgstr "被包裹的冒险者"
 
 # From Data: Curios-Curios-delatexifier-description
 msgctxt "Description of a curio."
-msgid "The party finds a strange contraption. Seemingly alive, it reacts and shudders when any latex moves near. Below it stands, in ancient imperial script: \\\"ontrubberringsapparaat\\\". Whatever that may mean."
-msgstr "The party finds a strange contraption. Seemingly alive, it reacts and shudders when any latex moves near. Below it stands, in ancient imperial script: \\\"ontrubberringsapparaat\\\". Whatever that may mean."
+msgid "The party finds a strange contraption. Seemingly alive, it reacts and shudders when any latex moves near. Below it stands, in ancient imperial script: \"ontrubberringsapparaat\". Whatever that may mean."
+msgstr "The party finds a strange contraption. Seemingly alive, it reacts and shudders when any latex moves near. Below it stands, in ancient imperial script: \"ontrubberringsapparaat\". Whatever that may mean."
 
 # From Data: Curios-Curios-delatexifier-name
 msgctxt "Name of a curio."
@@ -2563,8 +2563,8 @@ msgstr "诡异的装置"
 
 # From Data: Curios-Curios-dollmaker-description
 msgctxt "Description of a curio."
-msgid "The strange device is made of a black foreign material fed by thick rubber wires. The design is covered in warning symbols. A plaque in ancient imperial script reads: \\\"verpoppingsapparaat, opgepast onomkeerbaar\\\". While the party doesn't know what it means, the warning symbols indicate that interacting with the machine will be deadly."
-msgstr "The strange device is made of a black foreign material fed by thick rubber wires. The design is covered in warning symbols. A plaque in ancient imperial script reads: \\\"verpoppingsapparaat, opgepast onomkeerbaar\\\". While the party doesn't know what it means, the warning symbols indicate that interacting with the machine will be deadly."
+msgid "The strange device is made of a black foreign material fed by thick rubber wires. The design is covered in warning symbols. A plaque in ancient imperial script reads: \"verpoppingsapparaat, opgepast onomkeerbaar\". While the party doesn't know what it means, the warning symbols indicate that interacting with the machine will be deadly."
+msgstr "The strange device is made of a black foreign material fed by thick rubber wires. The design is covered in warning symbols. A plaque in ancient imperial script reads: \"verpoppingsapparaat, opgepast onomkeerbaar\". While the party doesn't know what it means, the warning symbols indicate that interacting with the machine will be deadly."
 
 # From Data: Curios-Curios-dollmaker-name
 msgctxt "Name of a curio."
@@ -2643,8 +2643,8 @@ msgstr "平静之湖"
 
 # From Data: Curios-Curios-latexifier-description
 msgctxt "Description of a curio."
-msgid "The party finds a hole which continuously produces a stream of liquid latex. A metal contraption is half sunken in the goo. Next to it stands, in ancient imperial script: \\\"verrubberringsapparaat\\\". Whatever that may mean."
-msgstr "The party finds a hole which continuously produces a stream of liquid latex. A metal contraption is half sunken in the goo. Next to it stands, in ancient imperial script: \\\"verrubberringsapparaat\\\". Whatever that may mean."
+msgid "The party finds a hole which continuously produces a stream of liquid latex. A metal contraption is half sunken in the goo. Next to it stands, in ancient imperial script: \"verrubberringsapparaat\". Whatever that may mean."
+msgstr "The party finds a hole which continuously produces a stream of liquid latex. A metal contraption is half sunken in the goo. Next to it stands, in ancient imperial script: \"verrubberringsapparaat\". Whatever that may mean."
 
 # From Data: Curios-Curios-latexifier-name
 msgctxt "Name of a curio."
@@ -5637,7 +5637,7 @@ msgstr "巨型史莱姆"
 # From Data: Enemies-Slimes-large_slime-description
 msgctxt "Description of an enemy."
 msgid "Two slimes can merge in a process named ectoplasmic profusion. This not only increases the size of the slime, it's also the start of a new part of her lifecycle."
-msgstr "两只史莱姆可以通过一种名为 \\\"外质增殖 \\\"的过程进行合并。这不仅会增大史莱姆的体积，也是其生命周期新阶段的开始。"
+msgstr "两只史莱姆可以通过一种名为 \"外质增殖 \"的过程进行合并。这不仅会增大史莱姆的体积，也是其生命周期新阶段的开始。"
 
 # From Data: Enemies-Slimes-large_slime-name
 msgctxt "Name of an enemy."
@@ -10952,7 +10952,7 @@ msgstr "好奇"
 # From Data: Quirks-Negatives-curious-text
 msgctxt "Description of a quirk."
 msgid "[NAME] can't stop wondering what side effects the moves of enemies have."
-msgstr "[NAME] 忍不住想知道敌人会给她带来什么\\\"惊喜\\\"。"
+msgstr "[NAME] 忍不住想知道敌人会给她带来什么\"惊喜\"。"
 
 # From Data: Quirks-Negatives-degenerate-name
 msgctxt "Name of a quirk."
@@ -11262,7 +11262,7 @@ msgstr "脱衣舞娘"
 # From Data: Quirks-Negatives-stripper-text
 msgctxt "Description of a quirk."
 msgid "[NAME] loves getting nude. She might even help her enemies 'accidentally' disrobe her."
-msgstr "[NAME] 特别喜欢裸体一丝不挂, 甚至她可能帮助敌人\\\"意外地\\\"脱掉自己的衣服。"
+msgstr "[NAME] 特别喜欢裸体一丝不挂, 甚至她可能帮助敌人\"意外地\"脱掉自己的衣服。"
 
 # From Data: Quirks-Negatives-submissive-name
 msgctxt "Name of a quirk."
