@@ -5430,7 +5430,7 @@ msgstr "曼陀罗花广泛分布于北部沼泽。它们有许多藤蔓，可以
 # From Data: Enemies-Alraune-alraune-name
 msgctxt "Name of an enemy."
 msgid "Common Alraune"
-msgstr "Common Alraune"
+msgstr "普通曼陀罗花"
 
 # From Data: Enemies-Alraune-alraune_big-description
 msgctxt "Description of an enemy."
@@ -5440,17 +5440,17 @@ msgstr ""
 # From Data: Enemies-Alraune-alraune_big-name
 msgctxt "Name of an enemy."
 msgid "Big Alraune"
-msgstr "Big Alraune"
+msgstr "大型曼陀罗花"
 
 # From Data: Enemies-Alraune-alraune_cleric-name
 msgctxt "Name of an enemy."
 msgid "Devout Alraune"
-msgstr "Devout Alraune"
+msgstr "虔诚曼陀罗花"
 
 # From Data: Enemies-Alraune-alraune_gunner-name
 msgctxt "Name of an enemy."
 msgid "Alchemical Alraune"
-msgstr "Alchemical Alraune"
+msgstr "炼金曼陀罗花"
 
 # From Data: Enemies-Alraune-alraune_hugger-description
 msgctxt "Description of an enemy."
@@ -5462,27 +5462,27 @@ msgstr "曼陀罗花还能用根部从生物身上汲取养分。曼陀罗花就
 # From Data: Enemies-Alraune-alraune_hugger-name
 msgctxt "Name of an enemy."
 msgid "Huggable Alraune"
-msgstr "Huggable Alraune"
+msgstr "拥抱曼陀罗花"
 
 # From Data: Enemies-Alraune-alraune_lure-name
 msgctxt "Name of an enemy."
 msgid "Alluring Alraune"
-msgstr "Alluring Alraune"
+msgstr "魅惑曼陀罗花"
 
 # From Data: Enemies-Alraune-alraune_mother-name
 msgctxt "Name of an enemy."
 msgid "Maternal Alraune"
-msgstr "Maternal Alraune"
+msgstr "孕妇曼陀罗花"
 
 # From Data: Enemies-Alraune-alraune_tender-name
 msgctxt "Name of an enemy."
 msgid "Horticulturist Alraune"
-msgstr "Horticulturist Alraune"
+msgstr "园艺曼陀罗花"
 
 # From Data: Enemies-Alraune-alraune_warrior-name
 msgctxt "Name of an enemy."
 msgid "Warrior Alraune"
-msgstr "Warrior Alraune"
+msgstr "战士曼陀罗花"
 
 # From Data: Enemies-Bats-bat-description
 msgctxt "Description of an enemy."
@@ -6071,7 +6071,7 @@ msgstr "阴道寄生虫"
 # From Data: Enemies-Plants-acid_flower-name
 msgctxt "Name of an enemy."
 msgid "Poison Flower"
-msgstr "Poison Flower"
+msgstr "剧毒花"
 
 # From Data: Enemies-Plants-double_vine-description
 msgctxt "Description of an enemy."
@@ -6088,12 +6088,12 @@ msgstr "杂乱的藤蔓"
 # From Data: Enemies-Plants-fire_flower-name
 msgctxt "Name of an enemy."
 msgid "Fire Flower"
-msgstr "Fire Flower"
+msgstr "火焰花"
 
 # From Data: Enemies-Plants-love_flower-name
 msgctxt "Name of an enemy."
 msgid "Alluring Flower"
-msgstr "Alluring Flower"
+msgstr "魅惑花"
 
 # From Data: Enemies-Plants-plant-description
 msgctxt "Description of an enemy."
@@ -20652,12 +20652,12 @@ msgstr "高潮奖励"
 # From Data: Tokens-OtherTokens-alraune_incubate-name
 msgctxt "Name of a token."
 msgid "Alraune Mother"
-msgstr "Alraune Mother"
+msgstr "曼陀罗之母"
 
 # From Data: Tokens-OtherTokens-alraune_lure-name
 msgctxt "Name of a token."
 msgid "Lured"
-msgstr "Lured"
+msgstr "被引诱"
 
 # From Data: Tokens-OtherTokens-apologize_token-name
 msgctxt "Name of a token."
@@ -20762,7 +20762,7 @@ msgstr "提振士气"
 # From Data: Tokens-OtherTokens-orc_carrier-name
 msgctxt "Name of a token."
 msgid ""
-msgstr ""
+msgstr "被兽人运载"
 
 # From Data: Tokens-OtherTokens-orgasm-name
 msgctxt "Name of a token."
@@ -25061,7 +25061,7 @@ msgstr "在五个回合中，道歉的方式有很多。"
 # From Data: Wearables-D6Parasites-alraune_vine-name
 msgctxt "Name of a piece of equipment."
 msgid "Growing Vine"
-msgstr "Growing Vine"
+msgstr "生长藤蔓"
 
 # From Data: Wearables-D6Parasites-anal_parasite_gear-name
 msgctxt "Name of a piece of equipment."
