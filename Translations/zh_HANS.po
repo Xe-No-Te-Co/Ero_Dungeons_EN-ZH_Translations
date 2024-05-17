@@ -16771,7 +16771,7 @@ msgctxt "Description of a personality trait."
 msgid "[NAME] doesn't like interacting with people she doesn't know."
 msgstr "[NAME]不喜欢与陌生人互动(波奇酱：牡蛎牡蛎木木木)。"
 
-#From Data: Traits-Traits-straightforward-name
+# From Data: Traits-Traits-straightforward-name
 msgctxt "Name of a personality trait"
 msgid "Blunt"
 msgstr "耿直"
@@ -16779,7 +16779,7 @@ msgstr "耿直"
 # From Data: Traits-Traits-straightforward-text
 msgctxt "Description of a personality trait"
 msgid "[NAME] says things as they are."
-msgstr "[NAME]一根筋, 总是口无遮拦。AA"
+msgstr "[NAME]一根筋, 总是口无遮拦。"
 
 # From Data: Traits-Traits-stubborn-name
 msgctxt "Name of a personality trait."
