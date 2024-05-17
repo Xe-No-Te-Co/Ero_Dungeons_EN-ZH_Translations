@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: zh_HANS\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2024-5-17 10:35:11"
+"Last-Translator: Xe-No"
 "Language-Team: \n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -4700,8 +4700,7 @@ msgstr "状态标记"
 
 # From Data: Encyclopedia-Encyclopedia-tokens-text
 msgctxt "Explanation of a tutorial"
-msgid ""
-"During combat, buffs and debuffs are handled with \"tokens\". These are shown as small indicators below the healthbar and confer advantages or disadvantages to the player. For example, that token on the ratkin warrior is called a Block+ Token, it applies a 75% damage reduction to the next attack targetting her. Tokens will go away after time, or whenever they are triggered. Hence, attacking the ratkin will remove the token, as will waiting three turns for it to disappear on its "
+msgid "During combat, buffs and debuffs are handled with \"tokens\". These are shown as small indicators below the healthbar and confer advantages or disadvantages to the player. For example, that token on the ratkin warrior is called a Block+ Token, it applies a 75% damage reduction to the next attack targetting her. Tokens will go away after time, or whenever they are triggered. Hence, attacking the ratkin will remove the token, as will waiting three turns for it to disappear on its "
 "own.Be sure to hover over any new tokens you see, as they are an important part of combat. You can view a complete overview of all tokens in the Glossary, right next to where you can review all these tutorials."
 msgstr ""
 "在战斗中，增益和减益效果状态以图标的形式显示在生命条下方，为玩家提供buff或debuff。\n"
@@ -7754,7 +7753,7 @@ msgstr "舐足"
 # From Data: Playermoves-Gear-overcharge-name
 msgctxt "Name of a move."
 msgid "Overcharge"
-msgstr "收取小费"
+msgstr "超载"
 
 # From Data: Playermoves-Gear-reinsert_beads-name
 msgctxt "Name of a move."
@@ -7794,7 +7793,7 @@ msgstr "慢跑"
 # From Data: Playermoves-Horse-charge-name
 msgctxt "Name of a move."
 msgid "Charge"
-msgstr "充电"
+msgstr "冲锋"
 
 # From Data: Playermoves-Horse-gallop-name
 msgctxt "Name of a move."
@@ -13535,7 +13534,7 @@ msgstr "支付 [PARAM]"
 # From Data: Scripts-Movescript-stat_drain_chance-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Drain [PARAM1]: [PARAM2] ([PARAM])"
-msgstr "排出 [PARAM1]: [PARAM2] ([PARAM])"
+msgstr "流失 [PARAM1]: [PARAM2] ([PARAM])"
 
 # From Data: Scripts-Movescript-stat_scaling-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -16772,15 +16771,15 @@ msgctxt "Description of a personality trait."
 msgid "[NAME] doesn't like interacting with people she doesn't know."
 msgstr "[NAME]不喜欢与陌生人互动(波奇酱：牡蛎牡蛎木木木)。"
 
-# From Data: Traits-Traits-straightforward-name
-msgctxt "Name of a personality trait."
-msgid "Straightforward"
+#From Data: Traits-Traits-straightforward-name
+msgctxt "Name of a personality trait"
+msgid "Blunt"
 msgstr "耿直"
 
 # From Data: Traits-Traits-straightforward-text
-msgctxt "Description of a personality trait."
+msgctxt "Description of a personality trait"
 msgid "[NAME] says things as they are."
-msgstr "[NAME]一根筋, 总是口无遮拦。"
+msgstr "[NAME]一根筋, 总是口无遮拦。AA"
 
 # From Data: Traits-Traits-stubborn-name
 msgctxt "Name of a personality trait."
@@ -18460,7 +18459,7 @@ msgstr "女神的专属套装遍布整个大陆的玩偶制造者的终极目标
 # From Data: Wearables-6Legendary-overcharge_visor-name
 msgctxt "Name of a piece of equipment."
 msgid "Overcharge Visor"
-msgstr "过度充能面罩"
+msgstr "超载面罩"
 
 # From Data: Wearables-6Legendary-technician_suit-name
 msgctxt "Name of a piece of equipment."
@@ -19406,7 +19405,7 @@ msgstr "狐面"
 # From Data: Wearables-C2Maid-miko_sandals-name
 msgctxt "Name of a piece of equipment."
 msgid "Zori"
-msgstr "草鞋"
+msgstr "草履"
 
 # From Data: Wearables-C2Maid-miko_staff-name
 msgctxt "Name of a piece of equipment."
@@ -20985,7 +20984,7 @@ msgstr "隐藏字幕"
 
 # From Engine: Nodes/Menu/Toggles.tscn
 msgid "Colorblind Mode"
-msgstr "盲模式"
+msgstr "色盲模式"
 
 # From Engine: Nodes/Menu/Toggles.tscn
 msgid "Fullscreen (F11)"
@@ -21009,7 +21008,7 @@ msgstr "存档并退出到桌面"
 
 # From Engine: Nodes/Overworld/OverworldScene.tscn
 msgid "Embark"
-msgstr "开始"
+msgstr "出击"
 
 # From Engine: Nodes/Overworld/OverworldScene.tscn
 msgid "Select Mission"
@@ -21017,7 +21016,7 @@ msgstr "选择任务"
 
 # From Engine: Nodes/Overworld/OverworldScene.tscn
 msgid "Return Home"
-msgstr "返回主页"
+msgstr "返回城镇"
 
 # From Engine: Nodes/Utility/BugReportPanel.tscn
 msgid "  Name"
