@@ -4042,12 +4042,12 @@ msgid "The Usual Spiders"
 msgstr "常见的蜘蛛"
 
 # From Data: Encyclopedia-Encyclopedia-b0_buildings-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "Introduction"
 msgstr "简介"
 
 # From Data: Encyclopedia-Encyclopedia-b0_buildings-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid ""
 "On your adventurers’ return from their first mission, the screen changes to a map showing their home. You will begin with three buildings: the farmstead, the barracks and the Guild Hall.If you click on a building in home view, a new screen will open, showing the building options. At top left of this screen, next to the name of the building, is an icon - click on this and options for expanding the building will appear. Opening up these slots requires gold, mana or favour, or "
 "combinations of the three.The Guild Hall works in a similar way, but with an additional option which allows six more building unlocks once you have enough resources available.You can close a building’s screen and get back to the Home Screen by clicking the X at top right.Don’t miss the stagecoach, which is in the field behind the Guild Hall - The stagecoach works like any other building if you click the top left icon in its screen. Go here first to find two new recruits and get "
@@ -4063,12 +4063,12 @@ msgstr ""
 "公会大厅后面有一所驿站马车，先到驿站马车招募两个新兵，然后开始冒险吧！"
 
 # From Data: Encyclopedia-Encyclopedia-b1_guild_hall-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "The Guild Hall"
 msgstr "公会大厅"
 
 # From Data: Encyclopedia-Encyclopedia-b1_guild_hall-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid "While this building is all about unlocking additional buildings and missions (click the icon at top left, next to the words ‘Guild Hall’) investment also allow you to increase the mission count. The right hand pane provides a scrollable overview of morale, missions count, roster size, staring level, training and job opportunities."
 msgstr ""
 "公会大厅是家园的核心建筑，主要用于解锁其他建筑和任务(点击左上角 \"公会大厅 \"旁边的图标)。\n"
@@ -4076,12 +4076,12 @@ msgstr ""
 "右侧窗格可滚动显示士气、任务数、队伍规模、等级、训练情况和工作情况等待。"
 
 # From Data: Encyclopedia-Encyclopedia-b2_barracks-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "The Barracks"
 msgstr "冒险者营地"
 
 # From Data: Encyclopedia-Encyclopedia-b2_barracks-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid ""
 "Fully upgraded (click on the icon at top left next to the word ‘barracks’) the barracks can increase your roster size to 44 or more. Additional upgrades increase starting morale of adventurers - and you can add maid slots up to a maximum of three.The maids clean the barracks - or so they say, know one knows what really goes on in there, but there are all kinds of muffled noises, so join the dots. Putting the most highly upgraded maids you have into these slots is worth it because "
 "each one makes an additional contribution to maximum morale."
@@ -4093,12 +4093,12 @@ msgstr ""
 "每个女仆都会增加最大士气值上限，所以建议将你拥有的等级最高的女仆放进来。"
 
 # From Data: Encyclopedia-Encyclopedia-b3_farmstead-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "The Farmstead"
 msgstr "农庄"
 
 # From Data: Encyclopedia-Encyclopedia-b3_farmstead-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid ""
 "The Farmstead needs to be staffed so your adventurers can have potions and provisions to help them survive combat.Expansion options (click the icon top left) include provision points and carry capacity. The more provisions a dungeon group has, the better it will manage and the more carry capacity, the more loot it can take home.A fully upgraded and staffed farmstead has three cow slots and three slave slots occupied - you fill them with adventurers. Cows provide milk and slaves "
 "provide provisions. You’ll get the best results by filling each slot with the appropriate class of adventurer, but if you have no choice, any class can go in any slot.Don’t forget that some classes have upgrades that boost their contribution - a fully upgraded cow contributes a lot more milk!"
@@ -4111,12 +4111,12 @@ msgstr ""
 "另外，有些职业的冒险者可以升级，以提高她们的生产效率，例如升满级的母牛女孩可以生产更多的牛奶！"
 
 # From Data: Encyclopedia-Encyclopedia-b4_stagecoach-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "The Stagecoach"
 msgstr "驿站马车"
 
 # From Data: Encyclopedia-Encyclopedia-b4_stagecoach-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid ""
 "The Stagecoach is the goto to recruit new adventurers, but when fully upgraded it turbocharges recruiting.Click on the top left icon on the Stagecoach screen to see the upgrade options. Improving base stats increases the quality of new recruits. The ‘more recruits’ option does what it says on the tin and each ponygirl slot you open up and staff will increase the number of skill points each recruit has.Don’t forget that if the roster is full, you can dismiss an adventurer. The "
 "easy way to do this is to right click on her icon in the roster pane, make sure the shield icon is selected in the top pane, and do a long left click on ‘dismiss adventurer’ in the pane at bottom right, just inboard of the roster pane. Don’t do this lightly - you’ll miss her."
@@ -4129,12 +4129,12 @@ msgstr ""
 "千万小心！解雇意味着你会永久失去这个女孩。"
 
 # From Data: Encyclopedia-Encyclopedia-b5_tavern-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "The Tavern"
 msgstr "酒馆"
 
 # From Data: Encyclopedia-Encyclopedia-b5_tavern-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid ""
 "Lust is a real problem in Ero Dungeons and the girls are fighting the whole time to keep their hands off of each other.Left click on the top left icon and options will appear for increasing tavern efficiency (aka passive lust reduction, which affects all adventurers) while opening up and filling taverneer slots will allow individual adventurers whose lust is in danger of getting out of control to reduce their level even more.Lust declines slowly over time, but not that slowly and "
 "if an adventurer ends up close to the limit in one dungeon, using her for consecutive missions risks her boiling over. You have been warned!"
@@ -4145,12 +4145,12 @@ msgstr ""
 "连续使用同一个女孩进行地牢探索可能让她的情欲沸腾哦！"
 
 # From Data: Encyclopedia-Encyclopedia-b6_training_field-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "The Training Field"
 msgstr "训练营"
 
 # From Data: Encyclopedia-Encyclopedia-b6_training_field-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid ""
 "Options for upgrading the training field include increasing maximum level of adventurers’ base characteristics, but this upgrade can only be used by activating training slots up to the maximum of three.Drag an adventurer’s icon into one of these slots and you will be offered a choice of base stats to upgrade. This can prove crucial in tough dungeons, so make sure you max out survivability and hitting power as much as you can.A fully upgraded training field has three puppy slots. "
 "To see them, click on the ‘kennels’ tab at top right. The ideal is to fill these slots with high level puppy class adventurers, but if you don’t have enough, you can use other classes to fill empty slots. The more puppies you have, the more missions you will have to choose between."
@@ -4161,60 +4161,60 @@ msgstr ""
 "如果数量不够，也可以用其他职业的冒险者来工作。"
 
 # From Data: Encyclopedia-Encyclopedia-b7_mental_ward-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "The Mental Ward"
 msgstr "精神病院"
 
 # From Data: Encyclopedia-Encyclopedia-b7_mental_ward-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid "Fully upgraded, the mental ward has three adventurer slots and it works in a similar way to the tavern, only this building doesn’t reduce lust, it can lock or remove quirks (via the patient slot) and do the same for mantras via the hypnosis slots.Do not underestimate how much trouble the wrong quirk can cause when a character develops it!"
 msgstr ""
 "精神病院用来锁定、移除怪癖(通过病人插槽)或增加、移除催眠效果。\n"
 "升满级后，精神病房有三个位置，工作方式与酒馆类似！"
 
 # From Data: Encyclopedia-Encyclopedia-b8_nursery-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "The Nursery"
 msgstr "育虫室"
 
 # From Data: Encyclopedia-Encyclopedia-b8_nursery-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid "Fully upgraded, this building allows you to add, grow, remove and sell parasites. Some parasites are useful, some are not, but all are saleable - the bigger they are, the more mana you get."
 msgstr ""
 "育虫室可以让你添加、培育、移除和出售寄生虫。\n"
 "所有寄生虫都可以出售，寄生虫越大(成长进度越高)，获得的报酬就越高。"
 
 # From Data: Encyclopedia-Encyclopedia-b9_hospital-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "The Hospital"
 msgstr "美容医院"
 
 # From Data: Encyclopedia-Encyclopedia-b9_hospital-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid "This building has a single adventurer slot, but when fully upgraded, you can change the colour of her hair and eyes, alter her height and - not that we imagine anyone will think of doing this - her cup size."
 msgstr ""
 "美容医院让你可以随意修改冒险者的外貌和身材。\n"
 "包括头发和眼睛的颜色，身高，皮肤颜色，还有胸部罩杯大小等等。"
 
 # From Data: Encyclopedia-Encyclopedia-change_order-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "Changing the Party Order"
 msgstr "变更队伍排序"
 
 # From Data: Encyclopedia-Encyclopedia-change_order-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid "Did you know you can change the party order by clicking the arrows next to the adventurer portraits?You can also see detailed information about your adventurers by right-clicking their portraits. Or clicking the details button at the bottom of the screen.Remember that you can review all these tutorial hints within the settings."
 msgstr ""
 "地牢探索过程中，点击冒险者头像旁边的箭头可以更改她们在队伍中的顺序。\n"
 "你可以在设置中查看这些教程的所有提示。"
 
 # From Data: Encyclopedia-Encyclopedia-class_change_panel-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "Class Change Information"
 msgstr "职业变更信息"
 
 # From Data: Encyclopedia-Encyclopedia-class_change_panel-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid ""
 "In this panel you can see the current class of the adventurer and all other possible classes. You can change classes for a fee. You will keep your level in the current class in case you want to switch back, but lose any experience, and all development goals will be rerolled.When you reach the highest level of a class, you receive a permanent bonus that stays with you even when you switch classes. So let your adventurers master all classes for ultimate min-maxing.Beware that "
 "changing classes will unequip any class specific gear, so be sure to gear up your adventurer again in the equipment panel, lest she goes dungeon crawling without a weapon.Of course, if you are forced into a class due to cursed equipment or an equipment set bonus, you can't just switch out of it."
@@ -4228,12 +4228,12 @@ msgstr ""
 "(诅咒职业需要达到一定等级才能再次转职)"
 
 # From Data: Encyclopedia-Encyclopedia-combat-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "Combat"
 msgstr "战斗教程"
 
 # From Data: Encyclopedia-Encyclopedia-combat-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid ""
 "This game uses positional turn-based combat. Moves are limited in the positions they can be used from and the positions they can hit. Creating a well balanced party that can hit any position is going to be vital for success.The turn order is based on the SPD stat of the combatants. In case of a draw, the order is random. An exception are enemies with multiple turns, they won't get all their turns at once.Remember that you can view detailed stats about the enemies and their moves "
 "by right-clicking their portraits or their sprites."
@@ -4247,12 +4247,12 @@ msgstr ""
 "你可以通过右键点击敌人的头像或模型来查看关于敌人和其技能的详细数据。"
 
 # From Data: Encyclopedia-Encyclopedia-crests-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "Crests"
 msgstr "印记"
 
 # From Data: Encyclopedia-Encyclopedia-crests-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid ""
 "Oops, it seems like your adventurer has been burdened with a crest. Crests are magical sigils that manifest over the belly of adventurers. Each crest gives advantages and disadvantages to the wearer. It will grow and shrink over time depending on the personality of the wearer. Some enemies will apply crests to your adventurers if their lust exceeds 60.Clerics can start with a crest of purity, which confers advantages at lower lust, but has significant disadvantages at higher lust "
 "levels."
@@ -4264,12 +4264,12 @@ msgstr ""
 "牧师可以以纯洁印记开局，这在较低的欲望值时提供优势，但在更高的欲望值时有显著的劣势。"
 
 # From Data: Encyclopedia-Encyclopedia-cursed_equipment-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "Cursed Equipment"
 msgstr "被诅咒的装备"
 
 # From Data: Encyclopedia-Encyclopedia-cursed_equipment-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid ""
 "Oops, it seems like that piece of equipment was cursed. These lands are filled with cursed equipment. Those items pretend to be other equipment to get you to wear them, but once worn, they cannot be removed. Additionally, they tend to have some negative effects as well. The only way to know that an item is cursed is by trying it on. Don't forget, luck is a skill too!Fortunately, you can uncurse these items. The steps you have to take to uncurse them are shown on the item itself."
 msgstr ""
@@ -4281,12 +4281,12 @@ msgstr ""
 "幸运的是，你可以解除这些物品的诅咒。解除诅咒的方法会显示在物品身上。"
 
 # From Data: Encyclopedia-Encyclopedia-dots-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "Damage over Time"
 msgstr "持续伤害"
 
 # From Data: Encyclopedia-Encyclopedia-dots-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid ""
 "Apart from hitting your enemies really hard, you can also hurt them with Damage over Time (DoTs). These come in different forms. For example, you can burn and bleed enemies, while they can poison you with aphrodisiacs or spank you. Each acts as a separate stack with its own timer. Critical DoTs will last two turns longer and have a 20% higher chance to stick.Hovering over a DoT indicator will show its type, effect, current damage and turns until the last DoT of that type has run "
 "it's course. DoTs will trigger BEFORE your turn, so they are great at neutralizing enemies with high resistances against direct damage. On the other hand, receiving DoTs is dangerous if your adventurer is at low HP, since it will trigger before she can heal herself."
@@ -4301,12 +4301,12 @@ msgstr ""
 "如果你的冒险者生命值很低，受到DoT会很危险，因为它会在冒险者治疗自己之前触发。"
 
 # From Data: Encyclopedia-Encyclopedia-durability-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "Durability"
 msgstr "耐久度"
 
 # From Data: Encyclopedia-Encyclopedia-durability-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid ""
 "Each of your items has a durability. Most enemy attacks will reduce this durability depending on the base damage of the attack, though some attacks can do more durability damage as well (such as bite). Whenever a piece of equipment drops to zero durability it is broken and might as well not be there. All durability is automatically restored when returning to the guild.At zero durability, enemies may replace equipment by new, cursed, equipment. You will get the replaced equipment "
 "back at the end of the dungeon, though the cursed equipment will stay equipped until you uncurse it."
@@ -4320,12 +4320,12 @@ msgstr ""
 "你会在地牢结束时可以取回被替换的装备，但被诅咒的装备锁定在冒险者身上直到你解除诅咒。"
 
 # From Data: Encyclopedia-Encyclopedia-equipment_bar-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "Equipment"
 msgstr "装备"
 
 # From Data: Encyclopedia-Encyclopedia-equipment_bar-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid ""
 "Remember that you can see your equipment at all times. Hover over the different items to see their effects.You have the following slots:1) Your main armor, it serves as your first layer of defence against enemy attacks. As long as it isn't broken it will prevent enemies from equipping any cursed gear on you.2) Your underwear, it serves as your final layer of defence, it will only be damaged by enemy attacks once all other items are destroyed (or cursed).3) Your weapon.4) Your "
 "accessory slots. In general you can equip anything here as long as it doesn't have the same type as other accessories. These can only be replaced by the enemy once they are destroyed by them.5) Any currently attached parasites.6) UNIMPLEMENTED7) The currently active crest.8) Your suggestibility or, if you are hypnotized, the current active hypnotic suggestion."
@@ -4344,12 +4344,12 @@ msgstr ""
 "8)受暗示性, 或者, (如果你被催眠时)当前有效的催眠暗示。"
 
 # From Data: Encyclopedia-Encyclopedia-faltering-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "Faltering"
 msgstr "濒死"
 
 # From Data: Encyclopedia-Encyclopedia-faltering-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid ""
 "When an adventurer gets brought to zero HP she won't die immediately. Instead she reaches a faltering state. Any healing will bring her out of this state, though it will hamper her effectiveness for the remainder of the dungeon. However, when she gets hit again while at zero HP, there is a base 15% chance that she will get kidnapped and get removed from your party. This chance increases the more often she falters.But don't worry, you can always rescue your courageous comrade in a "
 "later rescue mission. Although she might be a bit damaged if you wait too long."
@@ -4361,12 +4361,12 @@ msgstr ""
 "但是别担心，你总是可以在之后的营救任务中营救你勇敢的同伴。尽管如果你等待太久，她可能会受到一些伤害。"
 
 # From Data: Encyclopedia-Encyclopedia-hypnosis-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "Hypnosis"
 msgstr "受暗示性"
 
 # From Data: Encyclopedia-Encyclopedia-hypnosis-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid "Oops, it seems like your adventurer has had her suggestibility increased. Higher suggestibility will slightly lower the willpower of your adventurer. More importantly, it will increase the chance of her receiving hypnotic suggestions. These compulsions will sometimes force certain actions during combat. Fortunately, when those trigger the suggestibility of the adventurer will also decrease, and eventually she will be able to shrug of the suggestion."
 msgstr ""
 "哎呀，你的冒险者的受暗示性似乎增加了。更高的暗示性会略微降低你冒险者的意志力。\n"
@@ -4374,12 +4374,12 @@ msgstr ""
 "幸运的是，当这些触发时，冒险者的暗示性也会下降，最终她将能够摆脱暗示的影响。"
 
 # From Data: Encyclopedia-Encyclopedia-intro-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "Lewdest Dungeon"
 msgstr "淫欲地牢"
 
 # From Data: Encyclopedia-Encyclopedia-intro-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid ""
 "Lewdest Dungeon is about making the most of a lewd situation. Quests will fail or must be abandoned. Heroes will get kidnapped. And when they are, they will get lewded. Progress autosaves constantly, so actions are permanent.The game expects a lot of you. How far will you push your adventurers? How much are you willing to risk their purity in your quest to strengthen the Guild? Will you use their body as a seedbed for profits on the burgeoning parasite market? Will you force "
 "cursed maid equipment on them to better clean the barracks? What are you willing to sacrifice to lewd your favorite hero?Thankfully, there are always fresh souls arriving on the stage coach, seeking both adventure and pleasure in the ..."
@@ -4397,19 +4397,19 @@ msgstr ""
 "总有新鲜的灵魂乘坐驿站马车到达，在……中寻找冒险和快乐。"
 
 # From Data: Encyclopedia-Encyclopedia-intro_web-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid "You are playing the web version of Ero Dungeons. This means that some shaders and particle effects are missing during combat, you may also encounter stuttering during fights. Unless impossible, it is highly suggested that you play the downloadable version instead."
 msgstr ""
 "你正在玩Ero Dungeons的网络版本。这意味着在战斗中缺少一些着色器和粒子效果，你在战斗中也可能遇到卡顿。\n"
 "我们强烈建议你玩下载版本。"
 
 # From Data: Encyclopedia-Encyclopedia-levelling_up-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "Levelling Up"
 msgstr "升级"
 
 # From Data: Encyclopedia-Encyclopedia-levelling_up-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid ""
 "Your adventurers belong to a specific class. Each class has four levels. To levelup you need to fulfil development goals which are listed in the adventurer information panel. The higher the level, the more goals need to be completed and the harder those goals are. Higher level goals cannot be completed in lower level dungeons.When you levelup you get access to more moves, more health and some class specific bonusses. Once you reach level four you gain a permanent bonus that "
 "you'll keep even when switching classes."
@@ -4423,12 +4423,12 @@ msgstr ""
 "达到满级之后，你会获得一个永久加成，即使更换职业也会保留。"
 
 # From Data: Encyclopedia-Encyclopedia-lewdest_dungeon-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "The Lewdest Dungeon"
 msgstr "最淫乱的地牢"
 
 # From Data: Encyclopedia-Encyclopedia-lewdest_dungeon-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid ""
 "You have just entered the lewdest dungeon, the final set of challenges in this game. Don't worry, you can always retreat. In fact, I would suggest you retreat right now, as you're probably not ready for it. You can stop progressing this dungeon at any time and will resume this dungeon run whenever you want from the place you left off.Beware that this dungeon will not pull any punches, so it might be prudent to make a save state in the arcane circle before challenging it. These "
 "dungeons contain semi-permanently cursed equipment, semi-permanent quirks, semi-permanent class changes, unfair enemies, and unfair traps. Instead of rescue missions, kidnapped adventurers will be captured within the dungeon itself.Lasciate ogni speranza, voi ch'entrate."
@@ -4442,12 +4442,12 @@ msgstr ""
 "与营救任务不同，被绑架的冒险者将会被俘虏。"
 
 # From Data: Encyclopedia-Encyclopedia-m0_mods-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "Installing"
 msgstr "安装"
 
 # From Data: Encyclopedia-Encyclopedia-m0_mods-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid ""
 "All mods should be uncompressed before installation and installation should be done after exiting the game.On Windows: Drag the folder containing the mod you want to install into the ‘mods’ folder, which is found in the same folder as the Ero Dungeons executable (the file that launches the game).On MacOS: The ‘mods’ folder is found in /Library/Application Support/EroDungeons. Launch the finder and with it in the foreground, press the Option key and click on ‘Go’ on the menu bar "
 "at the top of your screen. The Library entry is about half way down the drop down list. Click on that to open the library folder."
@@ -4458,12 +4458,12 @@ msgstr ""
 "在下拉列表中，\"库 \"条目大约在一半的位置。点击它打开库文件夹。"
 
 # From Data: Encyclopedia-Encyclopedia-m1_mods-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "Mod Manager"
 msgstr "模组管理器"
 
 # From Data: Encyclopedia-Encyclopedia-m1_mods-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid ""
 "The mod you have installed won’t work until it is activated in the Ero Dungeons mod manager. Start the Ero Dungeons app. At bottom left on the launch menu you will see two icons, a gear and a staff. Click on the staff to enter Mod Manager.Each new mod must be activated by clicking on the crest to the right of the mod description once you are in Mod Manager - this only needs to be done once.When installing an update for a mod, it is best to delete the old version before dragging "
 "the new version into the ‘mods’ folder."
@@ -4474,12 +4474,12 @@ msgstr ""
 "在安装模块更新时，最好先删除旧版本，然后再将新版本拖入 \"mods \"文件夹。"
 
 # From Data: Encyclopedia-Encyclopedia-m2_mods-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "Troubleshooting"
 msgstr "故障排除"
 
 # From Data: Encyclopedia-Encyclopedia-m2_mods-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid "EroDungeons provides an API for installing mods, mods may conflicts with game code, so your mileage may vary. If unexpected things happen after installing a new mod, you can deactivate it by clicking on the mod’s crest in Mod Manager - but if you need support, you will need to contact the mod developer, not the Ero Dungeons dev team!"
 msgstr ""
 "EroDungeons 提供了一个用于安装 mod 的 API，mod 可能会与游戏代码发生冲突，因此您可能会遇到不同的情况。\n"
@@ -4487,12 +4487,12 @@ msgstr ""
 "如果您需要支持，您需要联系该 MOD 的开发者，而不是 Ero Dungeons 开发团队！"
 
 # From Data: Encyclopedia-Encyclopedia-morale-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "Morale"
 msgstr "士气"
 
 # From Data: Encyclopedia-Encyclopedia-morale-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid "At the top of the dungeon screen you can find the morale bar. Morale starts at its maximum and drains when exploring new rooms. The drain slows down when morale is low. You can increase your morale by consuming certain provisions.While you get no penalties at low morale. High morale gives you powerful bonusses, so it's worth investing into. You can increase your maximum morale by upgrading the barracks. Some classes also specialize in keeping morale high."
 msgstr ""
 "在地下城画面的顶部。你可以找到士气栏。\n"
@@ -4502,12 +4502,12 @@ msgstr ""
 "你可以通过升级兵营来增加最大士气上限。一些职业也专门用于保持士气高涨。"
 
 # From Data: Encyclopedia-Encyclopedia-move_explanations-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "Moves"
 msgstr "行动"
 
 # From Data: Encyclopedia-Encyclopedia-move_explanations-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid ""
 "When you hover over your moves you will get a short explanation at the bottom left corner of the screen. The most important parts are the damage range, and the chance to crit. A critical hit does 150% of the highest possible damage. You can also see from which positions you can use the move, and which positions it targets.The information also contains a short description of what the move does. It may seem cryptic at first, but you'll get used to it in no time. For example \"Add: "
 "ICON\", means that the move applies a token, \"Forward: 1\" means the move moves you one space forward. It's pretty straightforward."
@@ -4520,12 +4520,12 @@ msgstr ""
 "例如，”添加：状态”意味着该行动会添加一个状态标记， “向前：1”意味着该行动会让你向前移动1格。"
 
 # From Data: Encyclopedia-Encyclopedia-move_selection-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "Move Selection"
 msgstr "行动选择"
 
 # From Data: Encyclopedia-Encyclopedia-move_selection-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid ""
 "Adventurers can have five active moves during combat. Your adventurer currently has only three moves selected, since she only knew three of them up till now. However, after her levelup, she knows three more. So select two additional moves for her to use in the adventurer information panel.Remember to periodically update your move selection. Some moves are more effective in specific areas and against specific enemies. Some moves are just better, but only available at higher levels."
 msgstr ""
@@ -4537,24 +4537,24 @@ msgstr ""
 "有些行动更好用，但只有在更高等级时才能使用。"
 
 # From Data: Encyclopedia-Encyclopedia-movement-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "Movement"
 msgstr "移动"
 
 # From Data: Encyclopedia-Encyclopedia-movement-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid "Dungeons exist of multiple rooms, each room contains either a combat encounter or an interaction. Longer dungeons have more rooms.Also, moving between rooms will heal your adventurers (25% base)."
 msgstr ""
 "地牢由多个房间组成，每个房间要么包含战斗，要么包含互动。\n"
 "更大的地牢拥有更多的房间。"
 
 # From Data: Encyclopedia-Encyclopedia-overencumberance-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "Overencumbered"
 msgstr "超载"
 
 # From Data: Encyclopedia-Encyclopedia-overencumberance-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid "Your inventory size is limited, once you exceed it you are overencumbered. While overencumbered you party cannot move until it gets rid of excess items. You can discard items by shift-clicking them.Certain classes and items increase your total inventory size."
 msgstr ""
 "你的背包大小是有限的，一旦超过这个限制你就会超载。\n"
@@ -4564,12 +4564,12 @@ msgstr ""
 "某些职业和物品可以增加你的背包容量大小。"
 
 # From Data: Encyclopedia-Encyclopedia-overworld-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "Overworld"
 msgstr "地图选择"
 
 # From Data: Encyclopedia-Encyclopedia-overworld-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid "Here you can select the next dungeon to explore. Dungeons come in different difficulties. Higher difficulty dungeons have harder enemies, more rooms, and more negative effects, but they give larger rewards and loot. Different dungeons also have different enemy types that may be easier or harder for your current adventuring party to deal with."
 msgstr ""
 "在这里你可以选择下一个要探索地牢。\n"
@@ -4578,12 +4578,12 @@ msgstr ""
 "不同的地牢也有不同类型的敌人，你当前的冒险队伍处理它们的难易程度也会不同。"
 
 # From Data: Encyclopedia-Encyclopedia-parasites-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "Parasites"
 msgstr "寄生虫"
 
 # From Data: Encyclopedia-Encyclopedia-parasites-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid ""
 "Oops, it seems like your adventurer was attacked by a parasite. If these creatures manage to attach themselves, they will grow over time. During their growth they will significantly weaken the adventurer. But a fully grown parasite might have some advantages and the adventurer can form a symbiotic relationship with it. Of course, if you prefer to get rid of this unwelcome visitor, you can go to the Nursery to have it extracted. At the same time, there are many wealthy mages in "
 "the Human Realms that don't mind paying for full-grown parasites, so you might want to wait a while before extracting it."
@@ -4597,12 +4597,12 @@ msgstr ""
 "同时，世界上有很多富有的法师不介意花钱买成年寄生虫，所以你可以等一段时间再提取它。"
 
 # From Data: Encyclopedia-Encyclopedia-permadeath-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "Death"
 msgstr "死亡"
 
 # From Data: Encyclopedia-Encyclopedia-permadeath-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid "Some events can kill or otherwise permanently remove a character from your guild.Unlike faltering or kidnapping, these events are extremely rare and can always be avoided by paying close attention to your surroundings."
 msgstr ""
 "一些事件可以杀死或以其他方式永久删除你的公会中的一个角色。\n"
@@ -4610,12 +4610,12 @@ msgstr ""
 "与濒死或绑架不同，这种事件极为罕见，你可以通过密切关注周围环境来避免。"
 
 # From Data: Encyclopedia-Encyclopedia-provisions-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "Provisions"
 msgstr "补给"
 
 # From Data: Encyclopedia-Encyclopedia-provisions-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid "Before you start a dungeon exploration, you can first buy provisions. These are used both inside the dungeon to keep morale and health high. They can also have interactions with curios, and some of them can be used during combat.Every adventurer can use a provision during her turn and still perform a move afterwards, so don't sleep on them!"
 msgstr ""
 "在开始地牢探险之前，你可以先购买补给。\n"
@@ -4624,12 +4624,12 @@ msgstr ""
 "每名冒险者在自己的回合内都可以使用一个补给，并在此后还可以进行一次行动，所以不要忽视它们！"
 
 # From Data: Encyclopedia-Encyclopedia-quirks-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "Quirks"
 msgstr "怪癖"
 
 # From Data: Encyclopedia-Encyclopedia-quirks-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid ""
 "During their adventures, your adventurers will gain both positive and negative quirks. You can view the specific effects in the adventurer information panel. The adventurer can have at most five quirks of each type, any additional ones will overwrite previous quirks. Over time, at most three positive respectively negative quirks can get locked in. Locked quirks will not be replaced by new ones.In general, adventurers will gain new quirks at the end of a dungeon run. The quirks "
 "they gain depend on the personality of the adventurer (and some luck). At the same time, quirks influence the personality of the adventurer as well as the development goals she gets.You can remove negative quirks, or lock in positive ones at the Mental Ward. Removing locked quirks is a lot more expensive."
@@ -4644,12 +4644,12 @@ msgstr ""
 "你可以在心理病房中消除负面怪癖，或锁定正面怪癖。消除被锁定的怪癖的成本要高得多。"
 
 # From Data: Encyclopedia-Encyclopedia-rescue-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "Rescue Missions"
 msgstr "营救任务"
 
 # From Data: Encyclopedia-Encyclopedia-rescue-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid ""
 "One of your adventurers has been kidnapped, but don't worry you can stage a rescue mission. Just expand the panel to the left of the map view and select the poor victim.But wait, the longer you hold off on rescueing her the easier it will be. Of course, she will also get corrupted more by her captors, but that may be a sacrifice you're willing to make.You can also abandon her. There are plenty adventurers that can take her place. She knew what she signed up for after all. This "
 "place has no use for the weak."
@@ -4664,12 +4664,12 @@ msgstr ""
 "毕竟，她知道她协议的内容。弱者在这里可没有任何用处。"
 
 # From Data: Encyclopedia-Encyclopedia-retreat-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "Retreating"
 msgstr "撤退"
 
 # From Data: Encyclopedia-Encyclopedia-retreat-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid ""
 "Be aware that you can retreat from a dungeon run at any time, just press the button with the flag at the bottom of the screen. You will forfeit any rewards from the dungeon, and won't complete any development goals from it. However, you keep all collected loot, and you won't risk losing your party members.You will also be given the possibility to retreat from combat once you lose a party member. Of course, you'll most likely ignore this opportunity and see your entire party "
 "wiped, that's just how it goes."
@@ -4680,12 +4680,12 @@ msgstr ""
 "当你失去一名队友后，你也会获得在战斗中撤退的选择。当然,你很有可能会无视这个提示，但是你也很可能因为缺人导致全军覆没。"
 
 # From Data: Encyclopedia-Encyclopedia-saves-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "Saves"
 msgstr "抵抗抗性"
 
 # From Data: Encyclopedia-Encyclopedia-saves-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid "Some moves indicate a save. There are three variants of this: Reflex, Fortitude, and Willpower. In these cases the height of that stat is the percent chance that the enemy  will resist the move.For example, if the enemy has 20 WIL, and you have a move that targets a WIL save, any effects below that save have an 80% chance of happening."
 msgstr ""
 "有些行动会要求进行抵抗抗性，主要分为三种类型：反应速度、体质和意志。\n"
@@ -4694,12 +4694,12 @@ msgstr ""
 "例如，如果敌人有20点意志(WIL)，而你使用的技能将触发意志抵抗，那么所有难度值在20以下的效果会有80%的概率成功。"
 
 # From Data: Encyclopedia-Encyclopedia-tokens-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "Tokens"
 msgstr "状态标记"
 
 # From Data: Encyclopedia-Encyclopedia-tokens-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid ""
 "During combat, buffs and debuffs are handled with \"tokens\". These are shown as small indicators below the healthbar and confer advantages or disadvantages to the player. For example, that token on the ratkin warrior is called a Block+ Token, it applies a 75% damage reduction to the next attack targetting her. Tokens will go away after time, or whenever they are triggered. Hence, attacking the ratkin will remove the token, as will waiting three turns for it to disappear on its "
 "own.Be sure to hover over any new tokens you see, as they are an important part of combat. You can view a complete overview of all tokens in the Glossary, right next to where you can review all these tutorials."
@@ -4712,12 +4712,12 @@ msgstr ""
 "你可以在词汇表中查看所有标记的完整概述，就在你可以复习所有这些教程的地方。"
 
 # From Data: Encyclopedia-Encyclopedia-unlimited-name
-msgctxt "Name of a tutorial."
+msgctxt "Name of a tutorial"
 msgid "Unlimited Equipment"
 msgstr "无限装备"
 
 # From Data: Encyclopedia-Encyclopedia-unlimited-text
-msgctxt "Explanation of a tutorial."
+msgctxt "Explanation of a tutorial"
 msgid "When you accrue more than four pieces of the same gear, this equipment becomes unlimited. This saves some space and will help you gear up your adventurers faster. Cursed equipment only counts towards these four pieces once it has been uncursed. Unlimited equipment will also no longer show up as loot, but is instead replaced with gold. "
 msgstr ""
 "当你累积超过四件同种装备时，这些装备就会变为无限装备。\n"
