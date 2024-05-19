@@ -790,7 +790,7 @@ msgstr "灼烧"
 # From Data: Classes-Alchemist-alchemist_second_3-name
 msgctxt "Name of a class upgrade perk."
 msgid "Branding"
-msgstr "性奴化"
+msgstr "烙印"
 
 # From Data: Classes-Alchemist-alchemist_stat-name
 msgctxt "Name of a class upgrade perk."
@@ -815,7 +815,7 @@ msgstr "神秘实验"
 # From Data: Classes-Alchemist-alchemist_token-name
 msgctxt "Name of a class upgrade perk."
 msgid "Swiftburn Powder"
-msgstr "速燃粉"
+msgstr "速燃火药"
 
 # From Data: Classes-Bunny-bunny_base-name
 msgctxt "Name of a class upgrade perk."
@@ -7662,7 +7662,7 @@ msgstr "群体散射"
 # From Data: Playermoves-Alchemist-branding-name
 msgctxt "Name of a move."
 msgid "Branding"
-msgstr "性奴化"
+msgstr "烙印"
 
 # From Data: Playermoves-Alchemist-cauterize-name
 msgctxt "Name of a move."
