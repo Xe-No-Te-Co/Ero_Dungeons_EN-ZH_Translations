@@ -15316,7 +15316,7 @@ msgstr "地牢的补给效率: [PARAM]"
 # From Data: Scripts-Scriptablescript-puppy_efficiency-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Bonus when working as a puppy: [PARAM:plus]"
-msgstr "母狗工作的额外加成: [PARAM:plus]"
+msgstr "母狗工作额外加成: [PARAM:plus]"
 
 # From Data: Scripts-Scriptablescript-randomize_haircolor-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -15431,7 +15431,7 @@ msgstr "设置 SPRITE [PARAM]"
 # From Data: Scripts-Scriptablescript-slave_efficiency-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Bonus when working as a slave: [PARAM:plus]"
-msgstr "奴隶工作的额外加成：[PARAM]"
+msgstr "奴隶工作额外加成：[PARAM]"
 
 # From Data: Scripts-Scriptablescript-sprite_adds-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -15476,7 +15476,7 @@ msgstr "[PARAM] 最大: [PARAM1:plus]"
 # From Data: Scripts-Scriptablescript-wench_efficiency-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Bonus when working as a wench: [PARAM:plus]"
-msgstr "女仆工作的额外加成: [PARAM:plus]"
+msgstr "陪酒工作额外加成: [PARAM:plus]"
 
 # From Data: Scripts-Summaryscript-adventuring-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -16981,7 +16981,7 @@ msgstr "束腰训练"
 # From Data: Tokens-Gear-desperation-name
 msgctxt "Name of a token."
 msgid "Desperation"
-msgstr "绝望"
+msgstr "憋尿"
 
 # From Data: Tokens-Gear-heel_training-name
 msgctxt "Name of a token."
@@ -17061,7 +17061,7 @@ msgstr "暴击"
 # From Data: Tokens-MainTokens-daze-name
 msgctxt "Name of a token."
 msgid "Daze"
-msgstr "眩晕"
+msgstr "目眩"
 
 # From Data: Tokens-MainTokens-dodge-name
 msgctxt "Name of a token."
@@ -17096,7 +17096,7 @@ msgstr "捕获"
 # From Data: Tokens-MainTokens-guard-name
 msgctxt "Name of a token."
 msgid "Guarded"
-msgstr "防御"
+msgstr "被守护"
 
 # From Data: Tokens-MainTokens-hobble-name
 msgctxt "Name of a token."
@@ -17266,7 +17266,7 @@ msgstr "濒死"
 # From Data: Tokens-OtherTokens-fat-name
 msgctxt "Name of a token."
 msgid "Thickness"
-msgstr "厚度"
+msgstr "丰满"
 
 # From Data: Tokens-OtherTokens-harden-name
 msgctxt "Name of a token."
@@ -19731,7 +19731,7 @@ msgstr "神圣之矛"
 # From Data: Wearables-B6Paladin-paladin_weapon-name
 msgctxt "Name of a piece of equipment."
 msgid "Zweihander"
-msgstr "双剑"
+msgstr "双手剑"
 
 # From Data: Wearables-B6Paladin-paladin_weapon-text
 msgctxt "Description of a piece of equipment."
@@ -19766,12 +19766,12 @@ msgstr "这根捕捉杆已经通过精神链接绑定到佩戴者身上，当她
 # From Data: Wearables-B6Paladin-zweihander_healing-name
 msgctxt "Name of a piece of equipment."
 msgid "Zweihander of Healing"
-msgstr "治愈双剑"
+msgstr "治愈双手剑"
 
 # From Data: Wearables-B6Paladin-zweihander_pacifism-name
 msgctxt "Name of a piece of equipment."
 msgid "Zweihander of Pacifism"
-msgstr "和平双剑"
+msgstr "和平双手剑"
 
 # From Data: Wearables-B7Noble-cocktail_blade-name
 msgctxt "Name of a piece of equipment."
