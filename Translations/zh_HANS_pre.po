@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: zh_HANS\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-5-17 10:35:11"
-"Last-Translator: Xe-No"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
 "Language-Team: \n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.4.4\n"
 
 # From Data: Afflictions-Afflictions-clearheaded-description
 msgctxt "Description of an affliction."
@@ -789,7 +790,7 @@ msgstr "灼烧"
 # From Data: Classes-Alchemist-alchemist_second_3-name
 msgctxt "Name of a class upgrade perk."
 msgid "Branding"
-msgstr "性奴化"
+msgstr "烙印"
 
 # From Data: Classes-Alchemist-alchemist_stat-name
 msgctxt "Name of a class upgrade perk."
@@ -814,7 +815,7 @@ msgstr "神秘实验"
 # From Data: Classes-Alchemist-alchemist_token-name
 msgctxt "Name of a class upgrade perk."
 msgid "Swiftburn Powder"
-msgstr "速燃粉"
+msgstr "速燃火药"
 
 # From Data: Classes-Bunny-bunny_base-name
 msgctxt "Name of a class upgrade perk."
@@ -2751,6 +2752,11 @@ msgctxt "Name of a dungeon difficulty."
 msgid "Adept"
 msgstr "熟练"
 
+# From Data: DungeonDifficulty-DungeonDifficulty-elite-name
+msgctxt "Name of a dungeon difficulty."
+msgid "Elite+"
+msgstr "Elite+"
+
 # From Data: DungeonDifficulty-DungeonDifficulty-hard-name
 msgctxt "Name of a dungeon difficulty."
 msgid "Elite"
@@ -3101,6 +3107,11 @@ msgctxt "Name of an in-game effect. This includes mantras, morale, and streak ef
 msgid "Extremely Slippery Floor"
 msgstr "超滑的地板"
 
+# From Data: Effects-Encounter-fog_effect-name
+msgctxt "Name of an in-game effect. This includes mantras, morale, and streak effects."
+msgid "Fog"
+msgstr "迷雾"
+
 # From Data: Effects-Encounter-furnace_effect-name
 msgctxt "Name of an in-game effect. This includes mantras, morale, and streak effects."
 msgid "Furnace"
@@ -3165,6 +3176,11 @@ msgstr "彻底混乱"
 msgctxt "Name of an in-game effect. This includes mantras, morale, and streak effects."
 msgid "Quagmire"
 msgstr "步履维艰"
+
+# From Data: Effects-Encounter-regrowth_effect-name
+msgctxt "Name of an in-game effect. This includes mantras, morale, and streak effects."
+msgid "Regrowth"
+msgstr "Regrowth"
 
 # From Data: Effects-Encounter-resistance-name
 msgctxt "Name of an in-game effect. This includes mantras, morale, and streak effects."
@@ -3551,87 +3567,247 @@ msgctxt "Name of a combat encounter."
 msgid "The Usual Greenskins"
 msgstr "常见的绿皮"
 
-# From Data: Encounters-Plants-big_vine-name
+# From Data: Encounters-PlantsEasy-big_plants-name
+msgctxt "Name of a combat encounter."
+msgid "Big Plants"
+msgstr "Big Plants"
+
+# From Data: Encounters-PlantsEasy-big_vine-name
 msgctxt "Name of a combat encounter."
 msgid "Big Vine"
 msgstr "大型藤蔓"
 
-# From Data: Encounters-Plants-explorers-name
+# From Data: Encounters-PlantsEasy-complex_flowers-name
 msgctxt "Name of a combat encounter."
-msgid "Explorers"
-msgstr "探索者"
+msgid "Complex Flowers"
+msgstr "Complex Flowers"
 
-# From Data: Encounters-Plants-flower_army-name
+# From Data: Encounters-PlantsEasy-give_it_time-name
 msgctxt "Name of a combat encounter."
-msgid "Flower Army"
-msgstr "花蔓之军"
+msgid "Give it Time"
+msgstr "Give it Time"
 
-# From Data: Encounters-Plants-flower_power-name
-msgctxt "Name of a combat encounter."
-msgid "Flower Power"
-msgstr "花蔓之力"
-
-# From Data: Encounters-Plants-flowerbed-name
-msgctxt "Name of a combat encounter."
-msgid "Flowerbed"
-msgstr "花床"
-
-# From Data: Encounters-Plants-gardening-name
-msgctxt "Name of a combat encounter."
-msgid "Gardening"
-msgstr "园艺"
-
-# From Data: Encounters-Plants-green_crusade-name
-msgctxt "Name of a combat encounter."
-msgid "Green Crusade"
-msgstr "绿色十字军"
-
-# From Data: Encounters-Plants-hug_me-name
-msgctxt "Name of a combat encounter."
-msgid "Hug Me"
-msgstr "抱抱我吧"
-
-# From Data: Encounters-Plants-kennel-name
-msgctxt "Name of a combat encounter."
-msgid "Kennel"
-msgstr "狗舍"
-
-# From Data: Encounters-Plants-lovely_plants-name
+# From Data: Encounters-PlantsEasy-lovely_plants-name
 msgctxt "Name of a combat encounter."
 msgid "Lovely Plants"
 msgstr "可爱的植物"
 
-# From Data: Encounters-Plants-pasture-name
-msgctxt "Name of a combat encounter."
-msgid "Pasture"
-msgstr "牧场"
-
-# From Data: Encounters-Plants-rats_in_the_garden-name
-msgctxt "Name of a combat encounter."
-msgid "Rats in the Garden"
-msgstr "花园之鼠"
-
-# From Data: Encounters-Plants-shepherd-name
-msgctxt "Name of a combat encounter."
-msgid "Shepherd"
-msgstr "牧羊人"
-
-# From Data: Encounters-Plants-simple_flowers-name
+# From Data: Encounters-PlantsEasy-simple_flowers-name
 msgctxt "Name of a combat encounter."
 msgid "Simple Flowers"
 msgstr "小型花朵"
 
-# From Data: Encounters-Plants-small_pasture-name
+# From Data: Encounters-PlantsEasy-small_allure-name
+msgctxt "Name of a combat encounter."
+msgid "Slightly Alluring"
+msgstr "Slightly Alluring"
+
+# From Data: Encounters-PlantsEasy-small_pasture-name
 msgctxt "Name of a combat encounter."
 msgid "Small Pasture"
 msgstr "小型牧场"
 
-# From Data: Encounters-Plants-the_tangle-name
+# From Data: Encounters-PlantsEasy-some_plants-name
+msgctxt "Name of a combat encounter."
+msgid "Some Plants"
+msgstr "Some Plants"
+
+# From Data: Encounters-PlantsElite-forest_fire-name
+msgctxt "Name of a combat encounter."
+msgid "Forest Fire"
+msgstr "Forest Fire"
+
+# From Data: Encounters-PlantsElite-forest_fog-name
+msgctxt "Name of a combat encounter."
+msgid "Forest Fog"
+msgstr "Forest Fog"
+
+# From Data: Encounters-PlantsElite-healthy_plants-name
+msgctxt "Name of a combat encounter."
+msgid "Healthy Plants"
+msgstr "Healthy Plants"
+
+# From Data: Encounters-PlantsElite-large_flowerbed-name
+msgctxt "Name of a combat encounter."
+msgid "Large Flowerbed"
+msgstr "Large Flowerbed"
+
+# From Data: Encounters-PlantsElite-overgrown-name
+msgctxt "Name of a combat encounter."
+msgid "Overgrown"
+msgstr "Overgrown"
+
+# From Data: Encounters-PlantsElite-pollination_year-name
+msgctxt "Name of a combat encounter."
+msgid "Pollination Year"
+msgstr "Pollination Year"
+
+# From Data: Encounters-PlantsElite-smell_flowers-name
+msgctxt "Name of a combat encounter."
+msgid "Smell the Flowers"
+msgstr "Smell the Flowers"
+
+# From Data: Encounters-PlantsElite-strong_pheromones-name
+msgctxt "Name of a combat encounter."
+msgid "Strong Pheromones"
+msgstr "Strong Pheromones"
+
+# From Data: Encounters-PlantsElite-very_corrosive_materials-name
+msgctxt "Name of a combat encounter."
+msgid "Very Corrosive Materials"
+msgstr "Very Corrosive Materials"
+
+# From Data: Encounters-PlantsHard-corrosive_materials-name
+msgctxt "Name of a combat encounter."
+msgid "Corrosive Materials"
+msgstr "Corrosive Materials"
+
+# From Data: Encounters-PlantsHard-explorers-name
+msgctxt "Name of a combat encounter."
+msgid "Explorers"
+msgstr "探索者"
+
+# From Data: Encounters-PlantsHard-farming-name
+msgctxt "Name of a combat encounter."
+msgid "Farming"
+msgstr "Farming"
+
+# From Data: Encounters-PlantsHard-floral_guardians-name
+msgctxt "Name of a combat encounter."
+msgid "Floral Guardians"
+msgstr "Floral Guardians"
+
+# From Data: Encounters-PlantsHard-flower_army-name
+msgctxt "Name of a combat encounter."
+msgid "Flower Army"
+msgstr "花蔓之军"
+
+# From Data: Encounters-PlantsHard-fully_grown-name
+msgctxt "Name of a combat encounter."
+msgid "Big Vines"
+msgstr "Big Vines"
+
+# From Data: Encounters-PlantsHard-green_crusade-name
+msgctxt "Name of a combat encounter."
+msgid "Green Crusade"
+msgstr "绿色十字军"
+
+# From Data: Encounters-PlantsHard-kennel-name
+msgctxt "Name of a combat encounter."
+msgid "Kennel"
+msgstr "狗舍"
+
+# From Data: Encounters-PlantsHard-large_pasture-name
+msgctxt "Name of a combat encounter."
+msgid "Pasture"
+msgstr "牧场"
+
+# From Data: Encounters-PlantsHard-pollination_season-name
+msgctxt "Name of a combat encounter."
+msgid "Pollination Season"
+msgstr "Pollination Season"
+
+# From Data: Encounters-PlantsHard-rats_in_the_garden-name
+msgctxt "Name of a combat encounter."
+msgid "Rats in the Garden"
+msgstr "花园之鼠"
+
+# From Data: Encounters-PlantsHard-the_usual_plants-name
+msgctxt "Name of a combat encounter."
+msgid "The Usual Plants"
+msgstr "The Usual Plants"
+
+# From Data: Encounters-PlantsHard-very_alluring-name
+msgctxt "Name of a combat encounter."
+msgid "Very Alluring"
+msgstr "Very Alluring"
+
+# From Data: Encounters-PlantsHard-well_lubricated_plants-name
+msgctxt "Name of a combat encounter."
+msgid "Well Lubricated Plants"
+msgstr "Well Lubricated Plants"
+
+# From Data: Encounters-PlantsHard-well_plant_assault-name
+msgctxt "Name of a combat encounter."
+msgid "Well Plant Assault"
+msgstr "Well Plant Assault"
+
+# From Data: Encounters-PlantsMedium-allure-name
+msgctxt "Name of a combat encounter."
+msgid "Allure"
+msgstr "Allure"
+
+# From Data: Encounters-PlantsMedium-floral_crusade-name
+msgctxt "Name of a combat encounter."
+msgid "Floral Crusade"
+msgstr "Floral Crusade"
+
+# From Data: Encounters-PlantsMedium-flower_power-name
+msgctxt "Name of a combat encounter."
+msgid "Flower Power"
+msgstr "花蔓之力"
+
+# From Data: Encounters-PlantsMedium-flowerbed-name
+msgctxt "Name of a combat encounter."
+msgid "Flowerbed"
+msgstr "花床"
+
+# From Data: Encounters-PlantsMedium-gardening-name
+msgctxt "Name of a combat encounter."
+msgid "Gardening"
+msgstr "园艺"
+
+# From Data: Encounters-PlantsMedium-hug_me-name
+msgctxt "Name of a combat encounter."
+msgid "Hug Me"
+msgstr "抱抱我吧"
+
+# From Data: Encounters-PlantsMedium-incubators-name
+msgctxt "Name of a combat encounter."
+msgid "Incubators"
+msgstr "Incubators"
+
+# From Data: Encounters-PlantsMedium-like_weeds-name
+msgctxt "Name of a combat encounter."
+msgid "Like Weeds"
+msgstr "Like Weeds"
+
+# From Data: Encounters-PlantsMedium-lost_technology-name
+msgctxt "Name of a combat encounter."
+msgid "Lost Technology"
+msgstr "Lost Technology"
+
+# From Data: Encounters-PlantsMedium-lubricated_plants-name
+msgctxt "Name of a combat encounter."
+msgid "Lubricated Plants"
+msgstr "Lubricated Plants"
+
+# From Data: Encounters-PlantsMedium-pheromones-name
+msgctxt "Name of a combat encounter."
+msgid "Pheromones"
+msgstr "Pheromones"
+
+# From Data: Encounters-PlantsMedium-plant_assault-name
+msgctxt "Name of a combat encounter."
+msgid "Plant Assault"
+msgstr "Plant Assault"
+
+# From Data: Encounters-PlantsMedium-pollination_session-name
+msgctxt "Name of a combat encounter."
+msgid "Pollination Session"
+msgstr "Pollination Session"
+
+# From Data: Encounters-PlantsMedium-shepherd-name
+msgctxt "Name of a combat encounter."
+msgid "Shepherd"
+msgstr "牧羊人"
+
+# From Data: Encounters-PlantsMedium-the_tangle-name
 msgctxt "Name of a combat encounter."
 msgid "The Tangle"
 msgstr "缠结者"
 
-# From Data: Encounters-Plants-weeds-name
+# From Data: Encounters-PlantsMedium-weeds-name
 msgctxt "Name of a combat encounter."
 msgid "Weeds"
 msgstr "杂草"
@@ -4041,6 +4217,11 @@ msgctxt "Name of a combat encounter."
 msgid "The Usual Spiders"
 msgstr "常见的蜘蛛"
 
+# From Data: Encyclopedia-Encyclopedia-b0_buildings-group
+msgctxt "Name of a tutorial group"
+msgid "Buildings"
+msgstr "Buildings"
+
 # From Data: Encyclopedia-Encyclopedia-b0_buildings-name
 msgctxt "Name of a tutorial"
 msgid "Introduction"
@@ -4048,12 +4229,8 @@ msgstr "简介"
 
 # From Data: Encyclopedia-Encyclopedia-b0_buildings-text
 msgctxt "Explanation of a tutorial"
-msgid ""
-"On your adventurers’ return from their first mission, the screen changes to a map showing their home. You will begin with three buildings: the farmstead, the barracks and the Guild Hall.If you click on a building in home view, a new screen will open, showing the building options. At top left of this screen, next to the name of the building, is an icon - click on this and options for expanding the building will appear. Opening up these slots requires gold, mana or favour, or "
-"combinations of the three.The Guild Hall works in a similar way, but with an additional option which allows six more building unlocks once you have enough resources available.You can close a building’s screen and get back to the Home Screen by clicking the X at top right.Don’t miss the stagecoach, which is in the field behind the Guild Hall - The stagecoach works like any other building if you click the top left icon in its screen. Go here first to find two new recruits and get "
-"adventuring!"
-msgstr ""
-"当冒险者们完成第一个任务返回后，你可以看到她们家园的地图。\n"
+msgid "On your adventurers’ return from their first mission, the screen changes to a map showing their home. You will begin with three buildings: the farmstead, the barracks and the Guild Hall.If you click on a building in home view, a new screen will open, showing the building options. At top left of this screen, next to the name of the building, is an icon - click on this and options for expanding the building will appear. Opening up these slots requires gold, mana or favour, or combinations of the three.The Guild Hall works in a similar way, but with an additional option which allows six more building unlocks once you have enough resources available.You can close a building’s screen and get back to the Home Screen by clicking the X at top right.Don’t miss the stagecoach, which is in the field behind the Guild Hall - The stagecoach works like any other building if you click the top left icon in its screen. Go here first to find two new recruits and get adventuring!"
+msgstr "当冒险者们完成第一个任务返回后，你可以看到她们家园的地图。\n"
 "一开始会有三座建筑：农庄、营地和公会大厅。\n"
 "在家园视图中点击一座建筑，会打开一个显示建筑选项的新窗口。\n"
 "在窗口的左上方(建筑物名称的旁边)有一个图标，点击这个图标，就会出现扩建建筑物的选项。\n"
@@ -4070,8 +4247,7 @@ msgstr "公会大厅"
 # From Data: Encyclopedia-Encyclopedia-b1_guild_hall-text
 msgctxt "Explanation of a tutorial"
 msgid "While this building is all about unlocking additional buildings and missions (click the icon at top left, next to the words ‘Guild Hall’) investment also allow you to increase the mission count. The right hand pane provides a scrollable overview of morale, missions count, roster size, staring level, training and job opportunities."
-msgstr ""
-"公会大厅是家园的核心建筑，主要用于解锁其他建筑和任务(点击左上角 \"公会大厅 \"旁边的图标)。\n"
+msgstr "公会大厅是家园的核心建筑，主要用于解锁其他建筑和任务(点击左上角 \"公会大厅 \"旁边的图标)。\n"
 "升级公会大厅可以增加任务数量。\n"
 "右侧窗格可滚动显示士气、任务数、队伍规模、等级、训练情况和工作情况等待。"
 
@@ -4082,11 +4258,8 @@ msgstr "冒险者营地"
 
 # From Data: Encyclopedia-Encyclopedia-b2_barracks-text
 msgctxt "Explanation of a tutorial"
-msgid ""
-"Fully upgraded (click on the icon at top left next to the word ‘barracks’) the barracks can increase your roster size to 44 or more. Additional upgrades increase starting morale of adventurers - and you can add maid slots up to a maximum of three.The maids clean the barracks - or so they say, know one knows what really goes on in there, but there are all kinds of muffled noises, so join the dots. Putting the most highly upgraded maids you have into these slots is worth it because "
-"each one makes an additional contribution to maximum morale."
-msgstr ""
-"冒险者营地是冒险者们居住的地方。\n"
+msgid "Fully upgraded (click on the icon at top left next to the word ‘barracks’) the barracks can increase your roster size to 44 or more. Additional upgrades increase starting morale of adventurers - and you can add maid slots up to a maximum of three.The maids clean the barracks - or so they say, know one knows what really goes on in there, but there are all kinds of muffled noises, so join the dots. Putting the most highly upgraded maids you have into these slots is worth it because each one makes an additional contribution to maximum morale."
+msgstr "冒险者营地是冒险者们居住的地方。\n"
 "升满级后(点击左上角 \"冒险者营地 \"旁边的图标)，营地可以将队伍最大规模增加到 44 人或更多。\n"
 "升级可以提高冒险者的起始士气，你最多可以增加三个女仆岗位。\n"
 "女仆们负责打扫营地(她们是这么说的，没人知道里面到底发生了什么)。\n"
@@ -4099,11 +4272,8 @@ msgstr "农庄"
 
 # From Data: Encyclopedia-Encyclopedia-b3_farmstead-text
 msgctxt "Explanation of a tutorial"
-msgid ""
-"The Farmstead needs to be staffed so your adventurers can have potions and provisions to help them survive combat.Expansion options (click the icon top left) include provision points and carry capacity. The more provisions a dungeon group has, the better it will manage and the more carry capacity, the more loot it can take home.A fully upgraded and staffed farmstead has three cow slots and three slave slots occupied - you fill them with adventurers. Cows provide milk and slaves "
-"provide provisions. You’ll get the best results by filling each slot with the appropriate class of adventurer, but if you have no choice, any class can go in any slot.Don’t forget that some classes have upgrades that boost their contribution - a fully upgraded cow contributes a lot more milk!"
-msgstr ""
-"农庄可以为冒险者生产药水和补给品，帮助她们在地牢中探索和战斗。\n"
+msgid "The Farmstead needs to be staffed so your adventurers can have potions and provisions to help them survive combat.Expansion options (click the icon top left) include provision points and carry capacity. The more provisions a dungeon group has, the better it will manage and the more carry capacity, the more loot it can take home.A fully upgraded and staffed farmstead has three cow slots and three slave slots occupied - you fill them with adventurers. Cows provide milk and slaves provide provisions. You’ll get the best results by filling each slot with the appropriate class of adventurer, but if you have no choice, any class can go in any slot.Don’t forget that some classes have upgrades that boost their contribution - a fully upgraded cow contributes a lot more milk!"
+msgstr "农庄可以为冒险者生产药水和补给品，帮助她们在地牢中探索和战斗。\n"
 "扩展选项(点击左上角的图标)包括补给点和运载能力。\n"
 "地牢冒险小队拥有的补给点越多，就可以购买更多补给品；运载能力越强，她们就能带更多战利品回家。\n"
 "母牛女孩可以生产牛奶，奴隶女孩可以生产食物。分配对应职业的冒险者到合适的岗位，可以最大化生产效率。\n"
@@ -4117,11 +4287,8 @@ msgstr "驿站马车"
 
 # From Data: Encyclopedia-Encyclopedia-b4_stagecoach-text
 msgctxt "Explanation of a tutorial"
-msgid ""
-"The Stagecoach is the goto to recruit new adventurers, but when fully upgraded it turbocharges recruiting.Click on the top left icon on the Stagecoach screen to see the upgrade options. Improving base stats increases the quality of new recruits. The ‘more recruits’ option does what it says on the tin and each ponygirl slot you open up and staff will increase the number of skill points each recruit has.Don’t forget that if the roster is full, you can dismiss an adventurer. The "
-"easy way to do this is to right click on her icon in the roster pane, make sure the shield icon is selected in the top pane, and do a long left click on ‘dismiss adventurer’ in the pane at bottom right, just inboard of the roster pane. Don’t do this lightly - you’ll miss her."
-msgstr ""
-"在驿站马车里你可以招募新的冒险者。\n"
+msgid "The Stagecoach is the goto to recruit new adventurers, but when fully upgraded it turbocharges recruiting.Click on the top left icon on the Stagecoach screen to see the upgrade options. Improving base stats increases the quality of new recruits. The ‘more recruits’ option does what it says on the tin and each ponygirl slot you open up and staff will increase the number of skill points each recruit has.Don’t forget that if the roster is full, you can dismiss an adventurer. The easy way to do this is to right click on her icon in the roster pane, make sure the shield icon is selected in the top pane, and do a long left click on ‘dismiss adventurer’ in the pane at bottom right, just inboard of the roster pane. Don’t do this lightly - you’ll miss her."
+msgstr "在驿站马车里你可以招募新的冒险者。\n"
 "点击驿站马车左上方的图标，可以升级提高招募速度。\n"
 "提高基础属性可以提高新招募人员的质量。分配女孩到马奴岗位工作，她们能增加每个新冒险者的初始技能点数。\n"
 "如果你想移除已经被招募的冒险者，简单的方法是右键单击冒险者列表中的图标，在顶部窗格中选择盾牌图标，\n"
@@ -4135,11 +4302,8 @@ msgstr "酒馆"
 
 # From Data: Encyclopedia-Encyclopedia-b5_tavern-text
 msgctxt "Explanation of a tutorial"
-msgid ""
-"Lust is a real problem in Ero Dungeons and the girls are fighting the whole time to keep their hands off of each other.Left click on the top left icon and options will appear for increasing tavern efficiency (aka passive lust reduction, which affects all adventurers) while opening up and filling taverneer slots will allow individual adventurers whose lust is in danger of getting out of control to reduce their level even more.Lust declines slowly over time, but not that slowly and "
-"if an adventurer ends up close to the limit in one dungeon, using her for consecutive missions risks her boiling over. You have been warned!"
-msgstr ""
-"情欲值在 Ero Dungeons 中很重要(类似暗黑地牢中的压力值)，女孩们需要尝试尽量控制她们色色的欲望。\n"
+msgid "Lust is a real problem in Ero Dungeons and the girls are fighting the whole time to keep their hands off of each other.Left click on the top left icon and options will appear for increasing tavern efficiency (aka passive lust reduction, which affects all adventurers) while opening up and filling taverneer slots will allow individual adventurers whose lust is in danger of getting out of control to reduce their level even more.Lust declines slowly over time, but not that slowly and if an adventurer ends up close to the limit in one dungeon, using her for consecutive missions risks her boiling over. You have been warned!"
+msgstr "情欲值在 Ero Dungeons 中很重要(类似暗黑地牢中的压力值)，女孩们需要尝试尽量控制她们色色的欲望。\n"
 "左键点击左上方的图标，会出现提高酒馆效率的选项(也就是被动降低情欲，对所有冒险者都生效)。\n"
 "分配对应职业的女孩到合适的岗位，帮助女孩们降低她们的情欲值。\n"
 "连续使用同一个女孩进行地牢探索可能让她的情欲沸腾哦！"
@@ -4151,11 +4315,8 @@ msgstr "训练营"
 
 # From Data: Encyclopedia-Encyclopedia-b6_training_field-text
 msgctxt "Explanation of a tutorial"
-msgid ""
-"Options for upgrading the training field include increasing maximum level of adventurers’ base characteristics, but this upgrade can only be used by activating training slots up to the maximum of three.Drag an adventurer’s icon into one of these slots and you will be offered a choice of base stats to upgrade. This can prove crucial in tough dungeons, so make sure you max out survivability and hitting power as much as you can.A fully upgraded training field has three puppy slots. "
-"To see them, click on the ‘kennels’ tab at top right. The ideal is to fill these slots with high level puppy class adventurers, but if you don’t have enough, you can use other classes to fill empty slots. The more puppies you have, the more missions you will have to choose between."
-msgstr ""
-"训练营可以提高冒险者的基础属性，你最多可以激活三个训练名额。\n"
+msgid "Options for upgrading the training field include increasing maximum level of adventurers’ base characteristics, but this upgrade can only be used by activating training slots up to the maximum of three.Drag an adventurer’s icon into one of these slots and you will be offered a choice of base stats to upgrade. This can prove crucial in tough dungeons, so make sure you max out survivability and hitting power as much as you can.A fully upgraded training field has three puppy slots. To see them, click on the ‘kennels’ tab at top right. The ideal is to fill these slots with high level puppy class adventurers, but if you don’t have enough, you can use other classes to fill empty slots. The more puppies you have, the more missions you will have to choose between."
+msgstr "训练营可以提高冒险者的基础属性，你最多可以激活三个训练名额。\n"
 "将冒险者拖入其中一个训练格，然后选择要升级的基础属性，提高你的女孩们的生存能力和攻击力。\n"
 "右上角的 \"狗舍 \"选项卡可以增加每次可供选择的任务的最大数量，建议让高等级的母狗职业冒险者来负责这些岗位。\n"
 "如果数量不够，也可以用其他职业的冒险者来工作。"
@@ -4168,8 +4329,7 @@ msgstr "精神病院"
 # From Data: Encyclopedia-Encyclopedia-b7_mental_ward-text
 msgctxt "Explanation of a tutorial"
 msgid "Fully upgraded, the mental ward has three adventurer slots and it works in a similar way to the tavern, only this building doesn’t reduce lust, it can lock or remove quirks (via the patient slot) and do the same for mantras via the hypnosis slots.Do not underestimate how much trouble the wrong quirk can cause when a character develops it!"
-msgstr ""
-"精神病院用来锁定、移除怪癖(通过病人插槽)或增加、移除催眠效果。\n"
+msgstr "精神病院用来锁定、移除怪癖(通过病人插槽)或增加、移除催眠效果。\n"
 "升满级后，精神病房有三个位置，工作方式与酒馆类似！"
 
 # From Data: Encyclopedia-Encyclopedia-b8_nursery-name
@@ -4180,8 +4340,7 @@ msgstr "育虫室"
 # From Data: Encyclopedia-Encyclopedia-b8_nursery-text
 msgctxt "Explanation of a tutorial"
 msgid "Fully upgraded, this building allows you to add, grow, remove and sell parasites. Some parasites are useful, some are not, but all are saleable - the bigger they are, the more mana you get."
-msgstr ""
-"育虫室可以让你添加、培育、移除和出售寄生虫。\n"
+msgstr "育虫室可以让你添加、培育、移除和出售寄生虫。\n"
 "所有寄生虫都可以出售，寄生虫越大(成长进度越高)，获得的报酬就越高。"
 
 # From Data: Encyclopedia-Encyclopedia-b9_hospital-name
@@ -4192,9 +4351,13 @@ msgstr "美容医院"
 # From Data: Encyclopedia-Encyclopedia-b9_hospital-text
 msgctxt "Explanation of a tutorial"
 msgid "This building has a single adventurer slot, but when fully upgraded, you can change the colour of her hair and eyes, alter her height and - not that we imagine anyone will think of doing this - her cup size."
-msgstr ""
-"美容医院让你可以随意修改冒险者的外貌和身材。\n"
+msgstr "美容医院让你可以随意修改冒险者的外貌和身材。\n"
 "包括头发和眼睛的颜色，身高，皮肤颜色，还有胸部罩杯大小等等。"
+
+# From Data: Encyclopedia-Encyclopedia-change_order-group
+msgctxt "Name of a tutorial group"
+msgid "Adventurers"
+msgstr "冒险者"
 
 # From Data: Encyclopedia-Encyclopedia-change_order-name
 msgctxt "Name of a tutorial"
@@ -4204,8 +4367,7 @@ msgstr "变更队伍排序"
 # From Data: Encyclopedia-Encyclopedia-change_order-text
 msgctxt "Explanation of a tutorial"
 msgid "Did you know you can change the party order by clicking the arrows next to the adventurer portraits?You can also see detailed information about your adventurers by right-clicking their portraits. Or clicking the details button at the bottom of the screen.Remember that you can review all these tutorial hints within the settings."
-msgstr ""
-"地牢探索过程中，点击冒险者头像旁边的箭头可以更改她们在队伍中的顺序。\n"
+msgstr "地牢探索过程中，点击冒险者头像旁边的箭头可以更改她们在队伍中的顺序。\n"
 "你可以在设置中查看这些教程的所有提示。"
 
 # From Data: Encyclopedia-Encyclopedia-class_change_panel-name
@@ -4215,17 +4377,19 @@ msgstr "职业变更信息"
 
 # From Data: Encyclopedia-Encyclopedia-class_change_panel-text
 msgctxt "Explanation of a tutorial"
-msgid ""
-"In this panel you can see the current class of the adventurer and all other possible classes. You can change classes for a fee. You will keep your level in the current class in case you want to switch back, but lose any experience, and all development goals will be rerolled.When you reach the highest level of a class, you receive a permanent bonus that stays with you even when you switch classes. So let your adventurers master all classes for ultimate min-maxing.Beware that "
-"changing classes will unequip any class specific gear, so be sure to gear up your adventurer again in the equipment panel, lest she goes dungeon crawling without a weapon.Of course, if you are forced into a class due to cursed equipment or an equipment set bonus, you can't just switch out of it."
-msgstr ""
-"在这个界面中，您可以看到冒险者的当前职业和所有其他可转换的职业。你可以使用魔法精粹来转换职业。\n"
+msgid "In this panel you can see the current class of the adventurer and all other possible classes. You can change classes for a fee. You will keep your level in the current class in case you want to switch back, but lose any experience, and all development goals will be rerolled.When you reach the highest level of a class, you receive a permanent bonus that stays with you even when you switch classes. So let your adventurers master all classes for ultimate min-maxing.Beware that changing classes will unequip any class specific gear, so be sure to gear up your adventurer again in the equipment panel, lest she goes dungeon crawling without a weapon.Of course, if you are forced into a class due to cursed equipment or an equipment set bonus, you can't just switch out of it."
+msgstr "在这个界面中，您可以看到冒险者的当前职业和所有其他可转换的职业。你可以使用魔法精粹来转换职业。\n"
 "转换职业时，冒险者当前职业的等级可以保留，但会损失所有经验，并且所有发展目标也会被重置。\n"
 "当冒险者达到一个职业的最高级别时，她将获得永久性的加成效果奖励，即使你转换了她的职业这些加成效果不会消失。\n"
 "你可以让冒险者掌握所有职业，来获得最大程度的加成。\n"
 "注意，转换职业后原本职业的专属装备将会被脱下，请记得重新给你的冒险者们带上装备。\n"
 "另外，如果冒险者因为诅咒装备或装备套装效果强制转换职业，你就不能随意转换她的职业了。\n"
 "(诅咒职业需要达到一定等级才能再次转职)"
+
+# From Data: Encyclopedia-Encyclopedia-combat-group
+msgctxt "Name of a tutorial group"
+msgid "Combat"
+msgstr "战斗"
 
 # From Data: Encyclopedia-Encyclopedia-combat-name
 msgctxt "Name of a tutorial"
@@ -4234,11 +4398,8 @@ msgstr "战斗教程"
 
 # From Data: Encyclopedia-Encyclopedia-combat-text
 msgctxt "Explanation of a tutorial"
-msgid ""
-"This game uses positional turn-based combat. Moves are limited in the positions they can be used from and the positions they can hit. Creating a well balanced party that can hit any position is going to be vital for success.The turn order is based on the SPD stat of the combatants. In case of a draw, the order is random. An exception are enemies with multiple turns, they won't get all their turns at once.Remember that you can view detailed stats about the enemies and their moves "
-"by right-clicking their portraits or their sprites."
-msgstr ""
-"这个游戏是以人物位置为基础的回合制战斗。\n"
+msgid "This game uses positional turn-based combat. Moves are limited in the positions they can be used from and the positions they can hit. Creating a well balanced party that can hit any position is going to be vital for success.The turn order is based on the SPD stat of the combatants. In case of a draw, the order is random. An exception are enemies with multiple turns, they won't get all their turns at once.Remember that you can view detailed stats about the enemies and their moves by right-clicking their portraits or their sprites."
+msgstr "这个游戏是以人物位置为基础的回合制战斗。\n"
 "使用技能和移动都会被她们的站位限制，小队成员能攻击到任何位置的敌人对成功是至关重要的。\n"
 "\n"
 "回合顺序基于角色的速度（SPD）属性。如果速度相同，则顺序是随机的。\n"
@@ -4253,11 +4414,8 @@ msgstr "印记"
 
 # From Data: Encyclopedia-Encyclopedia-crests-text
 msgctxt "Explanation of a tutorial"
-msgid ""
-"Oops, it seems like your adventurer has been burdened with a crest. Crests are magical sigils that manifest over the belly of adventurers. Each crest gives advantages and disadvantages to the wearer. It will grow and shrink over time depending on the personality of the wearer. Some enemies will apply crests to your adventurers if their lust exceeds 60.Clerics can start with a crest of purity, which confers advantages at lower lust, but has significant disadvantages at higher lust "
-"levels."
-msgstr ""
-"哎呀，你的冒险者似乎被添加了一个印记(淫纹)。\n"
+msgid "Oops, it seems like your adventurer has been burdened with a crest. Crests are magical sigils that manifest over the belly of adventurers. Each crest gives advantages and disadvantages to the wearer. It will grow and shrink over time depending on the personality of the wearer. Some enemies will apply crests to your adventurers if their lust exceeds 60.Clerics can start with a crest of purity, which confers advantages at lower lust, but has significant disadvantages at higher lust levels."
+msgstr "哎呀，你的冒险者似乎被添加了一个印记(淫纹)。\n"
 "印记(淫纹)是出现在冒险者腹部的魔法标志，每个印记对佩戴者都有好处和坏处。\n"
 "它会随着时间的推移而增长和缩小，这取决于佩戴者的性格。如果冒险者的欲望超过60，一些敌人会在冒险者身上施加印记。\n"
 "\n"
@@ -4270,10 +4428,8 @@ msgstr "被诅咒的装备"
 
 # From Data: Encyclopedia-Encyclopedia-cursed_equipment-text
 msgctxt "Explanation of a tutorial"
-msgid ""
-"Oops, it seems like that piece of equipment was cursed. These lands are filled with cursed equipment. Those items pretend to be other equipment to get you to wear them, but once worn, they cannot be removed. Additionally, they tend to have some negative effects as well. The only way to know that an item is cursed is by trying it on. Don't forget, luck is a skill too!Fortunately, you can uncurse these items. The steps you have to take to uncurse them are shown on the item itself."
-msgstr ""
-"哎呀，似乎那件装备被诅咒了。这片大地上充满了被诅咒的装备。\n"
+msgid "Oops, it seems like that piece of equipment was cursed. These lands are filled with cursed equipment. Those items pretend to be other equipment to get you to wear them, but once worn, they cannot be removed. Additionally, they tend to have some negative effects as well. The only way to know that an item is cursed is by trying it on. Don't forget, luck is a skill too!Fortunately, you can uncurse these items. The steps you have to take to uncurse them are shown on the item itself."
+msgstr "哎呀，似乎那件装备被诅咒了。这片大地上充满了被诅咒的装备。\n"
 "这些物品假装是普通装备以诱使你的冒险者穿戴它们，但如果穿上就无法移除。\n"
 "它们也往往有一些负面效果。判断一个物品是否被诅咒的唯一方法就是试穿它。\n"
 "\n"
@@ -4287,11 +4443,8 @@ msgstr "持续伤害"
 
 # From Data: Encyclopedia-Encyclopedia-dots-text
 msgctxt "Explanation of a tutorial"
-msgid ""
-"Apart from hitting your enemies really hard, you can also hurt them with Damage over Time (DoTs). These come in different forms. For example, you can burn and bleed enemies, while they can poison you with aphrodisiacs or spank you. Each acts as a separate stack with its own timer. Critical DoTs will last two turns longer and have a 20% higher chance to stick.Hovering over a DoT indicator will show its type, effect, current damage and turns until the last DoT of that type has run "
-"it's course. DoTs will trigger BEFORE your turn, so they are great at neutralizing enemies with high resistances against direct damage. On the other hand, receiving DoTs is dangerous if your adventurer is at low HP, since it will trigger before she can heal herself."
-msgstr ""
-"除了给敌人造成大量直接伤害，你也可以通过持续伤害(DoT)持续削减它们的生命。\n"
+msgid "Apart from hitting your enemies really hard, you can also hurt them with Damage over Time (DoTs). These come in different forms. For example, you can burn and bleed enemies, while they can poison you with aphrodisiacs or spank you. Each acts as a separate stack with its own timer. Critical DoTs will last two turns longer and have a 20% higher chance to stick.Hovering over a DoT indicator will show its type, effect, current damage and turns until the last DoT of that type has run it's course. DoTs will trigger BEFORE your turn, so they are great at neutralizing enemies with high resistances against direct damage. On the other hand, receiving DoTs is dangerous if your adventurer is at low HP, since it will trigger before she can heal herself."
+msgstr "除了给敌人造成大量直接伤害，你也可以通过持续伤害(DoT)持续削减它们的生命。\n"
 "例如，你可以给敌人造成烧伤和流血效果，而它们也可以用春药或鞭打给你造成中毒。\n"
 "每种效果都作为一个独立的效果叠加存在，都有自己的计时器。\n"
 "暴击的DoT会持续两个回合更长，并有比20%更高的几率持续。\n"
@@ -4307,11 +4460,8 @@ msgstr "耐久度"
 
 # From Data: Encyclopedia-Encyclopedia-durability-text
 msgctxt "Explanation of a tutorial"
-msgid ""
-"Each of your items has a durability. Most enemy attacks will reduce this durability depending on the base damage of the attack, though some attacks can do more durability damage as well (such as bite). Whenever a piece of equipment drops to zero durability it is broken and might as well not be there. All durability is automatically restored when returning to the guild.At zero durability, enemies may replace equipment by new, cursed, equipment. You will get the replaced equipment "
-"back at the end of the dungeon, though the cursed equipment will stay equipped until you uncurse it."
-msgstr ""
-"每件装备都有一个耐久度。大多数敌人的攻击会根据攻击的基础伤害来减少耐久度。\n"
+msgid "Each of your items has a durability. Most enemy attacks will reduce this durability depending on the base damage of the attack, though some attacks can do more durability damage as well (such as bite). Whenever a piece of equipment drops to zero durability it is broken and might as well not be there. All durability is automatically restored when returning to the guild.At zero durability, enemies may replace equipment by new, cursed, equipment. You will get the replaced equipment back at the end of the dungeon, though the cursed equipment will stay equipped until you uncurse it."
+msgstr "每件装备都有一个耐久度。大多数敌人的攻击会根据攻击的基础伤害来减少耐久度。\n"
 "某些特殊攻击也可以造成更多的耐久度伤害(比如撕咬)。\n"
 "当一件装备的耐久度降至0时，它就会被暂时破坏掉。\n"
 "每次返回公会时，所有耐久度都会自动恢复。\n"
@@ -4326,11 +4476,8 @@ msgstr "装备"
 
 # From Data: Encyclopedia-Encyclopedia-equipment_bar-text
 msgctxt "Explanation of a tutorial"
-msgid ""
-"Remember that you can see your equipment at all times. Hover over the different items to see their effects.You have the following slots:1) Your main armor, it serves as your first layer of defence against enemy attacks. As long as it isn't broken it will prevent enemies from equipping any cursed gear on you.2) Your underwear, it serves as your final layer of defence, it will only be damaged by enemy attacks once all other items are destroyed (or cursed).3) Your weapon.4) Your "
-"accessory slots. In general you can equip anything here as long as it doesn't have the same type as other accessories. These can only be replaced by the enemy once they are destroyed by them.5) Any currently attached parasites.6) UNIMPLEMENTED7) The currently active crest.8) Your suggestibility or, if you are hypnotized, the current active hypnotic suggestion."
-msgstr ""
-"你可以随时查看你的装备，将鼠标悬停在不同的物品上可以查看它们的效果。\n"
+msgid "Remember that you can see your equipment at all times. Hover over the different items to see their effects.You have the following slots:1) Your main armor, it serves as your first layer of defence against enemy attacks. As long as it isn't broken it will prevent enemies from equipping any cursed gear on you.2) Your underwear, it serves as your final layer of defence, it will only be damaged by enemy attacks once all other items are destroyed (or cursed).3) Your weapon.4) Your accessory slots. In general you can equip anything here as long as it doesn't have the same type as other accessories. These can only be replaced by the enemy once they are destroyed by them.5) Any currently attached parasites.6) UNIMPLEMENTED7) The currently active crest.8) Your suggestibility or, if you are hypnotized, the current active hypnotic suggestion."
+msgstr "你可以随时查看你的装备，将鼠标悬停在不同的物品上可以查看它们的效果。\n"
 "你有以下装备槽:\n"
 "1)主要护甲，它作为你抵御敌人攻击的第一层防线。\n"
 "只要它没有被打破,它就会阻止敌人给你装备任何被诅咒的装备。\n"
@@ -4350,11 +4497,8 @@ msgstr "濒死"
 
 # From Data: Encyclopedia-Encyclopedia-faltering-text
 msgctxt "Explanation of a tutorial"
-msgid ""
-"When an adventurer gets brought to zero HP she won't die immediately. Instead she reaches a faltering state. Any healing will bring her out of this state, though it will hamper her effectiveness for the remainder of the dungeon. However, when she gets hit again while at zero HP, there is a base 15% chance that she will get kidnapped and get removed from your party. This chance increases the more often she falters.But don't worry, you can always rescue your courageous comrade in a "
-"later rescue mission. Although she might be a bit damaged if you wait too long."
-msgstr ""
-"当冒险者的生命值降至0时，她不会立即死亡，而是进入濒死状态。\n"
+msgid "When an adventurer gets brought to zero HP she won't die immediately. Instead she reaches a faltering state. Any healing will bring her out of this state, though it will hamper her effectiveness for the remainder of the dungeon. However, when she gets hit again while at zero HP, there is a base 15% chance that she will get kidnapped and get removed from your party. This chance increases the more often she falters.But don't worry, you can always rescue your courageous comrade in a later rescue mission. Although she might be a bit damaged if you wait too long."
+msgstr "当冒险者的生命值降至0时，她不会立即死亡，而是进入濒死状态。\n"
 "这会严重影响她在该地牢之后探险中的效率，任何治疗都可以让她脱离这个状态。\n"
 "如果在生命值为0时她再次受到攻击，则有15%的基础概率会被绑架并从你的队伍中移除。每次濒死这个概率都会增加。\n"
 "\n"
@@ -4368,10 +4512,14 @@ msgstr "受暗示性"
 # From Data: Encyclopedia-Encyclopedia-hypnosis-text
 msgctxt "Explanation of a tutorial"
 msgid "Oops, it seems like your adventurer has had her suggestibility increased. Higher suggestibility will slightly lower the willpower of your adventurer. More importantly, it will increase the chance of her receiving hypnotic suggestions. These compulsions will sometimes force certain actions during combat. Fortunately, when those trigger the suggestibility of the adventurer will also decrease, and eventually she will be able to shrug of the suggestion."
-msgstr ""
-"哎呀，你的冒险者的受暗示性似乎增加了。更高的暗示性会略微降低你冒险者的意志力。\n"
+msgstr "哎呀，你的冒险者的受暗示性似乎增加了。更高的暗示性会略微降低你冒险者的意志力。\n"
 "更重要的是，它会增加她接受催眠暗示的机会。这些强制性行为有时会在战斗中强制某些行动。\n"
 "幸运的是，当这些触发时，冒险者的暗示性也会下降，最终她将能够摆脱暗示的影响。"
+
+# From Data: Encyclopedia-Encyclopedia-intro-group
+msgctxt "Name of a tutorial group"
+msgid "Other"
+msgstr "其他"
 
 # From Data: Encyclopedia-Encyclopedia-intro-name
 msgctxt "Name of a tutorial"
@@ -4380,11 +4528,8 @@ msgstr "淫欲地牢"
 
 # From Data: Encyclopedia-Encyclopedia-intro-text
 msgctxt "Explanation of a tutorial"
-msgid ""
-"Lewdest Dungeon is about making the most of a lewd situation. Quests will fail or must be abandoned. Heroes will get kidnapped. And when they are, they will get lewded. Progress autosaves constantly, so actions are permanent.The game expects a lot of you. How far will you push your adventurers? How much are you willing to risk their purity in your quest to strengthen the Guild? Will you use their body as a seedbed for profits on the burgeoning parasite market? Will you force "
-"cursed maid equipment on them to better clean the barracks? What are you willing to sacrifice to lewd your favorite hero?Thankfully, there are always fresh souls arriving on the stage coach, seeking both adventure and pleasure in the ..."
-msgstr ""
-"“淫欲地牢”(Lewdest Dungeon)是一个以色情场景为主题的游戏。\n"
+msgid "Lewdest Dungeon is about making the most of a lewd situation. Quests will fail or must be abandoned. Heroes will get kidnapped. And when they are, they will get lewded. Progress autosaves constantly, so actions are permanent.The game expects a lot of you. How far will you push your adventurers? How much are you willing to risk their purity in your quest to strengthen the Guild? Will you use their body as a seedbed for profits on the burgeoning parasite market? Will you force cursed maid equipment on them to better clean the barracks? What are you willing to sacrifice to lewd your favorite hero?Thankfully, there are always fresh souls arriving on the stage coach, seeking both adventure and pleasure in the ..."
+msgstr "“淫欲地牢”(Lewdest Dungeon)是一个以色情场景为主题的游戏。\n"
 "任务可能会失败或需要放弃，冒险者可能会被绑架。当她们被绑架时，她们会受到一些色色的惩罚。\n"
 "游戏进度会自动保存，因此行动是永久性的。\n"
 "\n"
@@ -4399,8 +4544,7 @@ msgstr ""
 # From Data: Encyclopedia-Encyclopedia-intro_web-text
 msgctxt "Explanation of a tutorial"
 msgid "You are playing the web version of Ero Dungeons. This means that some shaders and particle effects are missing during combat, you may also encounter stuttering during fights. Unless impossible, it is highly suggested that you play the downloadable version instead."
-msgstr ""
-"你正在玩Ero Dungeons的网络版本。这意味着在战斗中缺少一些着色器和粒子效果，你在战斗中也可能遇到卡顿。\n"
+msgstr "你正在玩Ero Dungeons的网络版本。这意味着在战斗中缺少一些着色器和粒子效果，你在战斗中也可能遇到卡顿。\n"
 "我们强烈建议你玩下载版本。"
 
 # From Data: Encyclopedia-Encyclopedia-levelling_up-name
@@ -4410,11 +4554,8 @@ msgstr "升级"
 
 # From Data: Encyclopedia-Encyclopedia-levelling_up-text
 msgctxt "Explanation of a tutorial"
-msgid ""
-"Your adventurers belong to a specific class. Each class has four levels. To levelup you need to fulfil development goals which are listed in the adventurer information panel. The higher the level, the more goals need to be completed and the harder those goals are. Higher level goals cannot be completed in lower level dungeons.When you levelup you get access to more moves, more health and some class specific bonusses. Once you reach level four you gain a permanent bonus that "
-"you'll keep even when switching classes."
-msgstr ""
-"你的每个冒险者都有一个特定的职业。\n"
+msgid "Your adventurers belong to a specific class. Each class has four levels. To levelup you need to fulfil development goals which are listed in the adventurer information panel. The higher the level, the more goals need to be completed and the harder those goals are. Higher level goals cannot be completed in lower level dungeons.When you levelup you get access to more moves, more health and some class specific bonusses. Once you reach level four you gain a permanent bonus that you'll keep even when switching classes."
+msgstr "你的每个冒险者都有一个特定的职业。\n"
 "每个职业有4个等级，要升级你需要完成列在冒险者信息面板中的发展目标。\n"
 "等级越高，需要完成的目标越多，难度也越大。\n"
 "高等级的目标无法在低等级的地牢中完成。\n"
@@ -4429,17 +4570,19 @@ msgstr "最淫乱的地牢"
 
 # From Data: Encyclopedia-Encyclopedia-lewdest_dungeon-text
 msgctxt "Explanation of a tutorial"
-msgid ""
-"You have just entered the lewdest dungeon, the final set of challenges in this game. Don't worry, you can always retreat. In fact, I would suggest you retreat right now, as you're probably not ready for it. You can stop progressing this dungeon at any time and will resume this dungeon run whenever you want from the place you left off.Beware that this dungeon will not pull any punches, so it might be prudent to make a save state in the arcane circle before challenging it. These "
-"dungeons contain semi-permanently cursed equipment, semi-permanent quirks, semi-permanent class changes, unfair enemies, and unfair traps. Instead of rescue missions, kidnapped adventurers will be captured within the dungeon itself.Lasciate ogni speranza, voi ch'entrate."
-msgstr ""
-"你刚进入了最淫荡的地牢，这游戏中最后一组挑战。别担心，你随时可以撤退。\n"
+msgid "UNDER CONSTRUCTION"
+msgstr "你刚进入了最淫荡的地牢，这游戏中最后一组挑战。别担心，你随时可以撤退。\n"
 "事实上，我建议你现在就撤退，因为你可能还没有准备好。\n"
 "你可以在任何时候停止进度，并在你离开的地方继续这个地牢冒险。\n"
 "\n"
 "请注意，这个地牢不会给您任何惩罚，所以在挑战它之前，最好先保存一次。\n"
 "这些地牢包含半永久性诅咒装备、半永久性怪癖、半永久性职业变化、不公平的敌人和不公平的陷阱。\n"
 "与营救任务不同，被绑架的冒险者将会被俘虏。"
+
+# From Data: Encyclopedia-Encyclopedia-m0_mods-group
+msgctxt "Name of a tutorial group"
+msgid "Mods"
+msgstr "Mods"
 
 # From Data: Encyclopedia-Encyclopedia-m0_mods-name
 msgctxt "Name of a tutorial"
@@ -4448,11 +4591,8 @@ msgstr "安装"
 
 # From Data: Encyclopedia-Encyclopedia-m0_mods-text
 msgctxt "Explanation of a tutorial"
-msgid ""
-"All mods should be uncompressed before installation and installation should be done after exiting the game.On Windows: Drag the folder containing the mod you want to install into the ‘mods’ folder, which is found in the same folder as the Ero Dungeons executable (the file that launches the game).On MacOS: The ‘mods’ folder is found in /Library/Application Support/EroDungeons. Launch the finder and with it in the foreground, press the Option key and click on ‘Go’ on the menu bar "
-"at the top of your screen. The Library entry is about half way down the drop down list. Click on that to open the library folder."
-msgstr ""
-"在 Windows 上，将包含你要安装的 MOD 的文件夹拖入“mods”文件夹，该文件夹与 Ero Dungeons 可执行文件(启动游戏的文件)位于同一文件夹中。\n"
+msgid "All mods should be uncompressed before installation and installation should be done after exiting the game.On Windows: Drag the folder containing the mod you want to install into the ‘mods’ folder, which is found in the same folder as the Ero Dungeons executable (the file that launches the game).On MacOS: The ‘mods’ folder is found in /Library/Application Support/EroDungeons. Launch the finder and with it in the foreground, press the Option key and click on ‘Go’ on the menu bar at the top of your screen. The Library entry is about half way down the drop down list. Click on that to open the library folder."
+msgstr "在 Windows 上，将包含你要安装的 MOD 的文件夹拖入“mods”文件夹，该文件夹与 Ero Dungeons 可执行文件(启动游戏的文件)位于同一文件夹中。\n"
 "在 MacOS 上，\"mods \"文件夹位于 /Library/Application Support/EroDungeons 中。\n"
 "启动查找器并将其置于前台，按 Option 键并点击屏幕顶部菜单栏上的 \"转到\"。\n"
 "在下拉列表中，\"库 \"条目大约在一半的位置。点击它打开库文件夹。"
@@ -4464,11 +4604,8 @@ msgstr "模组管理器"
 
 # From Data: Encyclopedia-Encyclopedia-m1_mods-text
 msgctxt "Explanation of a tutorial"
-msgid ""
-"The mod you have installed won’t work until it is activated in the Ero Dungeons mod manager. Start the Ero Dungeons app. At bottom left on the launch menu you will see two icons, a gear and a staff. Click on the staff to enter Mod Manager.Each new mod must be activated by clicking on the crest to the right of the mod description once you are in Mod Manager - this only needs to be done once.When installing an update for a mod, it is best to delete the old version before dragging "
-"the new version into the ‘mods’ folder."
-msgstr ""
-"在 Ero Dungeons mod 管理器中激活之前，您安装的 mod 无法运行。\n"
+msgid "The mod you have installed won’t work until it is activated in the Ero Dungeons mod manager. Start the Ero Dungeons app. At bottom left on the launch menu you will see two icons, a gear and a staff. Click on the staff to enter Mod Manager.Each new mod must be activated by clicking on the crest to the right of the mod description once you are in Mod Manager - this only needs to be done once.When installing an update for a mod, it is best to delete the old version before dragging the new version into the ‘mods’ folder."
+msgstr "在 Ero Dungeons mod 管理器中激活之前，您安装的 mod 无法运行。\n"
 "启动 Ero Dungeons 应用程序，在启动菜单的左下方，您会看到两个图标，一个齿轮，一个法杖。\n"
 "每个新模块都必须在进入模块管理器后通过点击模块描述右侧的徽章来激活(这只需要做一次)。\n"
 "在安装模块更新时，最好先删除旧版本，然后再将新版本拖入 \"mods \"文件夹。"
@@ -4481,25 +4618,19 @@ msgstr "故障排除"
 # From Data: Encyclopedia-Encyclopedia-m2_mods-text
 msgctxt "Explanation of a tutorial"
 msgid "EroDungeons provides an API for installing mods, mods may conflicts with game code, so your mileage may vary. If unexpected things happen after installing a new mod, you can deactivate it by clicking on the mod’s crest in Mod Manager - but if you need support, you will need to contact the mod developer, not the Ero Dungeons dev team!"
-msgstr ""
-"EroDungeons 提供了一个用于安装 mod 的 API，mod 可能会与游戏代码发生冲突，因此您可能会遇到不同的情况。\n"
+msgstr "EroDungeons 提供了一个用于安装 mod 的 API，mod 可能会与游戏代码发生冲突，因此您可能会遇到不同的情况。\n"
 "如果在安装新的 MOD 后出现意外情况，您可以在 \"Mod Manager（Mod 管理器）\"中点击该 MOD 的徽章将其停用.\n"
 "如果您需要支持，您需要联系该 MOD 的开发者，而不是 Ero Dungeons 开发团队！"
+
+# From Data: Encyclopedia-Encyclopedia-morale-group
+msgctxt "Name of a tutorial group"
+msgid "Dungeons"
+msgstr "Dungeons"
 
 # From Data: Encyclopedia-Encyclopedia-morale-name
 msgctxt "Name of a tutorial"
 msgid "Morale"
 msgstr "士气"
-
-# From Data: Encyclopedia-Encyclopedia-morale-text
-msgctxt "Explanation of a tutorial"
-msgid "At the top of the dungeon screen you can find the morale bar. Morale starts at its maximum and drains when exploring new rooms. The drain slows down when morale is low. You can increase your morale by consuming certain provisions.While you get no penalties at low morale. High morale gives you powerful bonusses, so it's worth investing into. You can increase your maximum morale by upgrading the barracks. Some classes also specialize in keeping morale high."
-msgstr ""
-"在地下城画面的顶部。你可以找到士气栏。\n"
-"士气从最大值开始。在探索新房间时会下降。当士气较低时。下降速度会放慢。\n"
-"你可以通过消耗某些补给来增加士气。\n"
-"\n"
-"你可以通过升级兵营来增加最大士气上限。一些职业也专门用于保持士气高涨。"
 
 # From Data: Encyclopedia-Encyclopedia-move_explanations-name
 msgctxt "Name of a tutorial"
@@ -4508,11 +4639,8 @@ msgstr "行动"
 
 # From Data: Encyclopedia-Encyclopedia-move_explanations-text
 msgctxt "Explanation of a tutorial"
-msgid ""
-"When you hover over your moves you will get a short explanation at the bottom left corner of the screen. The most important parts are the damage range, and the chance to crit. A critical hit does 150% of the highest possible damage. You can also see from which positions you can use the move, and which positions it targets.The information also contains a short description of what the move does. It may seem cryptic at first, but you'll get used to it in no time. For example \"Add: "
-"ICON\", means that the move applies a token, \"Forward: 1\" means the move moves you one space forward. It's pretty straightforward."
-msgstr ""
-"当你将鼠标悬停在行动上时，屏幕左下角会显示一个简短的解释。\n"
+msgid "When you hover over your moves you will get a short explanation at the bottom left corner of the screen. The most important parts are the damage range, and the chance to crit. A critical hit does 150% of the highest possible damage. You can also see from which positions you can use the move, and which positions it targets.The information also contains a short description of what the move does. It may seem cryptic at first, but you'll get used to it in no time. For example \\\"Add: ICON\\\", means that the move applies a token, \\\"Forward: 1\\\" means the move moves you one space forward. It's pretty straightforward."
+msgstr "当你将鼠标悬停在行动上时，屏幕左下角会显示一个简短的解释。\n"
 "最重要的部分是伤害范围和暴击几率，暴击会可能造成最高伤害的150%。\n"
 "你也可以看到可以使用该行动的位置，以及它能生效的范围。\n"
 "\n"
@@ -4526,10 +4654,8 @@ msgstr "行动选择"
 
 # From Data: Encyclopedia-Encyclopedia-move_selection-text
 msgctxt "Explanation of a tutorial"
-msgid ""
-"Adventurers can have five active moves during combat. Your adventurer currently has only three moves selected, since she only knew three of them up till now. However, after her levelup, she knows three more. So select two additional moves for her to use in the adventurer information panel.Remember to periodically update your move selection. Some moves are more effective in specific areas and against specific enemies. Some moves are just better, but only available at higher levels."
-msgstr ""
-"冒险者在战斗中可以使用五个行动。\n"
+msgid "Adventurers can have five active moves during combat. Your adventurer currently has only three moves selected, since she only knew three of them up till now. However, after her levelup, she knows three more. So select two additional moves for her to use in the adventurer information panel.Remember to periodically update your move selection. Some moves are more effective in specific areas and against specific enemies. Some moves are just better, but only available at higher levels."
+msgstr "冒险者在战斗中可以使用五个行动。\n"
 "你的冒险者目前只选择了三个行动，因为目前她只学会了这三个。\n"
 "升级后她将学会了三个新的技能，然后在冒险者信息面板中你为她选择两个额外的行动。\n"
 "\n"
@@ -4541,13 +4667,6 @@ msgctxt "Name of a tutorial"
 msgid "Movement"
 msgstr "移动"
 
-# From Data: Encyclopedia-Encyclopedia-movement-text
-msgctxt "Explanation of a tutorial"
-msgid "Dungeons exist of multiple rooms, each room contains either a combat encounter or an interaction. Longer dungeons have more rooms.Also, moving between rooms will heal your adventurers (25% base)."
-msgstr ""
-"地牢由多个房间组成，每个房间要么包含战斗，要么包含互动。\n"
-"更大的地牢拥有更多的房间。"
-
 # From Data: Encyclopedia-Encyclopedia-overencumberance-name
 msgctxt "Name of a tutorial"
 msgid "Overencumbered"
@@ -4556,8 +4675,7 @@ msgstr "超载"
 # From Data: Encyclopedia-Encyclopedia-overencumberance-text
 msgctxt "Explanation of a tutorial"
 msgid "Your inventory size is limited, once you exceed it you are overencumbered. While overencumbered you party cannot move until it gets rid of excess items. You can discard items by shift-clicking them.Certain classes and items increase your total inventory size."
-msgstr ""
-"你的背包大小是有限的，一旦超过这个限制你就会超载。\n"
+msgstr "你的背包大小是有限的，一旦超过这个限制你就会超载。\n"
 "超载时，你的队伍在扔掉多余的物品之前无法移动。\n"
 "你可以通过Shift+点击的方式丢弃物品。\n"
 "\n"
@@ -4570,9 +4688,8 @@ msgstr "地图选择"
 
 # From Data: Encyclopedia-Encyclopedia-overworld-text
 msgctxt "Explanation of a tutorial"
-msgid "Here you can select the next dungeon to explore. Dungeons come in different difficulties. Higher difficulty dungeons have harder enemies, more rooms, and more negative effects, but they give larger rewards and loot. Different dungeons also have different enemy types that may be easier or harder for your current adventuring party to deal with."
-msgstr ""
-"在这里你可以选择下一个要探索地牢。\n"
+msgid "Here you can select the next dungeon to explore. Dungeons come in different difficulties. Higher difficulty dungeons have harder enemies and more rooms, but they give larger rewards and loot. Different dungeons also have different enemy types that may be easier or harder for your current adventuring party to deal with."
+msgstr "在这里你可以选择下一个要探索地牢。\n"
 "更高难度的地牢会有更强大的敌人、更多的房间和更多的负面效果，但同时也提供更丰厚的奖励和战利品。\n"
 "\n"
 "不同的地牢也有不同类型的敌人，你当前的冒险队伍处理它们的难易程度也会不同。"
@@ -4584,11 +4701,8 @@ msgstr "寄生虫"
 
 # From Data: Encyclopedia-Encyclopedia-parasites-text
 msgctxt "Explanation of a tutorial"
-msgid ""
-"Oops, it seems like your adventurer was attacked by a parasite. If these creatures manage to attach themselves, they will grow over time. During their growth they will significantly weaken the adventurer. But a fully grown parasite might have some advantages and the adventurer can form a symbiotic relationship with it. Of course, if you prefer to get rid of this unwelcome visitor, you can go to the Nursery to have it extracted. At the same time, there are many wealthy mages in "
-"the Human Realms that don't mind paying for full-grown parasites, so you might want to wait a while before extracting it."
-msgstr ""
-"哎呀，你的冒险者好像被寄生虫攻击了。如果这些生物成功附着，它们会随着时间的推移不断生长。\n"
+msgid "Oops, it seems like your adventurer was attacked by a parasite. If these creatures manage to attach themselves, they will grow over time. During their growth they will significantly grow more and more impactful. A fully grown parasite can be annoying but might have some advantages and the adventurer can form a symbiotic relationship with it. Of course, if you prefer to get rid of this unwelcome visitor, you can go to the Nursery to have it extracted. At the same time, there are many wealthy mages in the Human Realms that don't mind paying for full-grown parasites, so you might want to wait a while before extracting it."
+msgstr "哎呀，你的冒险者好像被寄生虫攻击了。如果这些生物成功附着，它们会随着时间的推移不断生长。\n"
 "\n"
 "在生长过程中，它们会大大削弱冒险者的力量。\n"
 "但完全成长的寄生虫可能会有一些优势，冒险者可以与之形成共生关系。\n"
@@ -4604,8 +4718,7 @@ msgstr "死亡"
 # From Data: Encyclopedia-Encyclopedia-permadeath-text
 msgctxt "Explanation of a tutorial"
 msgid "Some events can kill or otherwise permanently remove a character from your guild.Unlike faltering or kidnapping, these events are extremely rare and can always be avoided by paying close attention to your surroundings."
-msgstr ""
-"一些事件可以杀死或以其他方式永久删除你的公会中的一个角色。\n"
+msgstr "一些事件可以杀死或以其他方式永久删除你的公会中的一个角色。\n"
 "\n"
 "与濒死或绑架不同，这种事件极为罕见，你可以通过密切关注周围环境来避免。"
 
@@ -4617,8 +4730,7 @@ msgstr "补给"
 # From Data: Encyclopedia-Encyclopedia-provisions-text
 msgctxt "Explanation of a tutorial"
 msgid "Before you start a dungeon exploration, you can first buy provisions. These are used both inside the dungeon to keep morale and health high. They can also have interactions with curios, and some of them can be used during combat.Every adventurer can use a provision during her turn and still perform a move afterwards, so don't sleep on them!"
-msgstr ""
-"在开始地牢探险之前，你可以先购买补给。\n"
+msgstr "在开始地牢探险之前，你可以先购买补给。\n"
 "这些补给既可以在地牢内用于维持士气和生命值，也可以与事件互动，有些还可以在战斗中使用。\n"
 "\n"
 "每名冒险者在自己的回合内都可以使用一个补给，并在此后还可以进行一次行动，所以不要忽视它们！"
@@ -4630,11 +4742,8 @@ msgstr "怪癖"
 
 # From Data: Encyclopedia-Encyclopedia-quirks-text
 msgctxt "Explanation of a tutorial"
-msgid ""
-"During their adventures, your adventurers will gain both positive and negative quirks. You can view the specific effects in the adventurer information panel. The adventurer can have at most five quirks of each type, any additional ones will overwrite previous quirks. Over time, at most three positive respectively negative quirks can get locked in. Locked quirks will not be replaced by new ones.In general, adventurers will gain new quirks at the end of a dungeon run. The quirks "
-"they gain depend on the personality of the adventurer (and some luck). At the same time, quirks influence the personality of the adventurer as well as the development goals she gets.You can remove negative quirks, or lock in positive ones at the Mental Ward. Removing locked quirks is a lot more expensive."
-msgstr ""
-"在冒险中，你的冒险者将获得正面和负面怪癖。你可以在冒险者信息面板中查看具体影响。\n"
+msgid "During their adventures, your adventurers will gain both positive and negative quirks. You can view the specific effects in the adventurer information panel. The adventurer can have at most five quirks of each type, any additional ones will overwrite previous quirks. Over time, at most three positive respectively negative quirks can get locked in. Locked quirks will not be replaced by new ones.In general, adventurers will gain new quirks at the end of a dungeon run. The quirks they gain depend on the personality of the adventurer (and some luck). At the same time, quirks influence the personality of the adventurer as well as the development goals she gets.You can remove negative quirks, or lock in positive ones at the Mental Ward. Removing locked quirks is a lot more expensive."
+msgstr "在冒险中，你的冒险者将获得正面和负面怪癖。你可以在冒险者信息面板中查看具体影响。\n"
 "每个冒险者最多可以有五个每种类型的怪癖，任何额外的怪癖将覆盖之前的怪癖。\n"
 "随着时间的推移，最多三个正面和负面怪癖可以被锁定。被锁定的怪癖不会被新的怪癖替换。\n"
 "\n"
@@ -4650,11 +4759,8 @@ msgstr "营救任务"
 
 # From Data: Encyclopedia-Encyclopedia-rescue-text
 msgctxt "Explanation of a tutorial"
-msgid ""
-"One of your adventurers has been kidnapped, but don't worry you can stage a rescue mission. Just expand the panel to the left of the map view and select the poor victim.But wait, the longer you hold off on rescueing her the easier it will be. Of course, she will also get corrupted more by her captors, but that may be a sacrifice you're willing to make.You can also abandon her. There are plenty adventurers that can take her place. She knew what she signed up for after all. This "
-"place has no use for the weak."
-msgstr ""
-"你的一位冒险者被绑架了，但别担心，你可以组织一次营救任务。\n"
+msgid "One of your adventurers has been kidnapped, but don't worry you can stage a rescue mission. Just expand the panel to the left of the map view and select the poor victim.But wait, the longer you hold off on rescueing her the easier it will be. Of course, she will also get corrupted more by her captors, but that may be a sacrifice you're willing to make.You can also abandon her. There are plenty adventurers that can take her place. She knew what she signed up for after all. This place has no use for the weak."
+msgstr "你的一位冒险者被绑架了，但别担心，你可以组织一次营救任务。\n"
 "只需展开地图视图左侧的面板，然后选择可怜的受害者。\n"
 "\n"
 "但是等等，推迟营救她的时间越长，就越容易成功。\n"
@@ -4670,11 +4776,8 @@ msgstr "撤退"
 
 # From Data: Encyclopedia-Encyclopedia-retreat-text
 msgctxt "Explanation of a tutorial"
-msgid ""
-"Be aware that you can retreat from a dungeon run at any time, just press the button with the flag at the bottom of the screen. You will forfeit any rewards from the dungeon, and won't complete any development goals from it. However, you keep all collected loot, and you won't risk losing your party members.You will also be given the possibility to retreat from combat once you lose a party member. Of course, you'll most likely ignore this opportunity and see your entire party "
-"wiped, that's just how it goes."
-msgstr ""
-"请注意，你可以在任何时候从地牢探险中撤退，只需点击屏幕底部的旗帜按钮即可。\n"
+msgid "Be aware that you can retreat from a dungeon run at any time, just press the button with the flag at the bottom of the screen. You will forfeit any rewards from the dungeon, and won't complete any development goals from it. However, you keep all collected loot, and you won't risk losing your party members.You will also be given the possibility to retreat from combat once you lose a party member. Of course, you'll most likely ignore this opportunity and see your entire party wiped, that's just how it goes."
+msgstr "请注意，你可以在任何时候从地牢探险中撤退，只需点击屏幕底部的旗帜按钮即可。\n"
 "你将放弃地牢的任何奖励，也不会完成其中的任何发展目标。但是，你可以保留所有收集的战利品，并且不会冒着失去队友的风险。\n"
 "\n"
 "当你失去一名队友后，你也会获得在战斗中撤退的选择。当然,你很有可能会无视这个提示，但是你也很可能因为缺人导致全军覆没。"
@@ -4687,8 +4790,7 @@ msgstr "抵抗抗性"
 # From Data: Encyclopedia-Encyclopedia-saves-text
 msgctxt "Explanation of a tutorial"
 msgid "Some moves indicate a save. There are three variants of this: Reflex, Fortitude, and Willpower. In these cases the height of that stat is the percent chance that the enemy  will resist the move.For example, if the enemy has 20 WIL, and you have a move that targets a WIL save, any effects below that save have an 80% chance of happening."
-msgstr ""
-"有些行动会要求进行抵抗抗性，主要分为三种类型：反应速度、体质和意志。\n"
+msgstr "有些行动会要求进行抵抗抗性，主要分为三种类型：反应速度、体质和意志。\n"
 "在这些情况下，敌人相应属性的数值代表其成功抵抗该行动效果的概率。\n"
 "\n"
 "例如，如果敌人有20点意志(WIL)，而你使用的技能将触发意志抵抗，那么所有难度值在20以下的效果会有80%的概率成功。"
@@ -4700,10 +4802,8 @@ msgstr "状态标记"
 
 # From Data: Encyclopedia-Encyclopedia-tokens-text
 msgctxt "Explanation of a tutorial"
-msgid "During combat, buffs and debuffs are handled with \"tokens\". These are shown as small indicators below the healthbar and confer advantages or disadvantages to the player. For example, that token on the ratkin warrior is called a Block+ Token, it applies a 75% damage reduction to the next attack targetting her. Tokens will go away after time, or whenever they are triggered. Hence, attacking the ratkin will remove the token, as will waiting three turns for it to disappear on its "
-"own.Be sure to hover over any new tokens you see, as they are an important part of combat. You can view a complete overview of all tokens in the Glossary, right next to where you can review all these tutorials."
-msgstr ""
-"在战斗中，增益和减益效果状态以图标的形式显示在生命条下方，为玩家提供buff或debuff。\n"
+msgid "During combat, buffs and debuffs are handled with \\\"tokens\\\". These are shown as small indicators below the healthbar and confer advantages or disadvantages to the player. For example, that token on the ratkin warrior is called a Block+ Token, it applies a 75% damage reduction to the next attack targetting her. Tokens will go away after time, or whenever they are triggered. Hence, attacking the ratkin will remove the token, as will waiting three turns for it to disappear on its own.Be sure to hover over any new tokens you see, as they are an important part of combat. You can view a complete overview of all tokens in the Glossary, right next to where you can review all these tutorials."
+msgstr "在战斗中，增益和减益效果状态以图标的形式显示在生命条下方，为玩家提供buff或debuff。\n"
 "例如，那个在鼠人战士身上的标记叫做“格挡+”, 它为她提供下一次受到的攻击75%的伤害减免。\n"
 "标记会随时间消失，或者在被触发时消失。因此,攻击那个鼠人会移除该标记，等待3回合让它自己消失也一样。\n"
 "\n"
@@ -4718,12 +4818,71 @@ msgstr "无限装备"
 # From Data: Encyclopedia-Encyclopedia-unlimited-text
 msgctxt "Explanation of a tutorial"
 msgid "When you accrue more than four pieces of the same gear, this equipment becomes unlimited. This saves some space and will help you gear up your adventurers faster. Cursed equipment only counts towards these four pieces once it has been uncursed. Unlimited equipment will also no longer show up as loot, but is instead replaced with gold. "
-msgstr ""
-"当你累积超过四件同种装备时，这些装备就会变为无限装备。\n"
+msgstr "当你累积超过四件同种装备时，这些装备就会变为无限装备。\n"
 "这可以节省一些空间，并帮助你更快地装备冒险者。\n"
 "无限装备也不会再以战利品的形式出现，而是被替换为金币。\n"
 "\n"
 "被诅咒的装备只有在被解除诅咒后才计入这四件装备。"
+
+# From Data: Enemies-Alraune-alraune-description
+msgctxt "Description of an enemy."
+msgid "Alraune are widespread around the northern swamps. They have a multitude of vines to extract nutrients from the soil, though they can also use it to attack their enemies."
+msgstr "曼陀罗花广泛分布于北部沼泽。它们有许多藤蔓，可以从土壤中汲取养分，也可以用来攻击敌人。"
+
+# From Data: Enemies-Alraune-alraune-name
+msgctxt "Name of an enemy."
+msgid "Common Alraune"
+msgstr "普通曼陀罗花"
+
+# From Data: Enemies-Alraune-alraune_big-description
+msgctxt "Description of an enemy."
+msgid ""
+msgstr ""
+
+# From Data: Enemies-Alraune-alraune_big-name
+msgctxt "Name of an enemy."
+msgid "Big Alraune"
+msgstr "大型曼陀罗花"
+
+# From Data: Enemies-Alraune-alraune_cleric-name
+msgctxt "Name of an enemy."
+msgid "Devout Alraune"
+msgstr "虔诚曼陀罗花"
+
+# From Data: Enemies-Alraune-alraune_gunner-name
+msgctxt "Name of an enemy."
+msgid "Alchemical Alraune"
+msgstr "炼金曼陀罗花"
+
+# From Data: Enemies-Alraune-alraune_hugger-description
+msgctxt "Description of an enemy."
+msgid "Alraune can also use their roots to extract nutrients from living creatures. This is how the alraunes absorb the lustful energies that they require. "
+msgstr "曼陀罗花还能用根部从生物身上汲取养分。曼陀罗花就是这样吸收它们所需的淫欲能量的。"
+
+# From Data: Enemies-Alraune-alraune_hugger-name
+msgctxt "Name of an enemy."
+msgid "Huggable Alraune"
+msgstr "拥抱曼陀罗花"
+
+# From Data: Enemies-Alraune-alraune_lure-name
+msgctxt "Name of an enemy."
+msgid "Alluring Alraune"
+msgstr "魅惑曼陀罗花"
+
+# From Data: Enemies-Alraune-alraune_mother-name
+msgctxt "Name of an enemy."
+msgid "Maternal Alraune"
+msgstr "孕妇曼陀罗花"
+
+# From Data: Enemies-Alraune-alraune_tender-name
+msgctxt "Name of an enemy."
+msgid "Horticulturist Alraune"
+msgstr "园艺曼陀罗花"
+
+# From Data: Enemies-Alraune-alraune_warrior-name
+msgctxt "Name of an enemy."
+msgid "Warrior Alraune"
+msgstr "战士曼陀罗花"
 
 # From Data: Enemies-Bats-bat-description
 msgctxt "Description of an enemy."
@@ -4784,11 +4943,6 @@ msgstr "具有恐怖效果的鼠人战车。虽然它的履带已经断裂，但
 msgctxt "Name of an enemy."
 msgid "Souris B1-BIS"
 msgstr "鼠式 B1-BIS"
-
-# From Data: Enemies-Boss2-latex_alchemist-description
-msgctxt "Description of an enemy."
-msgid ""
-msgstr ""
 
 # From Data: Enemies-Boss2-latex_alchemist-name
 msgctxt "Name of an enemy."
@@ -5225,25 +5379,10 @@ msgctxt "Name of an enemy."
 msgid "Vaginal Parasite"
 msgstr "阴道寄生虫"
 
-# From Data: Enemies-Plants-alraune-description
-msgctxt "Description of an enemy."
-msgid "Alraune are widespread around the northern swamps. They have a multitude of vines to extract nutrients from the soil, though they can also use it to attack their enemies."
-msgstr "曼陀罗花广泛分布于北部沼泽。它们有许多藤蔓，可以从土壤中汲取养分，也可以用来攻击敌人。"
-
-# From Data: Enemies-Plants-alraune-name
+# From Data: Enemies-Plants-acid_flower-name
 msgctxt "Name of an enemy."
-msgid "Alraune"
-msgstr "曼陀罗花"
-
-# From Data: Enemies-Plants-alraune_hugger-description
-msgctxt "Description of an enemy."
-msgid "Alraune can also use their roots to extract nutrients from living creatures. This is how the alraunes absorb the lustful energies that they require. "
-msgstr "曼陀罗花还能用根部从生物身上汲取养分。曼陀罗花就是这样吸收它们所需的淫欲能量的。"
-
-# From Data: Enemies-Plants-alraune_hugger-name
-msgctxt "Name of an enemy."
-msgid "Alraune Hugger"
-msgstr "曼陀罗"
+msgid "Poison Flower"
+msgstr "剧毒花"
 
 # From Data: Enemies-Plants-double_vine-description
 msgctxt "Description of an enemy."
@@ -5255,6 +5394,16 @@ msgctxt "Name of an enemy."
 msgid "Tangled Vines"
 msgstr "杂乱的藤蔓"
 
+# From Data: Enemies-Plants-fire_flower-name
+msgctxt "Name of an enemy."
+msgid "Fire Flower"
+msgstr "火焰花"
+
+# From Data: Enemies-Plants-love_flower-name
+msgctxt "Name of an enemy."
+msgid "Alluring Flower"
+msgstr "魅惑花"
+
 # From Data: Enemies-Plants-plant-description
 msgctxt "Description of an enemy."
 msgid "The plants in the Northlands are tainted with corruption. They spread all manner of pheromones and strange pollen, further increasing the lust in these lands."
@@ -5262,7 +5411,7 @@ msgstr "北境的植物被腐败所玷污。它们传播各种信息素和奇怪
 
 # From Data: Enemies-Plants-plant-name
 msgctxt "Name of an enemy."
-msgid "Flower"
+msgid "Ordinary Flower"
 msgstr "小花"
 
 # From Data: Enemies-Plants-simple_vine-description
@@ -5510,6 +5659,106 @@ msgctxt "Name of an enemy."
 msgid "Webspider"
 msgstr "织网蜘蛛"
 
+# From Data: Enemymoves-Alraune-alraune_blanket-name
+msgctxt "Name of an enemy move."
+msgid "Blanket Fire"
+msgstr "群体散射"
+
+# From Data: Enemymoves-Alraune-alraune_block-name
+msgctxt "Name of an enemy move."
+msgid "Vineblock"
+msgstr "藤蔓格挡"
+
+# From Data: Enemymoves-Alraune-alraune_bolt-name
+msgctxt "Name of an enemy move."
+msgid "Holy Bolt"
+msgstr "神圣电击"
+
+# From Data: Enemymoves-Alraune-alraune_bonk-name
+msgctxt "Name of an enemy move."
+msgid "Bonk"
+msgstr "轻击"
+
+# From Data: Enemymoves-Alraune-alraune_cleave-name
+msgctxt "Name of an enemy move."
+msgid "Cleave"
+msgstr "劈砍"
+
+# From Data: Enemymoves-Alraune-alraune_grapple-name
+msgctxt "Name of an enemy move."
+msgid "Grapple"
+msgstr "捕获"
+
+# From Data: Enemymoves-Alraune-alraune_heal-name
+msgctxt "Name of an enemy move."
+msgid "Minor Heal"
+msgstr "治疗（小）"
+
+# From Data: Enemymoves-Alraune-alraune_incubate-name
+msgctxt "Name of an enemy move."
+msgid "Alraune Incubate"
+msgstr "曼陀罗孵化"
+
+# From Data: Enemymoves-Alraune-alraune_lure-name
+msgctxt "Name of an enemy move."
+msgid "Alraune Lure"
+msgstr "曼陀罗魅惑"
+
+# From Data: Enemymoves-Alraune-alraune_molest-name
+msgctxt "Name of an enemy move."
+msgid "Molest"
+msgstr "调戏"
+
+# From Data: Enemymoves-Alraune-alraune_musket-name
+msgctxt "Name of an enemy move."
+msgid "Musket Shot"
+msgstr "精准射击"
+
+# From Data: Enemymoves-Alraune-alraune_on_grapple-name
+msgctxt "Name of an enemy move."
+msgid "Pollinate"
+msgstr "授粉"
+
+# From Data: Enemymoves-Alraune-alraune_shield-name
+msgctxt "Name of an enemy move."
+msgid "Shield of Vines"
+msgstr "藤蔓之盾"
+
+# From Data: Enemymoves-Alraune-alraune_slash-name
+msgctxt "Name of an enemy move."
+msgid "Slash"
+msgstr "惩戒"
+
+# From Data: Enemymoves-Alraune-big_alraune_cleave-name
+msgctxt "Name of an enemy move."
+msgid "Big Cleave"
+msgstr "大劈砍"
+
+# From Data: Enemymoves-Alraune-big_alraune_grapple-name
+msgctxt "Name of an enemy move."
+msgid "Big Alraune On Grapple"
+msgstr "捕获（大型曼陀罗花）"
+
+# From Data: Enemymoves-Alraune-exposing_pollen-name
+msgctxt "Name of an enemy move."
+msgid "Exposing Pollen"
+msgstr "暴露花粉"
+
+# From Data: Enemymoves-Alraune-grow_vine-name
+msgctxt "Name of an enemy move."
+msgid "Grow Vine"
+msgstr "藤蔓生长"
+
+# From Data: Enemymoves-Alraune-intoxicate-name
+msgctxt "Name of an enemy move."
+msgid "Intoxicate"
+msgstr "麻醉药"
+
+# From Data: Enemymoves-Alraune-lick_alraune-name
+msgctxt "Name of an enemy move."
+msgid "Lick Clean"
+msgstr "舔舐"
+
 # From Data: Enemymoves-Boss1-iron_maiden_digest-name
 msgctxt "Name of an enemy move."
 msgid "Digest"
@@ -5519,11 +5768,6 @@ msgstr "消化"
 msgctxt "Name of an enemy move."
 msgid "Bash Forward"
 msgstr "向前猛击"
-
-# From Data: Enemymoves-Boss1-iron_maiden_grapple-name
-msgctxt "Name of an enemy move."
-msgid "Grapple"
-msgstr "捕获"
 
 # From Data: Enemymoves-Boss1-iron_maiden_spitout-name
 msgctxt "Name of an enemy move."
@@ -5554,11 +5798,6 @@ msgstr "为首领干杯！"
 msgctxt "Name of an enemy move."
 msgid "Sloppy Kiss"
 msgstr "湿吻"
-
-# From Data: Enemymoves-Boss2-latex_alchemist_move1-name
-msgctxt "Name of an enemy move."
-msgid "Blanket Fire"
-msgstr "群体散射"
 
 # From Data: Enemymoves-Boss2-latex_alchemist_move2-name
 msgctxt "Name of an enemy move."
@@ -5719,11 +5958,6 @@ msgstr "撕咬"
 msgctxt "Name of an enemy move."
 msgid "Baleful Gaze"
 msgstr "凶恶的凝视"
-
-# From Data: Enemymoves-Bosses-cockatrice_molest-name
-msgctxt "Name of an enemy move."
-msgid "Molest"
-msgstr "调戏"
 
 # From Data: Enemymoves-Bosses-cockatrice_opener-name
 msgctxt "Name of an enemy move."
@@ -6030,11 +6264,6 @@ msgctxt "Name of an enemy move."
 msgid "Self-Destruct"
 msgstr "自毁"
 
-# From Data: Enemymoves-Machines-technician_bonk-name
-msgctxt "Name of an enemy move."
-msgid "Bonk"
-msgstr "轻击"
-
 # From Data: Enemymoves-Machines-weak_punch-name
 msgctxt "Name of an enemy move."
 msgid "Weak Punch"
@@ -6069,11 +6298,6 @@ msgstr "疗愈"
 msgctxt "Name of an enemy move."
 msgid "Slam"
 msgstr "猛击"
-
-# From Data: Enemymoves-Orcs-orc_slash-name
-msgctxt "Name of an enemy move."
-msgid "Slash"
-msgstr "惩戒"
 
 # From Data: Enemymoves-Orcs-whip_enemies-name
 msgctxt "Name of an enemy move."
@@ -6135,30 +6359,35 @@ msgctxt "Name of an enemy move."
 msgid "Weakening Spit"
 msgstr "虚弱喷吐"
 
+# From Data: Enemymoves-Plants-acid_pheromones-name
+msgctxt "Name of an enemy move."
+msgid "Acid Pheromones"
+msgstr "酸液费洛蒙"
+
+# From Data: Enemymoves-Plants-acid_spray-name
+msgctxt "Name of an enemy move."
+msgid "Acid Spray"
+msgstr "酸液喷吐"
+
 # From Data: Enemymoves-Plants-all_vine_whip-name
 msgctxt "Name of an enemy move."
 msgid "Vine Whip"
 msgstr "藤鞭"
 
-# From Data: Enemymoves-Plants-alraune_on_grapple-name
+# From Data: Enemymoves-Plants-alluring_pheromones-name
 msgctxt "Name of an enemy move."
-msgid "Pollinate"
-msgstr "授粉"
+msgid "Alluring Pheromones"
+msgstr "魅惑费洛蒙"
+
+# From Data: Enemymoves-Plants-fire_pheromones-name
+msgctxt "Name of an enemy move."
+msgid "Burning Pheromones"
+msgstr "燃烧费洛蒙"
 
 # From Data: Enemymoves-Plants-growth1-name
 msgctxt "Name of an enemy move."
 msgid "Growth"
 msgstr "成长"
-
-# From Data: Enemymoves-Plants-intoxicate-name
-msgctxt "Name of an enemy move."
-msgid "Intoxicate"
-msgstr "麻醉药"
-
-# From Data: Enemymoves-Plants-lick_alraune-name
-msgctxt "Name of an enemy move."
-msgid "Lick Clean"
-msgstr "舔舐"
 
 # From Data: Enemymoves-Plants-pheromones-name
 msgctxt "Name of an enemy move."
@@ -6290,11 +6519,6 @@ msgctxt "Name of an enemy move."
 msgid "Large Cleave"
 msgstr "强力劈砍"
 
-# From Data: Enemymoves-Slimes-cleave_slime-name
-msgctxt "Name of an enemy move."
-msgid "Cleave"
-msgstr "劈砍"
-
 # From Data: Enemymoves-Slimes-envelop-name
 msgctxt "Name of an enemy move."
 msgid "Envelop"
@@ -6339,11 +6563,6 @@ msgstr "牛奶喷发"
 msgctxt "Name of an enemy move."
 msgid "Milk Suction"
 msgstr "牛奶吸取"
-
-# From Data: Enemymoves-Slimes-musket_large_slime-name
-msgctxt "Name of an enemy move."
-msgid "Musket Shot"
-msgstr "精准射击"
 
 # From Data: Enemymoves-Slimes-plastic_throw-name
 msgctxt "Name of an enemy move."
@@ -6620,390 +6839,420 @@ msgctxt "Plural of the name of an adventurer performing a job."
 msgid "Wenches"
 msgstr "陪酒"
 
-# From Data: Lists-Names-Abigail-ID
-msgctxt "Name of an adventurer."
+# From Data: Lists-ClassTypes-advanced-value
+msgctxt "Value in a list of stuff."
+msgid "Advanced"
+msgstr "Advanced"
+
+# From Data: Lists-ClassTypes-basic-value
+msgctxt "Value in a list of stuff."
+msgid "Basic"
+msgstr "Basic"
+
+# From Data: Lists-ClassTypes-cursed-value
+msgctxt "Value in a list of stuff."
+msgid "Cursed"
+msgstr "Cursed"
+
+# From Data: Lists-ClassTypes-hidden-value
+msgctxt "Value in a list of stuff."
+msgid "Hidden"
+msgstr "Hidden"
+
+# From Data: Lists-EnemyTypes-animal-value
+msgctxt "Value in a list of stuff."
+msgid "Animal"
+msgstr "Animal"
+
+# From Data: Lists-EnemyTypes-greenskin-value
+msgctxt "Value in a list of stuff."
+msgid "Greenskin"
+msgstr "Greenskin"
+
+# From Data: Lists-EnemyTypes-human-value
+msgctxt "Value in a list of stuff."
+msgid "Human"
+msgstr "Human"
+
+# From Data: Lists-EnemyTypes-machine-value
+msgctxt "Value in a list of stuff."
+msgid "Machine"
+msgstr "Machine"
+
+# From Data: Lists-EnemyTypes-parasite-value
+msgctxt "Value in a list of stuff."
+msgid "Parasite"
+msgstr "Parasite"
+
+# From Data: Lists-EnemyTypes-plant-value
+msgctxt "Value in a list of stuff."
+msgid "Plant"
+msgstr "Plant"
+
+# From Data: Lists-EnemyTypes-ratkin-value
+msgctxt "Value in a list of stuff."
+msgid "Ratkin"
+msgstr "Ratkin"
+
+# From Data: Lists-EnemyTypes-slime-value
+msgctxt "Value in a list of stuff."
+msgid "Slime"
+msgstr "Slime"
+
+# From Data: Lists-Names-Abigail-value
+msgctxt "Value in a list of stuff."
 msgid "Abigail"
-msgstr "阿比盖尔"
+msgstr "Abigail"
 
-# From Data: Lists-Names-Ada-ID
-msgctxt "Name of an adventurer."
+# From Data: Lists-Names-Ada-value
+msgctxt "Value in a list of stuff."
 msgid "Ada"
-msgstr "艾达"
+msgstr "Ada"
 
-# From Data: Lists-Names-Adelina-ID
-msgctxt "Name of an adventurer."
+# From Data: Lists-Names-Adelina-value
+msgctxt "Value in a list of stuff."
 msgid "Adelina"
-msgstr "阿黛莉安"
+msgstr "Adelina"
 
-# From Data: Lists-Names-Aeliana-ID
-msgctxt "Name of an adventurer."
+# From Data: Lists-Names-Aeliana-value
+msgctxt "Value in a list of stuff."
 msgid "Aeliana"
-msgstr "艾莉安娜"
+msgstr "Aeliana"
 
-# From Data: Lists-Names-Aika-ID
-msgctxt "Name of an adventurer."
+# From Data: Lists-Names-Aika-value
+msgctxt "Value in a list of stuff."
 msgid "Aika"
-msgstr "艾卡"
+msgstr "Aika"
 
-# From Data: Lists-Names-Akari-ID
-msgctxt "Name of an adventurer."
+# From Data: Lists-Names-Akari-value
+msgctxt "Value in a list of stuff."
 msgid "Akari"
-msgstr "阿卡丽"
+msgstr "Akari"
 
-# From Data: Lists-Names-Anna-ID
-msgctxt "Name of an adventurer."
+# From Data: Lists-Names-Anna-value
+msgctxt "Value in a list of stuff."
 msgid "Anna"
-msgstr "安娜"
+msgstr "Anna"
 
-# From Data: Lists-Names-Arabella-ID
-msgctxt "Name of an adventurer."
+# From Data: Lists-Names-Arabella-value
+msgctxt "Value in a list of stuff."
 msgid "Arabella"
-msgstr "阿拉贝拉"
+msgstr "Arabella"
 
-# From Data: Lists-Names-Aria-ID
-msgctxt "Name of an adventurer."
+# From Data: Lists-Names-Aria-value
+msgctxt "Value in a list of stuff."
 msgid "Aria"
-msgstr "阿莉雅"
+msgstr "Aria"
 
-# From Data: Lists-Names-Astrid-ID
-msgctxt "Name of an adventurer."
+# From Data: Lists-Names-Astrid-value
+msgctxt "Value in a list of stuff."
 msgid "Astrid"
-msgstr "阿斯垂德"
+msgstr "Astrid"
 
-# From Data: Lists-Names-Beatrice-ID
-msgctxt "Name of an adventurer."
+# From Data: Lists-Names-Beatrice-value
+msgctxt "Value in a list of stuff."
 msgid "Beatrice"
-msgstr "碧翠丝"
+msgstr "Beatrice"
 
-# From Data: Lists-Names-Bocchi-ID
-msgctxt "Name of an adventurer."
+# From Data: Lists-Names-Bocchi-value
+msgctxt "Value in a list of stuff."
 msgid "Bocchi"
-msgstr "波奇"
+msgstr "Bocchi"
 
-# From Data: Lists-Names-Brienne-ID
-msgctxt "Name of an adventurer."
+# From Data: Lists-Names-Brienne-value
+msgctxt "Value in a list of stuff."
 msgid "Brienne"
-msgstr "布蕾妮"
+msgstr "Brienne"
 
-# From Data: Lists-Names-Bryn-ID
-msgctxt "Name of an adventurer."
+# From Data: Lists-Names-Bryn-value
+msgctxt "Value in a list of stuff."
 msgid "Bryn"
-msgstr "布琳"
+msgstr "Bryn"
 
-# From Data: Lists-Names-Cassia-ID
-msgctxt "Name of an adventurer."
+# From Data: Lists-Names-Cassia-value
+msgctxt "Value in a list of stuff."
 msgid "Cassia"
-msgstr "卡西娅"
+msgstr "Cassia"
 
-# From Data: Lists-Names-Catriona-ID
-msgctxt "Name of an adventurer."
-msgid "Catriona"
-msgstr "卡特里奥娜"
+# From Data: Lists-Names-Catriona-value
+msgctxt "Value in a list of stuff."
+msgid ""
+msgstr ""
 
-# From Data: Lists-Names-Celestia-ID
-msgctxt "Name of an adventurer."
-msgid "Celestia"
-msgstr "西蕾丝提娅"
+# From Data: Lists-Openings-opening_1-value
+msgctxt "Value in a list of stuff."
+msgid "Dearest Guildmaster,"
+msgstr "最亲爱的公会会长，"
 
-# From Data: Lists-Names-Celia-ID
-msgctxt "Name of an adventurer."
-msgid "Celia"
-msgstr "西莉亚"
+# From Data: Lists-Openings-opening_3-value
+msgctxt "Value in a list of stuff."
+msgid "Esteemed Guildmaster,"
+msgstr "尊敬的公会会长，"
 
-# From Data: Lists-Names-Cordelia-ID
-msgctxt "Name of an adventurer."
-msgid "Cordelia"
-msgstr "柯蒂利娅"
+# From Data: Lists-Openings-opening_4-value
+msgctxt "Value in a list of stuff."
+msgid "To the Noble Guildmaster,"
+msgstr "致高贵的公会会长，"
 
-# From Data: Lists-Names-Dahlia-ID
-msgctxt "Name of an adventurer."
-msgid "Dahlia"
-msgstr "黛莉娅"
+# From Data: Lists-Openings-opening_5-value
+msgctxt "Value in a list of stuff."
+msgid "Guildmaster,"
+msgstr "公会会长，"
 
-# From Data: Lists-Names-Danika-ID
-msgctxt "Name of an adventurer."
-msgid "Danika"
-msgstr "黛妮卡"
+# From Data: Lists-Openings-opening_6-value
+msgctxt "Value in a list of stuff."
+msgid "To my Dearest Friend and Guildmaster,"
+msgstr "致我最爱的朋友和公会会长，"
 
-# From Data: Lists-Names-Daria-ID
-msgctxt "Name of an adventurer."
-msgid "Daria"
-msgstr "达莉娅"
+# From Data: Lists-Openings-opening_7-value
+msgctxt "Value in a list of stuff."
+msgid "I hope this letter finds you well,"
+msgstr "希望你在信中一切安好，"
 
-# From Data: Lists-Names-Deirdre-ID
-msgctxt "Name of an adventurer."
-msgid "Deirdre"
-msgstr "蒂尔德莉"
+# From Data: Lists-Openings-opening_8-value
+msgctxt "Value in a list of stuff."
+msgid "Good Sir,"
+msgstr "先生你好，"
 
-# From Data: Lists-Names-Elara-ID
-msgctxt "Name of an adventurer."
-msgid "Elara"
-msgstr "伊莱拉"
+# From Data: Lists-Personalities-aggressive-value
+msgctxt "Value in a list of stuff."
+msgid "Aggression"
+msgstr "Aggression"
 
-# From Data: Lists-Names-Elena-ID
-msgctxt "Name of an adventurer."
-msgid "Elena"
-msgstr "艾琳娜"
+# From Data: Lists-Personalities-autonomy-value
+msgctxt "Value in a list of stuff."
+msgid "Autonomy"
+msgstr "Autonomy"
 
-# From Data: Lists-Names-Eli-ID
-msgctxt "Name of an adventurer."
-msgid "Eli"
-msgstr "艾莉"
+# From Data: Lists-Personalities-community-value
+msgctxt "Value in a list of stuff."
+msgid "Community"
+msgstr "Community"
 
-# From Data: Lists-Names-Elowen-ID
-msgctxt "Name of an adventurer."
-msgid "Elowen"
-msgstr "埃露温"
+# From Data: Lists-Personalities-docile-value
+msgctxt "Value in a list of stuff."
+msgid "Docility"
+msgstr "Docility"
 
-# From Data: Lists-Names-Elysia-ID
-msgctxt "Name of an adventurer."
-msgid "Elysia"
-msgstr "爱莉希雅"
+# From Data: Lists-Personalities-glory-value
+msgctxt "Value in a list of stuff."
+msgid "Glory"
+msgstr "Glory"
 
-# From Data: Lists-Names-Eowyn-ID
-msgctxt "Name of an adventurer."
-msgid "Eowyn"
-msgstr "伊欧玟"
+# From Data: Lists-Personalities-growth-value
+msgctxt "Value in a list of stuff."
+msgid "Growth"
+msgstr "Growth"
 
-# From Data: Lists-Names-Eris-ID
-msgctxt "Name of an adventurer."
-msgid "Eris"
-msgstr "艾莉斯"
+# From Data: Lists-Personalities-idealism-value
+msgctxt "Value in a list of stuff."
+msgid "Idealism"
+msgstr "Idealism"
 
-# From Data: Lists-Names-Esmeralda-ID
-msgctxt "Name of an adventurer."
-msgid "Esmeralda"
-msgstr "爱斯梅拉达"
+# From Data: Lists-Personalities-pragmatism-value
+msgctxt "Value in a list of stuff."
+msgid "Pragmatism"
+msgstr "Pragmatism"
 
-# From Data: Lists-Names-Fallon-ID
-msgctxt "Name of an adventurer."
-msgid "Fallon"
-msgstr "法伦"
+# From Data: Lists-Personalities-relaxation-value
+msgctxt "Value in a list of stuff."
+msgid "Relaxation"
+msgstr "Relaxation"
 
-# From Data: Lists-Names-Fiona-ID
-msgctxt "Name of an adventurer."
-msgid "Fiona"
-msgstr "菲奥娜"
+# From Data: Lists-Personalities-service-value
+msgctxt "Value in a list of stuff."
+msgid "Service"
+msgstr "Service"
 
-# From Data: Lists-Names-Flora-ID
-msgctxt "Name of an adventurer."
-msgid "Flora"
-msgstr "芙萝拉"
+# From Data: Lists-Rarities-common-value
+msgctxt "Value in a list of stuff."
+msgid "Common"
+msgstr "平凡"
 
-# From Data: Lists-Names-Freya-ID
-msgctxt "Name of an adventurer."
-msgid "Freya"
-msgstr "芙蕾雅"
+# From Data: Lists-Rarities-legendary-value
+msgctxt "Value in a list of stuff."
+msgid "Legendary"
+msgstr "传说"
 
-# From Data: Lists-Names-Genevieve-ID
-msgctxt "Name of an adventurer."
-msgid "Genevieve"
-msgstr "吉妮维芙"
+# From Data: Lists-Rarities-rare-value
+msgctxt "Value in a list of stuff."
+msgid "Rare"
+msgstr "稀有"
 
-# From Data: Lists-Names-Ginevra-ID
-msgctxt "Name of an adventurer."
-msgid "Ginevra"
-msgstr "吉妮芙拉"
+# From Data: Lists-Rarities-uncommon-value
+msgctxt "Value in a list of stuff."
+msgid "Uncommon"
+msgstr "不凡"
 
-# From Data: Lists-Names-Giselle-ID
-msgctxt "Name of an adventurer."
-msgid "Giselle"
-msgstr "吉赛尔"
+# From Data: Lists-Rarities-very_common-value
+msgctxt "Value in a list of stuff."
+msgid "Very Uncommon"
+msgstr "Very Uncommon"
 
-# From Data: Lists-Names-Grace-ID
-msgctxt "Name of an adventurer."
-msgid "Grace"
-msgstr "格蕾丝"
+# From Data: Lists-Rarities-very_rare-value
+msgctxt "Value in a list of stuff."
+msgid "Very Rare"
+msgstr "史诗"
 
-# From Data: Lists-Names-Gwyneth-ID
-msgctxt "Name of an adventurer."
-msgid "Gwyneth"
-msgstr "格温妮斯"
+# From Data: Lists-Sets-bunny-value
+msgctxt "Value in a list of stuff."
+msgid "Bunny"
+msgstr "兔女郎"
 
-# From Data: Lists-Names-Harper-ID
-msgctxt "Name of an adventurer."
-msgid "Harper"
-msgstr "哈珀"
+# From Data: Lists-Sets-cow-value
+msgctxt "Value in a list of stuff."
+msgid "Cow"
+msgstr "奶牛"
 
-# From Data: Lists-Names-Helena-ID
-msgctxt "Name of an adventurer."
-msgid "Helena"
-msgstr "海伦娜"
+# From Data: Lists-Sets-horse-value
+msgctxt "Value in a list of stuff."
+msgid "Horse"
+msgstr "马娘"
 
-# From Data: Lists-Names-Illy-ID
-msgctxt "Name of an adventurer."
-msgid "Illy"
-msgstr "伊莉"
+# From Data: Lists-Sets-latex-value
+msgctxt "Value in a list of stuff."
+msgid "Latex"
+msgstr "胶衣"
 
-# From Data: Lists-Names-Imogen-ID
-msgctxt "Name of an adventurer."
-msgid "Imogen"
-msgstr "伊摩琴"
+# From Data: Lists-Sets-maid-value
+msgctxt "Value in a list of stuff."
+msgid "Main"
+msgstr "Main"
 
-# From Data: Lists-Names-Iona-ID
-msgctxt "Name of an adventurer."
-msgid "Iona"
-msgstr "爱奥娜"
+# From Data: Lists-Sets-pet-value
+msgctxt "Value in a list of stuff."
+msgid "Pet"
+msgstr "宠物"
 
-# From Data: Lists-Names-Irene-ID
-msgctxt "Name of an adventurer."
-msgid "Irene"
-msgstr "艾琳"
+# From Data: Lists-Sets-prisoner-value
+msgctxt "Value in a list of stuff."
+msgid "Prisoner"
+msgstr "囚犯"
 
-# From Data: Lists-Names-Isadora-ID
-msgctxt "Name of an adventurer."
-msgid "Isadora"
-msgstr "伊莎多拉"
+# From Data: Lists-SlotHints-ankles-value
+msgctxt "Value in a list of stuff."
+msgid "Ankles"
+msgstr "脚踝"
 
-# From Data: Lists-Names-Isolde-ID
-msgctxt "Name of an adventurer."
-msgid "Isolde"
-msgstr "伊苏尔德"
+# From Data: Lists-SlotHints-boots-value
+msgctxt "Value in a list of stuff."
+msgid "Boots"
+msgstr "靴子"
 
-# From Data: Lists-Names-Jolene-ID
-msgctxt "Name of an adventurer."
-msgid "Jolene"
-msgstr "乔伦娜"
+# From Data: Lists-SlotHints-collar-value
+msgctxt "Value in a list of stuff."
+msgid "Collar"
+msgstr "项圈"
 
-# From Data: Lists-Names-Juliana-ID
-msgctxt "Name of an adventurer."
-msgid "Juliana"
-msgstr "茱莉安娜"
+# From Data: Lists-SlotHints-corset-value
+msgctxt "Value in a list of stuff."
+msgid "Corset"
+msgstr "束腰"
 
-# From Data: Lists-Names-Junia-ID
-msgctxt "Name of an adventurer."
-msgid "Junia"
-msgstr "优妮雅"
+# From Data: Lists-SlotHints-doll-value
+msgctxt "Value in a list of stuff."
+msgid "Doll"
+msgstr "玩偶"
 
-# From Data: Lists-Names-Kaela-ID
-msgctxt "Name of an adventurer."
-msgid "Kaela"
-msgstr "凯拉"
+# From Data: Lists-SlotHints-ears-value
+msgctxt "Value in a list of stuff."
+msgid "Ears"
+msgstr "耳环"
 
-# From Data: Lists-Names-Kaida-ID
-msgctxt "Name of an adventurer."
-msgid "Kaida"
-msgstr "凯达"
+# From Data: Lists-SlotHints-extra-value
+msgctxt "Value in a list of stuff."
+msgid "Accessory"
+msgstr "饰品"
 
-# From Data: Lists-Names-Kamoo-ID
-msgctxt "Name of an adventurer."
-msgid "Kamoo"
-msgstr "卡缪"
+# From Data: Lists-SlotHints-eyes-value
+msgctxt "Value in a list of stuff."
+msgid "Eyes"
+msgstr "眼罩"
 
-# From Data: Lists-Names-Kassandra-ID
-msgctxt "Name of an adventurer."
-msgid "Kassandra"
-msgstr "卡珊德拉"
+# From Data: Lists-SlotHints-gag-value
+msgctxt "Value in a list of stuff."
+msgid "Gag"
+msgstr "口塞"
 
-# From Data: Lists-Names-Lark-ID
-msgctxt "Name of an adventurer."
-msgid "Lark"
-msgstr "云雀"
+# From Data: Lists-SlotHints-gloves-value
+msgctxt "Value in a list of stuff."
+msgid "Gloves"
+msgstr "手套"
 
-# From Data: Lists-Names-Leona-ID
-msgctxt "Name of an adventurer."
-msgid "Leona"
-msgstr "蕾欧娜"
+# From Data: Lists-SlotHints-head-value
+msgctxt "Value in a list of stuff."
+msgid "Head"
+msgstr "头套"
 
-# From Data: Lists-Names-Lirien-ID
-msgctxt "Name of an adventurer."
-msgid "Lirien"
-msgstr "莉瑞恩"
+# From Data: Lists-SlotHints-heel-value
+msgctxt "Value in a list of stuff."
+msgid "Heels"
+msgstr "高跟"
 
-# From Data: Lists-Names-Lucette-ID
-msgctxt "Name of an adventurer."
-msgid "Lucette"
-msgstr "丽赛特"
+# From Data: Lists-SlotHints-marking-value
+msgctxt "Value in a list of stuff."
+msgid "Marking"
+msgstr "Marking"
 
-# From Data: Lists-Names-Lyanna-ID
-msgctxt "Name of an adventurer."
-msgid "Lyanna"
-msgstr "莱安娜"
+# From Data: Lists-SlotHints-mouth-value
+msgctxt "Value in a list of stuff."
+msgid "Mouth"
+msgstr "嘴部"
 
-# From Data: Lists-Names-Lyra-ID
-msgctxt "Name of an adventurer."
-msgid "Lyra"
-msgstr "莱拉"
+# From Data: Lists-SlotHints-outfit-value
+msgctxt "Value in a list of stuff."
+msgid "Outfit"
+msgstr "制服"
 
-# From Data: Lists-Names-Maria-ID
-msgctxt "Name of an adventurer."
-msgid "Maria"
-msgstr "玛莉亚"
+# From Data: Lists-SlotHints-plug-value
+msgctxt "Value in a list of stuff."
+msgid "Plug"
+msgstr "插件"
 
-# From Data: Lists-Names-Marlowe-ID
-msgctxt "Name of an adventurer."
-msgid "Marlowe"
-msgstr "玛洛"
+# From Data: Lists-SlotHints-posture-value
+msgctxt "Value in a list of stuff."
+msgid "Posture"
+msgstr "Posture"
 
-# From Data: Lists-Names-Mia-ID
-msgctxt "Name of an adventurer."
-msgid "Mia"
-msgstr "米娅"
+# From Data: Lists-SlotHints-under-value
+msgctxt "Value in a list of stuff."
+msgid "Underwear"
+msgstr "内衣"
 
-# From Data: Lists-Names-Mirabelle-ID
-msgctxt "Name of an adventurer."
-msgid "Mirabelle"
-msgstr "米拉贝丽"
+# From Data: Lists-SlotHints-vibrator-value
+msgctxt "Value in a list of stuff."
+msgid "Vibrator"
+msgstr "震动棒"
 
-# From Data: Lists-Names-Nia-ID
-msgctxt "Name of an adventurer."
-msgid "Nia"
-msgstr "妮雅"
+# From Data: Lists-SlotHints-weapon-value
+msgctxt "Value in a list of stuff."
+msgid "Weapon"
+msgstr "武器"
 
-# From Data: Lists-Names-Niamh-ID
-msgctxt "Name of an adventurer."
-msgid "Niamh"
-msgstr "妮雅芙"
+# From Data: Lists-TokenTypes-defensive-value
+msgctxt "Value in a list of stuff."
+msgid "Defensive"
+msgstr "防御"
 
-# From Data: Lists-Names-Ophelia-ID
-msgctxt "Name of an adventurer."
-msgid "Ophelia"
-msgstr "奥菲莉亚"
+# From Data: Lists-TokenTypes-negative-value
+msgctxt "Value in a list of stuff."
+msgid "Negative"
+msgstr "被动"
 
-# From Data: Lists-Names-Penelope-ID
-msgctxt "Name of an adventurer."
-msgid "Penelope"
-msgstr "佩内洛普"
+# From Data: Lists-TokenTypes-positive-value
+msgctxt "Value in a list of stuff."
+msgid "Positive"
+msgstr "主动"
 
-# From Data: Lists-Names-Petra-ID
-msgctxt "Name of an adventurer."
-msgid "Petra"
-msgstr "佩特拉"
+# From Data: Lists-TokenTypes-special-value
+msgctxt "Value in a list of stuff."
+msgid "Special"
+msgstr "特殊"
 
-# From Data: Lists-Names-Raine-ID
-msgctxt "Name of an adventurer."
-msgid "Raine"
-msgstr "雷恩"
-
-# From Data: Lists-Names-Seraphina-ID
-msgctxt "Name of an adventurer."
-msgid "Seraphina"
-msgstr "塞拉芬娜"
-
-# From Data: Lists-Names-Sylva-ID
-msgctxt "Name of an adventurer."
-msgid "Sylva"
-msgstr "希尔瓦"
-
-# From Data: Lists-Names-Thalia-ID
-msgctxt "Name of an adventurer."
-msgid "Thalia"
-msgstr "塔莉娅"
-
-# From Data: Lists-Names-Theodora-ID
-msgctxt "Name of an adventurer."
-msgid "Theodora"
-msgstr "西奥多拉"
-
-# From Data: Lists-Names-Willow-ID
-msgctxt "Name of an adventurer."
-msgid "Willow"
-msgstr "薇洛"
-
-# From Data: Lists-Names-Yui-ID
-msgctxt "Name of an adventurer."
-msgid "Yui"
-msgstr "由衣"
+# From Data: Lists-TokenTypes-unused-value
+msgctxt "Value in a list of stuff."
+msgid "Unused"
+msgstr "未使用"
 
 # From Data: Loot-Gems-citrine-info
 msgctxt "Description of a loot item (gems or mana)."
@@ -7413,7 +7662,7 @@ msgstr "群体散射"
 # From Data: Playermoves-Alchemist-branding-name
 msgctxt "Name of a move."
 msgid "Branding"
-msgstr "性奴化"
+msgstr "烙印"
 
 # From Data: Playermoves-Alchemist-cauterize-name
 msgctxt "Name of a move."
@@ -7764,6 +8013,11 @@ msgstr "塞入拉珠"
 msgctxt "Name of a move."
 msgid "Remove Bead"
 msgstr "移除拉珠"
+
+# From Data: Playermoves-Gear-smell_flower-name
+msgctxt "Name of a move."
+msgid "Smell Flower"
+msgstr "Smell Flower"
 
 # From Data: Playermoves-Gear-spank-name
 msgctxt "Name of a move."
@@ -8825,6 +9079,516 @@ msgctxt "Name of a provision."
 msgid "Sedative"
 msgstr "镇静剂"
 
+# From Data: QuestTutorials-QuestTutorials-abandon_adventurer-name
+msgctxt "Name of a tutorial quest"
+msgid "Dismiss an adventurer."
+msgstr "解雇一名冒险者。"
+
+# From Data: QuestTutorials-QuestTutorials-abandon_adventurer-text
+msgctxt "Description of a tutorial quest"
+msgid "While in the guild (and with at least two free adventurers), you can dismiss a girl by pressing the abandon button in the adventurer overview. Try it out now! Recruit a girl and throw her out immediately!"
+msgstr "在公会中（至少有两名自由冒险者），您可以按冒险者概览中的放弃按钮来解雇一名女孩。现在就试试吧！招募一名女孩并立即将她丢弃！"
+
+# From Data: QuestTutorials-QuestTutorials-accept_dynamic_quest-name
+msgctxt "Name of a tutorial quest"
+msgid "Accept a dynamic quest."
+msgstr "接受动态委托。"
+
+# From Data: QuestTutorials-QuestTutorials-accept_dynamic_quest-text
+msgctxt "Description of a tutorial quest"
+msgid "You will periodically receive dynamic quests (40% chance per day). Completing them gives you favor. Favor can be used to skip days or buy high tier guild upgrades."
+msgstr "您会定期接到动态委托（每天 40% 的几率）。完成任务可获得声望。声望可以用来跳过天或购买高级公会升级。"
+
+# From Data: QuestTutorials-QuestTutorials-advance_a_crest-name
+msgctxt "Name of a tutorial quest"
+msgid "Advance any crest."
+msgstr "制作任何淫纹。"
+
+# From Data: QuestTutorials-QuestTutorials-advance_a_crest-text
+msgctxt "Description of a tutorial quest"
+msgid "When your adventurer has high lust, enemies can advance a crest. Crests give unique bonusses and drawbacks to your adventurers. Each region has its own assortment of crests. Later on, you can instill mantras in your girls to boost specific crests."
+msgstr "当你的冒险者拥有很高的欲望时，敌人就可以制作一个淫纹。淫纹会给冒险者带来独特的优势和劣势。每个地区都有自己的淫纹种类。之后，您还可以向女孩们灌输咒语来提升特定的淫纹。"
+
+# From Data: QuestTutorials-QuestTutorials-apply_a_dot-name
+msgctxt "Name of a tutorial quest"
+msgid "Apply a DoT."
+msgstr "附加持续伤害(DoT)。"
+
+# From Data: QuestTutorials-QuestTutorials-apply_a_dot-text
+msgctxt "Description of a tutorial quest"
+msgid "Damage over Time effects (dots) give effects over time. You can hover over their icons in combat to see their strength and duration. These are great to bypass block, but will also trigger checks on your faltering adventurers."
+msgstr "持续伤害（DoT）会随着时间的推移而产生效果。您可以在战斗中将鼠标悬停在它们的图标上，查看其强度和持续时间。这些效果非常适合绕过防御，但也会触发对摇摇欲坠的冒险者的检查。"
+
+# From Data: QuestTutorials-QuestTutorials-apply_a_token-name
+msgctxt "Name of a tutorial quest"
+msgid "Apply any token."
+msgstr "附加任何状态标记。"
+
+# From Data: QuestTutorials-QuestTutorials-apply_a_token-text
+msgctxt "Description of a tutorial quest"
+msgid "All combat debuffs are handled through tokens. These show up below the characters in combat, hover over them for further information."
+msgstr "所有战斗增益/减益都通过状态标记来表示。这些标记会显示在战斗中角色的下方，悬停在标记上可获得更多信息。"
+
+# From Data: QuestTutorials-QuestTutorials-assemble_a_party-name
+msgctxt "Name of a tutorial quest"
+msgid "Assemble a full party."
+msgstr "组建一个完整的队伍。"
+
+# From Data: QuestTutorials-QuestTutorials-assemble_a_party-text
+msgctxt "Description of a tutorial quest"
+msgid "You assemble a party by dragging adventurers from the right panel to the party on the bottom. You can select four adventurers. Going into dungeons with fewer adventurers is very dangerous."
+msgstr "您可以将右侧面板中的冒险者拖到底部的队伍中，从而组建队伍。您可以选择四名冒险者。在冒险者人数较少的情况下进入地牢是非常危险的。"
+
+# From Data: QuestTutorials-QuestTutorials-buy_provisions-name
+msgctxt "Name of a tutorial quest"
+msgid "Buy as many provisions as possible."
+msgstr "尽可能多地购买供应品。"
+
+# From Data: QuestTutorials-QuestTutorials-buy_provisions-text
+msgctxt "Description of a tutorial quest"
+msgid "Each day you get an amount of provision points that can be used to buy provisions. These are reset each day, so be sure to spend them all.You can upgrade these by improving your farmstead or employing forced labourers."
+msgstr "每天您都会获得一定数量的供给点，可以用来购买供给品。您可以通过改善您的农庄或雇佣强制劳工来升级这些点数。"
+
+# From Data: QuestTutorials-QuestTutorials-check_bestiary-name
+msgctxt "Name of a tutorial quest"
+msgid "Check the Bestiary."
+msgstr "查看怪物图鉴(Bestiary)。"
+
+# From Data: QuestTutorials-QuestTutorials-check_bestiary-text
+msgctxt "Description of a tutorial quest"
+msgid "Whenever you kill an enemy, your bestiary gets filled in. Have a look at it. There are also similar lists for your collected items, classes, and curios.These not only give you bragging rights, but are also necessary to complete certain quests."
+msgstr "每当你杀死一个敌人，你的怪物图鉴(Bestiary)就会被填满。看一看吧。您收集的物品、等级和奇珍异宝也有类似的列表。这些不仅能让您获得炫耀的资本，也是完成某些任务所必需的。"
+
+# From Data: QuestTutorials-QuestTutorials-check_dots-name
+msgctxt "Name of a tutorial quest"
+msgid "Check Dots."
+msgstr "查看持续伤害图鉴。"
+
+# From Data: QuestTutorials-QuestTutorials-check_dots-text
+msgctxt "Description of a tutorial quest"
+msgid "You can find an overview of all dots by pressing the quest mark button. Have a look at them now."
+msgstr "按下任务标记按钮，即可查看所有持续伤害的概览。现在就来看看吧。"
+
+# From Data: QuestTutorials-QuestTutorials-check_encyclopedia-name
+msgctxt "Name of a tutorial quest"
+msgid "Check the Encyclopedia."
+msgstr "查看百科全书。"
+
+# From Data: QuestTutorials-QuestTutorials-check_encyclopedia-text
+msgctxt "Description of a tutorial quest"
+msgid "If you find these tutorials insufficient, you can check out the encyclopedia after pressing on the question mark. This will give further information on specific game mechanics."
+msgstr "如果您觉得这些教程不够充分，可以在按下问号后查看百科全书。这将提供有关特定游戏机制的更多信息。"
+
+# From Data: QuestTutorials-QuestTutorials-check_tokens-name
+msgctxt "Name of a tutorial quest"
+msgid "Check the Tokens overview."
+msgstr "查看状态标记概览。"
+
+# From Data: QuestTutorials-QuestTutorials-check_tokens-text
+msgctxt "Description of a tutorial quest"
+msgid "Tokens can be complicated. You can find an overview of every single token by pressing on the question mark. Check it out."
+msgstr "状态标记可能很复杂。您可以按下问号，查看每种状态标记的概况。看看吧."
+
+# From Data: QuestTutorials-QuestTutorials-complete_10_devgoals-name
+msgctxt "Name of a tutorial quest"
+msgid "Complete 10 development goals."
+msgstr "完成 10 项个人发展目标。"
+
+# From Data: QuestTutorials-QuestTutorials-complete_10_devgoals-text
+msgctxt "Description of a tutorial quest"
+msgid "Completing development goals is the way to strengthen your adventurers. Look out for opportunities to fulfill them efficiently."
+msgstr "完成个人发展目标是增强冒险者实力的途径。寻找机会，高效完成目标。"
+
+# From Data: QuestTutorials-QuestTutorials-complete_a_mission-name
+msgctxt "Name of a tutorial quest"
+msgid "Complete a mission."
+msgstr "完成任务。"
+
+# From Data: QuestTutorials-QuestTutorials-complete_a_mission-text
+msgctxt "Description of a tutorial quest"
+msgid "Completing missions gives you mana, gold, and gear rewards. Apart from that, they strengthen your adventurers and bring you closer to your goal of cleansing these lands."
+msgstr "完成任务可以获得法力、金币和装备奖励。除此之外，它们还能增强冒险者的实力，让您更接近净化这片土地的目标。"
+
+# From Data: QuestTutorials-QuestTutorials-complete_devgoal-name
+msgctxt "Name of a tutorial quest"
+msgid "Complete a development goal of an adventurer."
+msgstr "完成冒险者的发展目标。"
+
+# From Data: QuestTutorials-QuestTutorials-complete_devgoal-text
+msgctxt "Description of a tutorial quest"
+msgid "To gain experience, your adventurers need to complete personal development goals. These are semi-random challenges and can be found in the adventurer overview. You can also hover over their icons (below your adventurer's portrait) to find out the specifics."
+msgstr "为了获得经验，冒险者需要完成个人发展目标。这些都是半随机的挑战，可以在冒险者概览中找到。您也可以将鼠标悬停在他们的图标上（在冒险者头像下方），了解具体内容。"
+
+# From Data: QuestTutorials-QuestTutorials-complete_quest-name
+msgctxt "Name of a tutorial quest"
+msgid "Complete a quest."
+msgstr "完成任务。"
+
+# From Data: QuestTutorials-QuestTutorials-complete_quest-text
+msgctxt "Description of a tutorial quest"
+msgid "By clicking on the question mark in the bottom right you can see all current quests. These quests give important rewards, and show what the Empire expects from you as guildmaster."
+msgstr "点击右下角的问号可以查看当前所有任务。这些任务会给您带来重要奖励，并显示帝国对您作为公会会长的期望。"
+
+# From Data: QuestTutorials-QuestTutorials-cure_a_quirk-name
+msgctxt "Name of a tutorial quest"
+msgid "Cure a quirk."
+msgstr "治愈怪癖。"
+
+# From Data: QuestTutorials-QuestTutorials-cure_a_quirk-text
+msgctxt "Description of a tutorial quest"
+msgid "Once you unlock the Mental Ward, you can remove unwanted quirks from your adventurers. If the quirk opposes the personality of the adventurer it will also decay by itself. "
+msgstr "一旦解锁了精神守卫，你就可以消除冒险者身上不需要的怪癖。如果怪癖与冒险者的个性相悖，它也会自行衰减。"
+
+# From Data: QuestTutorials-QuestTutorials-employ_a_girl-name
+msgctxt "Name of a tutorial quest"
+msgid "Employ an adventurer."
+msgstr "雇用一名冒险家。"
+
+# From Data: QuestTutorials-QuestTutorials-employ_a_girl-text
+msgctxt "Description of a tutorial quest"
+msgid "Some upgrades unlock job slots in the buildings of the guild. Drag a girl from the panel to the left to that position to employ her. You can hover her icon for further info on the job."
+msgstr "某些升级会解锁公会建筑中的工作位置。将一个女孩从左边的面板拖到那个位置，就可以雇用她。您可以将她的图标悬停，查看有关工作的更多信息。"
+
+# From Data: QuestTutorials-QuestTutorials-enter_dungeon_too_easy-name
+msgctxt "Name of a tutorial quest"
+msgid "Enter a dungeon that's too easy for an adventurer."
+msgstr "进入一个对冒险者来说太容易的地牢。"
+
+# From Data: QuestTutorials-QuestTutorials-enter_dungeon_too_easy-text
+msgctxt "Description of a tutorial quest"
+msgid "Your adventurers aren't capable of completing development goals in dungeons that are below their level. They can still escort weaker girls, but won't be able to improve themselves."
+msgstr "您的冒险者无法在低于他们等级的地牢中完成发展目标。他们仍然可以护送较弱的女孩，但无法提升自己。"
+
+# From Data: QuestTutorials-QuestTutorials-favorite_an_adventurer-name
+msgctxt "Name of a tutorial quest"
+msgid "Favorite an adventurer."
+msgstr "收藏冒险者。"
+
+# From Data: QuestTutorials-QuestTutorials-favorite_an_adventurer-text
+msgctxt "Description of a tutorial quest"
+msgid "If you toggle the box next to the job description of your girls in the adventurer overview, you'll favorite that girl. She'll always show up on top of the guild roster."
+msgstr "如果在冒险者总览中切换女孩职业描述旁边的方框，就会收藏该女孩。她将始终显示在公会名册的顶部。"
+
+# From Data: QuestTutorials-QuestTutorials-find_cursed_equipment-name
+msgctxt "Name of a tutorial quest"
+msgid "Find cursed equipment."
+msgstr "找到被诅咒的装备。"
+
+# From Data: QuestTutorials-QuestTutorials-find_cursed_equipment-text
+msgctxt "Description of a tutorial quest"
+msgid "Most cursed equipment pretends to be a different item until equipped. The only way to identify items is equipping it. Have fun."
+msgstr "大多数被诅咒的装备在装备之前都会伪装成不同的物品。识别物品的唯一方法就是装备它。玩得开心~"
+
+# From Data: QuestTutorials-QuestTutorials-get_a_cursed_class-name
+msgctxt "Name of a tutorial quest"
+msgid "Obtain a cursed class."
+msgstr "获得诅咒职业。"
+
+# From Data: QuestTutorials-QuestTutorials-get_a_cursed_class-text
+msgctxt "Description of a tutorial quest"
+msgid "If an adventurer wears enough cursed gear, she will turn into a cursed class. The only way for her to turn back is by advancing far enough in that class.Or you can keep her like that, cursed classes have niche specializations that can help out."
+msgstr "如果冒险者穿上足够多的诅咒装备，她就会变成诅咒职业。要想变回来，唯一的办法就是在该职业小有所成。或者你也可以让她保持这样，诅咒职业有一些特殊的专长可以帮助她。"
+
+# From Data: QuestTutorials-QuestTutorials-get_afflicted-name
+msgctxt "Name of a tutorial quest"
+msgid "Get afflicted."
+msgstr "受到折磨。"
+
+# From Data: QuestTutorials-QuestTutorials-get_afflicted-text
+msgctxt "Description of a tutorial quest"
+msgid "If an adventurer reaches 100 lust, she will get afflicted. If her desires are low, she will shrug it off. If her desires are high however, there will be consequences."
+msgstr "如果冒险者的欲望达到 100，她就会受到影响。如果她的欲望很低，她就会置之不理。但如果欲望过高，就会产生后果。"
+
+# From Data: QuestTutorials-QuestTutorials-get_equipped_with_gear-name
+msgctxt "Name of a tutorial quest"
+msgid "Get equipped with gear."
+msgstr "配备装备。"
+
+# From Data: QuestTutorials-QuestTutorials-get_equipped_with_gear-text
+msgctxt "Description of a tutorial quest"
+msgid "Once an adventurer's equipment is broken by enemy attacks, and she has a free (or broken) inventory slot, enemies will try to attach cursed gear. The type of cursed gear depends on the region."
+msgstr "一旦冒险者的装备被敌人攻击损坏，而她又有空闲（或损坏）的装备槽，敌人就会尝试附加诅咒装备。诅咒装备的类型取决于地区。"
+
+# From Data: QuestTutorials-QuestTutorials-get_infinite_equipment-name
+msgctxt "Name of a tutorial quest"
+msgid "Turn a piece of equipment infinite."
+msgstr "将装备转化为无限装备。"
+
+# From Data: QuestTutorials-QuestTutorials-get_infinite_equipment-text
+msgctxt "Description of a tutorial quest"
+msgid "Once you collect and identify four of the same types of equipment, the equipment will turn infinite. You will then be able to equip it to every adventurer without the item running out."
+msgstr "一旦您收集并鉴定了四件相同类型的装备，装备就会变成无限。这样，您就可以将其装备给每一位冒险者，而不会出现物品耗尽的情况。"
+
+# From Data: QuestTutorials-QuestTutorials-get_kidnapped-name
+msgctxt "Name of a tutorial quest"
+msgid "Get an adventurer kidnapped."
+msgstr "让一名冒险者被绑架。"
+
+# From Data: QuestTutorials-QuestTutorials-get_kidnapped-text
+msgctxt "Description of a tutorial quest"
+msgid "Once an adventurer reaches 0 HP, she doesn't die. She turns into a faltering state. Whenever she takes damage, there's an increasing chance that she will be kidnapped.Once an adventurer is kidnapped, you'll have to rescue her."
+msgstr "冒险者的 HP 值为 0 时，她不会死亡。她会进入虚弱状态。每当她受到伤害时，她被绑架的几率就会增加。一旦冒险者被绑架，你就必须去营救她。"
+
+# From Data: QuestTutorials-QuestTutorials-inspect_an_enemy-name
+msgctxt "Name of a tutorial quest"
+msgid "Inspect an enemy."
+msgstr "检视敌人。"
+
+# From Data: QuestTutorials-QuestTutorials-inspect_an_enemy-text
+msgctxt "Description of a tutorial quest"
+msgid "You can inspect enemies by right clicking them (or their portrait in the turn order). This will show their moves and special effects."
+msgstr "右键单击敌人（或其在回合顺序中的头像），即可检视敌人。这将显示他们的动作和特效。"
+
+# From Data: QuestTutorials-QuestTutorials-interact_with_a_curio-name
+msgctxt "Name of a tutorial quest"
+msgid "Interact with a curio."
+msgstr "与事件互动。"
+
+# From Data: QuestTutorials-QuestTutorials-interact_with_a_curio-text
+msgctxt "Description of a tutorial quest"
+msgid "Some encounters in a dungeon (such as a chest) will offer you a dilemma. Each adventurer will offer her opinion. Select her portrait to choose that option to handle the curio. Some curios are good, others are sometimes good, and even other are \\\"fun\\\". You'll learn over time."
+msgstr "地牢中的某些遭遇（如箱子）会让您进退两难。每个冒险者都会提出自己的意见。选择她的肖像就可以选择该选项来处理事件。有些事件是好的，有些事件有时是好的，有些事件甚至是 \"有趣的\"。随着时间的推移，你会慢慢明白的。"
+
+# From Data: QuestTutorials-QuestTutorials-kill_first_boss-name
+msgctxt "Name of a tutorial quest"
+msgid "Kill the first boss."
+msgstr "杀死第一个 BOSS。"
+
+# From Data: QuestTutorials-QuestTutorials-kill_first_boss-text
+msgctxt "Description of a tutorial quest"
+msgid "The custom landmarks on the map are bosses. They have a custom dungeon, and are harder than usual enemies. Prepare well to take them out."
+msgstr "地图上的自定义地标是BOSS。它们有一个自定义地牢，比一般敌人更难对付。做好充分准备才能干掉他们。"
+
+# From Data: QuestTutorials-QuestTutorials-load_an_autosaved_party-name
+msgctxt "Name of a tutorial quest"
+msgid "Load an autosaved party."
+msgstr "加载自动保存的队伍(Previous Party)。"
+
+# From Data: QuestTutorials-QuestTutorials-load_an_autosaved_party-text
+msgctxt "Description of a tutorial quest"
+msgid "The last used party after each dungeon is saved automatically. Press the shield above the party icons in the bottom of the guild to select the autosaved party."
+msgstr "每个地下城后最后使用的队伍都会自动保存。按公会底部队伍图标上方的盾牌可选择自动保存的队伍。"
+
+# From Data: QuestTutorials-QuestTutorials-lock_a_job-name
+msgctxt "Name of a tutorial quest"
+msgid "Lock a job."
+msgstr "锁定工作。"
+
+# From Data: QuestTutorials-QuestTutorials-lock_a_job-text
+msgctxt "Description of a tutorial quest"
+msgid "You don't have to assign girls to specific jobs every day. Press the lock icon below their portrait to tell them to stay employed."
+msgstr "您不必每天为女孩们分配特定的工作。按下她们头像下方的锁定图标，告诉她们继续工作。"
+
+# From Data: QuestTutorials-QuestTutorials-lock_a_quirk-name
+msgctxt "Name of a tutorial quest"
+msgid "Lock a quirk."
+msgstr "锁定一个怪癖。"
+
+# From Data: QuestTutorials-QuestTutorials-lock_a_quirk-text
+msgctxt "Description of a tutorial quest"
+msgid "Quirks will increase or decrease depending on the personality of your adventurer (which is defined by her starting traits). If you want to keep a quirk, you can lock it increasing its growth. A premium lock increases it even further."
+msgstr "怪癖的增减取决于冒险者的性格（由她的初始特质决定）。如果你想保留某个怪癖，你可以在精神病院锁定它，增加它的成长。高级锁定则会进一步增加。"
+
+# From Data: QuestTutorials-QuestTutorials-open_class_overview-name
+msgctxt "Name of a tutorial quest"
+msgid "Open the Adventurer Class Overview."
+msgstr "打开 冒险者职业概览。"
+
+# From Data: QuestTutorials-QuestTutorials-open_class_overview-text
+msgctxt "Description of a tutorial quest"
+msgid "From the Adventurer Overview, you can open the Class Overview. This shows all classes your adventurer has experience in. This panel also allows you to switch classes and reroll development goals."
+msgstr "从冒险者职业概览中，您可以打开等级概览。这将显示冒险者拥有经验的所有等级。您还可以在此面板上切换等级并重选发展目标。"
+
+# From Data: QuestTutorials-QuestTutorials-open_crest_overview-name
+msgctxt "Name of a tutorial quest"
+msgid "Open the Adventurer Desire Overview."
+msgstr "打开 冒险者欲望概览。"
+
+# From Data: QuestTutorials-QuestTutorials-open_crest_overview-text
+msgctxt "Description of a tutorial quest"
+msgid "In the adventurer overview, click the crest on the top to go to the Adventurer Desire overview. This shows the current desires of the girl, and her current crest progressions.The higher her desires, the more dangerous afflictions are going to be."
+msgstr "在 冒险者总览 中，点击顶部的淫纹可以进入 冒险者欲望总览 。这将显示女孩当前的欲望，以及她当前的淫纹进度。她的欲望越高，受到的折磨就越危险。"
+
+# From Data: QuestTutorials-QuestTutorials-open_pop_overview-name
+msgctxt "Name of a tutorial quest"
+msgid "Open the Adventurer Overview."
+msgstr "打开 冒险者总览。"
+
+# From Data: QuestTutorials-QuestTutorials-open_pop_overview-text
+msgctxt "Description of a tutorial quest"
+msgid "To see more information about your adventurers, right click their portrait. This will show her stats, moves, quirks, and so on.You can also press the lists button in the bottom right."
+msgstr "要查看冒险者的更多信息，请右击他们的头像。您也可以按右下角的列表按钮。"
+
+# From Data: QuestTutorials-QuestTutorials-reach_first_boss-name
+msgctxt "Name of a tutorial quest"
+msgid "Reach the first boss."
+msgstr "到达第一位老板"
+
+# From Data: QuestTutorials-QuestTutorials-reach_first_boss-text
+msgctxt "Description of a tutorial quest"
+msgid "Whenever you complete a mission, the tiles next to it on the overworld map will be revealed. This allows you to move to further and more dangerous dungeons.The landmarks on the map are bosses, try to reach the closest one (the castle on the island in the middle of the river)."
+msgstr "每当您完成一个任务，它旁边的地砖就会出现在世界地图上。地图上的地标都是 BOSS，请尝试到达最近的地标（河中央小岛上的城堡）。"
+
+# From Data: QuestTutorials-QuestTutorials-recruit_from_stagecoach-name
+msgctxt "Name of a tutorial quest"
+msgid "Recruit two adventurers from the stagecoach."
+msgstr "从驿车上招募两名冒险者。"
+
+# From Data: QuestTutorials-QuestTutorials-recruit_from_stagecoach-text
+msgctxt "Description of a tutorial quest"
+msgid "You will need backup to expand your guild. Fortunately, new adventurers arrive daily on the stagecoach. Recruit two new ones, so you have a full party."
+msgstr "您需要后援来扩大您的公会。幸运的是，每天都有新的冒险者搭乘驿车前来。招募两个新的冒险者，这样你就有了一个完整的队伍。"
+
+# From Data: QuestTutorials-QuestTutorials-reroll_goals-name
+msgctxt "Name of a tutorial quest"
+msgid "Reroll development goals."
+msgstr "重选发展目标。"
+
+# From Data: QuestTutorials-QuestTutorials-reroll_goals-text
+msgctxt "Description of a tutorial quest"
+msgid "If the development goals of an adventurer are too hard to complete, you can always reroll them for a mana cost.Try going to the the class adventurer panel and doing so now."
+msgstr "如果冒险者的发展目标太难完成，你可以花费一定的法力值对其进行重选。"
+
+# From Data: QuestTutorials-QuestTutorials-rescue_victim-name
+msgctxt "Name of a tutorial quest"
+msgid "Rescue a kidnapped adventurer."
+msgstr "营救一名被绑架的冒险家。"
+
+# From Data: QuestTutorials-QuestTutorials-rescue_victim-text
+msgctxt "Description of a tutorial quest"
+msgid "You can rescue kidnapped adventurers by going to the rescue screen (to the left on the overworld map) and selecting her corresponding mission.You need to actively rescue the adventurer during the mission. Just completing the mission isn't sufficient."
+msgstr "您可以通过进入营救界面（在世界地图的左侧）并选择相应的任务来营救被绑架的冒险者。仅仅完成任务是不够的。"
+
+# From Data: QuestTutorials-QuestTutorials-save_a_party-name
+msgctxt "Name of a tutorial quest"
+msgid "Save a party layout."
+msgstr "保存队伍配置。"
+
+# From Data: QuestTutorials-QuestTutorials-save_a_party-text
+msgctxt "Description of a tutorial quest"
+msgid "You can save a specific party layout by giving them a name and pressing the quill icon. You can then load this party whenever you want."
+msgstr "您可以为特定的派对配置命名并按下鹅毛笔图标进行保存。然后，您就可以随时加载这个派对了。"
+
+# From Data: QuestTutorials-QuestTutorials-select_a_dungeon-name
+msgctxt "Name of a tutorial quest"
+msgid "Select a dungeon."
+msgstr "选择一个地牢。"
+
+# From Data: QuestTutorials-QuestTutorials-select_a_dungeon-text
+msgctxt "Description of a tutorial quest"
+msgid "The colored diamonds on the map are dungeons, their icon indicating the region. Select one to move to the provision screen. If you want to return, you can press the guild building on the map to return."
+msgstr "地图上的彩色菱形是地牢，其图标表示所在区域。选择一个即可进入提供界面。如果您想返回，可以按地图上的公会建筑返回。"
+
+# From Data: QuestTutorials-QuestTutorials-select_level_upgrade-name
+msgctxt "Name of a tutorial quest"
+msgid "Select a level upgrade."
+msgstr "选择等级升级。"
+
+# From Data: QuestTutorials-QuestTutorials-select_level_upgrade-text
+msgctxt "Description of a tutorial quest"
+msgid "As your adventurers get experience, they can spend it on class upgrades. These give new moves or other effects. There is no reason not to immediately spend your experience points!"
+msgstr "当冒险者获得经验时，他们可以将经验用于等级升级。这些升级会带来新的动作或其他效果。没有理由不立即花费经验值！"
+
+# From Data: QuestTutorials-QuestTutorials-select_new_move-name
+msgctxt "Name of a tutorial quest"
+msgid "Select a new move for your adventurer."
+msgstr "为您的冒险者选择新的招式。"
+
+# From Data: QuestTutorials-QuestTutorials-select_new_move-text
+msgctxt "Description of a tutorial quest"
+msgid "The selected upgrade allow you to upgrade the moves of the adventurer. She can have five moves, so select the new move in the adventurer overview so it's available during combat."
+msgstr "选择升级后，您就可以升级冒险者的招式。她可以携带五种招式，因此请在冒险者概览中选择新招式，以便在战斗中使用。"
+
+# From Data: QuestTutorials-QuestTutorials-start-name
+msgctxt "Name of a tutorial quest"
+msgid "Hover over this tutorial for further info."
+msgstr "悬停在本教程上可获取更多信息。"
+
+# From Data: QuestTutorials-QuestTutorials-start-text
+msgctxt "Description of a tutorial quest"
+msgid "Hover tutorials for further information. Most things in this game have tooltips, hover over them as well.Click the button to complete this tutorial!"
+msgstr "悬停教程可获取更多信息。游戏中的大部分内容都有工具提示，请将鼠标悬停在工具提示上！"
+
+# From Data: QuestTutorials-QuestTutorials-switch_classes-name
+msgctxt "Name of a tutorial quest"
+msgid "Switch the class of an adventurer."
+msgstr "切换冒险者职业。"
+
+# From Data: QuestTutorials-QuestTutorials-switch_classes-text
+msgctxt "Description of a tutorial quest"
+msgid "For a small mana cost, you can switch classes of your adventurer in the class panel. The experience in the old class will be kept."
+msgstr "只需花费少量法力，您就可以在等级面板上切换冒险者的职业。旧职业的经验将被保留。"
+
+# From Data: QuestTutorials-QuestTutorials-target_a_move-name
+msgctxt "Name of a tutorial quest"
+msgid "Target an enemy with a move."
+msgstr "用招式瞄准敌人。"
+
+# From Data: QuestTutorials-QuestTutorials-target_a_move-text
+msgctxt "Description of a tutorial quest"
+msgid "The moves you can use depend on the rank (position) of your adventurer. The targets are also limited to specific ranks. If a move is grayed out, you're either in the wrong position, or there are no valid targets."
+msgstr "您可以使用的招式取决于冒险者的职业/站位。目标也仅限于特定等级。如果某个招式显示为灰色，要么是你的站位不对，要么是没有有效的目标。"
+
+# From Data: QuestTutorials-QuestTutorials-train_a_girl-name
+msgctxt "Name of a tutorial quest"
+msgid "Train the stats of an adventurer."
+msgstr "训练冒险者的属性。"
+
+# From Data: QuestTutorials-QuestTutorials-train_a_girl-text
+msgctxt "Description of a tutorial quest"
+msgid "You can improve the stats of your adventurers in the Training Field. Press the SELECT button and select the stat you want to train. In the beginning you're limited in how far you can train each stat."
+msgstr "您可以在 训练场 中提高冒险者的属性。按下 SELECT（选择）按钮，选择您想训练的属性。刚开始时，每种属性的训练程度都会受到限制。"
+
+# From Data: QuestTutorials-QuestTutorials-uncurse_item-name
+msgctxt "Name of a tutorial quest"
+msgid "Uncurse an item."
+msgstr "解除一件物品的诅咒。"
+
+# From Data: QuestTutorials-QuestTutorials-uncurse_item-text
+msgctxt "Description of a tutorial quest"
+msgid "The item that got equipped is cursed. You won't be able to take it off without doing an uncurse quest."
+msgstr "装备的物品受到了诅咒。如果不做解除诅咒的任务，就无法取下它。"
+
+# From Data: QuestTutorials-QuestTutorials-upgrade_a_building-name
+msgctxt "Name of a tutorial quest"
+msgid "Upgrade a building."
+msgstr "升级建筑。"
+
+# From Data: QuestTutorials-QuestTutorials-upgrade_a_building-text
+msgctxt "Description of a tutorial quest"
+msgid "You can use the mana and gold from missions to upgrade the buildings in your guild. Try upgrading the stagecoach to give you more adventurers. Or not, I'm just a tutorial prompt, I can't force you to do anything."
+msgstr "您可以使用任务获得的法力和金币来升级公会的建筑。试试升级驿站马车，让你有更多的冒险者。或者不，我只是一个教程提示，我不能强迫你做任何事。"
+
+# From Data: QuestTutorials-QuestTutorials-use_a_morale_action-name
+msgctxt "Name of a tutorial quest"
+msgid "Use a morale action."
+msgstr "使用士气行动。"
+
+# From Data: QuestTutorials-QuestTutorials-use_a_morale_action-text
+msgctxt "Description of a tutorial quest"
+msgid "You can use your party's morale to enact special actions in the dungeon or during combat. You can heal your girls, restore their durability, or grant them critical tokens."
+msgstr "在地牢中或战斗中，您可以利用队伍的士气采取特殊行动。您可以治疗您的女孩，恢复她们的耐久度，或给予她们关键效果状态。"
+
+# From Data: QuestTutorials-QuestTutorials-use_an_aoe-name
+msgctxt "Name of a tutorial quest"
+msgid "Use an area of effect move."
+msgstr "使用范围攻击招式。"
+
+# From Data: QuestTutorials-QuestTutorials-use_an_aoe-text
+msgctxt "Description of a tutorial quest"
+msgid "Some moves target multiple enemies, they bypass stealth and taunt tokens. Don't know what those are? Check the token encyclopedia."
+msgstr "有些招式会针对多个敌人，会绕过隐身和嘲讽标记。不知道这些是什么？请查阅令牌百科全书。"
+
+# From Data: QuestTutorials-QuestTutorials-wait_for_corruption-name
+msgctxt "Name of a tutorial quest"
+msgid "Wait for a girl to be corrupted."
+msgstr "等待女孩堕落。"
+
+# From Data: QuestTutorials-QuestTutorials-wait_for_corruption-text
+msgctxt "Description of a tutorial quest"
+msgid "Your adventurer has been kidnapped. Don't worry, you can get her back. Currently she's very heavily defended though, so you should wait a while. This will corrupt her a bit, but she knows what she signed up for."
+msgstr "你的冒险家被绑架了。别担心，你可以把她救回来。不过目前她周围的防卫非常森严，所以你需要等一段时间让她堕落，她知道等待自己的将是什么下场。"
+
 # From Data: Quests-BestiaryQuests-bestiary_10-name
 msgctxt "Name of a quest."
 msgid "Bestiary Completion: 10%"
@@ -8883,8 +9647,7 @@ msgstr "装备图鉴收集: 10%"
 # From Data: Quests-CatalogQuests-catalog_10-text
 msgctxt "Description of a quest."
 msgid "Complete 10% of the item catalog.You should catalog the rare and peculiar items you find in these lands. If you identify four of the same items, it gives us enough information to replicate it. "
-msgstr ""
-"收集 10% 装备图鉴。\n"
+msgstr "收集 10% 装备图鉴。\n"
 "你应该把你在这些土地上发现的稀有和奇特的物品整理成册。如果你识别出四个相同的物品，我们就会有足够的信息来复制它。"
 
 # From Data: Quests-CatalogQuests-catalog_25-name
@@ -9400,8 +10163,7 @@ msgstr "贵族"
 # From Data: Quests-RoyalQuests-noble-text
 msgctxt "Description of a quest."
 msgid "Your victory over the Ratkin Fort has not gone unnoticed. The Empire can always use loyal subjects in these far-out territories.Being a mere Guildmaster won't do though. You should use your favor at the court to buy a noble title."
-msgstr ""
-"你对鼠人堡垒的胜利并没有被忽视。帝国在这些遥远的领土上永远可以信赖它忠诚的臣民。\n"
+msgstr "你对鼠人堡垒的胜利并没有被忽视。帝国在这些遥远的领土上永远可以信赖它忠诚的臣民。\n"
 "不过，仅仅做一个公会会长是不行的。你应该利用你在王室的关系去买一个贵族头衔。"
 
 # From Data: Quests-RoyalQuests-viceroy-name
@@ -9417,8 +10179,7 @@ msgstr "一名总督以皇帝的名义统治着外部领地。这是一个享有
 # From Data: QuestsDynamic-Delivery-delivery_cow-description
 msgctxt "Description of a dynamic quest (do not replace anything between [brackets])"
 msgid "Please, please, you are my only hope. My sweetest [NAME] has left me. The poor thing got startled. She threatened me with a knife and said so many hurtful things. But she doesn't mean it. She loves me, yes. And I love her!Convince her to come back. She always overthinks everything, so turn her into a simple cow. She doesn't need to think, she has me. She loves me, you see. She's confused. The poor thing."
-msgstr ""
-"拜托，拜托，我只能靠你了。我最可爱的[NAME]离开了我。可怜的家伙被吓到了。她用刀威胁我，还说了那么多伤人的话。但她不是故意的。她爱我，是的。我爱她！\n"
+msgstr "拜托，拜托，我只能靠你了。我最可爱的[NAME]离开了我。可怜的家伙被吓到了。她用刀威胁我，还说了那么多伤人的话。但她不是故意的。她爱我，是的。我爱她！\n"
 "说服她回来。她老是想得太多，所以把她变成一头简单的奶牛就好。她不需要思考，她还有我。她爱我，你看。她糊涂了。可怜的东西。"
 
 # From Data: QuestsDynamic-Delivery-delivery_cow-name
@@ -9429,8 +10190,7 @@ msgstr "驿站马车交付：奶牛"
 # From Data: QuestsDynamic-Delivery-delivery_horse-description
 msgctxt "Description of a dynamic quest (do not replace anything between [brackets])"
 msgid "[OPENING],I accuse [NAME]! She has stolen my prized horse Juniper, and ran away to your lands. My poor girl will not survive such an ordeal. [NAME] is a murderer!Please, I demand justice! She will serve as recompense for my horse. Turn her into a fine ponygirl. Name her Juniper as well, if you'd be so kind. She will need to get accustomed to the name once I put her to work on my farmlands."
-msgstr ""
-"[OPENING]\n"
+msgstr "[OPENING]\n"
 "我要控告[NAME]！她偷走了我心爱的马Juniper，然后逃到了你的土地上。我可怜的女孩没有挺过这场磨难。[NAME]是杀人犯！\n"
 "求你了，我要个公道！她要做为我爱马的补偿。把她变成出色的小母马。你要是个好人，就也给她起名叫Juniper。等到让她在我的地里干活，她就得习惯这个名字。"
 
@@ -9442,8 +10202,7 @@ msgstr "驿站马车交付：马奴"
 # From Data: QuestsDynamic-Delivery-delivery_maid-description
 msgctxt "Description of a dynamic quest (do not replace anything between [brackets])"
 msgid "[OPENING]If my sources are correct, a girl named [NAME] has arrived at your guild today. At behest of the merchant's guild I demand that she be turned in. Her foolish exploits and ridiculous slander has cost us much. She must be punished for her insolence.Turn her into a maid. A well trained one. I will delight in seeing her serve the one she so hates. You will of course be richly rewarded."
-msgstr ""
-"[OPENING]\n"
+msgstr "[OPENING]\n"
 "如果我的消息源没错，一个名叫[NAME]的女孩今天到了你的公会。这是商人公会的命令，我要求你把她交出来。她的愚蠢行为和荒谬诽谤让我们损失不菲。她的傲慢无礼必须受到惩罚。\n"
 "把她变成女仆，要调教到位。我等不及看到她为她的仇人服务了，你当然会得到丰厚的回报。"
 
@@ -9455,8 +10214,7 @@ msgstr "驿站马车交付：女仆"
 # From Data: QuestsDynamic-Delivery-delivery_pet-description
 msgctxt "Description of a dynamic quest (do not replace anything between [brackets])"
 msgid "[OPENING]While she pretends to be an adventurer, [NAME] is a former mercenary. Her band razed my village to the ground and only through sheer luck was I able to escape. After all these years, I have managed to track her down to your guild.I demand revenge. Deliver her to me, alive. But first, turn her into an obedient pet. She'll serve me to repent for her misdeeds."
-msgstr ""
-"[OPENING]\n"
+msgstr "[OPENING]\n"
 "虽然她假扮成冒险家，但[NAME]以前是一名雇佣兵。她们一伙人把我的村庄夷为了平地，好在我侥幸逃脱。这么多年过去了，我终于找到了她，找到了你们公会。\n"
 "我要报仇，把活的交给我。但首先，把她变成听话的宠物。她用身体来赎清她的罪孽。"
 
@@ -9468,8 +10226,7 @@ msgstr "驿站马车交付：母狗"
 # From Data: QuestsDynamic-Delivery-delivery_prisoner-description
 msgctxt "Description of a dynamic quest (do not replace anything between [brackets])"
 msgid "[OPENING]I write you with respect to known criminal [NAME] who is currently seeking refuge in your guild. Please, turn her into a prisoner, and train her well so she doesn't escape justice once more.While the laws of the land allow you to ignore this request, I would implore you to do what is right. I will make sure your good deed is well rewarded."
-msgstr ""
-"[OPENING]\n"
+msgstr "[OPENING]\n"
 "我方郑重函告如下，已知罪犯[NAME]目前正在你公会寻求庇护。请把她变为奴隶，严加调教，使其不会再次逃脱司法制裁。\n"
 "虽然此地法律允许您无视这一诉求，但我方恳请贵方做出正确选择。我方会确保您的善举得到应有回报。"
 
@@ -9481,8 +10238,7 @@ msgstr "驿站马车交付：奴隶"
 # From Data: QuestsDynamic-Delivery-lend_cow-description
 msgctxt "Description of a dynamic quest (do not replace anything between [brackets])"
 msgid "[OPENING]Our city is currently suffering from a large milk shortage. Rumour has it that your guild has several cowgirls that it can spare. Please, send us a girl with a large bountiful bosom so that the milk can keep flowing. You will get her back once our own milk production has recovered."
-msgstr ""
-"[OPENING]\n"
+msgstr "[OPENING]\n"
 "我们的城市目前正面临严重的牛奶短缺。据说你的公会有几头闲着的母牛。拜托了，送个奶子够大的过来吧，这样牛奶就能继续源源不断了。等我们自己的牛奶产量恢复，你就能把她带回去。"
 
 # From Data: QuestsDynamic-Delivery-lend_cow-name
@@ -9493,8 +10249,7 @@ msgstr "出租：母牛"
 # From Data: QuestsDynamic-Delivery-lend_horse-description
 msgctxt "Description of a dynamic quest (do not replace anything between [brackets])"
 msgid "[OPENING]In name of the merchant's guild I request your aid. Tax season has begun. Cities from all over the land are sending their riches to the capital.This has led to a significant shortage in transport capacity. Could you temporarily spare some ponygirls for us?"
-msgstr ""
-"[OPENING]\n"
+msgstr "[OPENING]\n"
 "我以商人公会的名义请求你的帮助。纳税季已经开始。全国各地的城市都在向首都运送财富。\n"
 "这导致运输能力严重不足。你能先匀几个马奴给我吗？"
 
@@ -9506,8 +10261,7 @@ msgstr "出租：小马"
 # From Data: QuestsDynamic-Delivery-lend_maid-description
 msgctxt "Description of a dynamic quest (do not replace anything between [brackets])"
 msgid "[OPENING]The Emperor is making a visit to my estates shortly. However, most of my maids are pregnant and incapable of adequately performing their cleaning duties.Could you please spare a maid to help me out? I promise that you'll get her back once The Emperor's entourage has left. I also promise she won't end up pregnant."
-msgstr ""
-"[OPENING]\n"
+msgstr "[OPENING]\n"
 "皇帝马上就要光临我的庄园了。然而，我的大部分女仆都怀孕了，根本没法完成清洁任务。\n"
 "你能腾出一个女仆帮个忙吗？我保证只要皇帝一行人一走，你就能带走她。我也保证她绝对不会怀上的。"
 
@@ -9519,8 +10273,7 @@ msgstr "出租：女仆"
 # From Data: QuestsDynamic-Delivery-lend_pet-description
 msgctxt "Description of a dynamic quest (do not replace anything between [brackets])"
 msgid "The Mage Academy Inquires. Listen!Our research in the effect of prolonged obedience on the human psyche requires a new subject. Bring us a petgirl posthaste! She will be returned to you physically unharmed after the experiment."
-msgstr ""
-"法师学院征集，请听好！\n"
+msgstr "法师学院征集，请听好！\n"
 "我们的研究关注长期服从对人类心理影响，需要一个新的受试者。望尽快带来一名宠物女孩！实验结束后，她会安然无恙地回到您身边。"
 
 # From Data: QuestsDynamic-Delivery-lend_pet-name
@@ -9531,8 +10284,7 @@ msgstr "出租：母狗"
 # From Data: QuestsDynamic-Delivery-lend_prisoner-description
 msgctxt "Description of a dynamic quest (do not replace anything between [brackets])"
 msgid "[OPENING]The Gods have blessed us. Fortunate weather has resulted in a bountiful crop this year.Unfortunately my servants are too few in number to harvest it all. May I ask that you send a slave to support my farms during this harvest?"
-msgstr ""
-"[OPENING]\n"
+msgstr "[OPENING]\n"
 "上帝保佑我们。幸运的天气使我们今年收获颇丰。\n"
 "不幸的是，我的雇农数量太少，实在收不完。我可以请你在收割季派个奴隶支援我的农场吗？"
 
@@ -9544,8 +10296,7 @@ msgstr "出租：奴隶"
 # From Data: QuestsDynamic-Delivery-transition_cow-description
 msgctxt "Description of a dynamic quest (do not replace anything between [brackets])"
 msgid "[OPENING]My eyes have fallen on [NAME]. She is the perfect candidate to become one of my prized milking cows. I must have her!I know she has served you well, but turn her into a cow and I will make it worth your while. I have excellent connections in the Imperial court."
-msgstr ""
-"[OPENING]\n"
+msgstr "[OPENING]\n"
 "我看中了[NAME]。她是成为我最珍贵的挤奶牛完美人选。我一定要得到她！\n"
 "我知道她为你服务得很好，但把她变成奶牛，我会让你物有所值。我在宫廷里有很好的人脉。"
 
@@ -9557,8 +10308,7 @@ msgstr "交付：母牛"
 # From Data: QuestsDynamic-Delivery-transition_horse-description
 msgctxt "Description of a dynamic quest (do not replace anything between [brackets])"
 msgid "[OPENING]Have you seen [NAME]? Have you seen those calves? Those glutes? That exquisite form? Guildmaster, [NAME]'s talents are wasted as a [CLASS]! Her prancing pose would make me the envy of the nobility.What say you? Sell her to me. She could be a perfect ponygirl. You can't let her waste her talents here. Tell me what Imperial favors you need, I'll make it happen."
-msgstr ""
-"[OPENING]\n"
+msgstr "[OPENING]\n"
 "你看到[NAME]了吗？你看那小腿，那臀肌，那精妙的身材。公会会长，让[NAME]当[CLASS]绝对是浪费！她的腾跃姿势会让我被贵族们嫉妒疯的。\n"
 "怎么样？把她卖给我吧，她可以成为完美的小马女孩，你不能让她在这里浪费天赋，告诉我你需要帝国的什么恩惠，我会让你如愿以偿。"
 
@@ -9570,8 +10320,7 @@ msgstr "交付：马奴"
 # From Data: QuestsDynamic-Delivery-transition_maid-description
 msgctxt "Description of a dynamic quest (do not replace anything between [brackets])"
 msgid "[OPENING]I have found her at last. [NAME] is the feisty vixen that spurned my advances. She told me she'd rather die than kiss me. I have worked hard since that day, and I finally reached the top. I now have the power to make [NAME] mine.Turn [NAME] into a ditzy, brainless, bimbo maid. It is what she deserves. Don't worry, whatever she's worth to you, I can pay more. I have the ear of the Emperor, certainly we can come to an arrangement."
-msgstr ""
-"[OPENING]\n"
+msgstr "[OPENING]\n"
 "我终于找到她了。[NAME]就是那个拒绝我求爱的狐狸精，她说她宁死也不愿意吻我，从那天起我开始努力工作，我终于爬到了顶峰，我现在有能力让[NAME]成为我的女人。\n"
 "把[NAME]变成一个笨手笨脚，大脑空空的傻白甜女仆，她罪有应得。别担心，不管她对你来说值多少钱，我都可以加。我有皇帝的耳目，我们肯定会成交的。"
 
@@ -9582,10 +10331,8 @@ msgstr "交付：女仆"
 
 # From Data: QuestsDynamic-Delivery-transition_pet-description
 msgctxt "Description of a dynamic quest (do not replace anything between [brackets])"
-msgid ""
-"[OPENING]It seems my rival [NAME] is making a name for herself in your guild. Hmmpf, I hoped that she would fade away after I ruined her and took her wealth. No matter, I have destroyed her life once, I can do it again.Train her as a pet, and then deliver her to me. I cannot wait to see her face when she finds out what happened. The disgust and hatred as she is forced to lick my feet will be priceless. Of course, I spare no expense to make this happen. What say you, guildmaster?"
-msgstr ""
-"[OPENING]\n"
+msgid "[OPENING]It seems my rival [NAME] is making a name for herself in your guild. Hmmpf, I hoped that she would fade away after I ruined her and took her wealth. No matter, I have destroyed her life once, I can do it again.Train her as a pet, and then deliver her to me. I cannot wait to see her face when she finds out what happened. The disgust and hatred as she is forced to lick my feet will be priceless. Of course, I spare no expense to make this happen. What say you, guildmaster?"
+msgstr "[OPENING]\n"
 "看来我的对手[NAME]在你们公会里有点名声。嗯，我希望在我毁了她，夺走了她的财富之后，她会慢慢淡出这里。反正我已经毁了她的人生一次，我可以再做一次。\n"
 "把她调教成宠物，然后把她交给我。我迫不及待地想看看她刚搞懂状况的脸。当她被迫舔我的脚时，那种厌恶和仇恨会是无价的。当然，我会倾尽全力达成这点。你说呢，公会会长？"
 
@@ -9597,8 +10344,7 @@ msgstr "交付：母狗"
 # From Data: QuestsDynamic-Delivery-transition_prisoner-description
 msgctxt "Description of a dynamic quest (do not replace anything between [brackets])"
 msgid "[OPENING]I write you with respect to known criminal [NAME] who has sought refuge in your guild. Please, turn her into a prisoner, and train her well so she doesn't escape justice once more.She is accused of the murder of a highborn noble. It is your right to ignore this letter, but I can assure you that his family will not forget your kindness if you comply with this request."
-msgstr ""
-"[OPENING]\n"
+msgstr "[OPENING]\n"
 "我方郑重函告如下，已知罪犯[NAME]目前正在你公会寻求庇护。请把她变为奴隶，严加调教，使其不会再次逃脱司法制裁。\n"
 "她被指控谋杀了一位出身显赫的贵族。您有权无视这封信，但我方可做出保证，如果您遵守要求，他的家人不会亏待您的好意。"
 
@@ -9610,8 +10356,7 @@ msgstr "交付：奴隶"
 # From Data: QuestsDynamic-Dungeon-forced_hard-description
 msgctxt "Description of a dynamic quest (do not replace anything between [brackets])"
 msgid "[OPENING]The entire Empire is inspired by your success. We are trying to break through enemy lines at the border. However, resistance is fierce.Please send us an elite squad to break that resistance."
-msgstr ""
-"[OPENING]\n"
+msgstr "[OPENING]\n"
 "你的成功鼓舞了整个帝国。我们正试图突破边界上的敌人防线。然而，遭遇了激烈抵抗。\n"
 "请派一支精英队伍来击溃这波抵抗。"
 
@@ -9623,8 +10368,7 @@ msgstr "精英任务"
 # From Data: QuestsDynamic-Dungeon-hard_aphro-description
 msgctxt "Description of a dynamic quest (do not replace anything between [brackets])"
 msgid "[OPENING]I require your support. I have located a most promising location, but it is covered in a thick aphrodisiatic smog. Please lend me a hand in clearing it out."
-msgstr ""
-"[OPENING]\n"
+msgstr "[OPENING]\n"
 "我需要你的支持。我找到了一个最有希望的地方，但它被厚厚的媚药烟雾笼罩着。请帮我把它清理一下。"
 
 # From Data: QuestsDynamic-Dungeon-hard_aphro-name
@@ -9635,8 +10379,7 @@ msgstr "媚药烟雾"
 # From Data: QuestsDynamic-Dungeon-hard_estrus-description
 msgctxt "Description of a dynamic quest (do not replace anything between [brackets])"
 msgid "[OPENING]I would need your help with a mission of the utmost importance. However, the area is under the cover of a dense cloud of spores. If you're up for the task, please send out a squad."
-msgstr ""
-"[OPENING]\n"
+msgstr "[OPENING]\n"
 "我需要你的帮助来完成一项极其重要的任务。然而，目标区域被一团稠密的孢子所覆盖。\n"
 "如果你能胜任这项任务，请派出小队。"
 
@@ -9648,8 +10391,7 @@ msgstr "发情烟雾"
 # From Data: QuestsDynamic-Dungeon-hard_healblock-description
 msgctxt "Description of a dynamic quest (do not replace anything between [brackets])"
 msgid "[OPENING]This dungeon on the border of my lands is an absolute eyesore. I have wanted to clear it out a long time ago. However, it is cursed with an effect that prevents all healing. My own serfs have been incapable of dealing with it.But enough is enough! Please Guildmaster, clear out this disgraceful place."
-msgstr ""
-"[OPENING]\n"
+msgstr "[OPENING]\n"
 "这个位于我的土地边界上的地牢简直是个眼中钉。我很久以前就想把它清理掉。然而，它的诅咒效果是阻止所有治疗。我自己的农奴已经无力应付了。\n"
 "但我受够了！会长，请你清理这个不光彩的地方。"
 
@@ -9661,8 +10403,7 @@ msgstr "禁疗领域"
 # From Data: QuestsDynamic-Dungeon-novice_veteran-description
 msgctxt "Description of a dynamic quest (do not replace anything between [brackets])"
 msgid "[OPENING]For my thesis at the mage Academy, I wish to show that experience is a myth. Even novice adventurers can take on veteran dungeons if properly guided.However, I require field testing. I have selected a veteran mission, please complete it with novice adventurers."
-msgstr ""
-"[OPENING]\n"
+msgstr "[OPENING]\n"
 "关于我在法师学院的论文，我希望证明经验是一种谬论。即使是新手冒险家也可以在适当的指导下挑战老兵级别的地下城。\n"
 "但是，我需要现场测试。我选择了一个老兵级别的任务，请与新手冒险家一起完成。"
 
@@ -9674,8 +10415,7 @@ msgstr "新手老兵任务"
 # From Data: QuestsDynamic-Dungeon-random_dungeon-description
 msgctxt "Description of a dynamic quest (do not replace anything between [brackets])"
 msgid "[OPENING]I have contacted several individuals in your guild to perform a special veteran mission for me. With the promise of payment, they gladly agreed to help me.You have the final say of course. I will reward you handsomly if you would provide [NAMES] to complete this mission."
-msgstr ""
-"[OPENING]\n"
+msgstr "[OPENING]\n"
 "我已经联系了你们公会的几个人，为我执行一项特殊的老兵级别任务。在许诺报酬后，他们很乐意帮助我。\n"
 "当然，最后还是你说了算。如果你愿意让[NAMES]她们来完成这项任务，我将给予你丰厚的奖励。"
 
@@ -9687,8 +10427,7 @@ msgstr "随机队伍"
 # From Data: QuestsDynamic-Dungeon-rescue_hard-description
 msgctxt "Description of a dynamic quest (do not replace anything between [brackets])"
 msgid "[OPENING]A dear friend of mine has been captured while adventuring. Scouts have found her last known location.I shudder to think what those foul creatures will do to her. Please, rescue her before she's soiled forever."
-msgstr ""
-"[OPENING]\n"
+msgstr "[OPENING]\n"
 "我最亲爱的朋友[NAME]在冒险时被抓走。侦察兵找到了她最后的行踪。\n"
 "一想到那些肮脏的生物会对她做什么，我就不寒而栗。请在她被永远污损之前把她救出来。"
 
@@ -9700,8 +10439,7 @@ msgstr "精英营救任务"
 # From Data: QuestsDynamic-Dungeon-veteran_hard-description
 msgctxt "Description of a dynamic quest (do not replace anything between [brackets])"
 msgid "[OPENING]Our mercenary company is considering lowering our standards. We believe that veteran recruits are perfectly capable of performing elite missions.To prove this, we require your help. We have selected an elite mission. Please provide non-elite adventurers to complete this."
-msgstr ""
-"[OPENING]\n"
+msgstr "[OPENING]\n"
 "我们的雇佣兵公司正在考虑降低我们的标准。我们相信，老兵应募者完全有能力执行精英任务。\n"
 "为了证明这一点，我们需要您的帮助。我们选择了一个精英任务。请提供非精英冒险家来完成这项任务。"
 
@@ -9713,8 +10451,7 @@ msgstr "老兵精英任务"
 # From Data: QuestsDynamic-Dungeon-veteran_three-description
 msgctxt "Description of a dynamic quest (do not replace anything between [brackets])"
 msgid "[OPENING]To protect Imperial borders, we need to scout out potential threats. We have located an area that may be particularly troublesome.Please lend us a squad to tackle these troublemakers. However, in order to remain stealthy, the squad can only consist of three adventurers."
-msgstr ""
-"[OPENING]\n"
+msgstr "[OPENING]\n"
 "为了保护帝国边界，我们需要找出潜在的威胁。我们确定了一个可能特别麻烦的地区。\n"
 "请借给我们一个小队来对付这些捣乱分子。然而，为了保持隐秘，小队只能由三名冒险家组成。"
 
@@ -9726,8 +10463,7 @@ msgstr "小型任务"
 # From Data: QuestsDynamic-Parasites-generic_mature_natural-description
 msgctxt "Description of a dynamic quest (do not replace anything between [brackets])"
 msgid "[OPENING]After the Lex Parasiticum the growing of natural parasites - without seedbeds - has been restricted. However, I believe that such parasites have vastly different properties. Unfortunately, due to this backwards regulation I can't perform my research properly.Provide me with a single fully grown, naturally sourced parasite, and I will greatly reward you. Remember, do not use any seedbeds!"
-msgstr ""
-"[OPENING]\n"
+msgstr "[OPENING]\n"
 "在莱什寄生虫病之后，无苗床的自然寄生虫的生长受到了限制。然而，我相信这些寄生虫有着截然不同的特性。不幸的是，由于这种向后的规定，我无法正确地进行研究。\n"
 "给我一个完全生长的、自然来源的寄生虫，我会非常奖励你。记住，不要使用任何苗床！"
 
@@ -9739,8 +10475,7 @@ msgstr "自然成熟寄生虫"
 # From Data: QuestsDynamic-Parasites-specific_mature_grown-description
 msgctxt "Description of a dynamic quest (do not replace anything between [brackets])"
 msgid "Hiya Guildmaster,I'm so close to a breakthrough! But those backward mages from the academy have confiscated my parasites.Please, I need a fully grown [PARASITE]. I don't have much money now, but I'll be famous one day. I swear!"
-msgstr ""
-"嗨呀，公会会长。\n"
+msgstr "嗨呀，公会会长。\n"
 "我离突破已经近在咫尺了！但是学院里那些落后的法师没收了我的寄生虫。\n"
 "求你了，我需要一个成长完全的[PARASITE]。我现在没有多少钱，但总有一天我会出名的。我发誓！"
 
@@ -9752,8 +10487,7 @@ msgstr "苗床需求"
 # From Data: QuestsDynamic-Parasites-specific_mature_natural-description
 msgctxt "Description of a dynamic quest (do not replace anything between [brackets])"
 msgid "The Academy Inquires! Listen!Guildmaster, bring us a fully grown [PARASITE]. However, it must be naturally grown. No seedbeds are allowed. Make it so!"
-msgstr ""
-"学院征集！请听好！\n"
+msgstr "学院征集！请听好！\n"
 "公会会长，给我们送过来一个生长完全的[PARASITE]。然而，必须是自然发育的，不准用苗床。去做吧！"
 
 # From Data: QuestsDynamic-Parasites-specific_mature_natural-name
@@ -9764,8 +10498,7 @@ msgstr "自然成熟的特定寄生虫"
 # From Data: QuestsDynamic-Parasites-specific_young_natural-description
 msgctxt "Description of a dynamic quest (do not replace anything between [brackets])"
 msgid "[OPENING]As you are operating in the Northern wastes, the law against naturally sourced parasites doesn't apply to you, right?Please, I need a single [PARASITE], it doesn't even need to be fully grown. It does need to be fully natural though. Please, I have some Imperial connections, I can make it worth your while."
-msgstr ""
-"[OPENING]\n"
+msgstr "[OPENING]\n"
 "你在经营北方那片荒地，所以针对自然来源寄生虫的法律管不到你，对吧？\n"
 "求你了，我需要一个[PARASITE]，它甚至不需要完全成熟。但一定要完全天然。求你了，我有一些皇室关系，我会让你值得的。"
 
@@ -9777,8 +10510,7 @@ msgstr "天然寄生虫"
 # From Data: QuestsDynamic-Sluttification-curse_cow-description
 msgctxt "Description of a dynamic quest (do not replace anything between [brackets])"
 msgid "[OPENING]The merchant guild is currently seeking investors to develop a quick way to create cowgirls. The included outfit is an early prototype, based on designs that should be familiar to you.Please equip it to [NAME] and keep us posted on her progress as a cowgirl."
-msgstr ""
-"[OPENING]\n"
+msgstr "[OPENING]\n"
 "商人公会目前正在寻找投资者，以开发一种快速创造奶牛女孩的方法。附件里的服装是一个早期的原型，基于你应该熟悉的设计。\n"
 "请将其装备给[NAME]，并随时向我们通报她作为奶牛女孩的进展。"
 
@@ -9790,8 +10522,7 @@ msgstr "诅咒：母牛"
 # From Data: QuestsDynamic-Sluttification-curse_horse-description
 msgctxt "Description of a dynamic quest (do not replace anything between [brackets])"
 msgid "[OPENING]I can't stand [NAME]'s grandstanding anymore. Last night she told the entire tavern that she slayed a dragon. Please, Master, give her this cursed horse set.She'll serve you much better carrying luggage. And if she has to sleep in the stables she will stop ruining my drinking."
-msgstr ""
-"[OPENING]\n"
+msgstr "[OPENING]\n"
 "我再也受不了 [NAME] 哗众取宠了。昨晚她跟整个酒馆说她杀了一条龙。求你了，主人，把这套被诅咒的马套装给她。\n"
 "她会更好地为你搬运行李。如果她必须睡在马厩里，她就不会打扰我喝酒了。"
 
@@ -9803,8 +10534,7 @@ msgstr "诅咒：马奴"
 # From Data: QuestsDynamic-Sluttification-curse_maid-description
 msgctxt "Description of a dynamic quest (do not replace anything between [brackets])"
 msgid "[OPENING]Please keep this a secret from [NAME]. I sleep next to her in the barracks, but I cannot deal with her filthyness anymore. I have included a cursed maid set with this letter. Please force her to wear this, it'll teach her some much needed manners."
-msgstr ""
-"[OPENING]\n"
+msgstr "[OPENING]\n"
 "请对[NAME]保密。我在营房里睡在她旁边，但我再也受不了她的脏乱了。我在这封信中附上了一个被诅咒的女仆套装。请迫使她穿上这个，这会教会她一些非常必要的礼仪。"
 
 # From Data: QuestsDynamic-Sluttification-curse_maid-name
@@ -9815,8 +10545,7 @@ msgstr "诅咒：女仆"
 # From Data: QuestsDynamic-Sluttification-curse_pet-description
 msgctxt "Description of a dynamic quest (do not replace anything between [brackets])"
 msgid "[OPENING]Some time ago, [NAME] deserted my mercenary company. The proper punishment for this is death. However, an alternative will suffice.Attached with this letter is a cursed pet outfit. Give it to her. I will sleep well knowing that the once fierce [NAME] has been turned into a cute and docile pet."
-msgstr ""
-"[OPENING]\n"
+msgstr "[OPENING]\n"
 "不久前，[NAME]擅离了我的雇佣兵部队。对此的正当惩罚是死刑。然而，一个替代方案足矣。\n"
 "这封信的附件是一套被诅咒的宠物服装。把它交给她。知道曾经凶猛的[NAME]已经变成了可爱温顺的宠物，我会睡得很香的。"
 
@@ -9828,8 +10557,7 @@ msgstr "诅咒：母狗"
 # From Data: QuestsDynamic-Sluttification-curse_prisoner-description
 msgctxt "Description of a dynamic quest (do not replace anything between [brackets])"
 msgid "[OPENING]Before heading to your guild, [NAME] has butchered two pheasants from my woods. I understand that you are unable to deliver her to me for justice.However, allow me to at least gift her these cursed chains. It will be a fitting punishment for her crimes."
-msgstr ""
-"[OPENING]\n"
+msgstr "[OPENING]\n"
 "在前往你的公会之前，[NAME]已经在我的树林里宰了两只野鸡。我知道你不会把她交给我伸张正义。\n"
 "然而，请允许我至少把这些被诅咒的枷锁送给她。这将是对她的罪行的适当惩罚。"
 
@@ -9841,8 +10569,7 @@ msgstr "诅咒：囚犯"
 # From Data: QuestsDynamic-Sluttification-sluttify-description
 msgctxt "Description of a dynamic quest (do not replace anything between [brackets])"
 msgid "[OPENING]We at the Alchemist's guild will soon present a new concoction. It can turn even the most frigid girl into a total slut. Unfortunately, we do not yet have a view on the side effects.We have observed that [NAME] would be a prime candidate to test this potion. Could you please hand her the attached liquid?"
-msgstr ""
-"[OPENING]\n"
+msgstr "[OPENING]\n"
 "我们炼金师协会将很快推出一种新的配方。它甚至可以把最冷淡的女孩变成一个荡妇。不幸的是，我们还对副作用一无所知。\n"
 "我们已经观察到[NAME]将是测试这种药剂的主要人选。你能把附件里的药水交给她吗？"
 
@@ -10251,6 +10978,16 @@ msgctxt "Description of a quirk."
 msgid "[NAME] always has the worst luck."
 msgstr "[NAME] 的运气总是很差, 可怜的倒霉蛋。"
 
+# From Data: Quirks-Negatives-vain-name
+msgctxt "Name of a quirk."
+msgid "Vain"
+msgstr "虚荣"
+
+# From Data: Quirks-Negatives-vain-text
+msgctxt "Description of a quirk."
+msgid "[NAME] refuses to wear low quality gear."
+msgstr "[NAME] 拒绝低品质衣服。"
+
 # From Data: Quirks-Negatives-weak_constitution-name
 msgctxt "Name of a quirk."
 msgid "Weak Consitution"
@@ -10290,6 +11027,16 @@ msgstr "争强好斗"
 msgctxt "Description of a quirk."
 msgid "[NAME] turns into a rabid animal when in combat."
 msgstr "[NAME] 是个勇猛的战士, 总是不顾一切冲锋陷阵。"
+
+# From Data: Quirks-Positives-ascetic-name
+msgctxt "Name of a quirk."
+msgid "Ascetic"
+msgstr "Ascetic"
+
+# From Data: Quirks-Positives-ascetic-text
+msgctxt "Description of a quirk."
+msgid "[NAME] is content with basic equipment."
+msgstr "[NAME] is content with basic equipment."
 
 # From Data: Quirks-Positives-blindfold_lover-name
 msgctxt "Name of a quirk."
@@ -10678,7 +11425,7 @@ msgstr "毁约"
 
 # From Data: Quirks-PresetsNeg-breach_of_contract-text
 msgctxt "Description of a quirk."
-msgid "\"...What? How? AND THEY'RE DOING WHAT WITH HER?!\""
+msgid "\\\"...What? How? AND THEY'RE DOING WHAT WITH HER?!\\\""
 msgstr "\"......什么？他们对她做了什么？\""
 
 # From Data: Quirks-PresetsNeg-ensorced-name
@@ -10798,7 +11545,7 @@ msgstr "护卫使命"
 
 # From Data: Quirks-PresetsPlus-escort_mission-text
 msgctxt "Description of a quirk."
-msgid "\"You did a great job today!\""
+msgid "\\\"You did a great job today!\\\""
 msgstr "\"你今天干得很好！\""
 
 # From Data: Quirks-PresetsPlus-juggernaut-name
@@ -11858,7 +12605,7 @@ msgstr "增加人脉点数: [PARAM]"
 
 # From Data: Scripts-Commandscript-force_preset-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
-msgid "Force next randomly generated adventurer to be preset [PARAM]. REMEMBER: You can use \"next_day\" to refresh the stagecoach."
+msgid "Force next randomly generated adventurer to be preset [PARAM]. REMEMBER: You can use \\\"next_day\\\" to refresh the stagecoach."
 msgstr "强制下一个随机生成的冒险者预设为 [PARAM]。请记住: 你可以用「next_day」来刷新马车驿站。"
 
 # From Data: Scripts-Commandscript-free_jobs-short
@@ -12286,6 +13033,11 @@ msgctxt "Explanation of a script (shows in tooltips, do not replace anything bet
 msgid "Odd turn:"
 msgstr "奇数回合:"
 
+# From Data: Scripts-Conditionalscript-pale_skin-short
+msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
+msgid "If Pale Skin:"
+msgstr "如果白皮肤:"
+
 # From Data: Scripts-Conditionalscript-parasite_max_phase-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "If parasite growth phase <= [PARAM]:"
@@ -12301,6 +13053,11 @@ msgctxt "Explanation of a script (shows in tooltips, do not replace anything bet
 msgid "If ranks [PARAM]:"
 msgstr "若位置在 [PARAM] :"
 
+# From Data: Scripts-Conditionalscript-raven_hair-short
+msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
+msgid "If Raven Hair:"
+msgstr "如果黑头发:"
+
 # From Data: Scripts-Conditionalscript-stat_test-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "If Difficulty [PARAM1] [PARAM] check succeeds:"
@@ -12313,7 +13070,7 @@ msgstr "如果难度 [PARAM1] [PARAM] 时检查失败:"
 
 # From Data: Scripts-Conditionalscript-target-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
-msgid "If target is [PARAM]:"
+msgid "If any enemy is [PARAM]:"
 msgstr "如果目标为 [PARAM]:"
 
 # From Data: Scripts-Conditionalscript-team_size-short
@@ -12375,6 +13132,11 @@ msgstr "每 [PARAM] 人脉:"
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Per [PARAM] free inventory slots:"
 msgstr "每 [PARAM]个空的装备格:"
+
+# From Data: Scripts-Counterscript-gear_of_rarity-short
+msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
+msgid "Per [PARAM] item:"
+msgstr "Per [PARAM] item:"
 
 # From Data: Scripts-Counterscript-guild_upgrade-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -12706,6 +13468,11 @@ msgctxt "Explanation of a script (shows in tooltips, do not replace anything bet
 msgid "Remove quirk [PARAM]."
 msgstr "移除怪癖 [PARAM]."
 
+# From Data: Scripts-Dayscript-remove_tokens-short
+msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
+msgid "Remove all tokens: [PARAM]"
+msgstr "Remove all tokens: [PARAM]"
+
 # From Data: Scripts-Dayscript-set_suggestion-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Force Suggestion: [PARAM]"
@@ -12725,6 +13492,11 @@ msgstr "获得催眠的概率: [PARAM:plus]"
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Chance of losing hypnosis: [PARAM:plus]"
 msgstr "失去催眠的概率: [PARAM:plus]"
+
+# From Data: Scripts-Dayscript-tokens-short
+msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
+msgid "Add tokens: [PARAM]"
+msgstr "Add tokens: [PARAM]"
 
 # From Data: Scripts-Goalscript-affliction-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -13888,12 +14660,12 @@ msgstr "必须介于 [PARAM] 到 [PARAM1] 步之间，距离死胡同 [PARAM2] �
 
 # From Data: Scripts-Roomreqscript-distance_astar_max-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
-msgid "Must be at most [PARAM] steps from [PARAM1] by A*Valid PARAM1: [\"start\",\"end\"]"
+msgid "Must be at most [PARAM] steps from [PARAM1] by A*Valid PARAM1: [\\\"start\\\",\\\"end\\\"]"
 msgstr "通过 A*Valid PARAM1: [\"start\",\"end\"] 从 [PARAM1] 至多必须是 [PARAM] 步。"
 
 # From Data: Scripts-Roomreqscript-distance_astar_min-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
-msgid "Must be at least [PARAM] steps from [PARAM1] by A*Valid PARAM1: [\"start\",\"end\"]"
+msgid "Must be at least [PARAM] steps from [PARAM1] by A*Valid PARAM1: [\\\"start\\\",\\\"end\\\"]"
 msgstr "必须至少是 [PARAM] 步距 [PARAM1] 的 A*Valid PARAM1: [\"start\", \"end\"]"
 
 # From Data: Scripts-Roomreqscript-dungeon.difficulty-short
@@ -14133,7 +14905,7 @@ msgstr "无法转换职业"
 
 # From Data: Scripts-Scriptablescript-disable_class_change-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
-msgid "Will not be force changed to [PARAM]"
+msgid "Sets will not force class change to [PARAM]"
 msgstr "不会被强制转换为 [PARAM]"
 
 # From Data: Scripts-Scriptablescript-disable_force_class_change-short
@@ -14194,7 +14966,7 @@ msgstr "无法选择目标: [PARAM]"
 # From Data: Scripts-Scriptablescript-disable_turn-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Cannot take actions."
-msgstr "无法使用动作。"
+msgstr "无法使用动作"
 
 # From Data: Scripts-Scriptablescript-dodge-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -14321,6 +15093,11 @@ msgctxt "Explanation of a script (shows in tooltips, do not replace anything bet
 msgid "Kidnap chance: [PARAM:plus]"
 msgstr "被绑架概率: [PARAM:plus]"
 
+# From Data: Scripts-Scriptablescript-kidnap_protection-short
+msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
+msgid "Safely teleported to guild upon kidnapping"
+msgstr "被绑架后自动安全传送到公会"
+
 # From Data: Scripts-Scriptablescript-length-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "CHANGES IN-GAME LENGTH"
@@ -14344,12 +15121,12 @@ msgstr "[TYPE:love]受伤: [PARAM:plus]"
 # From Data: Scripts-Scriptablescript-love_conversion-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Incoming DMG to [STAT:LUST]: [PARAM]"
-msgstr "Incoming DMG to [STAT:LUST]: [PARAM]"
+msgstr "受到伤害转变为 [STAT:LUST]: [PARAM]"
 
 # From Data: Scripts-Scriptablescript-love_recoil-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Done DMG to [STAT:LUST]: [PARAM]"
-msgstr "Done DMG to [STAT:LUST]: [PARAM]"
+msgstr "造成伤害转为 [STAT:LUST]: [PARAM]"
 
 # From Data: Scripts-Scriptablescript-lower_strength-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -14539,7 +15316,7 @@ msgstr "地牢的补给效率: [PARAM]"
 # From Data: Scripts-Scriptablescript-puppy_efficiency-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Bonus when working as a puppy: [PARAM:plus]"
-msgstr "母狗工作的额外加成: [PARAM:plus]"
+msgstr "母狗工作额外加成: [PARAM:plus]"
 
 # From Data: Scripts-Scriptablescript-randomize_haircolor-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -14654,7 +15431,7 @@ msgstr "设置 SPRITE [PARAM]"
 # From Data: Scripts-Scriptablescript-slave_efficiency-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Bonus when working as a slave: [PARAM:plus]"
-msgstr "奴隶工作的额外加成：[PARAM]"
+msgstr "奴隶工作额外加成：[PARAM]"
 
 # From Data: Scripts-Scriptablescript-sprite_adds-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -14699,7 +15476,7 @@ msgstr "[PARAM] 最大: [PARAM1:plus]"
 # From Data: Scripts-Scriptablescript-wench_efficiency-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Bonus when working as a wench: [PARAM:plus]"
-msgstr "女仆工作的额外加成: [PARAM:plus]"
+msgstr "陪酒工作额外加成: [PARAM:plus]"
 
 # From Data: Scripts-Summaryscript-adventuring-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -15063,7 +15840,7 @@ msgstr "数据文件夹。"
 
 # From Data: Scripts-Verificationscript-ICON_ID-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
-msgid "An icon texture from the Icons folder, the ID refers to the part after \"<PREFIX>_\" and before \".png\"."
+msgid "An icon texture from the Icons folder, the ID refers to the part after \\\"<PREFIX>_\\\" and before \\\".png\\\"."
 msgstr "图标文件夹中的图标纹理, ID 是指在 \"<PREFIX>_\" 之后、\".png\" 之前的部分。"
 
 # From Data: Scripts-Verificationscript-INT-short
@@ -15098,7 +15875,7 @@ msgstr "puppet上的纹理，可以单独存在，也可以用逗号与 COLOR �
 
 # From Data: Scripts-Verificationscript-QUIRK_REQ-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
-msgid "Requirement for quirks, either a personality, or a \"region,REGION_ID\" text."
+msgid "Requirement for quirks, either a personality, or a \\\"region,REGION_ID\\\" text."
 msgstr "对怪癖的要求，可以是个性，也可以是 \"region,REGION_ID\"文本。"
 
 # From Data: Scripts-Verificationscript-RACE_ID-short
@@ -15911,6 +16688,11 @@ msgctxt "Plural of the name of an item slot."
 msgid "Outfits"
 msgstr "服装"
 
+# From Data: Slots-Slots-under-name
+msgctxt "Name of an item slot."
+msgid "Underwear"
+msgstr "内衣"
+
 # From Data: Slots-Slots-under-plural
 msgctxt "Plural of the name of an item slot."
 msgid "Underwear"
@@ -16199,7 +16981,7 @@ msgstr "束腰训练"
 # From Data: Tokens-Gear-desperation-name
 msgctxt "Name of a token."
 msgid "Desperation"
-msgstr "绝望"
+msgstr "憋尿"
 
 # From Data: Tokens-Gear-heel_training-name
 msgctxt "Name of a token."
@@ -16279,7 +17061,7 @@ msgstr "暴击"
 # From Data: Tokens-MainTokens-daze-name
 msgctxt "Name of a token."
 msgid "Daze"
-msgstr "眩晕"
+msgstr "目眩"
 
 # From Data: Tokens-MainTokens-dodge-name
 msgctxt "Name of a token."
@@ -16314,7 +17096,7 @@ msgstr "捕获"
 # From Data: Tokens-MainTokens-guard-name
 msgctxt "Name of a token."
 msgid "Guarded"
-msgstr "防御"
+msgstr "被守护"
 
 # From Data: Tokens-MainTokens-hobble-name
 msgctxt "Name of a token."
@@ -16421,6 +17203,16 @@ msgctxt "Name of a token."
 msgid "Orgasmic Reward"
 msgstr "高潮奖励"
 
+# From Data: Tokens-OtherTokens-alraune_incubate-name
+msgctxt "Name of a token."
+msgid "Alraune Mother"
+msgstr "曼陀罗之母"
+
+# From Data: Tokens-OtherTokens-alraune_lure-name
+msgctxt "Name of a token."
+msgid "Lured"
+msgstr "被引诱"
+
 # From Data: Tokens-OtherTokens-apologize_token-name
 msgctxt "Name of a token."
 msgid "Apologizing"
@@ -16474,7 +17266,7 @@ msgstr "濒死"
 # From Data: Tokens-OtherTokens-fat-name
 msgctxt "Name of a token."
 msgid "Thickness"
-msgstr "厚度"
+msgstr "丰满"
 
 # From Data: Tokens-OtherTokens-harden-name
 msgctxt "Name of a token."
@@ -16524,7 +17316,7 @@ msgstr "提振士气"
 # From Data: Tokens-OtherTokens-orc_carrier-name
 msgctxt "Name of a token."
 msgid ""
-msgstr ""
+msgstr "被兽人运载"
 
 # From Data: Tokens-OtherTokens-orgasm-name
 msgctxt "Name of a token."
@@ -16543,7 +17335,7 @@ msgstr "史莱姆"
 
 # From Data: Traits-Traits-accomodating-name
 msgctxt "Name of a personality trait."
-msgid "Accomodating"
+msgid "Considerate"
 msgstr "乐于助人"
 
 # From Data: Traits-Traits-accomodating-text
@@ -16772,12 +17564,12 @@ msgid "[NAME] doesn't like interacting with people she doesn't know."
 msgstr "[NAME]不喜欢与陌生人互动(波奇酱：牡蛎牡蛎木木木)。"
 
 # From Data: Traits-Traits-straightforward-name
-msgctxt "Name of a personality trait"
+msgctxt "Name of a personality trait."
 msgid "Blunt"
 msgstr "耿直"
 
 # From Data: Traits-Traits-straightforward-text
-msgctxt "Description of a personality trait"
+msgctxt "Description of a personality trait."
 msgid "[NAME] says things as they are."
 msgstr "[NAME]一根筋, 总是口无遮拦。AA"
 
@@ -16803,7 +17595,7 @@ msgstr "[NAME]享受阅读和学习。"
 
 # From Data: Traits-Traits-trigger_temper-name
 msgctxt "Name of a personality trait."
-msgid "Trigger Temper"
+msgid "Hair Temper"
 msgstr "暴脾气"
 
 # From Data: Traits-Traits-trigger_temper-text
@@ -17803,7 +18595,7 @@ msgstr "巨人戒指"
 
 # From Data: Wearables-2Common-giant_ring-text
 msgctxt "Description of a piece of equipment."
-msgid "\"Monstrous size has no intrinsic merit.\""
+msgid "\\\"Monstrous size has no intrinsic merit.\\\""
 msgstr "\"庞大的体型并没有什么好处。\""
 
 # From Data: Wearables-2Common-halfling_ring-name
@@ -17813,7 +18605,7 @@ msgstr "矮人戒指"
 
 # From Data: Wearables-2Common-halfling_ring-text
 msgctxt "Description of a piece of equipment."
-msgid "\"Miniscule size has no intrinsic merit.\""
+msgid "\\\"Miniscule size has no intrinsic merit.\\\""
 msgstr "\"渺小的体型也没有什么好处。\""
 
 # From Data: Wearables-2Common-lace_underwear-name
@@ -18015,6 +18807,11 @@ msgstr "强制开口器"
 msgctxt "Description of a piece of equipment."
 msgid "This open mouth gag forces the wearer's mouth wide open, unable to refuse anything her enemies want to put in there."
 msgstr "这种开口器强迫佩戴者的嘴张开, 被敌人塞进东西时完全无法抵抗。"
+
+# From Data: Wearables-3Uncommon-parasite_choker-name
+msgctxt "Name of a piece of equipment."
+msgid "Parasite Choker"
+msgstr "Parasite Choker"
 
 # From Data: Wearables-3Uncommon-penis_gag-name
 msgctxt "Name of a piece of equipment."
@@ -18461,6 +19258,11 @@ msgctxt "Name of a piece of equipment."
 msgid "Overcharge Visor"
 msgstr "超载面罩"
 
+# From Data: Wearables-6Legendary-safety_amulet-name
+msgctxt "Name of a piece of equipment."
+msgid "Safety Amulet"
+msgstr "Safety Amulet"
+
 # From Data: Wearables-6Legendary-technician_suit-name
 msgctxt "Name of a piece of equipment."
 msgid "Technician Suit"
@@ -18658,7 +19460,7 @@ msgstr "背刺之刃"
 
 # From Data: Wearables-B3Rogue-backstab_blade-text
 msgctxt "Description of a piece of equipment."
-msgid "\"Watch your back.\""
+msgid "\\\"Watch your back.\\\""
 msgstr "\"小心背后。\""
 
 # From Data: Wearables-B3Rogue-backstabbing_blade-name
@@ -18812,7 +19614,6 @@ msgid "Improved Catalyst"
 msgstr "改良法杖"
 
 # From Data: Wearables-B4Mage-staff_support-name
-#, fuzzy
 msgctxt "Name of a piece of equipment."
 msgid "Staff of Unconditional Support"
 msgstr "无条件支持法杖"
@@ -18930,7 +19731,7 @@ msgstr "神圣之矛"
 # From Data: Wearables-B6Paladin-paladin_weapon-name
 msgctxt "Name of a piece of equipment."
 msgid "Zweihander"
-msgstr "双剑"
+msgstr "双手剑"
 
 # From Data: Wearables-B6Paladin-paladin_weapon-text
 msgctxt "Description of a piece of equipment."
@@ -18965,12 +19766,12 @@ msgstr "这根捕捉杆已经通过精神链接绑定到佩戴者身上，当她
 # From Data: Wearables-B6Paladin-zweihander_healing-name
 msgctxt "Name of a piece of equipment."
 msgid "Zweihander of Healing"
-msgstr "治愈双剑"
+msgstr "治愈双手剑"
 
 # From Data: Wearables-B6Paladin-zweihander_pacifism-name
 msgctxt "Name of a piece of equipment."
 msgid "Zweihander of Pacifism"
-msgstr "和平双剑"
+msgstr "和平双手剑"
 
 # From Data: Wearables-B7Noble-cocktail_blade-name
 msgctxt "Name of a piece of equipment."
@@ -19069,7 +19870,7 @@ msgstr "炼金喷射器"
 
 # From Data: Wearables-B8Alchemist-alchemy_blaster-text
 msgctxt "Description of a piece of equipment."
-msgid "\"The power of science.\""
+msgid "\\\"The power of science.\\\""
 msgstr "\"科学的力量\""
 
 # From Data: Wearables-B8Alchemist-auto_aiming_rifle-name
@@ -19624,7 +20425,7 @@ msgstr "狗项圈"
 
 # From Data: Wearables-C4Pet-dog_collar-text
 msgctxt "Description of a piece of equipment."
-msgid "A red collar with a tag with the wearer's name on it. The nameplate is enchanted to change depending on the wearer's name, though it will sometimes default to \"Bitch\"."
+msgid "A red collar with a tag with the wearer's name on it. The nameplate is enchanted to change depending on the wearer's name, though it will sometimes default to \\\"Bitch\\\"."
 msgstr "一条带有穿戴者名字标签的红色项圈。名牌被施了魔法, 可以根据穿戴者的名字变化, 尽管有时会默认显示为“母狗”。"
 
 # From Data: Wearables-C4Pet-dog_ears-name
@@ -19654,7 +20455,7 @@ msgstr "狗尾肛塞"
 
 # From Data: Wearables-C4Pet-dog_tail-text
 msgctxt "Description of a piece of equipment."
-msgid "This \"tail\" is actually a plug. It distracts the wearer and magically drains her intelligence. In return it gives her animal-like reflexes."
+msgid "This \\\"tail\\\" is actually a plug. It distracts the wearer and magically drains her intelligence. In return it gives her animal-like reflexes."
 msgstr "这“尾巴”实际上是一个塞子, 它分散穿戴者的注意力, 并神奇地削减她的智力。作为回报, 它给予她类似动物的反射能力。"
 
 # From Data: Wearables-C4Pet-muzzle-name
@@ -19689,7 +20490,7 @@ msgstr "橡胶小狗口塞"
 
 # From Data: Wearables-C4Pet-rubberpuppy_gag-text
 msgctxt "Description of a piece of equipment."
-msgid "An  inflatable gag that fills the cheeks and throat,  blocking human speech. It also has a \"snout\" that's long and ribbed... odd."
+msgid "An  inflatable gag that fills the cheeks and throat,  blocking human speech. It also has a \\\"snout\\\" that's long and ribbed... odd."
 msgstr "一种充满脸颊和喉咙的充气式口塞，可以阻止人类说话。它还有一个长而有棱的“鼻子”……有点怪。"
 
 # From Data: Wearables-C4Pet-rubberpuppy_hood-name
@@ -20462,6 +21263,11 @@ msgctxt "Description of a piece of equipment."
 msgid "There are a lot of ways to apologize in five turns."
 msgstr "在五个回合中，道歉的方式有很多。"
 
+# From Data: Wearables-D6Parasites-alraune_vine-name
+msgctxt "Name of a piece of equipment."
+msgid "Growing Vine"
+msgstr "生长藤蔓"
+
 # From Data: Wearables-D6Parasites-anal_parasite_gear-name
 msgctxt "Name of a piece of equipment."
 msgid "Enchanted Anal Parasite"
@@ -20581,6 +21387,566 @@ msgstr "棕褐纹章之戒"
 msgctxt "Name of a piece of equipment."
 msgid "Warspider Transformation"
 msgstr "战蜘蛛转换器"
+
+# From Data: Encounters-Plants-big_vine-name
+msgctxt "Name of a combat encounter."
+msgid "Big Vine"
+msgstr "大型藤蔓"
+
+# From Data: Encounters-Plants-explorers-name
+msgctxt "Name of a combat encounter."
+msgid "Explorers"
+msgstr "探索者"
+
+# From Data: Encounters-Plants-flower_army-name
+msgctxt "Name of a combat encounter."
+msgid "Flower Army"
+msgstr "花蔓之军"
+
+# From Data: Encounters-Plants-flower_power-name
+msgctxt "Name of a combat encounter."
+msgid "Flower Power"
+msgstr "花蔓之力"
+
+# From Data: Encounters-Plants-flowerbed-name
+msgctxt "Name of a combat encounter."
+msgid "Flowerbed"
+msgstr "花床"
+
+# From Data: Encounters-Plants-gardening-name
+msgctxt "Name of a combat encounter."
+msgid "Gardening"
+msgstr "园艺"
+
+# From Data: Encounters-Plants-green_crusade-name
+msgctxt "Name of a combat encounter."
+msgid "Green Crusade"
+msgstr "绿色十字军"
+
+# From Data: Encounters-Plants-hug_me-name
+msgctxt "Name of a combat encounter."
+msgid "Hug Me"
+msgstr "抱抱我吧"
+
+# From Data: Encounters-Plants-kennel-name
+msgctxt "Name of a combat encounter."
+msgid "Kennel"
+msgstr "狗舍"
+
+# From Data: Encounters-Plants-lovely_plants-name
+msgctxt "Name of a combat encounter."
+msgid "Lovely Plants"
+msgstr "可爱的植物"
+
+# From Data: Encounters-Plants-pasture-name
+msgctxt "Name of a combat encounter."
+msgid "Pasture"
+msgstr "牧场"
+
+# From Data: Encounters-Plants-rats_in_the_garden-name
+msgctxt "Name of a combat encounter."
+msgid "Rats in the Garden"
+msgstr "花园之鼠"
+
+# From Data: Encounters-Plants-shepherd-name
+msgctxt "Name of a combat encounter."
+msgid "Shepherd"
+msgstr "牧羊人"
+
+# From Data: Encounters-Plants-simple_flowers-name
+msgctxt "Name of a combat encounter."
+msgid "Simple Flowers"
+msgstr "小型花朵"
+
+# From Data: Encounters-Plants-small_pasture-name
+msgctxt "Name of a combat encounter."
+msgid "Small Pasture"
+msgstr "小型牧场"
+
+# From Data: Encounters-Plants-the_tangle-name
+msgctxt "Name of a combat encounter."
+msgid "The Tangle"
+msgstr "缠结者"
+
+# From Data: Encounters-Plants-weeds-name
+msgctxt "Name of a combat encounter."
+msgid "Weeds"
+msgstr "杂草"
+
+# From Data: Encyclopedia-Encyclopedia-morale-text
+msgctxt "Explanation of a tutorial"
+msgid "At the top of the dungeon screen you can find the morale bar. Morale starts at its maximum and drains when exploring new rooms. The drain slows down when morale is low. You can increase your morale by consuming certain provisions.While you get no penalties at low morale. High morale gives you powerful bonusses, so it's worth investing into. You can increase your maximum morale by upgrading the barracks. Some classes also specialize in keeping morale high."
+msgstr "在地下城画面的顶部。你可以找到士气栏。\n"
+"士气从最大值开始。在探索新房间时会下降。当士气较低时。下降速度会放慢。\n"
+"你可以通过消耗某些补给来增加士气。\n"
+"\n"
+"你可以通过升级兵营来增加最大士气上限。一些职业也专门用于保持士气高涨。"
+
+# From Data: Encyclopedia-Encyclopedia-movement-text
+msgctxt "Explanation of a tutorial"
+msgid "Dungeons exist of multiple rooms, each room contains either a combat encounter or an interaction. Longer dungeons have more rooms.Also, moving between rooms will heal your adventurers (25% base)."
+msgstr "地牢由多个房间组成，每个房间要么包含战斗，要么包含互动。\n"
+"更大的地牢拥有更多的房间。"
+
+# From Data: Enemies-Boss2-latex_alchemist-description
+msgctxt "Description of an enemy."
+msgid ""
+msgstr ""
+
+# From Data: Enemies-Plants-alraune-description
+msgctxt "Description of an enemy."
+msgid "Alraune are widespread around the northern swamps. They have a multitude of vines to extract nutrients from the soil, though they can also use it to attack their enemies."
+msgstr "曼陀罗花广泛分布于北部沼泽。它们有许多藤蔓，可以从土壤中汲取养分，也可以用来攻击敌人。"
+
+# From Data: Enemies-Plants-alraune-name
+msgctxt "Name of an enemy."
+msgid "Alraune"
+msgstr "曼陀罗花"
+
+# From Data: Enemies-Plants-alraune_hugger-description
+msgctxt "Description of an enemy."
+msgid "Alraune can also use their roots to extract nutrients from living creatures. This is how the alraunes absorb the lustful energies that they require. "
+msgstr "曼陀罗花还能用根部从生物身上汲取养分。曼陀罗花就是这样吸收它们所需的淫欲能量的。"
+
+# From Data: Enemies-Plants-alraune_hugger-name
+msgctxt "Name of an enemy."
+msgid "Alraune Hugger"
+msgstr "曼陀罗"
+
+# From Data: Enemymoves-Boss1-iron_maiden_grapple-name
+msgctxt "Name of an enemy move."
+msgid "Grapple"
+msgstr "捕获"
+
+# From Data: Enemymoves-Boss2-latex_alchemist_move1-name
+msgctxt "Name of an enemy move."
+msgid "Blanket Fire"
+msgstr "群体散射"
+
+# From Data: Enemymoves-Bosses-cockatrice_molest-name
+msgctxt "Name of an enemy move."
+msgid "Molest"
+msgstr "调戏"
+
+# From Data: Enemymoves-Machines-technician_bonk-name
+msgctxt "Name of an enemy move."
+msgid "Bonk"
+msgstr "轻击"
+
+# From Data: Enemymoves-Orcs-orc_slash-name
+msgctxt "Name of an enemy move."
+msgid "Slash"
+msgstr "惩戒"
+
+# From Data: Enemymoves-Plants-alraune_on_grapple-name
+msgctxt "Name of an enemy move."
+msgid "Pollinate"
+msgstr "授粉"
+
+# From Data: Enemymoves-Plants-intoxicate-name
+msgctxt "Name of an enemy move."
+msgid "Intoxicate"
+msgstr "麻醉药"
+
+# From Data: Enemymoves-Plants-lick_alraune-name
+msgctxt "Name of an enemy move."
+msgid "Lick Clean"
+msgstr "舔舐"
+
+# From Data: Enemymoves-Slimes-cleave_slime-name
+msgctxt "Name of an enemy move."
+msgid "Cleave"
+msgstr "劈砍"
+
+# From Data: Enemymoves-Slimes-musket_large_slime-name
+msgctxt "Name of an enemy move."
+msgid "Musket Shot"
+msgstr "精准射击"
+
+# From Data: Lists-Names-Abigail-ID
+msgctxt "Name of an adventurer."
+msgid "Abigail"
+msgstr "阿比盖尔"
+
+# From Data: Lists-Names-Ada-ID
+msgctxt "Name of an adventurer."
+msgid "Ada"
+msgstr "艾达"
+
+# From Data: Lists-Names-Adelina-ID
+msgctxt "Name of an adventurer."
+msgid "Adelina"
+msgstr "阿黛莉安"
+
+# From Data: Lists-Names-Aeliana-ID
+msgctxt "Name of an adventurer."
+msgid "Aeliana"
+msgstr "艾莉安娜"
+
+# From Data: Lists-Names-Aika-ID
+msgctxt "Name of an adventurer."
+msgid "Aika"
+msgstr "艾卡"
+
+# From Data: Lists-Names-Akari-ID
+msgctxt "Name of an adventurer."
+msgid "Akari"
+msgstr "阿卡丽"
+
+# From Data: Lists-Names-Anna-ID
+msgctxt "Name of an adventurer."
+msgid "Anna"
+msgstr "安娜"
+
+# From Data: Lists-Names-Arabella-ID
+msgctxt "Name of an adventurer."
+msgid "Arabella"
+msgstr "阿拉贝拉"
+
+# From Data: Lists-Names-Aria-ID
+msgctxt "Name of an adventurer."
+msgid "Aria"
+msgstr "阿莉雅"
+
+# From Data: Lists-Names-Astrid-ID
+msgctxt "Name of an adventurer."
+msgid "Astrid"
+msgstr "阿斯垂德"
+
+# From Data: Lists-Names-Beatrice-ID
+msgctxt "Name of an adventurer."
+msgid "Beatrice"
+msgstr "碧翠丝"
+
+# From Data: Lists-Names-Bocchi-ID
+msgctxt "Name of an adventurer."
+msgid "Bocchi"
+msgstr "波奇"
+
+# From Data: Lists-Names-Brienne-ID
+msgctxt "Name of an adventurer."
+msgid "Brienne"
+msgstr "布蕾妮"
+
+# From Data: Lists-Names-Bryn-ID
+msgctxt "Name of an adventurer."
+msgid "Bryn"
+msgstr "布琳"
+
+# From Data: Lists-Names-Cassia-ID
+msgctxt "Name of an adventurer."
+msgid "Cassia"
+msgstr "卡西娅"
+
+# From Data: Lists-Names-Catriona-ID
+msgctxt "Name of an adventurer."
+msgid "Catriona"
+msgstr "卡特里奥娜"
+
+# From Data: Lists-Names-Celestia-ID
+msgctxt "Name of an adventurer."
+msgid "Celestia"
+msgstr "西蕾丝提娅"
+
+# From Data: Lists-Names-Celia-ID
+msgctxt "Name of an adventurer."
+msgid "Celia"
+msgstr "西莉亚"
+
+# From Data: Lists-Names-Cordelia-ID
+msgctxt "Name of an adventurer."
+msgid "Cordelia"
+msgstr "柯蒂利娅"
+
+# From Data: Lists-Names-Dahlia-ID
+msgctxt "Name of an adventurer."
+msgid "Dahlia"
+msgstr "黛莉娅"
+
+# From Data: Lists-Names-Danika-ID
+msgctxt "Name of an adventurer."
+msgid "Danika"
+msgstr "黛妮卡"
+
+# From Data: Lists-Names-Daria-ID
+msgctxt "Name of an adventurer."
+msgid "Daria"
+msgstr "达莉娅"
+
+# From Data: Lists-Names-Deirdre-ID
+msgctxt "Name of an adventurer."
+msgid "Deirdre"
+msgstr "蒂尔德莉"
+
+# From Data: Lists-Names-Elara-ID
+msgctxt "Name of an adventurer."
+msgid "Elara"
+msgstr "伊莱拉"
+
+# From Data: Lists-Names-Elena-ID
+msgctxt "Name of an adventurer."
+msgid "Elena"
+msgstr "艾琳娜"
+
+# From Data: Lists-Names-Eli-ID
+msgctxt "Name of an adventurer."
+msgid "Eli"
+msgstr "艾莉"
+
+# From Data: Lists-Names-Elowen-ID
+msgctxt "Name of an adventurer."
+msgid "Elowen"
+msgstr "埃露温"
+
+# From Data: Lists-Names-Elysia-ID
+msgctxt "Name of an adventurer."
+msgid "Elysia"
+msgstr "爱莉希雅"
+
+# From Data: Lists-Names-Eowyn-ID
+msgctxt "Name of an adventurer."
+msgid "Eowyn"
+msgstr "伊欧玟"
+
+# From Data: Lists-Names-Eris-ID
+msgctxt "Name of an adventurer."
+msgid "Eris"
+msgstr "艾莉斯"
+
+# From Data: Lists-Names-Esmeralda-ID
+msgctxt "Name of an adventurer."
+msgid "Esmeralda"
+msgstr "爱斯梅拉达"
+
+# From Data: Lists-Names-Fallon-ID
+msgctxt "Name of an adventurer."
+msgid "Fallon"
+msgstr "法伦"
+
+# From Data: Lists-Names-Fiona-ID
+msgctxt "Name of an adventurer."
+msgid "Fiona"
+msgstr "菲奥娜"
+
+# From Data: Lists-Names-Flora-ID
+msgctxt "Name of an adventurer."
+msgid "Flora"
+msgstr "芙萝拉"
+
+# From Data: Lists-Names-Freya-ID
+msgctxt "Name of an adventurer."
+msgid "Freya"
+msgstr "芙蕾雅"
+
+# From Data: Lists-Names-Genevieve-ID
+msgctxt "Name of an adventurer."
+msgid "Genevieve"
+msgstr "吉妮维芙"
+
+# From Data: Lists-Names-Ginevra-ID
+msgctxt "Name of an adventurer."
+msgid "Ginevra"
+msgstr "吉妮芙拉"
+
+# From Data: Lists-Names-Giselle-ID
+msgctxt "Name of an adventurer."
+msgid "Giselle"
+msgstr "吉赛尔"
+
+# From Data: Lists-Names-Grace-ID
+msgctxt "Name of an adventurer."
+msgid "Grace"
+msgstr "格蕾丝"
+
+# From Data: Lists-Names-Gwyneth-ID
+msgctxt "Name of an adventurer."
+msgid "Gwyneth"
+msgstr "格温妮斯"
+
+# From Data: Lists-Names-Harper-ID
+msgctxt "Name of an adventurer."
+msgid "Harper"
+msgstr "哈珀"
+
+# From Data: Lists-Names-Helena-ID
+msgctxt "Name of an adventurer."
+msgid "Helena"
+msgstr "海伦娜"
+
+# From Data: Lists-Names-Illy-ID
+msgctxt "Name of an adventurer."
+msgid "Illy"
+msgstr "伊莉"
+
+# From Data: Lists-Names-Imogen-ID
+msgctxt "Name of an adventurer."
+msgid "Imogen"
+msgstr "伊摩琴"
+
+# From Data: Lists-Names-Iona-ID
+msgctxt "Name of an adventurer."
+msgid "Iona"
+msgstr "爱奥娜"
+
+# From Data: Lists-Names-Irene-ID
+msgctxt "Name of an adventurer."
+msgid "Irene"
+msgstr "艾琳"
+
+# From Data: Lists-Names-Isadora-ID
+msgctxt "Name of an adventurer."
+msgid "Isadora"
+msgstr "伊莎多拉"
+
+# From Data: Lists-Names-Isolde-ID
+msgctxt "Name of an adventurer."
+msgid "Isolde"
+msgstr "伊苏尔德"
+
+# From Data: Lists-Names-Jolene-ID
+msgctxt "Name of an adventurer."
+msgid "Jolene"
+msgstr "乔伦娜"
+
+# From Data: Lists-Names-Juliana-ID
+msgctxt "Name of an adventurer."
+msgid "Juliana"
+msgstr "茱莉安娜"
+
+# From Data: Lists-Names-Junia-ID
+msgctxt "Name of an adventurer."
+msgid "Junia"
+msgstr "优妮雅"
+
+# From Data: Lists-Names-Kaela-ID
+msgctxt "Name of an adventurer."
+msgid "Kaela"
+msgstr "凯拉"
+
+# From Data: Lists-Names-Kaida-ID
+msgctxt "Name of an adventurer."
+msgid "Kaida"
+msgstr "凯达"
+
+# From Data: Lists-Names-Kamoo-ID
+msgctxt "Name of an adventurer."
+msgid "Kamoo"
+msgstr "卡缪"
+
+# From Data: Lists-Names-Kassandra-ID
+msgctxt "Name of an adventurer."
+msgid "Kassandra"
+msgstr "卡珊德拉"
+
+# From Data: Lists-Names-Lark-ID
+msgctxt "Name of an adventurer."
+msgid "Lark"
+msgstr "云雀"
+
+# From Data: Lists-Names-Leona-ID
+msgctxt "Name of an adventurer."
+msgid "Leona"
+msgstr "蕾欧娜"
+
+# From Data: Lists-Names-Lirien-ID
+msgctxt "Name of an adventurer."
+msgid "Lirien"
+msgstr "莉瑞恩"
+
+# From Data: Lists-Names-Lucette-ID
+msgctxt "Name of an adventurer."
+msgid "Lucette"
+msgstr "丽赛特"
+
+# From Data: Lists-Names-Lyanna-ID
+msgctxt "Name of an adventurer."
+msgid "Lyanna"
+msgstr "莱安娜"
+
+# From Data: Lists-Names-Lyra-ID
+msgctxt "Name of an adventurer."
+msgid "Lyra"
+msgstr "莱拉"
+
+# From Data: Lists-Names-Maria-ID
+msgctxt "Name of an adventurer."
+msgid "Maria"
+msgstr "玛莉亚"
+
+# From Data: Lists-Names-Marlowe-ID
+msgctxt "Name of an adventurer."
+msgid "Marlowe"
+msgstr "玛洛"
+
+# From Data: Lists-Names-Mia-ID
+msgctxt "Name of an adventurer."
+msgid "Mia"
+msgstr "米娅"
+
+# From Data: Lists-Names-Mirabelle-ID
+msgctxt "Name of an adventurer."
+msgid "Mirabelle"
+msgstr "米拉贝丽"
+
+# From Data: Lists-Names-Nia-ID
+msgctxt "Name of an adventurer."
+msgid "Nia"
+msgstr "妮雅"
+
+# From Data: Lists-Names-Niamh-ID
+msgctxt "Name of an adventurer."
+msgid "Niamh"
+msgstr "妮雅芙"
+
+# From Data: Lists-Names-Ophelia-ID
+msgctxt "Name of an adventurer."
+msgid "Ophelia"
+msgstr "奥菲莉亚"
+
+# From Data: Lists-Names-Penelope-ID
+msgctxt "Name of an adventurer."
+msgid "Penelope"
+msgstr "佩内洛普"
+
+# From Data: Lists-Names-Petra-ID
+msgctxt "Name of an adventurer."
+msgid "Petra"
+msgstr "佩特拉"
+
+# From Data: Lists-Names-Raine-ID
+msgctxt "Name of an adventurer."
+msgid "Raine"
+msgstr "雷恩"
+
+# From Data: Lists-Names-Seraphina-ID
+msgctxt "Name of an adventurer."
+msgid "Seraphina"
+msgstr "塞拉芬娜"
+
+# From Data: Lists-Names-Sylva-ID
+msgctxt "Name of an adventurer."
+msgid "Sylva"
+msgstr "希尔瓦"
+
+# From Data: Lists-Names-Thalia-ID
+msgctxt "Name of an adventurer."
+msgid "Thalia"
+msgstr "塔莉娅"
+
+# From Data: Lists-Names-Theodora-ID
+msgctxt "Name of an adventurer."
+msgid "Theodora"
+msgstr "西奥多拉"
+
+# From Data: Lists-Names-Willow-ID
+msgctxt "Name of an adventurer."
+msgid "Willow"
+msgstr "薇洛"
+
+# From Data: Lists-Names-Yui-ID
+msgctxt "Name of an adventurer."
+msgid "Yui"
+msgstr "由衣"
 
 # From Engine: Nodes/Actors/Actor.gd
 msgid "Interact (%s)"
@@ -20887,13 +22253,11 @@ msgid "Patch Loaded Successfully!"
 msgstr "补丁已成功加载！"
 
 # From Engine: Nodes/Menu/MenuScene.tscn
-msgid ""
-"This game engages in safe and consensual analytics.\n"
+msgid "This game engages in safe and consensual analytics.\n"
 "It sends data of your move choices, goals completed, etc, to help balance and improve the game.\n"
 "No personal data is sent or stored.\n"
 "You can change your choice in the settings."
-msgstr ""
-"本游戏进行安全且双方同意的分析。\n"
+msgstr "本游戏进行安全且双方同意的分析。\n"
 "它会发送您的移动选择、目标完成情况等数据，以帮助平衡和改进游戏。\n"
 "不会发送或存储任何个人数据。\n"
 "您可以在设置中更改您的选择。"
@@ -20911,19 +22275,15 @@ msgid "Disclaimer"
 msgstr "免责声明"
 
 # From Engine: Nodes/Menu/MenuScene.tscn
-msgid ""
-"This game contains pornographic and adult material and is intended for adult audiences ONLY. By continuing to play you are confirming that you are over the legal age to view such content and are agreeing to do so. If you do not agree, or are otherwise sensitive to any specific type of adult content which may be present in this game, please close the game now.\n"
+msgid "This game contains pornographic and adult material and is intended for adult audiences ONLY. By continuing to play you are confirming that you are over the legal age to view such content and are agreeing to do so. If you do not agree, or are otherwise sensitive to any specific type of adult content which may be present in this game, please close the game now.\n"
 "\n"
-msgstr ""
-"本游戏包含色情和成人内容，仅供成人观看。继续游戏即表明您已超过观看此类内容的法定年龄，并同意观看此类内容。如果您不同意或对本游戏中可能出现的任何特定类型的成人内容敏感，请立即关闭游戏。\n"
+msgstr "本游戏包含色情和成人内容，仅供成人观看。继续游戏即表明您已超过观看此类内容的法定年龄，并同意观看此类内容。如果您不同意或对本游戏中可能出现的任何特定类型的成人内容敏感，请立即关闭游戏。\n"
 "\n"
 
 # From Engine: Nodes/Menu/MenuScene.tscn
-msgid ""
-"Inspired by fictional events and characters, this work of fiction was designed, developed, and produced by a multicultural team of various beliefs, sexual orientations and gender identities. All characters involved are guild licensed adventurers and over the age of 18.\n"
+msgid "Inspired by fictional events and characters, this work of fiction was designed, developed, and produced by a multicultural team of various beliefs, sexual orientations and gender identities. All characters involved are guild licensed adventurers and over the age of 18.\n"
 "\n"
-msgstr ""
-"这部小说作品的灵感来源于虚构的事件和人物，由一个具有不同信仰、性取向和性别认同的多元文化团队设计、开发和制作。所有角色均为获得公会许可的冒险者，年龄在 18 岁以上。\n"
+msgstr "这部小说作品的灵感来源于虚构的事件和人物，由一个具有不同信仰、性取向和性别认同的多元文化团队设计、开发和制作。所有角色均为获得公会许可的冒险者，年龄在 18 岁以上。\n"
 "\n"
 
 # From Engine: Nodes/Menu/MenuScene.tscn
@@ -21035,12 +22395,10 @@ msgid "  Error report:"
 msgstr "  错误报告:"
 
 # From Engine: Nodes/Utility/BugReportPanel.tscn
-msgid ""
-"What were you doing when this happened?\n"
+msgid "What were you doing when this happened?\n"
 "What were you expecting to happen?\n"
 "What happened instead?"
-msgstr ""
-"当发生这个问题时你在做什么？\n"
+msgstr "当发生这个问题时你在做什么？\n"
 "你期望会发生什么？\n"
 "实际发生了什么？"
 
@@ -21069,11 +22427,9 @@ msgid "Cancel"
 msgstr "取消"
 
 # From Engine: Nodes/Utility/BugReportPanel.tscn
-msgid ""
-"Upload failed, check your internet connection. \n"
+msgid "Upload failed, check your internet connection. \n"
 "You may also upload report.zip to the Discord server."
-msgstr ""
-"上传失败, 请检查你的网络连接。\n"
+msgstr "上传失败, 请检查你的网络连接。\n"
 "你也可以将report.zip上传到Discord服务器。"
 
 # From Engine: Nodes/Utility/Glossary/DotInfoBlock.gd
@@ -21099,3 +22455,4 @@ msgstr "每回合减少情欲。"
 # From Engine: Nodes/Utility/Glossary/DotOverview.tscn
 msgid "Over Time Effects"
 msgstr "持续效果"
+

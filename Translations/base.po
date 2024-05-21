@@ -9,8 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.4.2\n"
-
+"X-Generator: Poedit 3.4.4\n"
 
 # From Data: Afflictions-Afflictions-clearheaded-description
 msgctxt "Description of an affliction."
@@ -4574,7 +4573,7 @@ msgstr "公会大厅"
 msgctxt "Explanation of a tutorial."
 msgid "While this building is all about unlocking additional buildings and missions (click the icon at top left, next to the words ‘Guild Hall’) investment also allow you to increase the mission count. The right hand pane provides a scrollable overview of morale, missions count, roster size, staring level, training and job opportunities."
 msgstr ""
-"公会大厅是家园的核心建筑，主要用于解锁其他建筑和任务(点击左上角 \\"公会大厅 \\"旁边的图标)。\n"
+"公会大厅是家园的核心建筑，主要用于解锁其他建筑和任务(点击左上角 \"公会大厅 \"旁边的图标)。\n"
 "升级公会大厅可以增加任务数量。\n"
 "右侧窗格可滚动显示士气、任务数、队伍规模、等级、训练情况和工作情况等待。"
 
@@ -4591,7 +4590,7 @@ msgid ""
 "The maids clean the barracks - or so they say, know one knows what really goes on in there, but there are all kinds of muffled noises, so join the dots. Putting the most highly upgraded maids you have into these slots is worth it because each one makes an additional contribution to maximum morale."
 msgstr ""
 "冒险者营地是冒险者们居住的地方。\n"
-"升满级后(点击左上角 \\"冒险者营地 \\"旁边的图标)，营地可以将队伍最大规模增加到 44 人或更多。\n"
+"升满级后(点击左上角 \"冒险者营地 \"旁边的图标)，营地可以将队伍最大规模增加到 44 人或更多。\n"
 "升级可以提高冒险者的起始士气，你最多可以增加三个女仆岗位。\n"
 "女仆们负责打扫营地(她们是这么说的，没人知道里面到底发生了什么)。\n"
 "每个女仆都会增加最大士气值上限，所以建议将你拥有的等级最高的女仆放进来。"
@@ -4637,7 +4636,7 @@ msgstr ""
 "点击驿站马车左上方的图标，可以升级提高招募速度。\n"
 "提高基础属性可以提高新招募人员的质量。分配女孩到马奴岗位工作，她们能增加每个新冒险者的初始技能点数。\n"
 "如果你想移除已经被招募的冒险者，简单的方法是右键单击冒险者列表中的图标，在顶部窗格中选择盾牌图标，\n"
-"然后左键长按右下方窗格中的 \\"解雇冒险者\\"，就在冒险者信息栏的内侧。\n"
+"然后左键长按右下方窗格中的 \"解雇冒险者\"，就在冒险者信息栏的内侧。\n"
 "千万小心！解雇意味着你会永久失去这个女孩。"
 
 # From Data: Encyclopedia-Encyclopedia-b5_tavern-name
@@ -4675,7 +4674,7 @@ msgid ""
 msgstr ""
 "训练营可以提高冒险者的基础属性，你最多可以激活三个训练名额。\n"
 "将冒险者拖入其中一个训练格，然后选择要升级的基础属性，提高你的女孩们的生存能力和攻击力。\n"
-"右上角的 \\"狗舍 \\"选项卡可以增加每次可供选择的任务的最大数量，建议让高等级的母狗职业冒险者来负责这些岗位。\n"
+"右上角的 \"狗舍 \"选项卡可以增加每次可供选择的任务的最大数量，建议让高等级的母狗职业冒险者来负责这些岗位。\n"
 "如果数量不够，也可以用其他职业的冒险者来工作。"
 
 # From Data: Encyclopedia-Encyclopedia-b7_mental_ward-name
@@ -5025,9 +5024,9 @@ msgid ""
 "On MacOS: The ‘mods’ folder is found in /Library/Application Support/EroDungeons. Launch the finder and with it in the foreground, press the Option key and click on ‘Go’ on the menu bar at the top of your screen. The Library entry is about half way down the drop down list. Click on that to open the library folder."
 msgstr ""
 "在 Windows 上，将包含你要安装的 MOD 的文件夹拖入“mods”文件夹，该文件夹与 Ero Dungeons 可执行文件(启动游戏的文件)位于同一文件夹中。\n"
-"在 MacOS 上，\\"mods \\"文件夹位于 /Library/Application Support/EroDungeons 中。\n"
-"启动查找器并将其置于前台，按 Option 键并点击屏幕顶部菜单栏上的 \\"转到\\"。\n"
-"在下拉列表中，\\"库 \\"条目大约在一半的位置。点击它打开库文件夹。"
+"在 MacOS 上，\"mods \"文件夹位于 /Library/Application Support/EroDungeons 中。\n"
+"启动查找器并将其置于前台，按 Option 键并点击屏幕顶部菜单栏上的 \"转到\"。\n"
+"在下拉列表中，\"库 \"条目大约在一半的位置。点击它打开库文件夹。"
 
 # From Data: Encyclopedia-Encyclopedia-m1_mods-name
 msgctxt "Name of a tutorial."
@@ -5046,7 +5045,7 @@ msgstr ""
 "在 Ero Dungeons mod 管理器中激活之前，您安装的 mod 无法运行。\n"
 "启动 Ero Dungeons 应用程序，在启动菜单的左下方，您会看到两个图标，一个齿轮，一个法杖。\n"
 "每个新模块都必须在进入模块管理器后通过点击模块描述右侧的徽章来激活(这只需要做一次)。\n"
-"在安装模块更新时，最好先删除旧版本，然后再将新版本拖入 \\"mods \\"文件夹。"
+"在安装模块更新时，最好先删除旧版本，然后再将新版本拖入 \"mods \"文件夹。"
 
 # From Data: Encyclopedia-Encyclopedia-m2_mods-name
 msgctxt "Name of a tutorial."
@@ -5058,7 +5057,7 @@ msgctxt "Explanation of a tutorial."
 msgid "EroDungeons provides an API for installing mods, mods may conflicts with game code, so your mileage may vary. If unexpected things happen after installing a new mod, you can deactivate it by clicking on the mod’s crest in Mod Manager - but if you need support, you will need to contact the mod developer, not the Ero Dungeons dev team!"
 msgstr ""
 "EroDungeons 提供了一个用于安装 mod 的 API，mod 可能会与游戏代码发生冲突，因此您可能会遇到不同的情况。\n"
-"如果在安装新的 MOD 后出现意外情况，您可以在 \\"Mod Manager（Mod 管理器）\\"中点击该 MOD 的徽章将其停用.\n"
+"如果在安装新的 MOD 后出现意外情况，您可以在 \"Mod Manager（Mod 管理器）\"中点击该 MOD 的徽章将其停用.\n"
 "如果您需要支持，您需要联系该 MOD 的开发者，而不是 Ero Dungeons 开发团队！"
 
 # From Data: Encyclopedia-Encyclopedia-morale-group
@@ -6127,7 +6126,7 @@ msgstr "巨型史莱姆"
 # From Data: Enemies-Slimes-large_slime-description
 msgctxt "Description of an enemy."
 msgid "Two slimes can merge in a process named ectoplasmic profusion. This not only increases the size of the slime, it's also the start of a new part of her lifecycle."
-msgstr "两只史莱姆可以通过一种名为 \\"外质增殖 \\"的过程进行合并。这不仅会增大史莱姆的体积，也是其生命周期新阶段的开始。"
+msgstr "两只史莱姆可以通过一种名为 \"外质增殖 \"的过程进行合并。这不仅会增大史莱姆的体积，也是其生命周期新阶段的开始。"
 
 # From Data: Enemies-Slimes-large_slime-name
 msgctxt "Name of an enemy."
@@ -9905,9 +9904,7 @@ msgstr "牧师"
 
 # From Data: Quests-ClassQuests-cleric_veteran-text
 msgctxt "Description of a quest."
-msgid ""
-"Clerics are a versatile unit. They won't deal as much damage as other classes, but they can heal and buff their allies. Remember that even a small amount of healing can prevent your adventurers from getting kidnapped.\n"
-""
+msgid "Clerics are a versatile unit. They won't deal as much damage as other classes, but they can heal and buff their allies. Remember that even a small amount of healing can prevent your adventurers from getting kidnapped.\n"
 msgstr "牧师是一个多功能的职业。她们不会像其他职业那样造成大量伤害, 但她们可以治疗和给盟友加buff, 有效避免你的冒险者们被绑架。"
 
 # From Data: Quests-ClassQuests-mage_elite-name
@@ -9927,9 +9924,7 @@ msgstr "法师"
 
 # From Data: Quests-ClassQuests-mage_veteran-text
 msgctxt "Description of a quest."
-msgid ""
-"Mages are a strong backline unit. They deal large amounts of damage, but become useless when they don't have a strong frontline to defend them. Keep them out of harms way and let them burn things.\n"
-""
+msgid "Mages are a strong backline unit. They deal large amounts of damage, but become useless when they don't have a strong frontline to defend them. Keep them out of harms way and let them burn things.\n"
 msgstr "法师是一个强大的后排职业。她们能造成大量伤害, 但如果没有强大的前排保护的话她们就显得很脆弱。让她们原理危险并尽情释放力量吧。"
 
 # From Data: Quests-ClassQuests-noble_elite-name
@@ -9949,9 +9944,7 @@ msgstr "贵族剑士"
 
 # From Data: Quests-ClassQuests-noble_veteran-text
 msgctxt "Description of a quest."
-msgid ""
-"Nobles are a specialist class. They require careful positioning and proper planning. But in the hands of an expert, they are extremely powerful. They don't buff their allies, or heal though. That's what servants are for.\n"
-""
+msgid "Nobles are a specialist class. They require careful positioning and proper planning. But in the hands of an expert, they are extremely powerful. They don't buff their allies, or heal though. That's what servants are for.\n"
 msgstr "贵族是一个比较特殊的职业。她们需要谨慎的位置安排和适当的规划。缺点是她们不能给盟友加buff, 也不会治疗。那是仆人该干的。"
 
 # From Data: Quests-ClassQuests-paladin_elite-name
@@ -9971,9 +9964,7 @@ msgstr "圣骑士"
 
 # From Data: Quests-ClassQuests-paladin_veteran-text
 msgctxt "Description of a quest."
-msgid ""
-"Paladins are beloved by the gods. They will need to spend some turns building up divinity, but afterwards they can unleash the wrath of the gods on their enemies. It is said they can even turn back time and undo mistakes, though that is hard to confirm.\n"
-""
+msgid "Paladins are beloved by the gods. They will need to spend some turns building up divinity, but afterwards they can unleash the wrath of the gods on their enemies. It is said they can even turn back time and undo mistakes, though that is hard to confirm.\n"
 msgstr "圣骑士受到众神的恩赐。她们将需要花费几个回合来积累神性, 然后她们能够向敌人释放神之怒火。据说她们甚至可以让时光倒流, 撤回失误的回合，然而很难验证。"
 
 # From Data: Quests-ClassQuests-ranger_elite-name
@@ -9993,9 +9984,7 @@ msgstr "游侠"
 
 # From Data: Quests-ClassQuests-ranger_veteran-text
 msgctxt "Description of a quest."
-msgid ""
-"Rangers are a backline support unit. They excel in stripping away the protection of enemies and marking them for annihilation. They are completely powerless when they don't have a frontline to hide behind though.\n"
-""
+msgid "Rangers are a backline support unit. They excel in stripping away the protection of enemies and marking them for annihilation. They are completely powerless when they don't have a frontline to hide behind though.\n"
 msgstr "游侠是后防线支援单位。她们擅长把击破敌人的护盾, 找到敌人的弱点。但她们也很脆弱, 需要前排的保护。"
 
 # From Data: Quests-ClassQuests-rogue_elite-name
@@ -10015,9 +10004,7 @@ msgstr "游荡者"
 
 # From Data: Quests-ClassQuests-rogue_veteran-text
 msgctxt "Description of a quest."
-msgid ""
-"Rogues are damage dealers that can attack from any position. They can move between your ranks without any problems and fix allies that are out of position. They can't take many hits though, so be sure to have them move back before they are kidnapped.\n"
-""
+msgid "Rogues are damage dealers that can attack from any position. They can move between your ranks without any problems and fix allies that are out of position. They can't take many hits though, so be sure to have them move back before they are kidnapped.\n"
 msgstr "游荡者是可以从任何位置发起攻击的伤害输出角色。她们可以在你的队伍中自由移动, 有助于调整其他盟友的位置。但她们无法承受太多伤害, 所以确保她们被绑架前让她们撤退。"
 
 # From Data: Quests-ClassQuests-warrior_elite-name
@@ -10037,9 +10024,7 @@ msgstr "战士"
 
 # From Data: Quests-ClassQuests-warrior_veteran-text
 msgctxt "Description of a quest."
-msgid ""
-"Warriors are a good frontline unit. They excel in the first ranks and can take and deal a lot of damage. They lack some versatility though, and have trouble hitting all enemies. Watch out that her armor stays intact though, ratkin can easily chew through it and turn your brave warrior into a wretched prisoner. \n"
-""
+msgid "Warriors are a good frontline unit. They excel in the first ranks and can take and deal a lot of damage. They lack some versatility though, and have trouble hitting all enemies. Watch out that her armor stays intact though, ratkin can easily chew through it and turn your brave warrior into a wretched prisoner. \n"
 msgstr "战士是很好的前排职业。她们在队伍前排时表现出色, 可以承受或造成大量伤害。但她们缺乏灵活性, 难以击中所有敌人。请小心保持她的护甲完整, 鼠人可以很容易地咬破护甲, 把这位战士变成一个可怜的性奴。"
 
 # From Data: Quests-CurioQuests-curio_10-name
@@ -11548,7 +11533,7 @@ msgstr "好奇"
 # From Data: Quirks-Negatives-curious-text
 msgctxt "Description of a quirk."
 msgid "[NAME] can't stop wondering what side effects the moves of enemies have."
-msgstr "[NAME] 忍不住想知道敌人会给她带来什么\\"惊喜\\"。"
+msgstr "[NAME] 忍不住想知道敌人会给她带来什么\"惊喜\"。"
 
 # From Data: Quirks-Negatives-degenerate-name
 msgctxt "Name of a quirk."
@@ -11858,7 +11843,7 @@ msgstr "脱衣舞娘"
 # From Data: Quirks-Negatives-stripper-text
 msgctxt "Description of a quirk."
 msgid "[NAME] loves getting nude. She might even help her enemies 'accidentally' disrobe her."
-msgstr "[NAME] 特别喜欢裸体一丝不挂, 甚至她可能帮助敌人\\"意外地\\"脱掉自己的衣服。"
+msgstr "[NAME] 特别喜欢裸体一丝不挂, 甚至她可能帮助敌人\"意外地\"脱掉自己的衣服。"
 
 # From Data: Quirks-Negatives-submissive-name
 msgctxt "Name of a quirk."
@@ -12328,7 +12313,7 @@ msgstr "毁约"
 # From Data: Quirks-PresetsNeg-breach_of_contract-text
 msgctxt "Description of a quirk."
 msgid "\"...What? How? AND THEY'RE DOING WHAT WITH HER?!\""
-msgstr "\\"......什么？他们对她做了什么？\\""
+msgstr "\"......什么？他们对她做了什么？\""
 
 # From Data: Quirks-PresetsNeg-ensorced-name
 msgctxt "Name of a quirk."
@@ -12448,7 +12433,7 @@ msgstr "护卫使命"
 # From Data: Quirks-PresetsPlus-escort_mission-text
 msgctxt "Description of a quirk."
 msgid "\"You did a great job today!\""
-msgstr "\\"你今天干得很好！\\""
+msgstr "\"你今天干得很好！\""
 
 # From Data: Quirks-PresetsPlus-juggernaut-name
 msgctxt "Name of a quirk."
@@ -13332,7 +13317,7 @@ msgstr "[PARAM] 工作: [PARAM1]"
 
 # From Data: Scripts-Buildingscript-keep_uncursion-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
-msgid "Allows lossless Curse Removal	"
+msgid "Allows lossless Curse Removal\t"
 msgstr "允许无损诅咒移除\t"
 
 # From Data: Scripts-Buildingscript-maid_morale-short
@@ -15659,14 +15644,14 @@ msgctxt "Explanation of a script (shows in tooltips, do not replace anything bet
 msgid ""
 "Must be at most [PARAM] steps from [PARAM1] by A*\n"
 "Valid PARAM1: [\"start\",\"end\"]"
-msgstr "通过 A*Valid PARAM1: [\\"start\\",\\"end\\"] 从 [PARAM1] 至多必须是 [PARAM] 步。"
+msgstr "通过 A*Valid PARAM1: [\"start\",\"end\"] 从 [PARAM1] 至多必须是 [PARAM] 步。"
 
 # From Data: Scripts-Roomreqscript-distance_astar_min-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid ""
 "Must be at least [PARAM] steps from [PARAM1] by A*\n"
 "Valid PARAM1: [\"start\",\"end\"]"
-msgstr "必须至少是 [PARAM] 步距 [PARAM1] 的 A*Valid PARAM1: [\\"start\\", \\"end\\"]"
+msgstr "必须至少是 [PARAM] 步距 [PARAM1] 的 A*Valid PARAM1: [\"start\", \"end\"]"
 
 # From Data: Scripts-Roomreqscript-dungeon.difficulty-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -16910,7 +16895,7 @@ msgstr "数据文件夹。"
 # From Data: Scripts-Verificationscript-ICON_ID-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "An icon texture from the Icons folder, the ID refers to the part after \"<PREFIX>_\" and before \".png\"."
-msgstr "图标文件夹中的图标纹理, ID 是指在 \\"<PREFIX>_\\" 之后、\\".png\\" 之前的部分。"
+msgstr "图标文件夹中的图标纹理, ID 是指在 \"<PREFIX>_\" 之后、\".png\" 之前的部分。"
 
 # From Data: Scripts-Verificationscript-INT-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -16945,7 +16930,7 @@ msgstr "puppet上的纹理，可以单独存在，也可以用逗号与 COLOR �
 # From Data: Scripts-Verificationscript-QUIRK_REQ-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Requirement for quirks, either a personality, or a \"region,REGION_ID\" text."
-msgstr "对怪癖的要求，可以是个性，也可以是 \\"region,REGION_ID\\"文本。"
+msgstr "对怪癖的要求，可以是个性，也可以是 \"region,REGION_ID\"文本。"
 
 # From Data: Scripts-Verificationscript-RACE_ID-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -19119,7 +19104,7 @@ msgstr "哈, 她们落荒而逃！"
 
 # From Data: Voices-Voicelines-paladin-text
 msgctxt "Subtitles for a narrator voice over."
-msgid "A mighty sword-arm anchored by a holy purpose. A zealous warrior.	"
+msgid "A mighty sword-arm anchored by a holy purpose. A zealous warrior.\t"
 msgstr "被神圣使命激励, 他的剑术已臻化境。狂热的战士。"
 
 # From Data: Voices-Voicelines-ranger-text
@@ -19832,7 +19817,7 @@ msgstr "巨人戒指"
 # From Data: Wearables-2Common-giant_ring-text
 msgctxt "Description of a piece of equipment."
 msgid "\"Monstrous size has no intrinsic merit.\""
-msgstr "\\"庞大的体型并没有什么好处。\\""
+msgstr "\"庞大的体型并没有什么好处。\""
 
 # From Data: Wearables-2Common-halfling_ring-name
 msgctxt "Name of a piece of equipment."
@@ -19842,7 +19827,7 @@ msgstr "矮人戒指"
 # From Data: Wearables-2Common-halfling_ring-text
 msgctxt "Description of a piece of equipment."
 msgid "\"Miniscule size has no intrinsic merit.\""
-msgstr "\\"渺小的体型也没有什么好处。\\""
+msgstr "\"渺小的体型也没有什么好处。\""
 
 # From Data: Wearables-2Common-lace_underwear-name
 msgctxt "Name of a piece of equipment."
@@ -20985,7 +20970,7 @@ msgstr "背刺之刃"
 # From Data: Wearables-B3Rogue-backstab_blade-text
 msgctxt "Description of a piece of equipment."
 msgid "\"Watch your back.\""
-msgstr "\\"小心背后。\\""
+msgstr "\"小心背后。\""
 
 # From Data: Wearables-B3Rogue-backstabbing_blade-name
 msgctxt "Name of a piece of equipment."
@@ -21498,7 +21483,7 @@ msgstr "炼金喷射器"
 # From Data: Wearables-B8Alchemist-alchemy_blaster-text
 msgctxt "Description of a piece of equipment."
 msgid "\"The power of science.\""
-msgstr "\\"科学的力量\\""
+msgstr "\"科学的力量\""
 
 # From Data: Wearables-B8Alchemist-auto_aiming_rifle-name
 msgctxt "Name of a piece of equipment."
@@ -23548,12 +23533,8 @@ msgid " Return to the Guild "
 msgstr " 返回公会 "
 
 # From Engine: Nodes/Dungeon/ConclusionScene.tscn
-msgid ""
-"Mission Failed\n"
-""
-msgstr ""
-"Mission Failed\n"
-""
+msgid "Mission Failed\n"
+msgstr "Mission Failed\n"
 
 # From Engine: Nodes/Dungeon/Inventory/LootPanel.tscn
 msgid "   Collect Loot:"
@@ -23851,21 +23832,17 @@ msgstr "免责声明"
 msgid ""
 "This game contains pornographic and adult material and is intended for adult audiences ONLY. By continuing to play you are confirming that you are over the legal age to view such content and are agreeing to do so. If you do not agree, or are otherwise sensitive to any specific type of adult content which may be present in this game, please close the game now.\n"
 "\n"
-""
 msgstr ""
 "This game contains pornographic and adult material and is intended for adult audiences ONLY. By continuing to play you are confirming that you are over the legal age to view such content and are agreeing to do so. If you do not agree, or are otherwise sensitive to any specific type of adult content which may be present in this game, please close the game now.\n"
 "\n"
-""
 
 # From Engine: Nodes/Menu/MenuScene.tscn
 msgid ""
 "Inspired by fictional events and characters, this work of fiction was designed, developed, and produced by a multicultural team of various beliefs, sexual orientations and gender identities. All characters involved are guild licensed adventurers and over the age of 18.\n"
 "\n"
-""
 msgstr ""
 "Inspired by fictional events and characters, this work of fiction was designed, developed, and produced by a multicultural team of various beliefs, sexual orientations and gender identities. All characters involved are guild licensed adventurers and over the age of 18.\n"
 "\n"
-""
 
 # From Engine: Nodes/Menu/MenuScene.tscn
 msgid "I understand."
@@ -24075,20 +24052,20 @@ msgstr "Do you want to end the mission early and sound the retreat?"
 
 # From Engine: Autoload/Const.gd
 msgid "Novice"
-msgstr "Novice"
+msgstr "新手"
 
 # From Engine: Autoload/Const.gd
 msgid "Adept"
-msgstr "Adept"
+msgstr "熟练"
 
 # From Engine: Autoload/Const.gd
 msgid "Veteran"
-msgstr "Veteran"
+msgstr "老练"
 
 # From Engine: Autoload/Const.gd
 msgid "Elite"
-msgstr "Elite"
+msgstr "精英"
 
 # From Engine: Autoload/Const.gd
 msgid "Door does not open from this side."
-msgstr "Door does not open from this side."
+msgstr "此门不能从这一侧打开。"
