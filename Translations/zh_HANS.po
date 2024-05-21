@@ -2598,7 +2598,7 @@ msgstr "The party finds a strange contraption. Seemingly alive, it reacts and sh
 # From Data: Curios-Boss-delatexifier-name
 msgctxt "Name of a curio."
 msgid "Peculiar Contraption"
-msgstr "Peculiar Contraption"
+msgstr "诡异的装置"
 
 # From Data: Curios-Boss-latexifier-description
 msgctxt "Description of a curio."
@@ -2608,7 +2608,7 @@ msgstr "The party finds a hole which continuously produces a stream of liquid la
 # From Data: Curios-Boss-latexifier-name
 msgctxt "Name of a curio."
 msgid "Oozing Latex Contraption"
-msgstr "Oozing Latex Contraption"
+msgstr "渗出乳胶的装置"
 
 # From Data: Curios-Boss4-anal_parasite-description
 msgctxt "Description of a curio."
@@ -10836,8 +10836,8 @@ msgstr "尽可能多地购买供应品。"
 msgctxt "Description of a tutorial quest"
 msgid "Each day you get an amount of provision points that can be used to buy provisions. These are reset each day, so be sure to spend them all.\n"
 "You can upgrade these by improving your farmstead or employing forced labourers."
-msgstr "Each day you get an amount of provision points that can be used to buy provisions. These are reset each day, so be sure to spend them all.\n"
-"You can upgrade these by improving your farmstead or employing forced labourers."
+msgstr "每天您都会获得一定数量的供给点，可以用来购买供给品。这些点数每天都会重置，所以请确保将点数用完。\n"
+"您可以通过改善您的农庄或雇佣强制劳工来升级这些点数。"
 
 # From Data: QuestTutorials-QuestTutorials-check_bestiary-name
 msgctxt "Name of a tutorial quest"
@@ -10848,8 +10848,8 @@ msgstr "查看怪物图鉴(Bestiary)。"
 msgctxt "Description of a tutorial quest"
 msgid "Whenever you kill an enemy, your bestiary gets filled in. Have a look at it. There are also similar lists for your collected items, classes, and curios.\n"
 "These not only give you bragging rights, but are also necessary to complete certain quests."
-msgstr "Whenever you kill an enemy, your bestiary gets filled in. Have a look at it. There are also similar lists for your collected items, classes, and curios.\n"
-"These not only give you bragging rights, but are also necessary to complete certain quests."
+msgstr "每当你杀死一个敌人，你的怪物图鉴(Bestiary)就会被填满。看一看吧。您收集的物品、等级和奇珍异宝也有类似的列表。\n"
+"这些不仅能让您获得炫耀的资本，也是完成某些任务所必需的。"
 
 # From Data: QuestTutorials-QuestTutorials-check_dots-name
 msgctxt "Name of a tutorial quest"
@@ -10980,8 +10980,8 @@ msgstr "获得诅咒职业。"
 msgctxt "Description of a tutorial quest"
 msgid "If an adventurer wears enough cursed gear, she will turn into a cursed class. The only way for her to turn back is by advancing far enough in that class.\n"
 "Or you can keep her like that, cursed classes have niche specializations that can help out."
-msgstr "If an adventurer wears enough cursed gear, she will turn into a cursed class. The only way for her to turn back is by advancing far enough in that class.\n"
-"Or you can keep her like that, cursed classes have niche specializations that can help out."
+msgstr "如果冒险者穿上足够多的诅咒装备，她就会变成诅咒职业。要想变回来，唯一的办法就是在该职业小有所成。\n"
+"或者你也可以让她保持这样，诅咒职业有一些特殊的专长可以帮助她。"
 
 # From Data: QuestTutorials-QuestTutorials-get_afflicted-name
 msgctxt "Name of a tutorial quest"
@@ -11022,8 +11022,8 @@ msgstr "让一名冒险者被绑架。"
 msgctxt "Description of a tutorial quest"
 msgid "Once an adventurer reaches 0 HP, she doesn't die. She turns into a faltering state. Whenever she takes damage, there's an increasing chance that she will be kidnapped.\n"
 "Once an adventurer is kidnapped, you'll have to rescue her."
-msgstr "Once an adventurer reaches 0 HP, she doesn't die. She turns into a faltering state. Whenever she takes damage, there's an increasing chance that she will be kidnapped.\n"
-"Once an adventurer is kidnapped, you'll have to rescue her."
+msgstr "冒险者的 HP 值为 0 时，她不会死亡。她会进入虚弱状态。每当她受到伤害时，她被绑架的几率就会增加。\n"
+"一旦冒险者被绑架，你就必须去营救她。"
 
 # From Data: QuestTutorials-QuestTutorials-inspect_an_enemy-name
 msgctxt "Name of a tutorial quest"
@@ -11755,7 +11755,7 @@ msgstr "Ascetic"
 # From Data: Quirks-Positives-ascetic-text
 msgctxt "Description of a quirk."
 msgid "[NAME] is content with basic equipment."
-msgstr "[NAME] is content with basic equipment."
+msgstr "[NAME] 满足于使用基础装备。"
 
 # From Data: Quirks-Positives-blindfold_lover-name
 msgctxt "Name of a quirk."
@@ -23694,7 +23694,7 @@ msgstr "隐藏字幕"
 
 # From Engine: Nodes/Menu/Toggles.tscn
 msgid "Colorblind Mode"
-msgstr "盲模式"
+msgstr "色盲模式"
 
 # From Engine: Nodes/Menu/Toggles.tscn
 msgid "Fullscreen (F11)"
