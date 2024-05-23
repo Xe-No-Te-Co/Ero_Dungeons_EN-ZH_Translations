@@ -5063,7 +5063,7 @@ msgstr "移动"
 # From Data: Encyclopedia-Encyclopedia-overencumberance-name
 msgctxt "Name of a tutorial."
 msgid "Overencumbered"
-msgstr "超载"
+msgstr "超重"
 
 # From Data: Encyclopedia-Encyclopedia-overencumberance-text
 msgctxt "Explanation of a tutorial."
@@ -14421,12 +14421,12 @@ msgstr "提高 [PARAM]:"
 # From Data: Scripts-Goalscript-get_healed-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Receive [PARAM] [ICON:heal_type] healing:"
-msgstr "Receive [PARAM] [ICON:heal_type] healing:"
+msgstr "收到 [PARAM] [ICON:heal_type] 治疗 :"
 
 # From Data: Scripts-Goalscript-heal-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Heal [PARAM] [ICON:heal_type]:"
-msgstr "Heal [PARAM] [ICON:heal_type]:"
+msgstr "治疗 [PARAM] [ICON:heal_type]:"
 
 # From Data: Scripts-Goalscript-item_group-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -15091,7 +15091,7 @@ msgstr "清除 [PARAM]"
 # From Data: Scripts-Movescript-return_saves-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Turn back time."
-msgstr "回合回溯次数。"
+msgstr "时光回溯"
 
 # From Data: Scripts-Movescript-satisfaction-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."

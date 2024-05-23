@@ -68,7 +68,7 @@ def merge_po_files(po0_path, po1_path, merged_po_path):
 		if entry.tcomment in po1_dict:
 			# po0和po1都有，用po1的msgstr覆盖po0的
 			po1_entry = po1_dict[entry.tcomment]
-			if po1_entry.msgstr != entry.msgstr:
+			if (po1_entry.msgid == entry.msgid) and (po1_entry.msgstr != entry.msgstr):
 				print(f'Translation updated: {entry.msgstr} -> {po1_entry.msgstr}')
 				entry.msgstr = po1_entry.msgstr
 			else:
@@ -129,4 +129,5 @@ path = {
 	'zh_hans': 'Translations/zh_HANS_pre.po',
 	'zh_hans_merged': 'Translations/zh_HANS.po'
 	}
+# fix_po(path["base"])
 merge_po_files(path["base"], path["zh_hans"], path["zh_hans_merged"])

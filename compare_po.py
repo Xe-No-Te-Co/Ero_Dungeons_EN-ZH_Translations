@@ -45,12 +45,12 @@ def compare_po_files(po0_path, po1_path):
 	# 遍历 po0 中的条目，根据 tcomment 替换 msgstr
 	for entry in po0:
 		if entry.tcomment not in po1_dict:
-			print(f'[Entry key]{entry.tcomment} \n[Entry text]{entry.msgid} not in po1')
+			print(f'[Entry key]{entry.tcomment} \n[Entry text]{entry.msgid} not in po1\n')
 
 	for entry in po1:
 		if entry.tcomment not in po0_dict:
 			# po1有但po0没有
-			print(f'[Entry key]{entry.tcomment} \n[Entry text]{entry.msgid} not in po0')
+			print(f'[Entry key]{entry.tcomment} \n[Entry text]{entry.msgid} not in po0\n')
 
 
 # 示例用法
@@ -61,5 +61,5 @@ path = {
 	'zh_hans_merged': 'Translations/zh_HANS.po'
 	}
 
-fix_po(path["base"])
+# fix_po(path["base"])
 compare_po_files(path["base"], path["zh_hans"])
