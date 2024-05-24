@@ -6147,7 +6147,7 @@ msgstr "蜘蛛幼体"
 # From Data: Enemies-Spiders-ratkin_spiderrider-description
 msgctxt "Description of an enemy."
 msgid "Spidergirls can be domesticated. In The Empire they are used for silk production. Ratkin, ever uncivilized and violent, use them as mounts however. Even though it's well known that horses are much deadlier in combat. "
-msgstr "蜘蛛女可以被驯化。在帝国，它们被用来生产丝绸。然而，一向不文明且残暴的鼠人却把它们当作坐骑。尽管众所周知，骑兵在战斗中更致命。"
+msgstr "蜘蛛女可以被驯化。在帝国，它们被用来生产丝绸。然而，一向不文明且残暴的鼠人却把它们当作坐骑。尽管众所周知，把马作为坐骑的骑兵在战斗中更致命。"
 
 # From Data: Enemies-Spiders-ratkin_spiderrider-name
 msgctxt "Name of an enemy."
@@ -6857,12 +6857,12 @@ msgstr "蓄力准备"
 # From Data: Enemymoves-Machines-reinvigorate_machine-name
 msgctxt "Name of an enemy move."
 msgid "Reinvigorate Machine"
-msgstr "重启装置"
+msgstr "激发装置"
 
 # From Data: Enemymoves-Machines-repeated_thrust-name
 msgctxt "Name of an enemy move."
 msgid "Repeated Thrust"
-msgstr "猛推"
+msgstr "反复抽插"
 
 # From Data: Enemymoves-Machines-scan_weakness-name
 msgctxt "Name of an enemy move."
@@ -6882,7 +6882,7 @@ msgstr "攻击(虚弱)"
 # From Data: Enemymoves-Orcs-aphro_stab-name
 msgctxt "Name of an enemy move."
 msgid "Poison Stab"
-msgstr "毒刺"
+msgstr "淬毒戳刺"
 
 # From Data: Enemymoves-Orcs-estrus_stickers-name
 msgctxt "Name of an enemy move."
@@ -8042,7 +8042,7 @@ msgstr "动物大盗"
 # From Data: Parties-Parties-dnd-name
 msgctxt "Name of a party composition."
 msgid "Ero DnD"
-msgstr "淫欲之神领域"
+msgstr "淫欲地牢调查团"
 
 # From Data: Parties-Parties-grand_academy-name
 msgctxt "Name of a party composition."
@@ -8817,22 +8817,22 @@ msgstr "按摩"
 # From Data: Playermoves-Maid-miko_cleanse-name
 msgctxt "Name of a move."
 msgid "Arcane Cleansing"
-msgstr "奥术净化"
+msgstr "秘法大祓·灵净之仪"
 
 # From Data: Playermoves-Maid-miko_maid-name
 msgctxt "Name of a move."
 msgid "Arcane Preparations"
-msgstr "奥数充能"
+msgstr "秘法仪典·神域准备"
 
 # From Data: Playermoves-Maid-miko_massage-name
 msgctxt "Name of a move."
 msgid "Arcane Consecration"
-msgstr "奥术祝圣"
+msgstr "秘法祝祭·神圣祈愿"
 
 # From Data: Playermoves-Maid-miko_ward-name
 msgctxt "Name of a move."
 msgid "Arcane Ward"
-msgstr "奥术守护"
+msgstr "秘法结界·神灵守护"
 
 # From Data: Playermoves-Maid-perfect_maid-name
 msgctxt "Name of a move."
@@ -8932,7 +8932,7 @@ msgstr "纯洁吸取"
 # From Data: Playermoves-MeoaimMoves-slow_reload-name
 msgctxt "Name of a move."
 msgid "Slow Reload"
-msgstr "慢速重载"
+msgstr "慢速装填"
 
 # From Data: Playermoves-MeoaimMoves-snake_shot-name
 msgctxt "Name of a move."
@@ -10184,7 +10184,7 @@ msgstr "未实装"
 # From Data: Quests-MainLine-kill_boss_4-name
 msgctxt "Name of a quest."
 msgid "Seedbed"
-msgstr "幻梦"
+msgstr "苗床"
 
 # From Data: Quests-MainLine-kill_boss_4-text
 msgctxt "Description of a quest."
@@ -11300,7 +11300,7 @@ msgstr "你的冒险家被绑架了。别担心，你可以把她救回来。不
 # From Data: Quirks-Negatives-abrasive-name
 msgctxt "Name of a quirk."
 msgid "Abrasive"
-msgstr "饭桶"
+msgstr "嘴臭"
 
 # From Data: Quirks-Negatives-abrasive-text
 msgctxt "Description of a quirk."
@@ -15276,7 +15276,7 @@ msgstr "击杀 [PARAM] 类型的敌人 [PARAM1] 个:"
 # From Data: Scripts-Questreqscript-reach_tile-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Reach the first boss:"
-msgstr "击败第一个boos:"
+msgstr "击败第一个BOSS:"
 
 # From Data: Scripts-Questscript-curse-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."

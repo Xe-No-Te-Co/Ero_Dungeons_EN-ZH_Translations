@@ -1,0 +1,3600 @@
+#
+msgid ""
+msgstr ""
+
+# From Data: CensorTypes-CensorTypes-trapless-description
+msgctxt "Description of a censorship option."
+msgid "Replaces the Church guild NPC with a female version."
+msgstr "Replaces the Church guild NPC with a female version."
+
+# From Data: CurioChoices-Boss4-analparasite_1-description
+msgctxt ""
+"Description of an opinion an adventurer has about how to handle a curio."
+msgid "I already have a parasite, it seems to refuse any company."
+msgstr "I already have a parasite, it seems to refuse any company."
+
+# From Data: CurioChoices-Boss4-analparasite_1-text1
+msgctxt "Description of the result of a curio action."
+msgid "The party leaves the pit be."
+msgstr "The party leaves the pit be."
+
+# From Data: CurioChoices-Boss4-analparasite_1-text2
+msgctxt "Description of the result of a curio action."
+msgid ""
+msgstr ""
+
+# From Data: CurioChoices-Boss4-analparasite_default-description
+msgctxt ""
+"Description of an opinion an adventurer has about how to handle a curio."
+msgid ""
+"It wants me to WHAT?\n"
+"Well, it's fine. If you insist."
+msgstr ""
+"It wants me to WHAT?\n"
+"Well, it's fine. If you insist."
+
+# From Data: CurioChoices-Boss4-analparasite_default-text1
+msgctxt "Description of the result of a curio action."
+msgid ""
+"As [NAME] lowers herself into the pit, a small Parasite wurms itself into "
+"her anus."
+msgstr ""
+"As [NAME] lowers herself into the pit, a small Parasite wurms itself into "
+"her anus."
+
+# From Data: CurioChoices-Boss4-brainparasite_default-text1
+msgctxt "Description of the result of a curio action."
+msgid ""
+"As [NAME] dips her head into the pit, a small Parasite creeps into her ear."
+msgstr ""
+"As [NAME] dips her head into the pit, a small Parasite creeps into her ear."
+
+# From Data: CurioChoices-Boss4-corsetparasite_default-text1
+msgctxt "Description of the result of a curio action."
+msgid ""
+"As [NAME] lowers herself into the pit, a Parasite clings itself around her "
+"belly."
+msgstr ""
+"As [NAME] lowers herself into the pit, a Parasite clings itself around her "
+"belly."
+
+# From Data: CurioChoices-Boss4-heelparasite_default-text1
+msgctxt "Description of the result of a curio action."
+msgid ""
+"As [NAME] dips her feet into the pit, two Parasites attach themselves to her"
+" feet."
+msgstr ""
+"As [NAME] dips her feet into the pit, two Parasites attach themselves to her"
+" feet."
+
+# From Data: CurioChoices-Boss4-nippleparasite_default-text1
+msgctxt "Description of the result of a curio action."
+msgid ""
+"As [NAME] lowers herself into the pit, two Parasites attach themselves unto "
+"her nipples."
+msgstr ""
+"As [NAME] lowers herself into the pit, two Parasites attach themselves unto "
+"her nipples."
+
+# From Data: CurioChoices-Boss4-oralparasite_default-text1
+msgctxt "Description of the result of a curio action."
+msgid ""
+"As [NAME] dips her head into the pit, a Parasite wurms itself into her "
+"mouth."
+msgstr ""
+"As [NAME] dips her head into the pit, a Parasite wurms itself into her "
+"mouth."
+
+# From Data: CurioChoices-Boss4-parasite1_1-description
+msgctxt ""
+"Description of an opinion an adventurer has about how to handle a curio."
+msgid "It seems to react to my touch. It's opening!"
+msgstr "It seems to react to my touch. It's opening!"
+
+# From Data: CurioChoices-Boss4-parasite1_1-text1
+msgctxt "Description of the result of a curio action."
+msgid "As [NAME] steps forward, the fleshgate slowly opens."
+msgstr "As [NAME] steps forward, the fleshgate slowly opens."
+
+# From Data: CurioChoices-Boss4-parasite1_default-description
+msgctxt ""
+"Description of an opinion an adventurer has about how to handle a curio."
+msgid "It doesn't seem to budge. Let's leave."
+msgstr "It doesn't seem to budge. Let's leave."
+
+# From Data: CurioChoices-Boss4-parasite1_default-text1
+msgctxt "Description of the result of a curio action."
+msgid "The party leaves the fleshgate alone."
+msgstr "The party leaves the fleshgate alone."
+
+# From Data: CurioChoices-Boss4-urethralparasite_default-text1
+msgctxt "Description of the result of a curio action."
+msgid ""
+"As [NAME] lowers herself into the pit, a small Parasite wurms itself into "
+"her urethra."
+msgstr ""
+"As [NAME] lowers herself into the pit, a small Parasite wurms itself into "
+"her urethra."
+
+# From Data: CurioChoices-Boss4-vaginalparasite_default-text1
+msgctxt "Description of the result of a curio action."
+msgid ""
+"As [NAME] lowers herself into the pit, a small Parasite wurms itself into "
+"her vagina."
+msgstr ""
+"As [NAME] lowers herself into the pit, a small Parasite wurms itself into "
+"her vagina."
+
+# From Data: Curios-Boss-delatexifier-description
+msgctxt "Description of a curio."
+msgid ""
+"The party finds a strange contraption. Seemingly alive, it reacts and "
+"shudders when any latex moves near. Below it stands, in ancient imperial "
+"script: \"ontrubberringsapparaat\". Whatever that may mean."
+msgstr ""
+"The party finds a strange contraption. Seemingly alive, it reacts and "
+"shudders when any latex moves near. Below it stands, in ancient imperial "
+"script: \"ontrubberringsapparaat\". Whatever that may mean."
+
+# From Data: Curios-Boss-latexifier-description
+msgctxt "Description of a curio."
+msgid ""
+"The party finds a hole which continuously produces a stream of liquid latex."
+" A metal contraption is half sunken in the goo. Next to it stands, in "
+"ancient imperial script: \"verrubberringsapparaat\". Whatever that may mean."
+msgstr ""
+"The party finds a hole which continuously produces a stream of liquid latex."
+" A metal contraption is half sunken in the goo. Next to it stands, in "
+"ancient imperial script: \"verrubberringsapparaat\". Whatever that may mean."
+
+# From Data: Curios-Boss4-anal_parasite-description
+msgctxt "Description of a curio."
+msgid ""
+"The party comes across a pit. It isn't deep but several things inside move "
+"with purpose. A strange feeling comes across the party, beckoning them to "
+"skinny dip in the shallow pit."
+msgstr ""
+"The party comes across a pit. It isn't deep but several things inside move "
+"with purpose. A strange feeling comes across the party, beckoning them to "
+"skinny dip in the shallow pit."
+
+# From Data: Curios-Boss4-anal_parasite-name
+msgctxt "Name of a curio."
+msgid "Anal Parasite Pit"
+msgstr "Anal Parasite Pit"
+
+# From Data: Curios-Boss4-brain_parasite-description
+msgctxt "Description of a curio."
+msgid ""
+"The party comes across a pit. It isn't deep but several things inside move "
+"with purpose. A strange feeling comes across the party, beckoning them to "
+"put their head in the shallow pit."
+msgstr ""
+"The party comes across a pit. It isn't deep but several things inside move "
+"with purpose. A strange feeling comes across the party, beckoning them to "
+"put their head in the shallow pit."
+
+# From Data: Curios-Boss4-brain_parasite-name
+msgctxt "Name of a curio."
+msgid "Brain Parasite Pit"
+msgstr "Brain Parasite Pit"
+
+# From Data: Curios-Boss4-corset_parasite-description
+msgctxt "Description of a curio."
+msgid ""
+"The party comes across a pit. It isn't deep but several things inside move "
+"with purpose. A strange feeling comes across the party, beckoning them to "
+"put their chest into the shallow pit."
+msgstr ""
+"The party comes across a pit. It isn't deep but several things inside move "
+"with purpose. A strange feeling comes across the party, beckoning them to "
+"put their chest into the shallow pit."
+
+# From Data: Curios-Boss4-corset_parasite-name
+msgctxt "Name of a curio."
+msgid "Corset Parasite Pit"
+msgstr "Corset Parasite Pit"
+
+# From Data: Curios-Boss4-heel_parasite-description
+msgctxt "Description of a curio."
+msgid ""
+"The party comes across a pit. It isn't deep but several things inside move "
+"with purpose. A strange feeling comes across the party, beckoning them to "
+"dip their feet into the pit."
+msgstr ""
+"The party comes across a pit. It isn't deep but several things inside move "
+"with purpose. A strange feeling comes across the party, beckoning them to "
+"dip their feet into the pit."
+
+# From Data: Curios-Boss4-heel_parasite-name
+msgctxt "Name of a curio."
+msgid "Heel Parasite Pit"
+msgstr "Heel Parasite Pit"
+
+# From Data: Curios-Boss4-nipple_parasite-name
+msgctxt "Name of a curio."
+msgid "Nipple Parasite"
+msgstr "Nipple Parasite"
+
+# From Data: Curios-Boss4-oral_parasite-description
+msgctxt "Description of a curio."
+msgid ""
+"The party comes across a pit. It isn't deep but several things inside move "
+"with purpose. A strange feeling comes across the party, beckoning them to "
+"put their head inside."
+msgstr ""
+"The party comes across a pit. It isn't deep but several things inside move "
+"with purpose. A strange feeling comes across the party, beckoning them to "
+"put their head inside."
+
+# From Data: Curios-Boss4-oral_parasite-name
+msgctxt "Name of a curio."
+msgid "Oral Parasite Pit"
+msgstr "Oral Parasite Pit"
+
+# From Data: Curios-Boss4-parasite1-description
+msgctxt "Description of a curio."
+msgid ""
+"The party finds a peculiar gate, it seems composed of a mix between metal "
+"and biomatter. There is no keyhole, but strange markings are etched on the "
+"infested metal. The party understands that the gate only opens to those with"
+" \"high\" parasites."
+msgstr ""
+"The party finds a peculiar gate, it seems composed of a mix between metal "
+"and biomatter. There is no keyhole, but strange markings are etched on the "
+"infested metal. The party understands that the gate only opens to those with"
+" \"high\" parasites."
+
+# From Data: Curios-Boss4-parasite1-name
+msgctxt "Name of a curio."
+msgid "The High Fleshgate"
+msgstr "The High Fleshgate"
+
+# From Data: Curios-Boss4-parasite2-description
+msgctxt "Description of a curio."
+msgid ""
+"The party finds a peculiar gate, it seems composed of a mix between metal "
+"and biomatter. There is no keyhole, but strange markings are etched on the "
+"infested metal. The party understands that the gate only opens to those with"
+" \"middle\" parasites."
+msgstr ""
+"The party finds a peculiar gate, it seems composed of a mix between metal "
+"and biomatter. There is no keyhole, but strange markings are etched on the "
+"infested metal. The party understands that the gate only opens to those with"
+" \"middle\" parasites."
+
+# From Data: Curios-Boss4-parasite2-name
+msgctxt "Name of a curio."
+msgid "The Middle Fleshgate"
+msgstr "The Middle Fleshgate"
+
+# From Data: Curios-Boss4-parasite3-description
+msgctxt "Description of a curio."
+msgid ""
+"The party finds a peculiar gate, it seems composed of a mix between metal "
+"and biomatter. There is no keyhole, but strange markings are etched on the "
+"infested metal. The party understands that the gate only opens to those with"
+" \"low\" parasites."
+msgstr ""
+"The party finds a peculiar gate, it seems composed of a mix between metal "
+"and biomatter. There is no keyhole, but strange markings are etched on the "
+"infested metal. The party understands that the gate only opens to those with"
+" \"low\" parasites."
+
+# From Data: Curios-Boss4-parasite3-name
+msgctxt "Name of a curio."
+msgid "The Low Fleshgate"
+msgstr "The Low Fleshgate"
+
+# From Data: Curios-Boss4-parasite4-description
+msgctxt "Description of a curio."
+msgid ""
+"The party finds a peculiar gate, it seems composed of a mix between metal "
+"and biomatter. There is no keyhole, but strange markings are etched on the "
+"infested metal. The party understands that the gate only opens to those with"
+" the \"lowest\" parasite."
+msgstr ""
+"The party finds a peculiar gate, it seems composed of a mix between metal "
+"and biomatter. There is no keyhole, but strange markings are etched on the "
+"infested metal. The party understands that the gate only opens to those with"
+" the \"lowest\" parasite."
+
+# From Data: Curios-Boss4-parasite4-name
+msgctxt "Name of a curio."
+msgid "The Lowest Fleshgate"
+msgstr "The Lowest Fleshgate"
+
+# From Data: Curios-Boss4-urethral_parasite-name
+msgctxt "Name of a curio."
+msgid "Urethral Parasite Pit"
+msgstr "Urethral Parasite Pit"
+
+# From Data: Curios-Boss4-vaginal_parasite-name
+msgctxt "Name of a curio."
+msgid "Vaginal Parasite Pit"
+msgstr "Vaginal Parasite Pit"
+
+# From Data: DungeonDifficulty-DungeonDifficulty-elite-name
+msgctxt "Name of a dungeon difficulty."
+msgid "Elite+"
+msgstr "Elite+"
+
+# From Data: Effects-Encounter-acid_pool-name
+msgctxt ""
+"Name of an in-game effect. This includes mantras, morale, and streak "
+"effects."
+msgid "Acid Pools"
+msgstr "Acid Pools"
+
+# From Data: Effects-Encounter-fog-name
+msgctxt ""
+"Name of an in-game effect. This includes mantras, morale, and streak "
+"effects."
+msgid "Fog"
+msgstr "Fog"
+
+# From Data: Effects-Encounter-pheromone_overdose-name
+msgctxt ""
+"Name of an in-game effect. This includes mantras, morale, and streak "
+"effects."
+msgid "Pheromone Overdose"
+msgstr "Pheromone Overdose"
+
+# From Data: Effects-Encounter-regrowth_effect-name
+msgctxt ""
+"Name of an in-game effect. This includes mantras, morale, and streak "
+"effects."
+msgid "Regrowth"
+msgstr "Regrowth"
+
+# From Data: Encounters-Boss4-boss4-name
+msgctxt "Name of a combat encounter."
+msgid "The Seedbed"
+msgstr "The Seedbed"
+
+# From Data: Encounters-Boss4-boss4_lab-name
+msgctxt "Name of a combat encounter."
+msgid "Infested Machines"
+msgstr "Infested Machines"
+
+# From Data: Encounters-Boss4-boss4_large-name
+msgctxt "Name of a combat encounter."
+msgid "Spreading Infestation"
+msgstr "Spreading Infestation"
+
+# From Data: Encounters-Boss4-boss4_ruins-name
+msgctxt "Name of a combat encounter."
+msgid "Infested Ruins"
+msgstr "Infested Ruins"
+
+# From Data: Encounters-Boss4-boss4_swamp-name
+msgctxt "Name of a combat encounter."
+msgid "Peaceful Clearing"
+msgstr "Peaceful Clearing"
+
+# From Data: Encounters-Boss4-boss_parasites-name
+msgctxt "Name of a combat encounter."
+msgid "Infestation"
+msgstr "Infestation"
+
+# From Data: Encounters-MachinesEasy-counterstrike-name
+msgctxt "Name of a combat encounter."
+msgid "Counterstrike"
+msgstr "Counterstrike"
+
+# From Data: Encounters-MachinesEasy-dogs_of_war-name
+msgctxt "Name of a combat encounter."
+msgid "Dogs of War"
+msgstr "Dogs of War"
+
+# From Data: Encounters-MachinesEasy-emergency_repairs-name
+msgctxt "Name of a combat encounter."
+msgid "Emergency Repairs"
+msgstr "Emergency Repairs"
+
+# From Data: Encounters-MachinesEasy-escorts-name
+msgctxt "Name of a combat encounter."
+msgid "Escorts"
+msgstr "Escorts"
+
+# From Data: Encounters-MachinesEasy-have_a_seat-name
+msgctxt "Name of a combat encounter."
+msgid "Have a Seat"
+msgstr "Have a Seat"
+
+# From Data: Encounters-MachinesEasy-scanned-name
+msgctxt "Name of a combat encounter."
+msgid "Scanned"
+msgstr "Scanned"
+
+# From Data: Encounters-MachinesEasy-slimy_machines-name
+msgctxt "Name of a combat encounter."
+msgid "Slimy Machines"
+msgstr "Slimy Machines"
+
+# From Data: Encounters-MachinesEasy-some_machines-name
+msgctxt "Name of a combat encounter."
+msgid "Some Machines"
+msgstr "Some Machines"
+
+# From Data: Encounters-MachinesEasy-stored_latex-name
+msgctxt "Name of a combat encounter."
+msgid "Stored Latex"
+msgstr "Stored Latex"
+
+# From Data: Encounters-MachinesElite-extremely_cloudy_skies-name
+msgctxt "Name of a combat encounter."
+msgid "Extremely Cloudy Skies"
+msgstr "Extremely Cloudy Skies"
+
+# From Data: Encounters-MachinesElite-fog-name
+msgctxt "Name of a combat encounter."
+msgid "Fog"
+msgstr "Fog"
+
+# From Data: Encounters-MachinesElite-sturdy_machines-name
+msgctxt "Name of a combat encounter."
+msgid "Sturdy Machines"
+msgstr "Sturdy Machines"
+
+# From Data: Encounters-MachinesElite-tanks-name
+msgctxt "Name of a combat encounter."
+msgid "Tanks"
+msgstr "Tanks"
+
+# From Data: Encounters-MachinesHard-advanced_milking_protocol-name
+msgctxt "Name of a combat encounter."
+msgid "Advanced Milking Protocol"
+msgstr "Advanced Milking Protocol"
+
+# From Data: Encounters-MachinesHard-horseplay-name
+msgctxt "Name of a combat encounter."
+msgid "Horseplay"
+msgstr "Horseplay"
+
+# From Data: Encounters-MachinesHard-machine_shuffle-name
+msgctxt "Name of a combat encounter."
+msgid "Machine Shuffle"
+msgstr "Machine Shuffle"
+
+# From Data: Encounters-MachinesHard-punchout-name
+msgctxt "Name of a combat encounter."
+msgid "Punchout"
+msgstr "Punchout"
+
+# From Data: Encounters-MachinesHard-very_cloudy_skies-name
+msgctxt "Name of a combat encounter."
+msgid "Very Cloudy Skies"
+msgstr "Very Cloudy Skies"
+
+# From Data: Encounters-MachinesHard-well_oiled-name
+msgctxt "Name of a combat encounter."
+msgid "Well Oiled"
+msgstr "Well Oiled"
+
+# From Data: Encounters-MachinesMedium-barn-name
+msgctxt "Name of a combat encounter."
+msgid "Barn"
+msgstr "Barn"
+
+# From Data: Encounters-MachinesMedium-boom-name
+msgctxt "Name of a combat encounter."
+msgid "Boom!"
+msgstr "Boom!"
+
+# From Data: Encounters-MachinesMedium-cloudy_skies-name
+msgctxt "Name of a combat encounter."
+msgid "Cloudy Skies"
+msgstr "Cloudy Skies"
+
+# From Data: Encounters-MachinesMedium-gobbotech-name
+msgctxt "Name of a combat encounter."
+msgid "Gobbo Tech"
+msgstr "Gobbo Tech"
+
+# From Data: Encounters-MachinesMedium-love_overdose-name
+msgctxt "Name of a combat encounter."
+msgid "Love Overdose"
+msgstr "Love Overdose"
+
+# From Data: Encounters-MachinesMedium-machinery-name
+msgctxt "Name of a combat encounter."
+msgid "Random Machinery"
+msgstr "Random Machinery"
+
+# From Data: Encounters-MachinesMedium-milking_protocol-name
+msgctxt "Name of a combat encounter."
+msgid "Milking Protocol"
+msgstr "Milking Protocol"
+
+# From Data: Encounters-MachinesMedium-some_improved_machines-name
+msgctxt "Name of a combat encounter."
+msgid "Some Improved Machines"
+msgstr "Some Improved Machines"
+
+# From Data: Encounters-MachinesMedium-spanner-name
+msgctxt "Name of a combat encounter."
+msgid "Spanner"
+msgstr "Spanner"
+
+# From Data: Encounters-MachinesMedium-stand_up-name
+msgctxt "Name of a combat encounter."
+msgid "Morning Stand Up"
+msgstr "Morning Stand Up"
+
+# From Data: Encounters-PlantsEasy-big_plants-name
+msgctxt "Name of a combat encounter."
+msgid "Big Plants"
+msgstr "Big Plants"
+
+# From Data: Encounters-PlantsEasy-complex_flowers-name
+msgctxt "Name of a combat encounter."
+msgid "Complex Flowers"
+msgstr "Complex Flowers"
+
+# From Data: Encounters-PlantsEasy-give_it_time-name
+msgctxt "Name of a combat encounter."
+msgid "Give it Time"
+msgstr "Give it Time"
+
+# From Data: Encounters-PlantsEasy-small_allure-name
+msgctxt "Name of a combat encounter."
+msgid "Slightly Alluring"
+msgstr "Slightly Alluring"
+
+# From Data: Encounters-PlantsEasy-some_plants-name
+msgctxt "Name of a combat encounter."
+msgid "Some Plants"
+msgstr "Some Plants"
+
+# From Data: Encounters-PlantsElite-forest_fire-name
+msgctxt "Name of a combat encounter."
+msgid "Forest Fire"
+msgstr "Forest Fire"
+
+# From Data: Encounters-PlantsElite-forest_fog-name
+msgctxt "Name of a combat encounter."
+msgid "Forest Fog"
+msgstr "Forest Fog"
+
+# From Data: Encounters-PlantsElite-healthy_plants-name
+msgctxt "Name of a combat encounter."
+msgid "Healthy Plants"
+msgstr "Healthy Plants"
+
+# From Data: Encounters-PlantsElite-large_flowerbed-name
+msgctxt "Name of a combat encounter."
+msgid "Large Flowerbed"
+msgstr "Large Flowerbed"
+
+# From Data: Encounters-PlantsElite-overgrown-name
+msgctxt "Name of a combat encounter."
+msgid "Overgrown"
+msgstr "Overgrown"
+
+# From Data: Encounters-PlantsElite-pollination_year-name
+msgctxt "Name of a combat encounter."
+msgid "Pollination Year"
+msgstr "Pollination Year"
+
+# From Data: Encounters-PlantsElite-smell_flowers-name
+msgctxt "Name of a combat encounter."
+msgid "Smell the Flowers"
+msgstr "Smell the Flowers"
+
+# From Data: Encounters-PlantsElite-strong_pheromones-name
+msgctxt "Name of a combat encounter."
+msgid "Strong Pheromones"
+msgstr "Strong Pheromones"
+
+# From Data: Encounters-PlantsElite-very_corrosive_materials-name
+msgctxt "Name of a combat encounter."
+msgid "Very Corrosive Materials"
+msgstr "Very Corrosive Materials"
+
+# From Data: Encounters-PlantsHard-corrosive_materials-name
+msgctxt "Name of a combat encounter."
+msgid "Corrosive Materials"
+msgstr "Corrosive Materials"
+
+# From Data: Encounters-PlantsHard-farming-name
+msgctxt "Name of a combat encounter."
+msgid "Farming"
+msgstr "Farming"
+
+# From Data: Encounters-PlantsHard-floral_guardians-name
+msgctxt "Name of a combat encounter."
+msgid "Floral Guardians"
+msgstr "Floral Guardians"
+
+# From Data: Encounters-PlantsHard-fully_grown-name
+msgctxt "Name of a combat encounter."
+msgid "Big Vines"
+msgstr "Big Vines"
+
+# From Data: Encounters-PlantsHard-pollination_season-name
+msgctxt "Name of a combat encounter."
+msgid "Pollination Season"
+msgstr "Pollination Season"
+
+# From Data: Encounters-PlantsHard-the_usual_plants-name
+msgctxt "Name of a combat encounter."
+msgid "The Usual Plants"
+msgstr "The Usual Plants"
+
+# From Data: Encounters-PlantsHard-very_alluring-name
+msgctxt "Name of a combat encounter."
+msgid "Very Alluring"
+msgstr "Very Alluring"
+
+# From Data: Encounters-PlantsHard-well_lubricated_plants-name
+msgctxt "Name of a combat encounter."
+msgid "Well Lubricated Plants"
+msgstr "Well Lubricated Plants"
+
+# From Data: Encounters-PlantsHard-well_plant_assault-name
+msgctxt "Name of a combat encounter."
+msgid "Well Plant Assault"
+msgstr "Well Plant Assault"
+
+# From Data: Encounters-PlantsMedium-allure-name
+msgctxt "Name of a combat encounter."
+msgid "Allure"
+msgstr "Allure"
+
+# From Data: Encounters-PlantsMedium-floral_crusade-name
+msgctxt "Name of a combat encounter."
+msgid "Floral Crusade"
+msgstr "Floral Crusade"
+
+# From Data: Encounters-PlantsMedium-incubators-name
+msgctxt "Name of a combat encounter."
+msgid "Incubators"
+msgstr "Incubators"
+
+# From Data: Encounters-PlantsMedium-like_weeds-name
+msgctxt "Name of a combat encounter."
+msgid "Like Weeds"
+msgstr "Like Weeds"
+
+# From Data: Encounters-PlantsMedium-lost_technology-name
+msgctxt "Name of a combat encounter."
+msgid "Lost Technology"
+msgstr "Lost Technology"
+
+# From Data: Encounters-PlantsMedium-lubricated_plants-name
+msgctxt "Name of a combat encounter."
+msgid "Lubricated Plants"
+msgstr "Lubricated Plants"
+
+# From Data: Encounters-PlantsMedium-pheromones-name
+msgctxt "Name of a combat encounter."
+msgid "Pheromones"
+msgstr "Pheromones"
+
+# From Data: Encounters-PlantsMedium-plant_assault-name
+msgctxt "Name of a combat encounter."
+msgid "Plant Assault"
+msgstr "Plant Assault"
+
+# From Data: Encounters-PlantsMedium-pollination_session-name
+msgctxt "Name of a combat encounter."
+msgid "Pollination Session"
+msgstr "Pollination Session"
+
+# From Data: Encyclopedia-Encyclopedia-b0_buildings-group
+msgctxt "Name of a tutorial group."
+msgid "Buildings"
+msgstr "Buildings"
+
+# From Data: Encyclopedia-Encyclopedia-m0_mods-group
+msgctxt "Name of a tutorial group."
+msgid "Mods"
+msgstr "Mods"
+
+# From Data: Encyclopedia-Encyclopedia-morale-group
+msgctxt "Name of a tutorial group."
+msgid "Dungeons"
+msgstr "Dungeons"
+
+# From Data: Enemies-Alraune-alraune_big-description
+msgctxt "Description of an enemy."
+msgid ""
+msgstr ""
+
+# From Data: Enemies-Boss4-seedbed_back-name
+msgctxt "Name of an enemy."
+msgid "Strange Flowerbed"
+msgstr "Strange Flowerbed"
+
+# From Data: Enemies-Boss4-seedbed_front-name
+msgctxt "Name of an enemy."
+msgid "Seedbed"
+msgstr "Seedbed"
+
+# From Data: Enemies-Machines-iron_horse_plus-name
+msgctxt "Name of an enemy."
+msgid "Iron Horse mk2"
+msgstr "Iron Horse mk2"
+
+# From Data: Enemies-Machines-milker_plus-name
+msgctxt "Name of an enemy."
+msgid "Automilker mk2"
+msgstr "Automilker mk2"
+
+# From Data: Enemies-Machines-pheromone_dispenser_plus-name
+msgctxt "Name of an enemy."
+msgid "Pheromone Dispenser mk2"
+msgstr "Pheromone Dispenser mk2"
+
+# From Data: Enemies-Machines-plugger_plus-name
+msgctxt "Name of an enemy."
+msgid "Autoplugger mk2"
+msgstr "Autoplugger mk2"
+
+# From Data: Enemies-Machines-protector_plus-name
+msgctxt "Name of an enemy."
+msgid "Protection Unit mk2"
+msgstr "Protection Unit mk2"
+
+# From Data: Enemies-Machines-puncher_plus-name
+msgctxt "Name of an enemy."
+msgid "Self-Defence Unit mk2"
+msgstr "Self-Defence Unit mk2"
+
+# From Data: Enemies-Machines-ratkin_technician_plus-description
+msgctxt "Description of an enemy."
+msgid ""
+"Senior techmages spend the vast majority of their time attending meetings "
+"with ordinary techmages. When they do use magic, it is slightly improved."
+msgstr ""
+"Senior techmages spend the vast majority of their time attending meetings "
+"with ordinary techmages. When they do use magic, it is slightly improved."
+
+# From Data: Enemies-Machines-ratkin_technician_plus-name
+msgctxt "Name of an enemy."
+msgid "Senior Ratkin Techmage"
+msgstr "Senior Ratkin Techmage"
+
+# From Data: Enemies-Machines-weakness_scanner_plus-name
+msgctxt "Name of an enemy."
+msgid "Weakness Scanner mk2"
+msgstr "Weakness Scanner mk2"
+
+# From Data: Enemies-Machines2-machine_chair-name
+msgctxt "Name of an enemy."
+msgid "Punishment Chair"
+msgstr "Punishment Chair"
+
+# From Data: Enemies-Machines2-machine_chair_plus-name
+msgctxt "Name of an enemy."
+msgid "Punishment Chair mk2"
+msgstr "Punishment Chair mk2"
+
+# From Data: Enemies-Machines2-machine_enema-name
+msgctxt "Name of an enemy."
+msgid "Enema Machine"
+msgstr "Enema Machine"
+
+# From Data: Enemies-Machines2-machine_enema_plus-name
+msgctxt "Name of an enemy."
+msgid "Enema Machine mk2"
+msgstr "Enema Machine mk2"
+
+# From Data: Enemies-Machines2-machine_fucker-name
+msgctxt "Name of an enemy."
+msgid "Pleasure Device"
+msgstr "Pleasure Device"
+
+# From Data: Enemies-Machines2-machine_fucker_plus-name
+msgctxt "Name of an enemy."
+msgid "Pleasure Device mk2"
+msgstr "Pleasure Device mk2"
+
+# From Data: Enemies-Machines2-machine_spanker-name
+msgctxt "Name of an enemy."
+msgid "Punisher"
+msgstr "Punisher"
+
+# From Data: Enemies-Machines2-machine_stand-name
+msgctxt "Name of an enemy."
+msgid "Punishment Pole"
+msgstr "Punishment Pole"
+
+# From Data: Enemies-Machines2-machine_tank_latex-name
+msgctxt "Name of an enemy."
+msgid "Latex Tank"
+msgstr "Latex Tank"
+
+# From Data: Enemies-Machines2-machine_tank_love-name
+msgctxt "Name of an enemy."
+msgid "Aphrodisiac Tank"
+msgstr "Aphrodisiac Tank"
+
+# From Data: Enemies-Machines2-machine_tank_milk-name
+msgctxt "Name of an enemy."
+msgid "Semen Tank"
+msgstr "Semen Tank"
+
+# From Data: Enemymoves-Boss4-seedbed_flower1-name
+msgctxt "Name of an enemy move."
+msgid "Aster"
+msgstr "Aster"
+
+# From Data: Enemymoves-Boss4-seedbed_flower2-name
+msgctxt "Name of an enemy move."
+msgid "Tulip"
+msgstr "Tulip"
+
+# From Data: Enemymoves-Boss4-seedbed_flower3-name
+msgctxt "Name of an enemy move."
+msgid "Lily"
+msgstr "Lily"
+
+# From Data: Enemymoves-Boss4-seedbed_grapple-name
+msgctxt "Name of an enemy move."
+msgid "It Strikes!"
+msgstr "It Strikes!"
+
+# From Data: Enemymoves-Boss4-seedbed_hunger-name
+msgctxt "Name of an enemy move."
+msgid "It Hungers!"
+msgstr "It Hungers!"
+
+# From Data: Enemymoves-Boss4-seedbed_on_grapple-name
+msgctxt "Name of an enemy move."
+msgid "It Breeds!"
+msgstr "It Breeds!"
+
+# From Data: Enemymoves-Machine2-chair_grapple-name
+msgctxt "Name of an enemy move."
+msgid "Grab Intruder"
+msgstr "Grab Intruder"
+
+# From Data: Enemymoves-Machine2-chair_lovestream-name
+msgctxt "Name of an enemy move."
+msgid "Lovestream"
+msgstr "Lovestream"
+
+# From Data: Enemymoves-Machine2-chair_on_grapple-name
+msgctxt "Name of an enemy move."
+msgid "Punishment Program"
+msgstr "Punishment Program"
+
+# From Data: Enemymoves-Machine2-chair_vapors-name
+msgctxt "Name of an enemy move."
+msgid "Emboldening Vapors"
+msgstr "Emboldening Vapors"
+
+# From Data: Enemymoves-Machine2-clawstrike-name
+msgctxt "Name of an enemy move."
+msgid "Clawstrike"
+msgstr "Clawstrike"
+
+# From Data: Enemymoves-Machine2-enema_grapple-name
+msgctxt "Name of an enemy move."
+msgid "Prepare Enema"
+msgstr "Prepare Enema"
+
+# From Data: Enemymoves-Machine2-enema_on_grapple-name
+msgctxt "Name of an enemy move."
+msgid "Give Enema"
+msgstr "Give Enema"
+
+# From Data: Enemymoves-Machine2-fucker_grapple-name
+msgctxt "Name of an enemy move."
+msgid "Grab Subject"
+msgstr "Grab Subject"
+
+# From Data: Enemymoves-Machine2-fucker_on_grapple-name
+msgctxt "Name of an enemy move."
+msgid "Fuck Subject"
+msgstr "Fuck Subject"
+
+# From Data: Enemymoves-Machine2-machine_acidstream-name
+msgctxt "Name of an enemy move."
+msgid "Acidstream"
+msgstr "Acidstream"
+
+# From Data: Enemymoves-Machine2-pole_grapple-name
+msgctxt "Name of an enemy move."
+msgid "Pole Prison"
+msgstr "Pole Prison"
+
+# From Data: Enemymoves-Machine2-spanker_backup-name
+msgctxt "Name of an enemy move."
+msgid "Enticement"
+msgstr "Enticement"
+
+# From Data: Enemymoves-Machine2-spanker_grapple-name
+msgctxt "Name of an enemy move."
+msgid "Grab Masochist"
+msgstr "Grab Masochist"
+
+# From Data: Enemymoves-Machine2-spanker_on_grapple-name
+msgctxt "Name of an enemy move."
+msgid "Spank"
+msgstr "Spank"
+
+# From Data: Enemymoves-Machine2-tank_backup-name
+msgctxt "Name of an enemy move."
+msgid "Self-Cleaning Procedure"
+msgstr "Self-Cleaning Procedure"
+
+# From Data: Enemymoves-Machine2-tank_on_grapple-name
+msgctxt "Name of an enemy move."
+msgid "Fill Tank"
+msgstr "Fill Tank"
+
+# From Data: Enemymoves-Machine2-tank_on_grapple_latex-name
+msgctxt "Name of an enemy move."
+msgid "Finish Latex Procedure"
+msgstr "Finish Latex Procedure"
+
+# From Data: Enemymoves-Machine2-tank_on_grapple_love-name
+msgctxt "Name of an enemy move."
+msgid "Finish Sensitivity Procedure"
+msgstr "Finish Sensitivity Procedure"
+
+# From Data: Enemymoves-Machine2-tank_on_grapple_milk-name
+msgctxt "Name of an enemy move."
+msgid "Drown Subject"
+msgstr "Drown Subject"
+
+# From Data: Enemymoves-Machines-build_machine_plus-name
+msgctxt "Name of an enemy move."
+msgid "Build Improved Machine"
+msgstr "Build Improved Machine"
+
+# From Data: Lists-ClassTypes-advanced-value
+msgctxt "Value in a list of stuff."
+msgid "Advanced"
+msgstr "Advanced"
+
+# From Data: Lists-ClassTypes-basic-value
+msgctxt "Value in a list of stuff."
+msgid "Basic"
+msgstr "Basic"
+
+# From Data: Lists-ClassTypes-cursed-value
+msgctxt "Value in a list of stuff."
+msgid "Cursed"
+msgstr "Cursed"
+
+# From Data: Lists-ClassTypes-hidden-value
+msgctxt "Value in a list of stuff."
+msgid "Hidden"
+msgstr "Hidden"
+
+# From Data: Lists-EnemyTypes-animal-value
+msgctxt "Value in a list of stuff."
+msgid "Animal"
+msgstr "Animal"
+
+# From Data: Lists-EnemyTypes-greenskin-value
+msgctxt "Value in a list of stuff."
+msgid "Greenskin"
+msgstr "Greenskin"
+
+# From Data: Lists-EnemyTypes-human-value
+msgctxt "Value in a list of stuff."
+msgid "Human"
+msgstr "Human"
+
+# From Data: Lists-EnemyTypes-machine-value
+msgctxt "Value in a list of stuff."
+msgid "Machine"
+msgstr "Machine"
+
+# From Data: Lists-EnemyTypes-parasite-value
+msgctxt "Value in a list of stuff."
+msgid "Parasite"
+msgstr "Parasite"
+
+# From Data: Lists-EnemyTypes-plant-value
+msgctxt "Value in a list of stuff."
+msgid "Plant"
+msgstr "Plant"
+
+# From Data: Lists-EnemyTypes-ratkin-value
+msgctxt "Value in a list of stuff."
+msgid "Ratkin"
+msgstr "Ratkin"
+
+# From Data: Lists-EnemyTypes-slime-value
+msgctxt "Value in a list of stuff."
+msgid "Slime"
+msgstr "Slime"
+
+# From Data: Lists-Names-Abigail-value
+msgctxt "Value in a list of stuff."
+msgid "Abigail"
+msgstr "Abigail"
+
+# From Data: Lists-Names-Ada-value
+msgctxt "Value in a list of stuff."
+msgid "Ada"
+msgstr "Ada"
+
+# From Data: Lists-Names-Adelina-value
+msgctxt "Value in a list of stuff."
+msgid "Adelina"
+msgstr "Adelina"
+
+# From Data: Lists-Names-Aeliana-value
+msgctxt "Value in a list of stuff."
+msgid "Aeliana"
+msgstr "Aeliana"
+
+# From Data: Lists-Names-Aika-value
+msgctxt "Value in a list of stuff."
+msgid "Aika"
+msgstr "Aika"
+
+# From Data: Lists-Names-Akari-value
+msgctxt "Value in a list of stuff."
+msgid "Akari"
+msgstr "Akari"
+
+# From Data: Lists-Names-Anna-value
+msgctxt "Value in a list of stuff."
+msgid "Anna"
+msgstr "Anna"
+
+# From Data: Lists-Names-Arabella-value
+msgctxt "Value in a list of stuff."
+msgid "Arabella"
+msgstr "Arabella"
+
+# From Data: Lists-Names-Aria-value
+msgctxt "Value in a list of stuff."
+msgid "Aria"
+msgstr "Aria"
+
+# From Data: Lists-Names-Astrid-value
+msgctxt "Value in a list of stuff."
+msgid "Astrid"
+msgstr "Astrid"
+
+# From Data: Lists-Names-Beatrice-value
+msgctxt "Value in a list of stuff."
+msgid "Beatrice"
+msgstr "Beatrice"
+
+# From Data: Lists-Names-Bocchi-value
+msgctxt "Value in a list of stuff."
+msgid "Bocchi"
+msgstr "Bocchi"
+
+# From Data: Lists-Names-Brienne-value
+msgctxt "Value in a list of stuff."
+msgid "Brienne"
+msgstr "Brienne"
+
+# From Data: Lists-Names-Bryn-value
+msgctxt "Value in a list of stuff."
+msgid "Bryn"
+msgstr "Bryn"
+
+# From Data: Lists-Names-Cassia-value
+msgctxt "Value in a list of stuff."
+msgid "Cassia"
+msgstr "Cassia"
+
+# From Data: Lists-Names-Catriona-value
+msgctxt "Value in a list of stuff."
+msgid ""
+msgstr ""
+
+# From Data: Lists-Personalities-aggressive-value
+msgctxt "Value in a list of stuff."
+msgid "Aggression"
+msgstr "Aggression"
+
+# From Data: Lists-Personalities-autonomy-value
+msgctxt "Value in a list of stuff."
+msgid "Autonomy"
+msgstr "Autonomy"
+
+# From Data: Lists-Personalities-community-value
+msgctxt "Value in a list of stuff."
+msgid "Community"
+msgstr "Community"
+
+# From Data: Lists-Personalities-docile-value
+msgctxt "Value in a list of stuff."
+msgid "Docility"
+msgstr "Docility"
+
+# From Data: Lists-Personalities-glory-value
+msgctxt "Value in a list of stuff."
+msgid "Glory"
+msgstr "Glory"
+
+# From Data: Lists-Personalities-growth-value
+msgctxt "Value in a list of stuff."
+msgid "Growth"
+msgstr "Growth"
+
+# From Data: Lists-Personalities-idealism-value
+msgctxt "Value in a list of stuff."
+msgid "Idealism"
+msgstr "Idealism"
+
+# From Data: Lists-Personalities-pragmatism-value
+msgctxt "Value in a list of stuff."
+msgid "Pragmatism"
+msgstr "Pragmatism"
+
+# From Data: Lists-Personalities-relaxation-value
+msgctxt "Value in a list of stuff."
+msgid "Relaxation"
+msgstr "Relaxation"
+
+# From Data: Lists-Personalities-service-value
+msgctxt "Value in a list of stuff."
+msgid "Service"
+msgstr "Service"
+
+# From Data: Lists-Rarities-very_common-value
+msgctxt "Value in a list of stuff."
+msgid "Very Uncommon"
+msgstr "Very Uncommon"
+
+# From Data: Lists-Sets-maid-value
+msgctxt "Value in a list of stuff."
+msgid "Main"
+msgstr "Main"
+
+# From Data: Lists-SlotHints-marking-value
+msgctxt "Value in a list of stuff."
+msgid "Marking"
+msgstr "Marking"
+
+# From Data: Lists-SlotHints-posture-value
+msgctxt "Value in a list of stuff."
+msgid "Posture"
+msgstr "Posture"
+
+# From Data: Parties-Parties-moo-name
+msgctxt "Name of a party composition."
+msgid "MOOOOO!"
+msgstr "MOOOOO!"
+
+# From Data: Playermoves-Gear-smell_flower-name
+msgctxt "Name of a move."
+msgid "Smell Flower"
+msgstr "Smell Flower"
+
+# From Data: Quests-CatalogQuests-catalog_75-text
+msgctxt "Description of a quest."
+msgid "Complete 75% of the item catalog."
+msgstr "Complete 75% of the item catalog."
+
+# From Data: Quests-MainLine-kill_boss_4-text
+msgctxt "Description of a quest."
+msgid ""
+"A large pit lies in the only mountain pass towards our goal. Strange growths"
+" emerge from this large gaping hole. We should find out what causes this "
+"infestation and put a stop to it."
+msgstr ""
+"A large pit lies in the only mountain pass towards our goal. Strange growths"
+" emerge from this large gaping hole. We should find out what causes this "
+"infestation and put a stop to it."
+
+# From Data: Quests-MainLine-kill_boss_5-text
+msgctxt "Description of a quest."
+msgid ""
+"Riverborne trade has completely halted throughout the northern lands due to "
+"the dangers that are said to lurk beneath the waters. The source of these "
+"stories is a large kraken which has been spotted in the lake to the "
+"southeast. It must be neutralized."
+msgstr ""
+"Riverborne trade has completely halted throughout the northern lands due to "
+"the dangers that are said to lurk beneath the waters. The source of these "
+"stories is a large kraken which has been spotted in the lake to the "
+"southeast. It must be neutralized."
+
+# From Data: Quests-MainLine-kill_boss_6-text
+msgctxt "Description of a quest."
+msgid ""
+"A tall structure towers over the corrupted fields. It is inhabited by a "
+"corrupted techmage. She was the original source of the lewd machinery that "
+"is found throughout the lands. We should stop her before she can construct "
+"more degenerate implements."
+msgstr ""
+"A tall structure towers over the corrupted fields. It is inhabited by a "
+"corrupted techmage. She was the original source of the lewd machinery that "
+"is found throughout the lands. We should stop her before she can construct "
+"more degenerate implements."
+
+# From Data: Quests-MainLine-kill_boss_7-text
+msgctxt "Description of a quest."
+msgid ""
+"The thick forests to the northeast are home to a choking growth of vines and"
+" weeds. None of the adventuring parties send towards the area have ever "
+"returned. It is time to cut await the corrupted tangle and restore these "
+"lands."
+msgstr ""
+"The thick forests to the northeast are home to a choking growth of vines and"
+" weeds. None of the adventuring parties send towards the area have ever "
+"returned. It is time to cut await the corrupted tangle and restore these "
+"lands."
+
+# From Data: Quests-MainLine-kill_boss_8-text
+msgctxt "Description of a quest."
+msgid ""
+"Multiple stone statues can be found surrounding the old capital of the "
+"northern lands. They are too lifelike to be made by mortal hands. Instead "
+"they are the result of a dangerous cockatrice that has taken her home in "
+"these corrupted lands. Drive her out and complete humanity's reconquest!"
+msgstr ""
+"Multiple stone statues can be found surrounding the old capital of the "
+"northern lands. They are too lifelike to be made by mortal hands. Instead "
+"they are the result of a dangerous cockatrice that has taken her home in "
+"these corrupted lands. Drive her out and complete humanity's reconquest!"
+
+# From Data: QuestTutorials-QuestTutorials-interact_with_a_curio-text
+msgctxt "Description of a tutorial quest"
+msgid ""
+"Some encounters in a dungeon (such as a chest) will offer you a dilemma. "
+"Each adventurer will offer her opinion. Select her portrait to choose that "
+"option to handle the curio. Some curios are good, others are sometimes good,"
+" and even other are \"fun\". You'll learn over time."
+msgstr ""
+"Some encounters in a dungeon (such as a chest) will offer you a dilemma. "
+"Each adventurer will offer her opinion. Select her portrait to choose that "
+"option to handle the curio. Some curios are good, others are sometimes good,"
+" and even other are \"fun\". You'll learn over time."
+
+# From Data: QuestTutorials-QuestTutorials-open_crest_overview-text
+msgctxt "Description of a tutorial quest"
+msgid ""
+"In the adventurer overview, click the crest on the top to go to the Adventurer Desire overview. This shows the current desires of the girl, and her current crest progressions.\n"
+"The higher her desires, the more dangerous afflictions are going to be."
+msgstr ""
+"In the adventurer overview, click the crest on the top to go to the Adventurer Desire overview. This shows the current desires of the girl, and her current crest progressions.\n"
+"The higher her desires, the more dangerous afflictions are going to be."
+
+# From Data: QuestTutorials-QuestTutorials-reach_first_boss-text
+msgctxt "Description of a tutorial quest"
+msgid ""
+"Whenever you complete a mission, the tiles next to it on the overworld map will be revealed. This allows you to move to further and more dangerous dungeons.\n"
+"The landmarks on the map are bosses, try to reach the closest one (the castle on the island in the middle of the river)."
+msgstr ""
+"Whenever you complete a mission, the tiles next to it on the overworld map will be revealed. This allows you to move to further and more dangerous dungeons.\n"
+"The landmarks on the map are bosses, try to reach the closest one (the castle on the island in the middle of the river)."
+
+# From Data: QuestTutorials-QuestTutorials-reroll_goals-text
+msgctxt "Description of a tutorial quest"
+msgid ""
+"If the development goals of an adventurer are too hard to complete, you can always reroll them for a mana cost.\n"
+"Try going to the the class adventurer panel and doing so now."
+msgstr ""
+"If the development goals of an adventurer are too hard to complete, you can always reroll them for a mana cost.\n"
+"Try going to the the class adventurer panel and doing so now."
+
+# From Data: QuestTutorials-QuestTutorials-start-text
+msgctxt "Description of a tutorial quest"
+msgid ""
+"Hover tutorials for further information. Most things in this game have tooltips, hover over them as well.\n"
+"\n"
+"Click the button to complete this tutorial!"
+msgstr ""
+"Hover tutorials for further information. Most things in this game have tooltips, hover over them as well.\n"
+"\n"
+"Click the button to complete this tutorial!"
+
+# From Data: Quirks-Positives-ascetic-name
+msgctxt "Name of a quirk."
+msgid "Ascetic"
+msgstr "Ascetic"
+
+# From Data: Quirks-PresetsPlus-lust_conversion-text
+msgctxt "Description of a quirk."
+msgid ""
+msgstr ""
+
+# From Data: Races-Races-blackslime-name
+msgctxt "Name of an enemy race."
+msgid ""
+msgstr ""
+
+# From Data: Scripts-Actionscript-add_parasite-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "Add: [PARAM]"
+msgstr "Add: [PARAM]"
+
+# From Data: Scripts-Actionscript-cash-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "[ICON:gold]: [PARAM:plus]"
+msgstr "[ICON:gold]: [PARAM:plus]"
+
+# From Data: Scripts-Actionscript-desire-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "[PARAM]: [PARAM1:plus]"
+msgstr "[PARAM]: [PARAM1:plus]"
+
+# From Data: Scripts-Actionscript-item-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "[PARAM]"
+msgstr "[PARAM]"
+
+# From Data: Scripts-Aiscript-order-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "Following moves are used in order: [PARAM]"
+msgstr "Following moves are used in order: [PARAM]"
+
+# From Data: Scripts-Commandscript-remove_parasite-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "Remove all parasites from the target."
+msgstr "Remove all parasites from the target."
+
+# From Data: Scripts-Conditionalscript-maid_efficiency-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "If Maid Efficiency >= [PARAM]:"
+msgstr "If Maid Efficiency >= [PARAM]:"
+
+# From Data: Scripts-Conditionalscript-milk_efficiency-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "If Milk Efficiency >= [PARAM]:"
+msgstr "If Milk Efficiency >= [PARAM]:"
+
+# From Data: Scripts-Conditionalscript-puppy_efficiency-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "If Puppy Efficiency >= [PARAM]:"
+msgstr "If Puppy Efficiency >= [PARAM]:"
+
+# From Data: Scripts-Conditionalscript-slave_efficiency-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "If Slave Efficiency >= [PARAM]:"
+msgstr "If Slave Efficiency >= [PARAM]:"
+
+# From Data: Scripts-Conditionalscript-wench_efficiency-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "If Wench Efficiency >= [PARAM]:"
+msgstr "If Wench Efficiency >= [PARAM]:"
+
+# From Data: Scripts-Counterscript-gear_of_rarity-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "Per [PARAM] item:"
+msgstr "Per [PARAM] item:"
+
+# From Data: Scripts-Counterscript-milk_efficiency-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "Per [PARAM] Milk Efficiency:"
+msgstr "Per [PARAM] Milk Efficiency:"
+
+# From Data: Scripts-Counterscript-puppy_efficiency-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "Per [PARAM] Puppy Efficiency:"
+msgstr "Per [PARAM] Puppy Efficiency:"
+
+# From Data: Scripts-Counterscript-slave_efficiency-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "Per [PARAM] Slave Efficiency:"
+msgstr "Per [PARAM] Slave Efficiency:"
+
+# From Data: Scripts-Counterscript-wench_efficiency-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "Per [PARAM] Wench Efficiency:"
+msgstr "Per [PARAM] Wench Efficiency:"
+
+# From Data: Scripts-Curioscript-reroll-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "Choices differ each interaction."
+msgstr "Choices differ each interaction."
+
+# From Data: Scripts-Dayscript-remove_tokens-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "Remove all tokens: [PARAM]"
+msgstr "Remove all tokens: [PARAM]"
+
+# From Data: Scripts-Dayscript-tokens-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "Add tokens: [PARAM]"
+msgstr "Add tokens: [PARAM]"
+
+# From Data: Scripts-Goalscript-flag-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "[PARAM1]:"
+msgstr "[PARAM1]:"
+
+# From Data: Scripts-Moveaiscript-own_min_lust-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "[STAT:LUST] > [PARAM]"
+msgstr "[STAT:LUST] > [PARAM]"
+
+# From Data: Scripts-Movescript-add_random_parasite-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "Add random parasite to target."
+msgstr "Add random parasite to target."
+
+# From Data: Scripts-Movescript-build_machine_plus-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "Create an improved machine from scrap."
+msgstr "Create an improved machine from scrap."
+
+# From Data: Scripts-Movescript-lust-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "[STAT:LUST]: [PARAM:plus]"
+msgstr "[STAT:LUST]: [PARAM:plus]"
+
+# From Data: Scripts-Movescript-move-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "[PARAM:forward]"
+msgstr "[PARAM:forward]"
+
+# From Data: Scripts-Movescript-ungrapple-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "Release grapple."
+msgstr "Release grapple."
+
+# From Data: Scripts-Scriptablescript-CON-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "[STAT:CON]: [PARAM:plus]"
+msgstr "[STAT:CON]: [PARAM:plus]"
+
+# From Data: Scripts-Scriptablescript-DEX-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "[STAT:DEX]: [PARAM:plus]"
+msgstr "[STAT:DEX]: [PARAM:plus]"
+
+# From Data: Scripts-Scriptablescript-DMG-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "DMG: [PARAM:plus]"
+msgstr "DMG: [PARAM:plus]"
+
+# From Data: Scripts-Scriptablescript-FOR-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "[FOR]: [PARAM:plus]"
+msgstr "[FOR]: [PARAM:plus]"
+
+# From Data: Scripts-Scriptablescript-HP-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "[STAT:HP]: [PARAM:plus]"
+msgstr "[STAT:HP]: [PARAM:plus]"
+
+# From Data: Scripts-Scriptablescript-INT-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "[STAT:INT]: [PARAM:plus]"
+msgstr "[STAT:INT]: [PARAM:plus]"
+
+# From Data: Scripts-Scriptablescript-REF-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "[REF]: [PARAM:plus]"
+msgstr "[REF]: [PARAM:plus]"
+
+# From Data: Scripts-Scriptablescript-SPD-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "[STAT:SPD]: [PARAM:plus]"
+msgstr "[STAT:SPD]: [PARAM:plus]"
+
+# From Data: Scripts-Scriptablescript-STR-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "[STAT:STR]: [PARAM:plus]"
+msgstr "[STAT:STR]: [PARAM:plus]"
+
+# From Data: Scripts-Scriptablescript-WIL-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "[WIL]: [PARAM:plus]"
+msgstr "[WIL]: [PARAM:plus]"
+
+# From Data: Scripts-Scriptablescript-WIS-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "[STAT:WIS]: [PARAM:plus]"
+msgstr "[STAT:WIS]: [PARAM:plus]"
+
+# From Data: Scripts-Scriptablescript-cursed-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "[CURSED]"
+msgstr "[CURSED]"
+
+# From Data: Scripts-Scriptablescript-lust_healing-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "[ICON:LUST] converted to [ICON:HP]: [PARAM]"
+msgstr "[ICON:LUST] converted to [ICON:HP]: [PARAM]"
+
+# From Data: Scripts-Scriptablescript-mulDMG-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "DMG: [PARAM:mul]"
+msgstr "DMG: [PARAM:mul]"
+
+# From Data: Scripts-Scriptablescript-non_essential-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "Enemy doesn't have to be defeated to end combat."
+msgstr "Enemy doesn't have to be defeated to end combat."
+
+# From Data: Scripts-Scriptablescript-saves-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "[REF][WIL][FOR]: [PARAM:plus]"
+msgstr "[REF][WIL][FOR]: [PARAM:plus]"
+
+# From Data: Scripts-Scriptablescript-set_blink-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid ""
+"Sets Blink timing range to [PARAM] - [PARAM1] seconds. Setting both "
+"parameters to 0 will disable Blinking."
+msgstr ""
+"Sets Blink timing range to [PARAM] - [PARAM1] seconds. Setting both "
+"parameters to 0 will disable Blinking."
+
+# From Data: Scripts-Temporalscript-heal_attack_attacker-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "When receiving a heal, on healer:"
+msgstr "When receiving a heal, on healer:"
+
+# From Data: Scripts-Temporalscript-heal_attack_self-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "When receiving a heal, on self:"
+msgstr "When receiving a heal, on self:"
+
+# From Data: Scripts-Temporalscript-heal_attack_target-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "When using a heal, on target:"
+msgstr "When using a heal, on target:"
+
+# From Data: Scripts-Temporalscript-heal_attack_used-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "When using a heal, on self:"
+msgstr "When using a heal, on self:"
+
+# From Data: Scripts-Temporalscript-magic_attack_attacker-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "When receiving a magic attack, on attacker:"
+msgstr "When receiving a magic attack, on attacker:"
+
+# From Data: Scripts-Temporalscript-magic_attack_self-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "When receiving a magic attack, on self:"
+msgstr "When receiving a magic attack, on self:"
+
+# From Data: Scripts-Temporalscript-magic_attack_target-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "When using a magic attack, on target:"
+msgstr "When using a magic attack, on target:"
+
+# From Data: Scripts-Temporalscript-physical_attack_attacker-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "When receiving a physical attack, on attacker:"
+msgstr "When receiving a physical attack, on attacker:"
+
+# From Data: Scripts-Temporalscript-physical_attack_self-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "When receiving a physical attack, on self:"
+msgstr "When receiving a physical attack, on self:"
+
+# From Data: Scripts-Temporalscript-physical_attack_target-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "When using a physical attack, on target:"
+msgstr "When using a physical attack, on target:"
+
+# From Data: Scripts-Temporalscript-physical_attack_used-short
+msgctxt ""
+"Explanation of a script (shows in tooltips, do not replace anything between "
+"[brackets])."
+msgid "When using a physical attack, on self:"
+msgstr "When using a physical attack, on self:"
+
+# From Data: Tokens-OtherTokens-latex_cover-name
+msgctxt "Name of a token."
+msgid "Latex Cover"
+msgstr "Latex Cover"
+
+# From Data: Tokens-OtherTokens-permanent_estrus-name
+msgctxt "Name of a token."
+msgid "Permanent Estrus"
+msgstr "Permanent Estrus"
+
+# From Data: Tokens-Seedbed-seedbed_aster-name
+msgctxt "Name of a token."
+msgid "Aster"
+msgstr "Aster"
+
+# From Data: Tokens-Seedbed-seedbed_lily-name
+msgctxt "Name of a token."
+msgid "Lily"
+msgstr "Lily"
+
+# From Data: Tokens-Seedbed-seedbed_tulip-name
+msgctxt "Name of a token."
+msgid "Tulip"
+msgstr "Tulip"
+
+# From Data: Wearables-1VeryCommon-alabaster_ring-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A ring that extracts the color of the wearer, using it to project a "
+"defensive field."
+msgstr ""
+"A ring that extracts the color of the wearer, using it to project a "
+"defensive field."
+
+# From Data: Wearables-1VeryCommon-blue_ribbons-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"Originally used as a simple way to change the wearer's haircolor, the arcane"
+" energies in this ribbon have useful healing effects."
+msgstr ""
+"Originally used as a simple way to change the wearer's haircolor, the arcane"
+" energies in this ribbon have useful healing effects."
+
+# From Data: Wearables-1VeryCommon-broken_glasses-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"Jeez, you should watch out with those. Let's repair them once we get back at"
+" the guild."
+msgstr ""
+"Jeez, you should watch out with those. Let's repair them once we get back at"
+" the guild."
+
+# From Data: Wearables-1VeryCommon-corset_of_endurance-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A simple corset. It has a minor enchantment to strengthen the wearer when "
+"she's feeling faint. However, it's mostly a way to have a more shapely "
+"figure."
+msgstr ""
+"A simple corset. It has a minor enchantment to strengthen the wearer when "
+"she's feeling faint. However, it's mostly a way to have a more shapely "
+"figure."
+
+# From Data: Wearables-1VeryCommon-glasses-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"These glasses have magically grinded lenses that help casters focus their "
+"spells. Unfortunately they are also extremely brittle."
+msgstr ""
+"These glasses have magically grinded lenses that help casters focus their "
+"spells. Unfortunately they are also extremely brittle."
+
+# From Data: Wearables-1VeryCommon-green_ribbons-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"Originally used as a simple way to change the wearer's haircolor. This one "
+"is said to be the least popular of all such ribbons."
+msgstr ""
+"Originally used as a simple way to change the wearer's haircolor. This one "
+"is said to be the least popular of all such ribbons."
+
+# From Data: Wearables-1VeryCommon-magic_comb-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"Originally a hairdresser's implement, the charms on this comb have gone "
+"haywire. It will periodically change the wearer's haircolor."
+msgstr ""
+"Originally a hairdresser's implement, the charms on this comb have gone "
+"haywire. It will periodically change the wearer's haircolor."
+
+# From Data: Wearables-1VeryCommon-mana_amulet-text
+msgctxt "Description of a piece of equipment."
+msgid "An arcane amulet that reacts strongly to crystalized mana."
+msgstr "An arcane amulet that reacts strongly to crystalized mana."
+
+# From Data: Wearables-1VeryCommon-ring_of_arousal-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"Originally devised as a wedding ring for a rather frigid princess. After the"
+" wedding she provided many heirs to her spouse. Unfortunately, a knock-off "
+"like this only has a fraction of that power."
+msgstr ""
+"Originally devised as a wedding ring for a rather frigid princess. After the"
+" wedding she provided many heirs to her spouse. Unfortunately, a knock-off "
+"like this only has a fraction of that power."
+
+# From Data: Wearables-1VeryCommon-ring_of_despair-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"This ring projects a constant feeling of despair and sadness to the wearer. "
+"While useless in common activities, it does help against excessive lewdness."
+msgstr ""
+"This ring projects a constant feeling of despair and sadness to the wearer. "
+"While useless in common activities, it does help against excessive lewdness."
+
+# From Data: Wearables-1VeryCommon-ring_of_joy-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"This ring projects a feeling of joy to the wearer. The ring itself is banned"
+" in all but two of the Imperial Provinces since it distracts the peasants "
+"from their work."
+msgstr ""
+"This ring projects a feeling of joy to the wearer. The ring itself is banned"
+" in all but two of the Imperial Provinces since it distracts the peasants "
+"from their work."
+
+# From Data: Wearables-1VeryCommon-sheer_white_stockings-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"Very, very sheer stockings. They have no noteworthy combat potential since "
+"all arcane enchantments go to preventing it from sheering. Though the "
+"wearer's partymembers will appreciate it."
+msgstr ""
+"Very, very sheer stockings. They have no noteworthy combat potential since "
+"all arcane enchantments go to preventing it from sheering. Though the "
+"wearer's partymembers will appreciate it."
+
+# From Data: Wearables-1VeryCommon-stylish_heels-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"Very stylish heels. They help the wearer by making her more robust when "
+"unstable. This helps her when she inevitably stumbles due to their poor "
+"design."
+msgstr ""
+"Very stylish heels. They help the wearer by making her more robust when "
+"unstable. This helps her when she inevitably stumbles due to their poor "
+"design."
+
+# From Data: Wearables-1VeryCommon-training_belt-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A sort of reverse chastity belt. There is a small clipping mechanism at the "
+"top that pulls up the hood of the clitoris, exposing it. The idea is that "
+"prolonged wearing of the belt will strengthen the wearer's willpower."
+msgstr ""
+"A sort of reverse chastity belt. There is a small clipping mechanism at the "
+"top that pulls up the hood of the clitoris, exposing it. The idea is that "
+"prolonged wearing of the belt will strengthen the wearer's willpower."
+
+# From Data: Wearables-1VeryCommon-training_blindfold-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A simple friendly and fluffy blindfold. It helps the wearer to be more sure "
+"in her footing once she inevitably takes it off."
+msgstr ""
+"A simple friendly and fluffy blindfold. It helps the wearer to be more sure "
+"in her footing once she inevitably takes it off."
+
+# From Data: Wearables-1VeryCommon-training_collar-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"An aggressively pink posture collar. It prevents the wearer from looking "
+"downward, leaving her open to enemy attacks. However, it will slowly train "
+"her body to be more robust."
+msgstr ""
+"An aggressively pink posture collar. It prevents the wearer from looking "
+"downward, leaving her open to enemy attacks. However, it will slowly train "
+"her body to be more robust."
+
+# From Data: Wearables-1VeryCommon-training_gag-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A pink gag, squishy but nevertheless very tiring for the wearer's jaw. "
+"However, while she drools uncontrollably she'll understand why silence is "
+"golden."
+msgstr ""
+"A pink gag, squishy but nevertheless very tiring for the wearer's jaw. "
+"However, while she drools uncontrollably she'll understand why silence is "
+"golden."
+
+# From Data: Wearables-1VeryCommon-training_heels-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"Very pink heels. The heel itself is quite fragile and small, making it hard "
+"for the wearer to stay stable. But, if you can learn to fight on these "
+"heels, you can fight on everything."
+msgstr ""
+"Very pink heels. The heel itself is quite fragile and small, making it hard "
+"for the wearer to stay stable. But, if you can learn to fight on these "
+"heels, you can fight on everything."
+
+# From Data: Wearables-1VeryCommon-void_ring-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"The bas-relief etched in this eldritch ring contains the unimaginable "
+"rituals that spoke of an antediluvian evil that lies eternal slumbering in "
+"the anartic icesheet. When asked to comment on the ring, the wearer will "
+"later respond with incoherent rambling or guttural screams. It makes one "
+"happy the ring steals the wearer's mouth."
+msgstr ""
+"The bas-relief etched in this eldritch ring contains the unimaginable "
+"rituals that spoke of an antediluvian evil that lies eternal slumbering in "
+"the anartic icesheet. When asked to comment on the ring, the wearer will "
+"later respond with incoherent rambling or guttural screams. It makes one "
+"happy the ring steals the wearer's mouth."
+
+# From Data: Wearables-2Common-befuddling_earrings-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"These rings whisper sweet nothings into the wearer's ears. They have no "
+"discernable meaning, or even grammatical construction, but they are very "
+"soothing."
+msgstr ""
+"These rings whisper sweet nothings into the wearer's ears. They have no "
+"discernable meaning, or even grammatical construction, but they are very "
+"soothing."
+
+# From Data: Wearables-2Common-clarifying_earrings-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A set of earrings that focus the mind, filtering out all unwanted thoughts."
+msgstr ""
+"A set of earrings that focus the mind, filtering out all unwanted thoughts."
+
+# From Data: Wearables-2Common-coat_of_invisibility-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"While useful in combat, it is extremely hard to store these cloaks as they "
+"are - as the name implies - invisible."
+msgstr ""
+"While useful in combat, it is extremely hard to store these cloaks as they "
+"are - as the name implies - invisible."
+
+# From Data: Wearables-2Common-coat_of_visibility-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A weaker version of the cloak of invisibility, it only has the strength to "
+"hide the wearer's clothes. As such, it is only useful for exhibitionists."
+msgstr ""
+"A weaker version of the cloak of invisibility, it only has the strength to "
+"hide the wearer's clothes. As such, it is only useful for exhibitionists."
+
+# From Data: Wearables-2Common-cuffs_of_temperance-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A set of clerical cuffs that are meant to punish greed. The more wealth the "
+"wearer has, the more her pain gets amplified."
+msgstr ""
+"A set of clerical cuffs that are meant to punish greed. The more wealth the "
+"wearer has, the more her pain gets amplified."
+
+# From Data: Wearables-2Common-nose_hook-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A small metal hook, fastened around the wearer's head. It is inserted into "
+"her nostrils, pulling these upwards. It's primary purpose is humiliation. "
+"Well, it's only purpose is humiliation really."
+msgstr ""
+"A small metal hook, fastened around the wearer's head. It is inserted into "
+"her nostrils, pulling these upwards. It's primary purpose is humiliation. "
+"Well, it's only purpose is humiliation really."
+
+# From Data: Wearables-2Common-pocketwatch-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"Tick...\n"
+"Tock...\n"
+"Time is running out."
+msgstr ""
+"Tick...\n"
+"Tock...\n"
+"Time is running out."
+
+# From Data: Wearables-2Common-sheer_pink_stockings-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"Very sheer pink stockings, they are enchanted to lower the wearer's arousal."
+" Unfortunately, they are so sexy that they arouse the partymember behind "
+"her."
+msgstr ""
+"Very sheer pink stockings, they are enchanted to lower the wearer's arousal."
+" Unfortunately, they are so sexy that they arouse the partymember behind "
+"her."
+
+# From Data: Wearables-2Common-thief_veil-text
+msgctxt "Description of a piece of equipment."
+msgid "You can take whatever you want, you just can't take it home."
+msgstr "You can take whatever you want, you just can't take it home."
+
+# From Data: Wearables-3Uncommon-cat_mask-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A mask in the shape of a cat, it grants the wearer catlike reflexes. The "
+"shape of the mask isn't relevant. It is generally assumed the creator just "
+"found it cute."
+msgstr ""
+"A mask in the shape of a cat, it grants the wearer catlike reflexes. The "
+"shape of the mask isn't relevant. It is generally assumed the creator just "
+"found it cute."
+
+# From Data: Wearables-3Uncommon-condomcarrier_suit-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A rigid suit that regularly creates condoms filled with a salty tasting "
+"white liquid. Both taste tests and alchemical experimentation have concluded"
+" that the liquid inside is effectively semen."
+msgstr ""
+"A rigid suit that regularly creates condoms filled with a salty tasting "
+"white liquid. Both taste tests and alchemical experimentation have concluded"
+" that the liquid inside is effectively semen."
+
+# From Data: Wearables-3Uncommon-constricting_choker-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A collar of enchanted vines. It strengthens the wearer's magical attacks, "
+"but goes haywire when brought to close to any corrupted plants."
+msgstr ""
+"A collar of enchanted vines. It strengthens the wearer's magical attacks, "
+"but goes haywire when brought to close to any corrupted plants."
+
+# From Data: Wearables-3Uncommon-fox_mask-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A mask in the shape of a fox, it grants the wearer a foxlike cunning. While "
+"there aren't any white foxes - let alone with red markings - the design "
+"follows an old Elvish custom."
+msgstr ""
+"A mask in the shape of a fox, it grants the wearer a foxlike cunning. While "
+"there aren't any white foxes - let alone with red markings - the design "
+"follows an old Elvish custom."
+
+# From Data: Wearables-3Uncommon-gothic_choker-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"An ancient choker, ordered by a rebellious princess. She said it would only respond to the worthy. Later in her life she made an attempt to destroy every copy of this item, and every mention of its existence.\n"
+"She did not succeed."
+msgstr ""
+"An ancient choker, ordered by a rebellious princess. She said it would only respond to the worthy. Later in her life she made an attempt to destroy every copy of this item, and every mention of its existence.\n"
+"She did not succeed."
+
+# From Data: Wearables-3Uncommon-gothic_corset-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"An ancient corset, ordered by a rebellious princess. She said it would only "
+"respond to the worthy. Nowadays it is sometimes worn by the nobility to "
+"prove their superiority over the sun-tanned peasants."
+msgstr ""
+"An ancient corset, ordered by a rebellious princess. She said it would only "
+"respond to the worthy. Nowadays it is sometimes worn by the nobility to "
+"prove their superiority over the sun-tanned peasants."
+
+# From Data: Wearables-3Uncommon-metal_ball_hood-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"Originally devised as a sensory punishment for prisoners, this metal ball "
+"makes for a good weapon and offers great head protection."
+msgstr ""
+"Originally devised as a sensory punishment for prisoners, this metal ball "
+"makes for a good weapon and offers great head protection."
+
+# From Data: Wearables-3Uncommon-mind_scrambler-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"This visor shows a rapid succession of subliminal imagery to the wearer. "
+"There doesn't seem to be any logic or pattern in the shown images, and as "
+"such the effect are extremely volatile."
+msgstr ""
+"This visor shows a rapid succession of subliminal imagery to the wearer. "
+"There doesn't seem to be any logic or pattern in the shown images, and as "
+"such the effect are extremely volatile."
+
+# From Data: Wearables-3Uncommon-odd_pocketwatch-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A watch that is attuned to the inherent mana streams that underly all arcane arts. It's strength waxes and wanes depending on the day.\n"
+"More complex watches exist, but their patterns were deemed to unpredictable to be usable."
+msgstr ""
+"A watch that is attuned to the inherent mana streams that underly all arcane arts. It's strength waxes and wanes depending on the day.\n"
+"More complex watches exist, but their patterns were deemed to unpredictable to be usable."
+
+# From Data: Wearables-3Uncommon-parasite_choker-name
+msgctxt "Name of a piece of equipment."
+msgid "Parasite Choker"
+msgstr "Parasite Choker"
+
+# From Data: Wearables-3Uncommon-parasite_choker-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A collar made up of a writhing mass of parasites. Unless they are soothed by"
+" the presence of an attached parasite they will slowly choke the wearer."
+msgstr ""
+"A collar made up of a writhing mass of parasites. Unless they are soothed by"
+" the presence of an attached parasite they will slowly choke the wearer."
+
+# From Data: Wearables-3Uncommon-rainbow_ribbons-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"This ribbon originally started as an experiment to create a haircolor ribbon"
+" that could easily be attuned to a color by the wearer. The process caused "
+"this ribbon to become unstable and very quickly alternate between "
+"haircolors."
+msgstr ""
+"This ribbon originally started as an experiment to create a haircolor ribbon"
+" that could easily be attuned to a color by the wearer. The process caused "
+"this ribbon to become unstable and very quickly alternate between "
+"haircolors."
+
+# From Data: Wearables-3Uncommon-stylish_collar-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A very stylish collar. It is said to have been created as a gift for a "
+"warmage if she would just promise to shut up for once."
+msgstr ""
+"A very stylish collar. It is said to have been created as a gift for a "
+"warmage if she would just promise to shut up for once."
+
+# From Data: Wearables-3Uncommon-stylish_corset-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A very stylish corset, it has built-in protection for the wearer but only if"
+" she's too weak to defend herself."
+msgstr ""
+"A very stylish corset, it has built-in protection for the wearer but only if"
+" she's too weak to defend herself."
+
+# From Data: Wearables-3Uncommon-tomboys_trousers-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"Mages are not supposed to wear trousers as they are barabaric and only fit "
+"for uncultured professions, such as warriors, rogues, paladins, clerics, "
+"alchemists, nobles or rangers. The mere act of wearing trousers is a "
+"statement by itself."
+msgstr ""
+"Mages are not supposed to wear trousers as they are barabaric and only fit "
+"for uncultured professions, such as warriors, rogues, paladins, clerics, "
+"alchemists, nobles or rangers. The mere act of wearing trousers is a "
+"statement by itself."
+
+# From Data: Wearables-4Rare-collar_education-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A spiked posture collar, its strictness will weaken the wearer's attack "
+"while she gets used to it. However, once used to the slight choking feeling "
+"she'll be stronger and will never want to go without a posture collar again."
+msgstr ""
+"A spiked posture collar, its strictness will weaken the wearer's attack "
+"while she gets used to it. However, once used to the slight choking feeling "
+"she'll be stronger and will never want to go without a posture collar again."
+
+# From Data: Wearables-4Rare-corset_education-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A very tight spiked corset. It will temporarily make the wearer more "
+"vulnerable as she gets used to the suffocating pressure of the corset. After"
+" a while she'll be even more robust due to it, and will find it horrible not"
+" to wear a corset."
+msgstr ""
+"A very tight spiked corset. It will temporarily make the wearer more "
+"vulnerable as she gets used to the suffocating pressure of the corset. After"
+" a while she'll be even more robust due to it, and will find it horrible not"
+" to wear a corset."
+
+# From Data: Wearables-4Rare-gamblers_hood-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A leather hood that converts the wearer's health into an uncanny ability to "
+"dodge enemy attacks. It's results are spectacular, though it tends to get "
+"the wearer killed after a while."
+msgstr ""
+"A leather hood that converts the wearer's health into an uncanny ability to "
+"dodge enemy attacks. It's results are spectacular, though it tends to get "
+"the wearer killed after a while."
+
+# From Data: Wearables-4Rare-heel_education-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A pair of high heels that are locked to the wearer's feet. They will slow "
+"down the wearer while she's getting used to them. However, after a while "
+"she'll get so used to wearing heels that not wearing heels becomes difficult"
+" instead."
+msgstr ""
+"A pair of high heels that are locked to the wearer's feet. They will slow "
+"down the wearer while she's getting used to them. However, after a while "
+"she'll get so used to wearing heels that not wearing heels becomes difficult"
+" instead."
+
+# From Data: Wearables-4Rare-loser_suit-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"While the pink latex of this suit is incredibly thin, it clings tightly to "
+"the skin and cannot be removed in any way. Large holes are cut for the "
+"wearer's nipples and vagina. It's a potent warning that gambling just "
+"doesn't pay."
+msgstr ""
+"While the pink latex of this suit is incredibly thin, it clings tightly to "
+"the skin and cannot be removed in any way. Large holes are cut for the "
+"wearer's nipples and vagina. It's a potent warning that gambling just "
+"doesn't pay."
+
+# From Data: Wearables-4Rare-pink_straitjacket-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A tight pink straitjacket. It fills the head of the wearer with fluffy "
+"contentment and will slowly remove her personality flaws."
+msgstr ""
+"A tight pink straitjacket. It fills the head of the wearer with fluffy "
+"contentment and will slowly remove her personality flaws."
+
+# From Data: Wearables-5VeryRare-all_or_nothing-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A pink latex bodysuit. It needs a while to attune to the body of the wearer,"
+" at that point it will either transform into the ultimate outfit or a "
+"humiliating punishment. Either option seems enticing."
+msgstr ""
+"A pink latex bodysuit. It needs a while to attune to the body of the wearer,"
+" at that point it will either transform into the ultimate outfit or a "
+"humiliating punishment. Either option seems enticing."
+
+# From Data: Wearables-5VeryRare-arcane_amulet-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"An amulet that rapidly shifts between strengthening and weakening magical "
+"attacks."
+msgstr ""
+"An amulet that rapidly shifts between strengthening and weakening magical "
+"attacks."
+
+# From Data: Wearables-5VeryRare-black_straitjacket-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A thick black straitjacket. It tightly binds the wearer and absorbs any "
+"positive personality that she may have. Once sated, it will let its victim "
+"go."
+msgstr ""
+"A thick black straitjacket. It tightly binds the wearer and absorbs any "
+"positive personality that she may have. Once sated, it will let its victim "
+"go."
+
+# From Data: Wearables-5VeryRare-drone_hood-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A latex headcover, it was originally devised by a shady criminal group to "
+"strengthen its brainwashed goons. It improves the physique of the wearer - "
+"if she's willing - at the small cost of her mental faculties."
+msgstr ""
+"A latex headcover, it was originally devised by a shady criminal group to "
+"strengthen its brainwashed goons. It improves the physique of the wearer - "
+"if she's willing - at the small cost of her mental faculties."
+
+# From Data: Wearables-5VeryRare-dullahan_collar-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A strange collar that seemingly removes the head of the wearer. While the "
+"head is certainly gone, the wearer can still magically sense everything "
+"around her."
+msgstr ""
+"A strange collar that seemingly removes the head of the wearer. While the "
+"head is certainly gone, the wearer can still magically sense everything "
+"around her."
+
+# From Data: Wearables-5VeryRare-golden_bracers-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"The consumed gold is sent directly to the Mage Academy. These bracers are a "
+"solution to the problem that you can only sell magical equipment once, using"
+" this ingenious system the Academy can continuously fund its expensive "
+"tastes."
+msgstr ""
+"The consumed gold is sent directly to the Mage Academy. These bracers are a "
+"solution to the problem that you can only sell magical equipment once, using"
+" this ingenious system the Academy can continuously fund its expensive "
+"tastes."
+
+# From Data: Wearables-5VeryRare-gothic_dress-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"An ancient dress, ordered by a rebellious princess. She said it would only "
+"respond to the worthy. It looks very fashionable since the tailor refused to"
+" add \"extra blood spatters\", a \"utility belt\", and \"large black "
+"pauldrons\"."
+msgstr ""
+"An ancient dress, ordered by a rebellious princess. She said it would only "
+"respond to the worthy. It looks very fashionable since the tailor refused to"
+" add \"extra blood spatters\", a \"utility belt\", and \"large black "
+"pauldrons\"."
+
+# From Data: Wearables-5VeryRare-love_choker-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A choker that grows stronger as the arousal of the wearer increases. "
+"Unfortunately, at a certain point it grows so powerful that it snaps and "
+"knocks the wearer unconscious."
+msgstr ""
+"A choker that grows stronger as the arousal of the wearer increases. "
+"Unfortunately, at a certain point it grows so powerful that it snaps and "
+"knocks the wearer unconscious."
+
+# From Data: Wearables-5VeryRare-mage_choker-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"This collar wasn't just designed to imprison mages, but also to profit from "
+"it. It extracts all etherial mana from its surroundings preventing magic "
+"from being cast, and at the same time crystallizes this into mana fragments."
+msgstr ""
+"This collar wasn't just designed to imprison mages, but also to profit from "
+"it. It extracts all etherial mana from its surroundings preventing magic "
+"from being cast, and at the same time crystallizes this into mana fragments."
+
+# From Data: Wearables-5VeryRare-secretary_collar-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A collar once gifted by a queen to her most competent minister. The minister"
+" was later demoted to secretary due to her lacking performance, but the "
+"queen was wise enough to pick up the slack."
+msgstr ""
+"A collar once gifted by a queen to her most competent minister. The minister"
+" was later demoted to secretary due to her lacking performance, but the "
+"queen was wise enough to pick up the slack."
+
+# From Data: Wearables-5VeryRare-supplicant_collar-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A collar that slowly weakens the wearer, transferring her dexterity to her "
+"owner. This allows the wearer to pay back her wonderful owner for providing "
+"protection."
+msgstr ""
+"A collar that slowly weakens the wearer, transferring her dexterity to her "
+"owner. This allows the wearer to pay back her wonderful owner for providing "
+"protection."
+
+# From Data: Wearables-5VeryRare-thirsting_teeth-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"These teeth allow the wearer to extract and refine lifeforece from any "
+"willing ally. While this permanently harms the ally, the lifeforce gets "
+"refined into a powerful combat drug."
+msgstr ""
+"These teeth allow the wearer to extract and refine lifeforece from any "
+"willing ally. While this permanently harms the ally, the lifeforce gets "
+"refined into a powerful combat drug."
+
+# From Data: Wearables-6Legendary-bad_luck_charm-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A very powerful magic charm. There are no clear negatives to using it but "
+"that's only since a large part of its magic is used to hide those effects."
+msgstr ""
+"A very powerful magic charm. There are no clear negatives to using it but "
+"that's only since a large part of its magic is used to hide those effects."
+
+# From Data: Wearables-6Legendary-gods_boots-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"The boots of the goddess of creation. Shrouded in mystery they reward temperance and chastity.\n"
+"They remain pristine and odorless, even after being worn throughout multiple dungeons."
+msgstr ""
+"The boots of the goddess of creation. Shrouded in mystery they reward temperance and chastity.\n"
+"They remain pristine and odorless, even after being worn throughout multiple dungeons."
+
+# From Data: Wearables-6Legendary-gods_gloves-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"The gloves of the goddess of creation. Shrouded in mystery they reward temperance and chastity.\n"
+"They keep the hands soft and tender."
+msgstr ""
+"The gloves of the goddess of creation. Shrouded in mystery they reward temperance and chastity.\n"
+"They keep the hands soft and tender."
+
+# From Data: Wearables-6Legendary-gods_pack-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"The pack of the goddess of creation. Shrouded in mystery they reward temperance and chastity.\n"
+"It never feels too heavy, nor too light."
+msgstr ""
+"The pack of the goddess of creation. Shrouded in mystery they reward temperance and chastity.\n"
+"It never feels too heavy, nor too light."
+
+# From Data: Wearables-6Legendary-gods_panties-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"The panties of the goddess of creation. Shrouded in mystery they reward temperance and chastity.\n"
+"They remain pristine, even after being worn, and always smell faintly of roses."
+msgstr ""
+"The panties of the goddess of creation. Shrouded in mystery they reward temperance and chastity.\n"
+"They remain pristine, even after being worn, and always smell faintly of roses."
+
+# From Data: Wearables-6Legendary-gods_suit-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"The outfit of the goddess of creation. Shrouded in mystery they reward temperance and chastity.\n"
+"The whites remain shiny and the blues spotless as the outfit reject all dust and grime."
+msgstr ""
+"The outfit of the goddess of creation. Shrouded in mystery they reward temperance and chastity.\n"
+"The whites remain shiny and the blues spotless as the outfit reject all dust and grime."
+
+# From Data: Wearables-6Legendary-overcharge_visor-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A visor that allows the wearer to focus all her energy on a devastating "
+"attack, at the simple cost of her life force."
+msgstr ""
+"A visor that allows the wearer to focus all her energy on a devastating "
+"attack, at the simple cost of her life force."
+
+# From Data: Wearables-6Legendary-safety_amulet-name
+msgctxt "Name of a piece of equipment."
+msgid "Safety Amulet"
+msgstr "Safety Amulet"
+
+# From Data: Wearables-6Legendary-safety_amulet-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"An amulet that can immediately teleport an adventurer out of harms way. "
+"Their production was ceased since it was more cost efficient to just let the"
+" adventurers get kidnapped instead, especially since many would press the "
+"button too early."
+msgstr ""
+"An amulet that can immediately teleport an adventurer out of harms way. "
+"Their production was ceased since it was more cost efficient to just let the"
+" adventurers get kidnapped instead, especially since many would press the "
+"button too early."
+
+# From Data: Wearables-6Legendary-winner_suit-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"The bodysuit is made of pure gold. Its shine never fades and it gives the "
+"wearer inhuman capabilities. It can't be removed by any means, but why would"
+" anyone want to remove it."
+msgstr ""
+"The bodysuit is made of pure gold. Its shine never fades and it gives the "
+"wearer inhuman capabilities. It can't be removed by any means, but why would"
+" anyone want to remove it."
+
+# From Data: Wearables-B1Warrior-demon_cock-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"The hilt of this sword is said to be a portal attached straight to the "
+"raging member of a large demonic entity. It's a great sword, but only if "
+"it's rock hard."
+msgstr ""
+"The hilt of this sword is said to be a portal attached straight to the "
+"raging member of a large demonic entity. It's a great sword, but only if "
+"it's rock hard."
+
+# From Data: Wearables-B1Warrior-godette_sword-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"The weapon of the goddess of creation. Shrouded in mystery they reward temperance and chastity.\n"
+"Its blade remains sharp regardless of use."
+msgstr ""
+"The weapon of the goddess of creation. Shrouded in mystery they reward temperance and chastity.\n"
+"Its blade remains sharp regardless of use."
+
+# From Data: Wearables-B1Warrior-sword_of_fireball-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A sword that's enchanted to allow the wearer to cast fireball. However, this"
+" causes the hilt to heat up burning the wearer."
+msgstr ""
+"A sword that's enchanted to allow the wearer to cast fireball. However, this"
+" causes the hilt to heat up burning the wearer."
+
+# From Data: Wearables-B2Cleric-lustful_staff-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"This staff is powered by the lust and arousal of the wearer, letting those "
+"strengthen its healing properties."
+msgstr ""
+"This staff is powered by the lust and arousal of the wearer, letting those "
+"strengthen its healing properties."
+
+# From Data: Wearables-B2Cleric-mace_servitude-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"Some believe a clerics isn't supposed to fight. Instead she should be a "
+"demure and devout servant and provide healing and aid. This mace helps her "
+"achieve this."
+msgstr ""
+"Some believe a clerics isn't supposed to fight. Instead she should be a "
+"demure and devout servant and provide healing and aid. This mace helps her "
+"achieve this."
+
+# From Data: Wearables-B3Rogue-dagger_domination-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"Daggers made from corrupted metal, beset by small rubies. They are very "
+"sharp and dangerous, but project a field of domination around them. Any "
+"allies of the wearer will start craving punishment."
+msgstr ""
+"Daggers made from corrupted metal, beset by small rubies. They are very "
+"sharp and dangerous, but project a field of domination around them. Any "
+"allies of the wearer will start craving punishment."
+
+# From Data: Wearables-B3Rogue-dagger_pacifism-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"These pink daggers deliver a surge of pleasure to the target on hit. They "
+"aren't great for dealing damage, but slow the enemy down."
+msgstr ""
+"These pink daggers deliver a surge of pleasure to the target on hit. They "
+"aren't great for dealing damage, but slow the enemy down."
+
+# From Data: Wearables-B3Rogue-dagger_rejuvenation-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A magic enchantment reverts any wounds delivered by these daggers and "
+"instead causes those wounds to heal the target."
+msgstr ""
+"A magic enchantment reverts any wounds delivered by these daggers and "
+"instead causes those wounds to heal the target."
+
+# From Data: Wearables-B3Rogue-large_daggers-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"At some point they really should be called shortswords and not daggers."
+msgstr ""
+"At some point they really should be called shortswords and not daggers."
+
+# From Data: Wearables-B4Mage-staff_internal-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"This staff causes the wearer to feel an intense heat in her loins, a burning"
+" desire that grows out of control. It helps her in burning things physically"
+" as well."
+msgstr ""
+"This staff causes the wearer to feel an intense heat in her loins, a burning"
+" desire that grows out of control. It helps her in burning things physically"
+" as well."
+
+# From Data: Wearables-B4Mage-staff_plus-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"An improved version of the default mage catalyst. The increased power "
+"instills in its wearer a sense of curiosity."
+msgstr ""
+"An improved version of the default mage catalyst. The increased power "
+"instills in its wearer a sense of curiosity."
+
+# From Data: Wearables-B4Mage-staff_support-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"This staff represents an unbreakable contract with the wearer. She agrees to"
+" stop any violent actions and serve diligently. Instead, the staff will "
+"strengthen her allies offering them unconditional support."
+msgstr ""
+"This staff represents an unbreakable contract with the wearer. She agrees to"
+" stop any violent actions and serve diligently. Instead, the staff will "
+"strengthen her allies offering them unconditional support."
+
+# From Data: Wearables-B5Ranger-bow_of_lust-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A bow that gets its strength from the wearer's libido. It has been charmed "
+"to make the wearer much more sensitive."
+msgstr ""
+"A bow that gets its strength from the wearer's libido. It has been charmed "
+"to make the wearer much more sensitive."
+
+# From Data: Wearables-B5Ranger-electro_bow-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"The bow comes with a small pink egg which must be inserted in the wearer's "
+"vagina and is connected to the bow with a thin metal wire. The egg collects "
+"lust from the wearer to strengthen the bow."
+msgstr ""
+"The bow comes with a small pink egg which must be inserted in the wearer's "
+"vagina and is connected to the bow with a thin metal wire. The egg collects "
+"lust from the wearer to strengthen the bow."
+
+# From Data: Wearables-B5Ranger-tactician_bow-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A bow made with precision in mind. It sacrifices raw power for tactical "
+"utility."
+msgstr ""
+"A bow made with precision in mind. It sacrifices raw power for tactical "
+"utility."
+
+# From Data: Wearables-B6Paladin-heavy_zweihander-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"Upholding justice is a heavy burden, but one that every paladin must bear."
+msgstr ""
+"Upholding justice is a heavy burden, but one that every paladin must bear."
+
+# From Data: Wearables-B6Paladin-lance_of_justice-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A holy lance which refuses to be carried by degenerates. If such a "
+"degenerate touches it, she falls onto the floor and starts profusely "
+"apologizing."
+msgstr ""
+"A holy lance which refuses to be carried by degenerates. If such a "
+"degenerate touches it, she falls onto the floor and starts profusely "
+"apologizing."
+
+# From Data: Wearables-B6Paladin-paladin_spear-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"The spear is an oft used alternative to the zweihander for those cases where"
+" a Paladin requires more reach and flexibility."
+msgstr ""
+"The spear is an oft used alternative to the zweihander for those cases where"
+" a Paladin requires more reach and flexibility."
+
+# From Data: Wearables-B6Paladin-sword_of_injustice-text
+msgctxt "Description of a piece of equipment."
+msgid "A corrupted sword, it rewards unbrideled lust but punishes chastity."
+msgstr "A corrupted sword, it rewards unbrideled lust but punishes chastity."
+
+# From Data: Wearables-B6Paladin-zweihander_healing-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A sword with a healing enchantment. It is as powerful as an ordinary "
+"zweihander, but allows the Paladin to heal her allies more reliably."
+msgstr ""
+"A sword with a healing enchantment. It is as powerful as an ordinary "
+"zweihander, but allows the Paladin to heal her allies more reliably."
+
+# From Data: Wearables-B6Paladin-zweihander_pacifism-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"The sword has been replaced by a huge pink dildo. It is meant as a mockery "
+"and the sword becomes more dildolike as the Paladin becomes more divine."
+msgstr ""
+"The sword has been replaced by a huge pink dildo. It is meant as a mockery "
+"and the sword becomes more dildolike as the Paladin becomes more divine."
+
+# From Data: Wearables-C1Prisoner-dancer_boots-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"Greaves with ribbons that flow in the wind, it accentuates the graceful "
+"movements of a dancer."
+msgstr ""
+"Greaves with ribbons that flow in the wind, it accentuates the graceful "
+"movements of a dancer."
+
+# From Data: Wearables-C1Prisoner-dancer_castanets-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"Wooden castanets that allow the prisoner to create an entrancing rythm, "
+"together with a sensual dance it motivates her allies."
+msgstr ""
+"Wooden castanets that allow the prisoner to create an entrancing rythm, "
+"together with a sensual dance it motivates her allies."
+
+# From Data: Wearables-C1Prisoner-dancer_gloves-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"Gloves with ribbons that flow in the wind, it accentuates the graceful "
+"movements of a dancer."
+msgstr ""
+"Gloves with ribbons that flow in the wind, it accentuates the graceful "
+"movements of a dancer."
+
+# From Data: Wearables-C1Prisoner-dancer_suit-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A thin flowing fabric that flows gracefully with every sensual move of the "
+"dancer. It has been charmed to be extremely enticing but never show any of "
+"her private regions."
+msgstr ""
+"A thin flowing fabric that flows gracefully with every sensual move of the "
+"dancer. It has been charmed to be extremely enticing but never show any of "
+"her private regions."
+
+# From Data: Wearables-C1Prisoner-dancer_underwear-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"These are rather small pink curtains on a string than proper underwear. They"
+" turn the elegant dance of a dancer into a sensual and outrageous act."
+msgstr ""
+"These are rather small pink curtains on a string than proper underwear. They"
+" turn the elegant dance of a dancer into a sensual and outrageous act."
+
+# From Data: Wearables-C1Prisoner-dancer_veil-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A thin pink veil that barely hides the dancer's face, it helps her maintain "
+"a sense of mystique."
+msgstr ""
+"A thin pink veil that barely hides the dancer's face, it helps her maintain "
+"a sense of mystique."
+
+# From Data: Wearables-C1Prisoner-prisoner_tattoo-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A permanent tattoo that marks someone as a slave. It can never be removed "
+"and enforces absolute obedience. It can only be equipped if the wearer is "
+"understanding of the eternal contract it represents and willing to enter it."
+msgstr ""
+"A permanent tattoo that marks someone as a slave. It can never be removed "
+"and enforces absolute obedience. It can only be equipped if the wearer is "
+"understanding of the eternal contract it represents and willing to enter it."
+
+# From Data: Wearables-C1Prisoner-skimpy_swimsuit-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A very tiny swimsuit which barely covers the wearer's nipples and slit. Any "
+"uncareful move will shamefully displace it. The bikini has been charmed to "
+"grow more powerful the fewer gear the wearer equips."
+msgstr ""
+"A very tiny swimsuit which barely covers the wearer's nipples and slit. Any "
+"uncareful move will shamefully displace it. The bikini has been charmed to "
+"grow more powerful the fewer gear the wearer equips."
+
+# From Data: Wearables-C1Prisoner-spiked_yoke-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A metal yoke beset with two sharp spikes. It allows the prisoner to perform "
+"more damaging tackles without having to free her hands."
+msgstr ""
+"A metal yoke beset with two sharp spikes. It allows the prisoner to perform "
+"more damaging tackles without having to free her hands."
+
+# From Data: Wearables-C2Maid-collar_of_diligence-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A shock collar that serves to reward maids. It never reduces its punishment,"
+" instead offering the maid more power the better she is at her job."
+msgstr ""
+"A shock collar that serves to reward maids. It never reduces its punishment,"
+" instead offering the maid more power the better she is at her job."
+
+# From Data: Wearables-C2Maid-dustergun-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"An ancient featherduster which is powered by arcane energies. It uses "
+"compressed air to clean."
+msgstr ""
+"An ancient featherduster which is powered by arcane energies. It uses "
+"compressed air to clean."
+
+# From Data: Wearables-C2Maid-maid_conditioner-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"Headphones that play a continuous loop of motivating maid mantras. It "
+"instills a subservient mindset into the wearer."
+msgstr ""
+"Headphones that play a continuous loop of motivating maid mantras. It "
+"instills a subservient mindset into the wearer."
+
+# From Data: Wearables-C2Maid-miko_amulet-text
+msgctxt "Description of a piece of equipment."
+msgid "An Elven jade amulet. Their mages use it to cast protective charms."
+msgstr "An Elven jade amulet. Their mages use it to cast protective charms."
+
+# From Data: Wearables-C2Maid-miko_mask-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A fox mask of Elven design. The white fur and red stripes have arcane "
+"significance and help the wearer hide herself."
+msgstr ""
+"A fox mask of Elven design. The white fur and red stripes have arcane "
+"significance and help the wearer hide herself."
+
+# From Data: Wearables-C2Maid-miko_sandals-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"These sandals are the traditional footwear of Elven mages. Their magic is "
+"focused on stealth and protection."
+msgstr ""
+"These sandals are the traditional footwear of Elven mages. Their magic is "
+"focused on stealth and protection."
+
+# From Data: Wearables-C2Maid-miko_staff-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"Elven magic focuses less on raw prowess yet more on ritualistic "
+"purification."
+msgstr ""
+"Elven magic focuses less on raw prowess yet more on ritualistic "
+"purification."
+
+# From Data: Wearables-C2Maid-miko_underwear-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A loincloth and a chestbinder. While somewhat annoying, it will slowly "
+"reduce the wearer's breasts into a more manageable shape."
+msgstr ""
+"A loincloth and a chestbinder. While somewhat annoying, it will slowly "
+"reduce the wearer's breasts into a more manageable shape."
+
+# From Data: Wearables-C2Maid-miko_uniform-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"The traditional robes for Elven mages.Their disdain for humans extends even "
+"to the charms on their clothes."
+msgstr ""
+"The traditional robes for Elven mages.Their disdain for humans extends even "
+"to the charms on their clothes."
+
+# From Data: Wearables-C3Cow-bull_bikini-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A thin pair of panties that is held in place by a pink plug. When worn, it "
+"looks like the wearer is sporting a bulge, though this will disappear when "
+"the bikini is removed."
+msgstr ""
+"A thin pair of panties that is held in place by a pink plug. When worn, it "
+"looks like the wearer is sporting a bulge, though this will disappear when "
+"the bikini is removed."
+
+# From Data: Wearables-C3Cow-bull_harness-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A thight leather harness with a large strapon attached to the croth region. "
+"It is enchanted to reduce the size of the wearer's breasts."
+msgstr ""
+"A thight leather harness with a large strapon attached to the croth region. "
+"It is enchanted to reduce the size of the wearer's breasts."
+
+# From Data: Wearables-C3Cow-cow_bell-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A rather heavy and noisy cowbell. It rings when the wearer makes excessive "
+"moves. The ringing of the bell makes the wearer feel a sense of calm "
+"enjoyment and stimulate her breasts to produce milk."
+msgstr ""
+"A rather heavy and noisy cowbell. It rings when the wearer makes excessive "
+"moves. The ringing of the bell makes the wearer feel a sense of calm "
+"enjoyment and stimulate her breasts to produce milk."
+
+# From Data: Wearables-C3Cow-mecha_milker-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A complicated and ancient device that serves as a mobile healing beacon. It "
+"only needs a cow that is willing to brave the constant three pronged "
+"stimulation."
+msgstr ""
+"A complicated and ancient device that serves as a mobile healing beacon. It "
+"only needs a cow that is willing to brave the constant three pronged "
+"stimulation."
+
+# From Data: Wearables-C3Cow-milk_tapper-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A small hand powered milking device. It allows the wearer to let her allies "
+"milk her. Given that cow milk is a potent medicine her breasts will not "
+"thank her for this."
+msgstr ""
+"A small hand powered milking device. It allows the wearer to let her allies "
+"milk her. Given that cow milk is a potent medicine her breasts will not "
+"thank her for this."
+
+# From Data: Wearables-C3Cow-pig_bikini-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A pink latex underwear set. It clings tightly to the body and makes the "
+"wearer feel excessive shame over her curves. This slowly turns her "
+"submissive to her owner."
+msgstr ""
+"A pink latex underwear set. It clings tightly to the body and makes the "
+"wearer feel excessive shame over her curves. This slowly turns her "
+"submissive to her owner."
+
+# From Data: Wearables-C3Cow-pig_boots-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"Inflatable boots in the form of pig hooves. It is somewhat humiliating but "
+"the weight dampening soles are very pleasant to walk on."
+msgstr ""
+"Inflatable boots in the form of pig hooves. It is somewhat humiliating but "
+"the weight dampening soles are very pleasant to walk on."
+
+# From Data: Wearables-C3Cow-pig_hooves-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A set of inflatable gloves that resemble pig hooves. It stops milk "
+"production of the wearer and instead turns her into a fat useless pig that "
+"serves only as a meat shield."
+msgstr ""
+"A set of inflatable gloves that resemble pig hooves. It stops milk "
+"production of the wearer and instead turns her into a fat useless pig that "
+"serves only as a meat shield."
+
+# From Data: Wearables-C3Cow-pig_mask-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"This pig mask has a voice modulation box that turns any speech of the wearer"
+" into cute piglike oinks. The wearer usually grows more submissive due to "
+"her new humiliating speech."
+msgstr ""
+"This pig mask has a voice modulation box that turns any speech of the wearer"
+" into cute piglike oinks. The wearer usually grows more submissive due to "
+"her new humiliating speech."
+
+# From Data: Wearables-C3Cow-pig_suit-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A thick pink rubber suit that resembles a pig. It turns any milk into fat "
+"which gets deposited at the wearer's butt, thights and boobs. This gives her"
+" a robust - albeit humiliating - figure."
+msgstr ""
+"A thick pink rubber suit that resembles a pig. It turns any milk into fat "
+"which gets deposited at the wearer's butt, thights and boobs. This gives her"
+" a robust - albeit humiliating - figure."
+
+# From Data: Wearables-C3Cow-pig_tail-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A curly pig tail which is inserted with a small pink plug. Its continuous "
+"movements arouse the wearer."
+msgstr ""
+"A curly pig tail which is inserted with a small pink plug. Its continuous "
+"movements arouse the wearer."
+
+# From Data: Wearables-C4Pet-bitchsuit-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A bitchsuit is a collection of straps and locks that forces the wearer to "
+"walk on all fours. It binds her ankles to her butt and her wrists to her "
+"shoulders. While it is very humiliating and forces her to crawl like an "
+"animal, it is very good training."
+msgstr ""
+"A bitchsuit is a collection of straps and locks that forces the wearer to "
+"walk on all fours. It binds her ankles to her butt and her wrists to her "
+"shoulders. While it is very humiliating and forces her to crawl like an "
+"animal, it is very good training."
+
+# From Data: Wearables-C4Pet-cat_collar-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A pet collar with a small bell. If the bell jingles heavily it mesmerizes "
+"the enemy making it forget the existence of the wearer."
+msgstr ""
+"A pet collar with a small bell. If the bell jingles heavily it mesmerizes "
+"the enemy making it forget the existence of the wearer."
+
+# From Data: Wearables-C4Pet-cat_ears-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"These cat ears beset with frills are not only very cute, they also allow the"
+" wearer to pounce on her enemies out of stealth."
+msgstr ""
+"These cat ears beset with frills are not only very cute, they also allow the"
+" wearer to pounce on her enemies out of stealth."
+
+# From Data: Wearables-C4Pet-cat_gag-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A gag in the form of a fish. When worn it doesn't prevent the wearer from "
+"eating, instead it duplicates all provisions in her mouth."
+msgstr ""
+"A gag in the form of a fish. When worn it doesn't prevent the wearer from "
+"eating, instead it duplicates all provisions in her mouth."
+
+# From Data: Wearables-C4Pet-cat_suit-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A set of bindings that forces the wearer to walk on all fours. It is "
+"finished with a cute black catlike fur."
+msgstr ""
+"A set of bindings that forces the wearer to walk on all fours. It is "
+"finished with a cute black catlike fur."
+
+# From Data: Wearables-C4Pet-cat_tail-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A cat tail that is equipped using a small buttplug. When the wearer is "
+"stealthed it activates and vibrates strongly. The vibrations are both "
+"regenerative and very arousing."
+msgstr ""
+"A cat tail that is equipped using a small buttplug. When the wearer is "
+"stealthed it activates and vibrates strongly. The vibrations are both "
+"regenerative and very arousing."
+
+# From Data: Wearables-C4Pet-pet_contacts-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"These contacts change the wearer's vision to be more dog-like. It muddles "
+"the colors and weakens peripheral vision but makes her very perceptive to "
+"sudden motions."
+msgstr ""
+"These contacts change the wearer's vision to be more dog-like. It muddles "
+"the colors and weakens peripheral vision but makes her very perceptive to "
+"sudden motions."
+
+# From Data: Wearables-C4Pet-puppy_suit-text
+msgctxt "Description of a piece of equipment."
+msgid "A brown full body suit. It helps keep your pet warm and cozy."
+msgstr "A brown full body suit. It helps keep your pet warm and cozy."
+
+# From Data: Wearables-C4Pet-rubber_collar-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A large rubber posture collar, when fully inflated it gives the wearer a "
+"slight choking feeling. Your petgirl won't like it, until she's afflicted, "
+"at which point she'll refuse to take it off."
+msgstr ""
+"A large rubber posture collar, when fully inflated it gives the wearer a "
+"slight choking feeling. Your petgirl won't like it, until she's afflicted, "
+"at which point she'll refuse to take it off."
+
+# From Data: Wearables-C5Horse-horse_bindings-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"This set of leather straps and locks forces the ponygirl to walk on all "
+"fours. She will be useless in combat, but will be better at carrying loot."
+msgstr ""
+"This set of leather straps and locks forces the ponygirl to walk on all "
+"fours. She will be useless in combat, but will be better at carrying loot."
+
+# From Data: Wearables-C5Horse-horse_bit-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A head harness with a metal bit. The reigns can be used to correct the "
+"wearer."
+msgstr ""
+"A head harness with a metal bit. The reigns can be used to correct the "
+"wearer."
+
+# From Data: Wearables-C5Horse-horse_brand-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A permanent brand that marks the wearer as an Imperial ponygirl. It "
+"strengthens the wearer depending on the Imperial status of her owner."
+msgstr ""
+"A permanent brand that marks the wearer as an Imperial ponygirl. It "
+"strengthens the wearer depending on the Imperial status of her owner."
+
+# From Data: Wearables-C5Horse-horse_cart-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A simple storage cart. It requires a ponygirl to pull it and weakens her "
+"combat abilities, but it fits a lot of extra loot."
+msgstr ""
+"A simple storage cart. It requires a ponygirl to pull it and weakens her "
+"combat abilities, but it fits a lot of extra loot."
+
+# From Data: Wearables-C5Horse-horse_chastity-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A metal chastity belt. The enchanted box at the front monitors the "
+"ponygirl's arousal and punishes her if she gets too horny. That is a rather "
+"difficult task for her due to the two attached dildos shifting around as the"
+" ponygirl hauls her cargo."
+msgstr ""
+"A metal chastity belt. The enchanted box at the front monitors the "
+"ponygirl's arousal and punishes her if she gets too horny. That is a rather "
+"difficult task for her due to the two attached dildos shifting around as the"
+" ponygirl hauls her cargo."
+
+# From Data: Wearables-C5Horse-horse_corset-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A tight black corset, it helps the horse maintain a correct posture. While "
+"untrained horses claim that it hinders their breathing, that is a skill "
+"issue."
+msgstr ""
+"A tight black corset, it helps the horse maintain a correct posture. While "
+"untrained horses claim that it hinders their breathing, that is a skill "
+"issue."
+
+# From Data: Wearables-C5Horse-horse_drinking_gag-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A gag connected to a large funnel pointing upwards. It allows the wearer's "
+"teammates to \"water\" their ponygirl."
+msgstr ""
+"A gag connected to a large funnel pointing upwards. It allows the wearer's "
+"teammates to \"water\" their ponygirl."
+
+# From Data: Wearables-C5Horse-horse_hood-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A black leather hood worn by Imperial ponygirls. It is enchanted to only "
+"provides benefits to allies of the Empire."
+msgstr ""
+"A black leather hood worn by Imperial ponygirls. It is enchanted to only "
+"provides benefits to allies of the Empire."
+
+# From Data: Wearables-C5Horse-horse_hooves-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"As a reward for good behavior, these gloves can replace the default ponygirl"
+" armbinder. The hooves at the end prevent the wearer from having too much "
+"freedom while still giving her some extra tools in combat."
+msgstr ""
+"As a reward for good behavior, these gloves can replace the default ponygirl"
+" armbinder. The hooves at the end prevent the wearer from having too much "
+"freedom while still giving her some extra tools in combat."
+
+# From Data: Wearables-C5Horse-horse_mask-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A mask in the shape of a horse, it is delicately crafted and each strand of "
+"hair is made from real horse hair. It is a true work of art."
+msgstr ""
+"A mask in the shape of a horse, it is delicately crafted and each strand of "
+"hair is made from real horse hair. It is a true work of art."
+
+# From Data: Wearables-C5Horse-horse_saddle-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"No ponygirl is complete without a saddle, though the saddle mostly shines if"
+" the ponygirl is forced on all fours."
+msgstr ""
+"No ponygirl is complete without a saddle, though the saddle mostly shines if"
+" the ponygirl is forced on all fours."
+
+# From Data: Wearables-C5Horse-horse_shock_collar-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A posture collar with an enchanted box attached. This box punishes the "
+"wearer if she isn't carrying enough loot. It does not care whether the "
+"ponygirl was supposed to carry any loot in the first place."
+msgstr ""
+"A posture collar with an enchanted box attached. This box punishes the "
+"wearer if she isn't carrying enough loot. It does not care whether the "
+"ponygirl was supposed to carry any loot in the first place."
+
+# From Data: Wearables-C5Horse-horse_tail-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A horse tail equipped through a small buttplug. It makes the wearer look "
+"like a true ponygirl while giving her some stimulation while performing her "
+"duties."
+msgstr ""
+"A horse tail equipped through a small buttplug. It makes the wearer look "
+"like a true ponygirl while giving her some stimulation while performing her "
+"duties."
+
+# From Data: Wearables-C5Horse-shock_harness-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A tight leather harness with an enchanted shock box. It punishes the wearer "
+"if she isn't performing adequately as a ponygirl."
+msgstr ""
+"A tight leather harness with an enchanted shock box. It punishes the wearer "
+"if she isn't performing adequately as a ponygirl."
+
+# From Data: Wearables-C6Bunny-bunny_gag-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"The carrot inside this ringgag slowly grows. Once fully grown, it ejects "
+"himself. Ironically the gag prevents the wearer from actually eating the "
+"carrot."
+msgstr ""
+"The carrot inside this ringgag slowly grows. Once fully grown, it ejects "
+"himself. Ironically the gag prevents the wearer from actually eating the "
+"carrot."
+
+# From Data: Wearables-C6Bunny-bunny_reverse-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A set of gloves and leggings that takes the form of a reverse bunny suit. It"
+" leaves the wearer fully exposed and would only be worn by an exhibitionist."
+msgstr ""
+"A set of gloves and leggings that takes the form of a reverse bunny suit. It"
+" leaves the wearer fully exposed and would only be worn by an exhibitionist."
+
+# From Data: Wearables-C6Bunny-bunny_weapon-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A sturdy hammer and serving platter are the standard outfit for serving "
+"bunnies in the Empire. The hammer gives the bunnygirl some manner of defence"
+" against unwanted customers."
+msgstr ""
+"A sturdy hammer and serving platter are the standard outfit for serving "
+"bunnies in the Empire. The hammer gives the bunnygirl some manner of defence"
+" against unwanted customers."
+
+# From Data: Wearables-C6Bunny-bunnyboots_kicking-text
+msgctxt "Description of a piece of equipment."
+msgid "Metal boots with a sharp spike at the end, strengthening her kicks."
+msgstr "Metal boots with a sharp spike at the end, strengthening her kicks."
+
+# From Data: Wearables-C6Bunny-carrot_underwear-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"Underwear with a cute carrot pattern, it periodically grows a carrot inside "
+"the wearer which can then be taken out and eaten. Preferably after washing."
+msgstr ""
+"Underwear with a cute carrot pattern, it periodically grows a carrot inside "
+"the wearer which can then be taken out and eaten. Preferably after washing."
+
+# From Data: Wearables-C6Bunny-fluffbunny_boots-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"Boots beset with a white plush, it weakens the recoil from the bunny's "
+"kicks."
+msgstr ""
+"Boots beset with a white plush, it weakens the recoil from the bunny's "
+"kicks."
+
+# From Data: Wearables-C6Bunny-fluffbunny_ears-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"Plushy bunny ears. Allies can't help but feel a rising heat in their chest "
+"at such a display."
+msgstr ""
+"Plushy bunny ears. Allies can't help but feel a rising heat in their chest "
+"at such a display."
+
+# From Data: Wearables-C6Bunny-fluffbunny_gloves-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"Gloves beset with a white plush. While it weakens attacks, it also protects "
+"against recoil."
+msgstr ""
+"Gloves beset with a white plush. While it weakens attacks, it also protects "
+"against recoil."
+
+# From Data: Wearables-C6Bunny-fluffbunny_suit-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"An ordinary bunnysuit but made from a beige material and beset with white "
+"plush."
+msgstr ""
+"An ordinary bunnysuit but made from a beige material and beset with white "
+"plush."
+
+# From Data: Wearables-C6Bunny-lovehammer-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A lovely hammer. The vibrations of its attacks gently stimulate the wearer, "
+"strengthening the more aroused she becomes."
+msgstr ""
+"A lovely hammer. The vibrations of its attacks gently stimulate the wearer, "
+"strengthening the more aroused she becomes."
+
+# From Data: Wearables-C6Bunny-poisoned_plate-text
+msgctxt "Description of a piece of equipment."
+msgid "A plate with a selection of poisoned drinks."
+msgstr "A plate with a selection of poisoned drinks."
+
+# From Data: Wearables-C6Bunny-waitress_bondage-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"This waitress table is attached to the chest of the bunnygirl and held up "
+"with rigid cables that attach with clamps to her nipples. The arms of the "
+"wearer are tightly secured behind her back, allowing customers free "
+"selection of her services."
+msgstr ""
+"This waitress table is attached to the chest of the bunnygirl and held up "
+"with rigid cables that attach with clamps to her nipples. The arms of the "
+"wearer are tightly secured behind her back, allowing customers free "
+"selection of her services."
+
+# From Data: Wearables-C6Bunny-waitress_table-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A large and heavy table attached to the back of the bunnygirl. It is "
+"stabilized by a large anal plug and prevents the wearer from standing up. It"
+" does serve as a mobile refreshment stand for her allies."
+msgstr ""
+"A large and heavy table attached to the back of the bunnygirl. It is "
+"stabilized by a large anal plug and prevents the wearer from standing up. It"
+" does serve as a mobile refreshment stand for her allies."
+
+# From Data: Wearables-D1Latex-latex_blindfold-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A blindfold made of semi-liquid latex. Its liquidity allows it to fully "
+"cover the wearers vision, leaving not a single gap for her to see through."
+msgstr ""
+"A blindfold made of semi-liquid latex. Its liquidity allows it to fully "
+"cover the wearers vision, leaving not a single gap for her to see through."
+
+# From Data: Wearables-D1Latex-latex_collar-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A latex color that shapes itself perfectly around the neck of the wearer."
+msgstr ""
+"A latex color that shapes itself perfectly around the neck of the wearer."
+
+# From Data: Wearables-D1Latex-latex_corset-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"This semi-liquid latex corset will slowly tighten, making it hard for the "
+"wearer to breathe."
+msgstr ""
+"This semi-liquid latex corset will slowly tighten, making it hard for the "
+"wearer to breathe."
+
+# From Data: Wearables-D1Latex-latex_gag-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"This gag fills the wearer's mouth with liquid rapidly hardening latex, fully"
+" preventing her from speaking."
+msgstr ""
+"This gag fills the wearer's mouth with liquid rapidly hardening latex, fully"
+" preventing her from speaking."
+
+# From Data: Wearables-D1Latex-latex_gloves-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"These gloves are very heavy, but the thick latex offers great protection."
+msgstr ""
+"These gloves are very heavy, but the thick latex offers great protection."
+
+# From Data: Wearables-D1Latex-latex_plugs-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A set of two plugs, they are made of semi-liquid latex. They continuously "
+"change their form to keep the wearer aroused."
+msgstr ""
+"A set of two plugs, they are made of semi-liquid latex. They continuously "
+"change their form to keep the wearer aroused."
+
+# From Data: Wearables-D1Latex-latex_stand-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A movable latex stand, it temporarily allows the wearer to leave it, but "
+"will pull her back if she doesn't reinsert the central plug in time."
+msgstr ""
+"A movable latex stand, it temporarily allows the wearer to leave it, but "
+"will pull her back if she doesn't reinsert the central plug in time."
+
+# From Data: Wearables-D6Parasites-alraune_vine-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"The result of an Alraune pregnancy. If this vine is extracted and planted in"
+" fertile soil it will eventually turn into an Alraune. The guild does not "
+"condone that however."
+msgstr ""
+"The result of an Alraune pregnancy. If this vine is extracted and planted in"
+" fertile soil it will eventually turn into an Alraune. The guild does not "
+"condone that however."
+
+# From Data: Wearables-D6Parasites-anal_parasite_gear-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A parasite that invades its victim's anus where it wriggles around in an "
+"unpredictable manner. It slowly grows, putting more and more pressure on the"
+" victim."
+msgstr ""
+"A parasite that invades its victim's anus where it wriggles around in an "
+"unpredictable manner. It slowly grows, putting more and more pressure on the"
+" victim."
+
+# From Data: Wearables-D6Parasites-brain_parasite_gear-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A parasite that invades its victim's brain. It slowly takes over parts of "
+"the cognitive function, turning the victim more daring and likely to "
+"undress."
+msgstr ""
+"A parasite that invades its victim's brain. It slowly takes over parts of "
+"the cognitive function, turning the victim more daring and likely to "
+"undress."
+
+# From Data: Wearables-D6Parasites-corset_parasite_gear-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A parasite that tightly wraps itself around the victim's belly. It grants "
+"greater core body strength, but will slowly suffocate the wearer if "
+"stimulated too much."
+msgstr ""
+"A parasite that tightly wraps itself around the victim's belly. It grants "
+"greater core body strength, but will slowly suffocate the wearer if "
+"stimulated too much."
+
+# From Data: Wearables-D6Parasites-heel_parasite_gear-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A parasite that wraps itself around the victim's feet. It feeds itself by "
+"licking its victim's soles while functioning as very impractical heels."
+msgstr ""
+"A parasite that wraps itself around the victim's feet. It feeds itself by "
+"licking its victim's soles while functioning as very impractical heels."
+
+# From Data: Wearables-D6Parasites-nipple_parasite_gear-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A parasite that attaches itself to the nipple of its victim. The gentle "
+"sucking motion will cause the victim to lactate, feeding the parasite."
+msgstr ""
+"A parasite that attaches itself to the nipple of its victim. The gentle "
+"sucking motion will cause the victim to lactate, feeding the parasite."
+
+# From Data: Wearables-D6Parasites-oral_parasite_gear-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A parasite that invades its victim's mouth. Once inside it expands, making "
+"it impossible for the victim to talk. It will only leave an opening when the"
+" victim wants to eat."
+msgstr ""
+"A parasite that invades its victim's mouth. Once inside it expands, making "
+"it impossible for the victim to talk. It will only leave an opening when the"
+" victim wants to eat."
+
+# From Data: Wearables-D6Parasites-urethral_parasite_gear-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A parasite that invades its victim's urethra. It subsists on her urine, so "
+"the victim no longer has to go to the toilet. It also puts pressure on the "
+"victim's bladder, giving her a perpetual feeling of needing to pee."
+msgstr ""
+"A parasite that invades its victim's urethra. It subsists on her urine, so "
+"the victim no longer has to go to the toilet. It also puts pressure on the "
+"victim's bladder, giving her a perpetual feeling of needing to pee."
+
+# From Data: Wearables-D6Parasites-vaginal_parasite_gear-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A parasite that invades its victim's vagina. It slowly moves to the womb "
+"where it grows in size. All the while, it secretes a potent aphrodisiac."
+msgstr ""
+"A parasite that invades its victim's vagina. It slowly moves to the womb "
+"where it grows in size. All the while, it secretes a potent aphrodisiac."
+
+# From Data: Wearables-D7Transforms-bat_transform-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A ring with the image of a bat. It transforms the body of the wearer and "
+"while it keeps her original mind it makes her effective at any moves the bat"
+" had."
+msgstr ""
+"A ring with the image of a bat. It transforms the body of the wearer and "
+"while it keeps her original mind it makes her effective at any moves the bat"
+" had."
+
+# From Data: Wearables-D7Transforms-bat_weapon-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"The corrupted bats in the Northlands use hypnosis to captivate their prey. "
+"The helpless victim is then brought back to the bats' nest and slowly sucked"
+" dry. The bat will also periodically drain blood."
+msgstr ""
+"The corrupted bats in the Northlands use hypnosis to captivate their prey. "
+"The helpless victim is then brought back to the bats' nest and slowly sucked"
+" dry. The bat will also periodically drain blood."
+
+# From Data: Wearables-D7Transforms-goblin_mage_transform-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A ring with the image of a goblin. It transforms the body of the wearer and "
+"while it keeps her original mind it makes her effective at any moves the "
+"goblin had."
+msgstr ""
+"A ring with the image of a goblin. It transforms the body of the wearer and "
+"while it keeps her original mind it makes her effective at any moves the "
+"goblin had."
+
+# From Data: Wearables-D7Transforms-goblin_mage_weapon-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"The wisest of goblins become shamans. They still aren't very wise of course,"
+" but have some inherent magical abilities to corrupt weak minds."
+msgstr ""
+"The wisest of goblins become shamans. They still aren't very wise of course,"
+" but have some inherent magical abilities to corrupt weak minds."
+
+# From Data: Wearables-D7Transforms-ratkin_paladin_transform-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A ring with the image of a ratkin. It transforms the body of the wearer and "
+"while it keeps her original mind it makes her effective at any moves the "
+"ratkin had."
+msgstr ""
+"A ring with the image of a ratkin. It transforms the body of the wearer and "
+"while it keeps her original mind it makes her effective at any moves the "
+"ratkin had."
+
+# From Data: Wearables-D7Transforms-ratkin_paladin_weapon-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"Ratkin worship the Godesses of Lust, heathen idols that are said to grant "
+"their followers divine powers. This is of course a lie. The Ratkin Paladin "
+"probably sources its powers through trickery and deceit."
+msgstr ""
+"Ratkin worship the Godesses of Lust, heathen idols that are said to grant "
+"their followers divine powers. This is of course a lie. The Ratkin Paladin "
+"probably sources its powers through trickery and deceit."
+
+# From Data: Wearables-D7Transforms-ratkin_peasant_weapon-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"Ratkin society is largely agricultural. The vast majority of the ratkin work"
+" as peasants for what humans call a ratking, though the ratkin have probably"
+" given their sovereign a less funny title."
+msgstr ""
+"Ratkin society is largely agricultural. The vast majority of the ratkin work"
+" as peasants for what humans call a ratking, though the ratkin have probably"
+" given their sovereign a less funny title."
+
+# From Data: Wearables-D7Transforms-ratkin_warmage_weapon-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"The counterpart to the Ratkin Lovemage, these Warmages serve to soften up "
+"enemies and protect the Ratkin Warriors. Their magic is vastly inferior to "
+"any Academically Trained human."
+msgstr ""
+"The counterpart to the Ratkin Lovemage, these Warmages serve to soften up "
+"enemies and protect the Ratkin Warriors. Their magic is vastly inferior to "
+"any Academically Trained human."
+
+# From Data: Wearables-D7Transforms-ratkin_warrior_weapon-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"The bulk of the Ratkin army consists of  untrained and unruly conscripts. As"
+" such Ratkin Peasants that can afford it buys some basic equipment. Unlike "
+"our Imperial mercenary troops, they are still peasants at heart though and "
+"should not be feared."
+msgstr ""
+"The bulk of the Ratkin army consists of  untrained and unruly conscripts. As"
+" such Ratkin Peasants that can afford it buys some basic equipment. Unlike "
+"our Imperial mercenary troops, they are still peasants at heart though and "
+"should not be feared."
+
+# From Data: Wearables-D7Transforms-slime_fire_transform-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A ring with the image of a slime. It transforms the body of the wearer and "
+"while it keeps her original mind it makes her effective at any moves the "
+"slime had."
+msgstr ""
+"A ring with the image of a slime. It transforms the body of the wearer and "
+"while it keeps her original mind it makes her effective at any moves the "
+"slime had."
+
+# From Data: Wearables-D7Transforms-slime_fire_weapon-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+msgstr ""
+
+# From Data: Wearables-D7Transforms-warspider_transform-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"A ring with the image of a spidergirl. It transforms the body of the wearer "
+"and while it keeps her original mind it makes her effective at any moves the"
+" spidergirl had."
+msgstr ""
+"A ring with the image of a spidergirl. It transforms the body of the wearer "
+"and while it keeps her original mind it makes her effective at any moves the"
+" spidergirl had."
+
+# From Data: Wearables-D7Transforms-warspider_weapon-text
+msgctxt "Description of a piece of equipment."
+msgid ""
+"Warspiders accompany other Spidergirls while hunting for breeding targets. "
+"Their custom-made armor is provided by Ratkin blacksmiths, in exchange for "
+"their usage as mounts for Ratkin Spiderriders."
+msgstr ""
+"Warspiders accompany other Spidergirls while hunting for breeding targets. "
+"Their custom-made armor is provided by Ratkin blacksmiths, in exchange for "
+"their usage as mounts for Ratkin Spiderriders."
+
+# From Engine: Nodes/Guild/PopPanel/ClassPopPanel.tscn
+msgid "50"
+msgstr "50"
+
+# From Engine: Nodes/Guild/PopPanel/ClassPopPanel.tscn
+msgid "12/12"
+msgstr "12/12"
+
+# From Engine: Nodes/Menu/MenuScene.tscn
+msgid " [DEBUG:TOUCH]"
+msgstr " [DEBUG:TOUCH]"
+
+# From Engine: Nodes/Menu/MenuScene.tscn
+msgid ""
+"This game contains pornographic and adult material and is intended for adult audiences ONLY. By continuing to play you are confirming that you are over the legal age to view such content and are agreeing to do so. If you do not agree, or are otherwise sensitive to any specific type of adult content which may be present in this game, please close the game now.\n"
+"\n"
+msgstr ""
+"This game contains pornographic and adult material and is intended for adult audiences ONLY. By continuing to play you are confirming that you are over the legal age to view such content and are agreeing to do so. If you do not agree, or are otherwise sensitive to any specific type of adult content which may be present in this game, please close the game now.\n"
+"\n"
+
+# From Engine: Nodes/Menu/MenuScene.tscn
+msgid ""
+"Inspired by fictional events and characters, this work of fiction was designed, developed, and produced by a multicultural team of various beliefs, sexual orientations and gender identities. All characters involved are guild licensed adventurers and over the age of 18.\n"
+"\n"
+msgstr ""
+"Inspired by fictional events and characters, this work of fiction was designed, developed, and produced by a multicultural team of various beliefs, sexual orientations and gender identities. All characters involved are guild licensed adventurers and over the age of 18.\n"
+"\n"
+
+# From Engine: Nodes/Combat/RetreatPanel.gd
+msgid ""
+"Though %s has been safely transported to the guild, we are at a "
+"disadvantage."
+msgstr ""
+"Though %s has been safely transported to the guild, we are at a "
+"disadvantage."
+
+# From Engine: Nodes/Combat/RetreatPanel.gd
+msgid "The tide of battle seems to have turned against us, "
+msgstr "The tide of battle seems to have turned against us, "
+
+# From Engine: Nodes/Combat/RetreatPanel.gd
+msgid "%s has been captured by the enemy. "
+msgstr "%s has been captured by the enemy. "
+
+# From Engine: Nodes/Combat/RetreatPanel.gd
+msgid "She is lost for now, but we can always stage a rescue mission later. "
+msgstr "She is lost for now, but we can always stage a rescue mission later. "
+
+# From Engine: Nodes/Combat/RetreatPanel.gd
+msgid "It might be prudent to end the mission early and sound the retreat."
+msgstr "It might be prudent to end the mission early and sound the retreat."
+
+# From Engine: Nodes/Combat/RetreatPanel.gd
+msgid "Do you want to end the mission early and sound the retreat?"
+msgstr "Do you want to end the mission early and sound the retreat?"
+
+# From Data: CurioChoices-Bosses-delatex_1-text2
+msgctxt "Description of the result of a curio action."
+msgid ""
+msgstr ""
+
+# From Data: Enemies-Boss2-latex_alchemist-description
+msgctxt "Description of an enemy."
+msgid ""
+msgstr ""
