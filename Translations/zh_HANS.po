@@ -5063,7 +5063,7 @@ msgstr "移动"
 # From Data: Encyclopedia-Encyclopedia-overencumberance-name
 msgctxt "Name of a tutorial."
 msgid "Overencumbered"
-msgstr "超重"
+msgstr "负重过多"
 
 # From Data: Encyclopedia-Encyclopedia-overencumberance-text
 msgctxt "Explanation of a tutorial."
@@ -8697,7 +8697,7 @@ msgstr "使用马鞭"
 # From Data: Playermoves-Horse-water_horse-name
 msgctxt "Name of a move."
 msgid "Water Horse"
-msgstr "水上马术"
+msgstr "饮马"
 
 # From Data: Playermoves-Mage-FIREBALL-name
 msgctxt "Name of a move."
@@ -21213,7 +21213,7 @@ msgstr "可爱的剑"
 # From Data: Wearables-B7Noble-rapier_love-text
 msgctxt "Description of a piece of equipment."
 msgid "An extremely sharp and flexible rapier. It would be an amazing weapon were it not for the fact that it causes the wearer to feel a growing lust whenever she wounds an enemy."
-msgstr "An extremely sharp and flexible rapier. It would be an amazing weapon were it not for the fact that it causes the wearer to feel a growing lust whenever she wounds an enemy."
+msgstr "一把极其锋利且灵活的剑。如果不是因为每当它刺伤敌人时都会让佩戴者感到欲火焚身，那么它将会是一件令人惊叹的武器。"
 
 # From Data: Wearables-B7Noble-rapier_punishment-name
 msgctxt "Name of a piece of equipment."
@@ -21223,7 +21223,7 @@ msgstr "惩戒之剑"
 # From Data: Wearables-B7Noble-rapier_punishment-text
 msgctxt "Description of a piece of equipment."
 msgid "A rapier powered by blood and sacrifice."
-msgstr "A rapier powered by blood and sacrifice."
+msgstr "一把以鲜血和牺牲为动力的剑。"
 
 # From Data: Wearables-B7Noble-rapier_self_doubt-name
 msgctxt "Name of a piece of equipment."
@@ -21233,17 +21233,17 @@ msgstr "狐疑之剑"
 # From Data: Wearables-B7Noble-rapier_self_doubt-text
 msgctxt "Description of a piece of equipment."
 msgid "A rapier that instills the wearer with crippling self-doubt. If she misses too often she will lose any confidence in her swordskills and eventually give up on fighting alltogether."
-msgstr "A rapier that instills the wearer with crippling self-doubt. If she misses too often she will lose any confidence in her swordskills and eventually give up on fighting alltogether."
+msgstr "这把剑会让佩戴者产生严重的自我怀疑。如果经常失误，她就会对自己的剑术失去信心，最终完全放弃战斗。"
 
 # From Data: Wearables-B7Noble-riding_crop-name
 msgctxt "Name of a piece of equipment."
 msgid "Riding Crop"
-msgstr "骑行裤"
+msgstr "马鞭"
 
 # From Data: Wearables-B7Noble-riding_crop-text
 msgctxt "Description of a piece of equipment."
 msgid "This crop doesn't just allow for whipping enemies, it also allows for punishing allied ponygirls. The threat of corporal punishment does wonders for those beasts of burden."
-msgstr "This crop doesn't just allow for whipping enemies, it also allows for punishing allied ponygirls. The threat of corporal punishment does wonders for those beasts of burden."
+msgstr "马鞭不仅可以鞭打敌人，还可以惩罚马娘队友，体罚对这些欲兽有奇效。"
 
 # From Data: Wearables-B7Noble-rubber_rapier-name
 msgctxt "Name of a piece of equipment."
@@ -21253,7 +21253,7 @@ msgstr "橡胶刺剑"
 # From Data: Wearables-B7Noble-rubber_rapier-text
 msgctxt "Description of a piece of equipment."
 msgid "Originally made for training fights, this rapier was enchanted to watch the wearer struggle."
-msgstr "最初为训练战斗而用，现在被上附魔来看使用者在战斗中”攻击不能又不得不用“的乐子。"
+msgstr "最初为训练战斗而用，现在被上附魔来看使用者在战斗中“攻击不能又不得不用”的乐子。"
 
 # From Data: Wearables-B8Alchemist-alchemist_weapon-name
 msgctxt "Name of a piece of equipment."
@@ -21283,7 +21283,7 @@ msgstr "自动瞄准步枪"
 # From Data: Wearables-B8Alchemist-auto_aiming_rifle-text
 msgctxt "Description of a piece of equipment."
 msgid "An ancient musket, it doesn't blind the wearer but has a chance to jam and miss."
-msgstr "An ancient musket, it doesn't blind the wearer but has a chance to jam and miss."
+msgstr "一把古代火枪，不会致盲使用者但是有可能卡壳或者打空。"
 
 # From Data: Wearables-B8Alchemist-boomstick-name
 msgctxt "Name of a piece of equipment."
@@ -21313,7 +21313,7 @@ msgstr "爱意喷射器"
 # From Data: Wearables-B8Alchemist-love_blaster-text
 msgctxt "Description of a piece of equipment."
 msgid "This musket has been charmed to be more accurate and reliable. Unfortunately it becomes unstable once the wearer becomes too horny."
-msgstr "This musket has been charmed to be more accurate and reliable. Unfortunately it becomes unstable once the wearer becomes too horny."
+msgstr "这把火枪被施了魔法，更加精准可靠。遗憾的是，一旦佩戴者变得过于性饥渴，它就会变得不稳定。"
 
 # From Data: Wearables-B8Alchemist-milk_blaster-name
 msgctxt "Name of a piece of equipment."
@@ -21323,7 +21323,7 @@ msgstr "牛奶喷射器"
 # From Data: Wearables-B8Alchemist-milk_blaster-text
 msgctxt "Description of a piece of equipment."
 msgid "A musket that is connected to the boobs of the wearer by two milking tubes. It hypercompresses the milk to use as ammo."
-msgstr "A musket that is connected to the boobs of the wearer by two milking tubes. It hypercompresses the milk to use as ammo."
+msgstr "通过两根挤奶管连接到佩戴者胸部的火枪。它能将乳汁过度压缩，用作弹药。"
 
 # From Data: Wearables-B8Alchemist-musket_helplessness-name
 msgctxt "Name of a piece of equipment."
@@ -21333,7 +21333,7 @@ msgstr "无助之枪"
 # From Data: Wearables-B8Alchemist-musket_helplessness-text
 msgctxt "Description of a piece of equipment."
 msgid "Crafted as a joke for the most worthless alchemist recruits, this musket has seen frequent use since then."
-msgstr "Crafted as a joke for the most worthless alchemist recruits, this musket has seen frequent use since then."
+msgstr "这把火枪最初是作为笑柄为最没用的炼金术士新兵制作的，但时至今日还在被频繁使用。"
 
 # From Data: Wearables-B8Alchemist-shotgun-name
 msgctxt "Name of a piece of equipment."
@@ -21343,7 +21343,7 @@ msgstr "霰弹枪"
 # From Data: Wearables-B8Alchemist-shotgun-text
 msgctxt "Description of a piece of equipment."
 msgid "A short range musket that shoots a hail of small lead balls. It's inaccuracy doesn't matter over short ranges and it comes with a see-through shield for up-close protection."
-msgstr "A short range musket that shoots a hail of small lead balls. It's inaccuracy doesn't matter over short ranges and it comes with a see-through shield for up-close protection."
+msgstr "这是一种短程火枪，可发射大量小铅弹。由于射程较近，它的精度并不重要，此外它配有一个透视盾牌，可用于近距离保护。"
 
 # From Data: Wearables-B8Alchemist-sniper_rifle-name
 msgctxt "Name of a piece of equipment."
@@ -21353,7 +21353,7 @@ msgstr "狙击步枪"
 # From Data: Wearables-B8Alchemist-sniper_rifle-text
 msgctxt "Description of a piece of equipment."
 msgid "An ancient musket that is unwieldingly long. It is accurate and powerful but extremely slow to reload."
-msgstr "An ancient musket that is unwieldingly long. It is accurate and powerful but extremely slow to reload."
+msgstr "这是一种古老的火枪，枪身极长，射出的子弹精准强力，但装弹速度极慢。"
 
 # From Data: Wearables-C1Prisoner-anklecuffs_of_captivity-name
 msgctxt "Name of a piece of equipment."
