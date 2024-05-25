@@ -9,7 +9,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.4.2\n"
+
 
 # From Data: Afflictions-Afflictions-clearheaded-description
 msgctxt "Description of an affliction."
@@ -2594,8 +2595,8 @@ msgstr "[SELECTED] 打碎了宝箱——连同里面的东西一起毁掉了。"
 
 # From Data: Curios-Boss-delatexifier-description
 msgctxt "Description of a curio."
-msgid "The party finds a strange contraption. Seemingly alive, it reacts and shudders when any latex moves near. Below it stands, in ancient imperial script: \"ontrubberringsapparaat\". Whatever that may mean."
-msgstr "The party finds a strange contraption. Seemingly alive, it reacts and shudders when any latex moves near. Below it stands, in ancient imperial script: \"ontrubberringsapparaat\". Whatever that may mean."
+msgid "The party finds a strange contraption. Seemingly alive, it reacts and shudders when any latex moves near. Below it stands, in ancient imperial script: "ontrubberringsapparaat". Whatever that may mean."
+msgstr "The party finds a strange contraption. Seemingly alive, it reacts and shudders when any latex moves near. Below it stands, in ancient imperial script: "ontrubberringsapparaat". Whatever that may mean."
 
 # From Data: Curios-Boss-delatexifier-name
 msgctxt "Name of a curio."
@@ -2604,8 +2605,8 @@ msgstr "Peculiar Contraption"
 
 # From Data: Curios-Boss-latexifier-description
 msgctxt "Description of a curio."
-msgid "The party finds a hole which continuously produces a stream of liquid latex. A metal contraption is half sunken in the goo. Next to it stands, in ancient imperial script: \"verrubberringsapparaat\". Whatever that may mean."
-msgstr "The party finds a hole which continuously produces a stream of liquid latex. A metal contraption is half sunken in the goo. Next to it stands, in ancient imperial script: \"verrubberringsapparaat\". Whatever that may mean."
+msgid "The party finds a hole which continuously produces a stream of liquid latex. A metal contraption is half sunken in the goo. Next to it stands, in ancient imperial script: "verrubberringsapparaat". Whatever that may mean."
+msgstr "The party finds a hole which continuously produces a stream of liquid latex. A metal contraption is half sunken in the goo. Next to it stands, in ancient imperial script: "verrubberringsapparaat". Whatever that may mean."
 
 # From Data: Curios-Boss-latexifier-name
 msgctxt "Name of a curio."
@@ -2669,8 +2670,8 @@ msgstr "Oral Parasite Pit"
 
 # From Data: Curios-Boss4-parasite1-description
 msgctxt "Description of a curio."
-msgid "The party finds a peculiar gate, it seems composed of a mix between metal and biomatter. There is no keyhole, but strange markings are etched on the infested metal. The party understands that the gate only opens to those with \"high\" parasites."
-msgstr "The party finds a peculiar gate, it seems composed of a mix between metal and biomatter. There is no keyhole, but strange markings are etched on the infested metal. The party understands that the gate only opens to those with \"high\" parasites."
+msgid "The party finds a peculiar gate, it seems composed of a mix between metal and biomatter. There is no keyhole, but strange markings are etched on the infested metal. The party understands that the gate only opens to those with "high" parasites."
+msgstr "The party finds a peculiar gate, it seems composed of a mix between metal and biomatter. There is no keyhole, but strange markings are etched on the infested metal. The party understands that the gate only opens to those with "high" parasites."
 
 # From Data: Curios-Boss4-parasite1-name
 msgctxt "Name of a curio."
@@ -2679,8 +2680,8 @@ msgstr "The High Fleshgate"
 
 # From Data: Curios-Boss4-parasite2-description
 msgctxt "Description of a curio."
-msgid "The party finds a peculiar gate, it seems composed of a mix between metal and biomatter. There is no keyhole, but strange markings are etched on the infested metal. The party understands that the gate only opens to those with \"middle\" parasites."
-msgstr "The party finds a peculiar gate, it seems composed of a mix between metal and biomatter. There is no keyhole, but strange markings are etched on the infested metal. The party understands that the gate only opens to those with \"middle\" parasites."
+msgid "The party finds a peculiar gate, it seems composed of a mix between metal and biomatter. There is no keyhole, but strange markings are etched on the infested metal. The party understands that the gate only opens to those with "middle" parasites."
+msgstr "The party finds a peculiar gate, it seems composed of a mix between metal and biomatter. There is no keyhole, but strange markings are etched on the infested metal. The party understands that the gate only opens to those with "middle" parasites."
 
 # From Data: Curios-Boss4-parasite2-name
 msgctxt "Name of a curio."
@@ -2689,8 +2690,8 @@ msgstr "The Middle Fleshgate"
 
 # From Data: Curios-Boss4-parasite3-description
 msgctxt "Description of a curio."
-msgid "The party finds a peculiar gate, it seems composed of a mix between metal and biomatter. There is no keyhole, but strange markings are etched on the infested metal. The party understands that the gate only opens to those with \"low\" parasites."
-msgstr "The party finds a peculiar gate, it seems composed of a mix between metal and biomatter. There is no keyhole, but strange markings are etched on the infested metal. The party understands that the gate only opens to those with \"low\" parasites."
+msgid "The party finds a peculiar gate, it seems composed of a mix between metal and biomatter. There is no keyhole, but strange markings are etched on the infested metal. The party understands that the gate only opens to those with "low" parasites."
+msgstr "The party finds a peculiar gate, it seems composed of a mix between metal and biomatter. There is no keyhole, but strange markings are etched on the infested metal. The party understands that the gate only opens to those with "low" parasites."
 
 # From Data: Curios-Boss4-parasite3-name
 msgctxt "Name of a curio."
@@ -2699,8 +2700,8 @@ msgstr "The Low Fleshgate"
 
 # From Data: Curios-Boss4-parasite4-description
 msgctxt "Description of a curio."
-msgid "The party finds a peculiar gate, it seems composed of a mix between metal and biomatter. There is no keyhole, but strange markings are etched on the infested metal. The party understands that the gate only opens to those with the \"lowest\" parasite."
-msgstr "The party finds a peculiar gate, it seems composed of a mix between metal and biomatter. There is no keyhole, but strange markings are etched on the infested metal. The party understands that the gate only opens to those with the \"lowest\" parasite."
+msgid "The party finds a peculiar gate, it seems composed of a mix between metal and biomatter. There is no keyhole, but strange markings are etched on the infested metal. The party understands that the gate only opens to those with the "lowest" parasite."
+msgstr "The party finds a peculiar gate, it seems composed of a mix between metal and biomatter. There is no keyhole, but strange markings are etched on the infested metal. The party understands that the gate only opens to those with the "lowest" parasite."
 
 # From Data: Curios-Boss4-parasite4-name
 msgctxt "Name of a curio."
@@ -2739,7 +2740,7 @@ msgstr "鼠人军营"
 
 # From Data: Curios-Curios-brainwashing-description
 msgctxt "Description of a curio."
-msgid "Between the heavy locks and large helmet, the device exudes an air of malice. Below it stands, in ancient imperial script: \"persoonlijksheidsverbeteringsapparaat\". Whatever that may mean."
+msgid "Between the heavy locks and large helmet, the device exudes an air of malice. Below it stands, in ancient imperial script: "persoonlijksheidsverbeteringsapparaat". Whatever that may mean."
 msgstr "这个装置由沉重的锁和巨大的头盔组成，它正散发出一种恶意。在它下面，有一行古代帝国文字：“persononlijksheidsverbeteringsapparat”。谁也不知道这是什么意思。"
 
 # From Data: Curios-Curios-brainwashing-name
@@ -2759,7 +2760,7 @@ msgstr "被包裹的冒险者"
 
 # From Data: Curios-Curios-dollmaker-description
 msgctxt "Description of a curio."
-msgid "The strange device is made of a black foreign material fed by thick rubber wires. The design is covered in warning symbols. A plaque in ancient imperial script reads: \"verpoppingsapparaat, opgepast onomkeerbaar\". While the party doesn't know what it means, the warning symbols indicate that interacting with the machine will be deadly."
+msgid "The strange device is made of a black foreign material fed by thick rubber wires. The design is covered in warning symbols. A plaque in ancient imperial script reads: "verpoppingsapparaat, opgepast onomkeerbaar". While the party doesn't know what it means, the warning symbols indicate that interacting with the machine will be deadly."
 msgstr "这个奇怪的装置由一种黑色的外来材料制成，上面连接着粗大的橡胶管。装置上布满了警告符号，牌匾上用古代的帝国文字写着：“verpoppingsapparat, opgepast onomkeerbaar”。没人知道这句话是什么意思，但警告符号表明，贸然触摸这个机器将是致命的。"
 
 # From Data: Curios-Curios-dollmaker-name
@@ -5080,7 +5081,7 @@ msgctxt "Explanation of a tutorial."
 msgid ""
 "When you hover over your moves you will get a short explanation at the bottom left corner of the screen. The most important parts are the damage range, and the chance to crit. A critical hit does 150% of the highest possible damage. You can also see from which positions you can use the move, and which positions it targets.\n"
 "\n"
-"The information also contains a short description of what the move does. It may seem cryptic at first, but you'll get used to it in no time. For example \"Add: ICON\", means that the move applies a token, \"Forward: 1\" means the move moves you one space forward. It's pretty straightforward."
+"The information also contains a short description of what the move does. It may seem cryptic at first, but you'll get used to it in no time. For example "Add: ICON", means that the move applies a token, "Forward: 1" means the move moves you one space forward. It's pretty straightforward."
 msgstr ""
 "当你将鼠标悬停在行动上时，屏幕左下角会显示一个简短的解释。\n"
 "最重要的部分是伤害范围和暴击几率，暴击会可能造成最高伤害的150%。\n"
@@ -5285,7 +5286,7 @@ msgstr "状态标记"
 # From Data: Encyclopedia-Encyclopedia-tokens-text
 msgctxt "Explanation of a tutorial."
 msgid ""
-"During combat, buffs and debuffs are handled with \"tokens\". These are shown as small indicators below the healthbar and confer advantages or disadvantages to the player. For example, that token on the ratkin warrior is called a Block+ Token, it applies a 75% damage reduction to the next attack targetting her. Tokens will go away after time, or whenever they are triggered. Hence, attacking the ratkin will remove the token, as will waiting three turns for it to disappear on its own.\n"
+"During combat, buffs and debuffs are handled with "tokens". These are shown as small indicators below the healthbar and confer advantages or disadvantages to the player. For example, that token on the ratkin warrior is called a Block+ Token, it applies a 75% damage reduction to the next attack targetting her. Tokens will go away after time, or whenever they are triggered. Hence, attacking the ratkin will remove the token, as will waiting three turns for it to disappear on its own.\n"
 "\n"
 "Be sure to hover over any new tokens you see, as they are an important part of combat. You can view a complete overview of all tokens in the Glossary, right next to where you can review all these tutorials."
 msgstr ""
@@ -5815,7 +5816,7 @@ msgstr "Aphrodisiac Tank"
 
 # From Data: Enemies-Machines2-machine_tank_milk-name
 msgctxt "Name of an enemy."
-msgid "Semen Tank"
+msgid "Milk Tank"
 msgstr "Semen Tank"
 
 # From Data: Enemies-Orcs-goblin-description
@@ -9653,6 +9654,11 @@ msgctxt "Name of a preset adventurer."
 msgid "Homura"
 msgstr "小焰"
 
+# From Data: Presets-Presets-kaldea-name
+msgctxt "Name of a preset adventurer."
+msgid "Kaldea"
+msgstr "Kaldea"
+
 # From Data: Presets-Presets-kyouko-name
 msgctxt "Name of a preset adventurer."
 msgid "Kyouko"
@@ -9762,6 +9768,558 @@ msgstr "药膏"
 msgctxt "Name of a provision."
 msgid "Sedative"
 msgstr "镇静剂"
+
+# From Data: QuestTutorials-QuestTutorials-abandon_adventurer-name
+msgctxt "Name of a tutorial quest"
+msgid "Dismiss an adventurer."
+msgstr "Dismiss an adventurer."
+
+# From Data: QuestTutorials-QuestTutorials-abandon_adventurer-text
+msgctxt "Description of a tutorial quest"
+msgid "While in the guild (and with at least two free adventurers), you can dismiss a girl by pressing the abandon button in the adventurer overview. Try it out now! Recruit a girl and throw her out immediately!"
+msgstr "While in the guild (and with at least two free adventurers), you can dismiss a girl by pressing the abandon button in the adventurer overview. Try it out now! Recruit a girl and throw her out immediately!"
+
+# From Data: QuestTutorials-QuestTutorials-accept_dynamic_quest-name
+msgctxt "Name of a tutorial quest"
+msgid "Accept a dynamic quest."
+msgstr "Accept a dynamic quest."
+
+# From Data: QuestTutorials-QuestTutorials-accept_dynamic_quest-text
+msgctxt "Description of a tutorial quest"
+msgid "You will periodically receive dynamic quests (40% chance per day). Completing them gives you favor. Favor can be used to skip days or buy high tier guild upgrades."
+msgstr "You will periodically receive dynamic quests (40% chance per day). Completing them gives you favor. Favor can be used to skip days or buy high tier guild upgrades."
+
+# From Data: QuestTutorials-QuestTutorials-advance_a_crest-name
+msgctxt "Name of a tutorial quest"
+msgid "Advance any crest."
+msgstr "Advance any crest."
+
+# From Data: QuestTutorials-QuestTutorials-advance_a_crest-text
+msgctxt "Description of a tutorial quest"
+msgid "When your adventurer has high lust, enemies can advance a crest. Crests give unique bonusses and drawbacks to your adventurers. Each region has its own assortment of crests. Later on, you can instill mantras in your girls to boost specific crests."
+msgstr "When your adventurer has high lust, enemies can advance a crest. Crests give unique bonusses and drawbacks to your adventurers. Each region has its own assortment of crests. Later on, you can instill mantras in your girls to boost specific crests."
+
+# From Data: QuestTutorials-QuestTutorials-apply_a_dot-name
+msgctxt "Name of a tutorial quest"
+msgid "Apply a DoT."
+msgstr "Apply a DoT."
+
+# From Data: QuestTutorials-QuestTutorials-apply_a_dot-text
+msgctxt "Description of a tutorial quest"
+msgid "Damage over Time effects (dots) give effects over time. You can hover over their icons in combat to see their strength and duration. These are great to bypass block, but will also trigger checks on your faltering adventurers."
+msgstr "Damage over Time effects (dots) give effects over time. You can hover over their icons in combat to see their strength and duration. These are great to bypass block, but will also trigger checks on your faltering adventurers."
+
+# From Data: QuestTutorials-QuestTutorials-apply_a_token-name
+msgctxt "Name of a tutorial quest"
+msgid "Apply any token."
+msgstr "Apply any token."
+
+# From Data: QuestTutorials-QuestTutorials-apply_a_token-text
+msgctxt "Description of a tutorial quest"
+msgid "All combat debuffs are handled through tokens. These show up below the characters in combat, hover over them for further information."
+msgstr "All combat debuffs are handled through tokens. These show up below the characters in combat, hover over them for further information."
+
+# From Data: QuestTutorials-QuestTutorials-assemble_a_party-name
+msgctxt "Name of a tutorial quest"
+msgid "Assemble a full party."
+msgstr "Assemble a full party."
+
+# From Data: QuestTutorials-QuestTutorials-assemble_a_party-text
+msgctxt "Description of a tutorial quest"
+msgid "You assemble a party by dragging adventurers from the right panel to the party on the bottom. You can select four adventurers. Going into dungeons with fewer adventurers is very dangerous."
+msgstr "You assemble a party by dragging adventurers from the right panel to the party on the bottom. You can select four adventurers. Going into dungeons with fewer adventurers is very dangerous."
+
+# From Data: QuestTutorials-QuestTutorials-buy_provisions-name
+msgctxt "Name of a tutorial quest"
+msgid "Buy as many provisions as possible."
+msgstr "Buy as many provisions as possible."
+
+# From Data: QuestTutorials-QuestTutorials-buy_provisions-text
+msgctxt "Description of a tutorial quest"
+msgid ""
+"Each day you get an amount of provision points that can be used to buy provisions. These are reset each day, so be sure to spend them all.\n"
+"You can upgrade these by improving your farmstead or employing forced labourers."
+msgstr ""
+"Each day you get an amount of provision points that can be used to buy provisions. These are reset each day, so be sure to spend them all.\n"
+"You can upgrade these by improving your farmstead or employing forced labourers."
+
+# From Data: QuestTutorials-QuestTutorials-check_bestiary-name
+msgctxt "Name of a tutorial quest"
+msgid "Check the Bestiary."
+msgstr "Check the Bestiary."
+
+# From Data: QuestTutorials-QuestTutorials-check_bestiary-text
+msgctxt "Description of a tutorial quest"
+msgid ""
+"Whenever you kill an enemy, your bestiary gets filled in. Have a look at it. There are also similar lists for your collected items, classes, and curios.\n"
+"These not only give you bragging rights, but are also necessary to complete certain quests."
+msgstr ""
+"Whenever you kill an enemy, your bestiary gets filled in. Have a look at it. There are also similar lists for your collected items, classes, and curios.\n"
+"These not only give you bragging rights, but are also necessary to complete certain quests."
+
+# From Data: QuestTutorials-QuestTutorials-check_dots-name
+msgctxt "Name of a tutorial quest"
+msgid "Check Dots."
+msgstr "Check Dots."
+
+# From Data: QuestTutorials-QuestTutorials-check_dots-text
+msgctxt "Description of a tutorial quest"
+msgid "You can find an overview of all dots by pressing the quest mark button. Have a look at them now."
+msgstr "You can find an overview of all dots by pressing the quest mark button. Have a look at them now."
+
+# From Data: QuestTutorials-QuestTutorials-check_encyclopedia-name
+msgctxt "Name of a tutorial quest"
+msgid "Check the Encyclopedia."
+msgstr "Check the Encyclopedia."
+
+# From Data: QuestTutorials-QuestTutorials-check_encyclopedia-text
+msgctxt "Description of a tutorial quest"
+msgid "If you find these tutorials insufficient, you can check out the encyclopedia after pressing on the question mark. This will give further information on specific game mechanics."
+msgstr "If you find these tutorials insufficient, you can check out the encyclopedia after pressing on the question mark. This will give further information on specific game mechanics."
+
+# From Data: QuestTutorials-QuestTutorials-check_tokens-name
+msgctxt "Name of a tutorial quest"
+msgid "Check the Tokens overview."
+msgstr "Check the Tokens overview."
+
+# From Data: QuestTutorials-QuestTutorials-check_tokens-text
+msgctxt "Description of a tutorial quest"
+msgid "Tokens can be complicated. You can find an overview of every single token by pressing on the question mark. Check it out."
+msgstr "Tokens can be complicated. You can find an overview of every single token by pressing on the question mark. Check it out."
+
+# From Data: QuestTutorials-QuestTutorials-complete_10_devgoals-name
+msgctxt "Name of a tutorial quest"
+msgid "Complete 10 development goals."
+msgstr "Complete 10 development goals."
+
+# From Data: QuestTutorials-QuestTutorials-complete_10_devgoals-text
+msgctxt "Description of a tutorial quest"
+msgid "Completing development goals is the way to strengthen your adventurers. Look out for opportunities to fulfill them efficiently."
+msgstr "Completing development goals is the way to strengthen your adventurers. Look out for opportunities to fulfill them efficiently."
+
+# From Data: QuestTutorials-QuestTutorials-complete_a_mission-name
+msgctxt "Name of a tutorial quest"
+msgid "Complete a mission."
+msgstr "Complete a mission."
+
+# From Data: QuestTutorials-QuestTutorials-complete_a_mission-text
+msgctxt "Description of a tutorial quest"
+msgid "Completing missions gives you mana, gold, and gear rewards. Apart from that, they strengthen your adventurers and bring you closer to your goal of cleansing these lands."
+msgstr "Completing missions gives you mana, gold, and gear rewards. Apart from that, they strengthen your adventurers and bring you closer to your goal of cleansing these lands."
+
+# From Data: QuestTutorials-QuestTutorials-complete_devgoal-name
+msgctxt "Name of a tutorial quest"
+msgid "Complete a development goal of an adventurer."
+msgstr "Complete a development goal of an adventurer."
+
+# From Data: QuestTutorials-QuestTutorials-complete_devgoal-text
+msgctxt "Description of a tutorial quest"
+msgid "To gain experience, your adventurers need to complete personal development goals. These are semi-random challenges and can be found in the adventurer overview. You can also hover over their icons (below your adventurer's portrait) to find out the specifics."
+msgstr "To gain experience, your adventurers need to complete personal development goals. These are semi-random challenges and can be found in the adventurer overview. You can also hover over their icons (below your adventurer's portrait) to find out the specifics."
+
+# From Data: QuestTutorials-QuestTutorials-complete_quest-name
+msgctxt "Name of a tutorial quest"
+msgid "Complete a quest."
+msgstr "Complete a quest."
+
+# From Data: QuestTutorials-QuestTutorials-complete_quest-text
+msgctxt "Description of a tutorial quest"
+msgid "By clicking on the question mark in the bottom right you can see all current quests. These quests give important rewards, and show what the Empire expects from you as guildmaster."
+msgstr "By clicking on the question mark in the bottom right you can see all current quests. These quests give important rewards, and show what the Empire expects from you as guildmaster."
+
+# From Data: QuestTutorials-QuestTutorials-cure_a_quirk-name
+msgctxt "Name of a tutorial quest"
+msgid "Cure a quirk."
+msgstr "Cure a quirk."
+
+# From Data: QuestTutorials-QuestTutorials-cure_a_quirk-text
+msgctxt "Description of a tutorial quest"
+msgid "Once you unlock the Mental Ward, you can remove unwanted quirks from your adventurers. If the quirk opposes the personality of the adventurer it will also decay by itself. "
+msgstr "Once you unlock the Mental Ward, you can remove unwanted quirks from your adventurers. If the quirk opposes the personality of the adventurer it will also decay by itself. "
+
+# From Data: QuestTutorials-QuestTutorials-employ_a_girl-name
+msgctxt "Name of a tutorial quest"
+msgid "Employ an adventurer."
+msgstr "Employ an adventurer."
+
+# From Data: QuestTutorials-QuestTutorials-employ_a_girl-text
+msgctxt "Description of a tutorial quest"
+msgid "Some upgrades unlock job slots in the buildings of the guild. Drag a girl from the panel to the left to that position to employ her. You can hover her icon for further info on the job."
+msgstr "Some upgrades unlock job slots in the buildings of the guild. Drag a girl from the panel to the left to that position to employ her. You can hover her icon for further info on the job."
+
+# From Data: QuestTutorials-QuestTutorials-enter_dungeon_too_easy-name
+msgctxt "Name of a tutorial quest"
+msgid "Enter a dungeon that's too easy for an adventurer."
+msgstr "Enter a dungeon that's too easy for an adventurer."
+
+# From Data: QuestTutorials-QuestTutorials-enter_dungeon_too_easy-text
+msgctxt "Description of a tutorial quest"
+msgid "Your adventurers aren't capable of completing development goals in dungeons that are below their level. They can still escort weaker girls, but won't be able to improve themselves."
+msgstr "Your adventurers aren't capable of completing development goals in dungeons that are below their level. They can still escort weaker girls, but won't be able to improve themselves."
+
+# From Data: QuestTutorials-QuestTutorials-favorite_an_adventurer-name
+msgctxt "Name of a tutorial quest"
+msgid "Favorite an adventurer."
+msgstr "Favorite an adventurer."
+
+# From Data: QuestTutorials-QuestTutorials-favorite_an_adventurer-text
+msgctxt "Description of a tutorial quest"
+msgid "If you toggle the box next to the job description of your girls in the adventurer overview, you'll favorite that girl. She'll always show up on top of the guild roster."
+msgstr "If you toggle the box next to the job description of your girls in the adventurer overview, you'll favorite that girl. She'll always show up on top of the guild roster."
+
+# From Data: QuestTutorials-QuestTutorials-find_cursed_equipment-name
+msgctxt "Name of a tutorial quest"
+msgid "Find cursed equipment."
+msgstr "Find cursed equipment."
+
+# From Data: QuestTutorials-QuestTutorials-find_cursed_equipment-text
+msgctxt "Description of a tutorial quest"
+msgid "Most cursed equipment pretends to be a different item until equipped. The only way to identify items is equipping it. Have fun."
+msgstr "Most cursed equipment pretends to be a different item until equipped. The only way to identify items is equipping it. Have fun."
+
+# From Data: QuestTutorials-QuestTutorials-get_a_cursed_class-name
+msgctxt "Name of a tutorial quest"
+msgid "Obtain a cursed class."
+msgstr "Obtain a cursed class."
+
+# From Data: QuestTutorials-QuestTutorials-get_a_cursed_class-text
+msgctxt "Description of a tutorial quest"
+msgid ""
+"If an adventurer wears enough cursed gear, she will turn into a cursed class. The only way for her to turn back is by advancing far enough in that class.\n"
+"Or you can keep her like that, cursed classes have niche specializations that can help out."
+msgstr ""
+"If an adventurer wears enough cursed gear, she will turn into a cursed class. The only way for her to turn back is by advancing far enough in that class.\n"
+"Or you can keep her like that, cursed classes have niche specializations that can help out."
+
+# From Data: QuestTutorials-QuestTutorials-get_afflicted-name
+msgctxt "Name of a tutorial quest"
+msgid "Get afflicted."
+msgstr "Get afflicted."
+
+# From Data: QuestTutorials-QuestTutorials-get_afflicted-text
+msgctxt "Description of a tutorial quest"
+msgid "If an adventurer reaches 100 lust, she will get afflicted. If her desires are low, she will shrug it off. If her desires are high however, there will be consequences."
+msgstr "If an adventurer reaches 100 lust, she will get afflicted. If her desires are low, she will shrug it off. If her desires are high however, there will be consequences."
+
+# From Data: QuestTutorials-QuestTutorials-get_equipped_with_gear-name
+msgctxt "Name of a tutorial quest"
+msgid "Get equipped with gear."
+msgstr "Get equipped with gear."
+
+# From Data: QuestTutorials-QuestTutorials-get_equipped_with_gear-text
+msgctxt "Description of a tutorial quest"
+msgid "Once an adventurer's equipment is broken by enemy attacks, and she has a free (or broken) inventory slot, enemies will try to attach cursed gear. The type of cursed gear depends on the region."
+msgstr "Once an adventurer's equipment is broken by enemy attacks, and she has a free (or broken) inventory slot, enemies will try to attach cursed gear. The type of cursed gear depends on the region."
+
+# From Data: QuestTutorials-QuestTutorials-get_infinite_equipment-name
+msgctxt "Name of a tutorial quest"
+msgid "Turn a piece of equipment infinite."
+msgstr "Turn a piece of equipment infinite."
+
+# From Data: QuestTutorials-QuestTutorials-get_infinite_equipment-text
+msgctxt "Description of a tutorial quest"
+msgid "Once you collect and identify four of the same types of equipment, the equipment will turn infinite. You will then be able to equip it to every adventurer without the item running out."
+msgstr "Once you collect and identify four of the same types of equipment, the equipment will turn infinite. You will then be able to equip it to every adventurer without the item running out."
+
+# From Data: QuestTutorials-QuestTutorials-get_kidnapped-name
+msgctxt "Name of a tutorial quest"
+msgid "Get an adventurer kidnapped."
+msgstr "Get an adventurer kidnapped."
+
+# From Data: QuestTutorials-QuestTutorials-get_kidnapped-text
+msgctxt "Description of a tutorial quest"
+msgid ""
+"Once an adventurer reaches 0 HP, she doesn't die. She turns into a faltering state. Whenever she takes damage, there's an increasing chance that she will be kidnapped.\n"
+"Once an adventurer is kidnapped, you'll have to rescue her."
+msgstr ""
+"Once an adventurer reaches 0 HP, she doesn't die. She turns into a faltering state. Whenever she takes damage, there's an increasing chance that she will be kidnapped.\n"
+"Once an adventurer is kidnapped, you'll have to rescue her."
+
+# From Data: QuestTutorials-QuestTutorials-inspect_an_enemy-name
+msgctxt "Name of a tutorial quest"
+msgid "Inspect an enemy."
+msgstr "Inspect an enemy."
+
+# From Data: QuestTutorials-QuestTutorials-inspect_an_enemy-text
+msgctxt "Description of a tutorial quest"
+msgid "You can inspect enemies by right clicking them (or their portrait in the turn order). This will show their moves and special effects."
+msgstr "You can inspect enemies by right clicking them (or their portrait in the turn order). This will show their moves and special effects."
+
+# From Data: QuestTutorials-QuestTutorials-interact_with_a_curio-name
+msgctxt "Name of a tutorial quest"
+msgid "Interact with a curio."
+msgstr "Interact with a curio."
+
+# From Data: QuestTutorials-QuestTutorials-interact_with_a_curio-text
+msgctxt "Description of a tutorial quest"
+msgid "Some encounters in a dungeon (such as a chest) will offer you a dilemma. Each adventurer will offer her opinion. Select her portrait to choose that option to handle the curio. Some curios are good, others are sometimes good, and even other are "fun". You'll learn over time."
+msgstr "Some encounters in a dungeon (such as a chest) will offer you a dilemma. Each adventurer will offer her opinion. Select her portrait to choose that option to handle the curio. Some curios are good, others are sometimes good, and even other are "fun". You'll learn over time."
+
+# From Data: QuestTutorials-QuestTutorials-kill_first_boss-name
+msgctxt "Name of a tutorial quest"
+msgid "Kill the first boss."
+msgstr "Kill the first boss."
+
+# From Data: QuestTutorials-QuestTutorials-kill_first_boss-text
+msgctxt "Description of a tutorial quest"
+msgid "The custom landmarks on the map are bosses. They have a custom dungeon, and are harder than usual enemies. Prepare well to take them out."
+msgstr "The custom landmarks on the map are bosses. They have a custom dungeon, and are harder than usual enemies. Prepare well to take them out."
+
+# From Data: QuestTutorials-QuestTutorials-load_an_autosaved_party-name
+msgctxt "Name of a tutorial quest"
+msgid "Load an autosaved party."
+msgstr "Load an autosaved party."
+
+# From Data: QuestTutorials-QuestTutorials-load_an_autosaved_party-text
+msgctxt "Description of a tutorial quest"
+msgid "The last used party after each dungeon is saved automatically. Press the shield above the party icons in the bottom of the guild to select the autosaved party."
+msgstr "The last used party after each dungeon is saved automatically. Press the shield above the party icons in the bottom of the guild to select the autosaved party."
+
+# From Data: QuestTutorials-QuestTutorials-lock_a_job-name
+msgctxt "Name of a tutorial quest"
+msgid "Lock a job."
+msgstr "Lock a job."
+
+# From Data: QuestTutorials-QuestTutorials-lock_a_job-text
+msgctxt "Description of a tutorial quest"
+msgid "You don't have to assign girls to specific jobs every day. Press the lock icon below their portrait to tell them to stay employed."
+msgstr "You don't have to assign girls to specific jobs every day. Press the lock icon below their portrait to tell them to stay employed."
+
+# From Data: QuestTutorials-QuestTutorials-lock_a_quirk-name
+msgctxt "Name of a tutorial quest"
+msgid "Lock a quirk."
+msgstr "Lock a quirk."
+
+# From Data: QuestTutorials-QuestTutorials-lock_a_quirk-text
+msgctxt "Description of a tutorial quest"
+msgid "Quirks will increase or decrease depending on the personality of your adventurer (which is defined by her starting traits). If you want to keep a quirk, you can lock it increasing its growth. A premium lock increases it even further."
+msgstr "Quirks will increase or decrease depending on the personality of your adventurer (which is defined by her starting traits). If you want to keep a quirk, you can lock it increasing its growth. A premium lock increases it even further."
+
+# From Data: QuestTutorials-QuestTutorials-open_class_overview-name
+msgctxt "Name of a tutorial quest"
+msgid "Open the Adventurer Class Overview."
+msgstr "Open the Adventurer Class Overview."
+
+# From Data: QuestTutorials-QuestTutorials-open_class_overview-text
+msgctxt "Description of a tutorial quest"
+msgid "From the Adventurer Overview, you can open the Class Overview. This shows all classes your adventurer has experience in. This panel also allows you to switch classes and reroll development goals."
+msgstr "From the Adventurer Overview, you can open the Class Overview. This shows all classes your adventurer has experience in. This panel also allows you to switch classes and reroll development goals."
+
+# From Data: QuestTutorials-QuestTutorials-open_crest_overview-name
+msgctxt "Name of a tutorial quest"
+msgid "Open the Adventurer Desire Overview."
+msgstr "Open the Adventurer Desire Overview."
+
+# From Data: QuestTutorials-QuestTutorials-open_crest_overview-text
+msgctxt "Description of a tutorial quest"
+msgid ""
+"In the adventurer overview, click the crest on the top to go to the Adventurer Desire overview. This shows the current desires of the girl, and her current crest progressions.\n"
+"The higher her desires, the more dangerous afflictions are going to be."
+msgstr ""
+"In the adventurer overview, click the crest on the top to go to the Adventurer Desire overview. This shows the current desires of the girl, and her current crest progressions.\n"
+"The higher her desires, the more dangerous afflictions are going to be."
+
+# From Data: QuestTutorials-QuestTutorials-open_pop_overview-name
+msgctxt "Name of a tutorial quest"
+msgid "Open the Adventurer Overview."
+msgstr "Open the Adventurer Overview."
+
+# From Data: QuestTutorials-QuestTutorials-open_pop_overview-text
+msgctxt "Description of a tutorial quest"
+msgid ""
+"To see more information about your adventurers, right click their portrait. This will show her stats, moves, quirks, and so on.\n"
+"You can also press the lists button in the bottom right."
+msgstr ""
+"To see more information about your adventurers, right click their portrait. This will show her stats, moves, quirks, and so on.\n"
+"You can also press the lists button in the bottom right."
+
+# From Data: QuestTutorials-QuestTutorials-reach_first_boss-name
+msgctxt "Name of a tutorial quest"
+msgid "Reach the first boss."
+msgstr "Reach the first boss."
+
+# From Data: QuestTutorials-QuestTutorials-reach_first_boss-text
+msgctxt "Description of a tutorial quest"
+msgid ""
+"Whenever you complete a mission, the tiles next to it on the overworld map will be revealed. This allows you to move to further and more dangerous dungeons.\n"
+"The landmarks on the map are bosses, try to reach the closest one (the castle on the island in the middle of the river)."
+msgstr ""
+"Whenever you complete a mission, the tiles next to it on the overworld map will be revealed. This allows you to move to further and more dangerous dungeons.\n"
+"The landmarks on the map are bosses, try to reach the closest one (the castle on the island in the middle of the river)."
+
+# From Data: QuestTutorials-QuestTutorials-recruit_from_stagecoach-name
+msgctxt "Name of a tutorial quest"
+msgid "Recruit two adventurers from the stagecoach."
+msgstr "Recruit two adventurers from the stagecoach."
+
+# From Data: QuestTutorials-QuestTutorials-recruit_from_stagecoach-text
+msgctxt "Description of a tutorial quest"
+msgid "You will need backup to expand your guild. Fortunately, new adventurers arrive daily on the stagecoach. Recruit two new ones, so you have a full party."
+msgstr "You will need backup to expand your guild. Fortunately, new adventurers arrive daily on the stagecoach. Recruit two new ones, so you have a full party."
+
+# From Data: QuestTutorials-QuestTutorials-reroll_goals-name
+msgctxt "Name of a tutorial quest"
+msgid "Reroll development goals."
+msgstr "Reroll development goals."
+
+# From Data: QuestTutorials-QuestTutorials-reroll_goals-text
+msgctxt "Description of a tutorial quest"
+msgid ""
+"If the development goals of an adventurer are too hard to complete, you can always reroll them for a mana cost.\n"
+"Try going to the the class adventurer panel and doing so now."
+msgstr ""
+"If the development goals of an adventurer are too hard to complete, you can always reroll them for a mana cost.\n"
+"Try going to the the class adventurer panel and doing so now."
+
+# From Data: QuestTutorials-QuestTutorials-rescue_victim-name
+msgctxt "Name of a tutorial quest"
+msgid "Rescue a kidnapped adventurer."
+msgstr "Rescue a kidnapped adventurer."
+
+# From Data: QuestTutorials-QuestTutorials-rescue_victim-text
+msgctxt "Description of a tutorial quest"
+msgid ""
+"You can rescue kidnapped adventurers by going to the rescue screen (to the left on the overworld map) and selecting her corresponding mission.\n"
+"You need to actively rescue the adventurer during the mission. Just completing the mission isn't sufficient."
+msgstr ""
+"You can rescue kidnapped adventurers by going to the rescue screen (to the left on the overworld map) and selecting her corresponding mission.\n"
+"You need to actively rescue the adventurer during the mission. Just completing the mission isn't sufficient."
+
+# From Data: QuestTutorials-QuestTutorials-save_a_party-name
+msgctxt "Name of a tutorial quest"
+msgid "Save a party layout."
+msgstr "Save a party layout."
+
+# From Data: QuestTutorials-QuestTutorials-save_a_party-text
+msgctxt "Description of a tutorial quest"
+msgid "You can save a specific party layout by giving them a name and pressing the quill icon. You can then load this party whenever you want."
+msgstr "You can save a specific party layout by giving them a name and pressing the quill icon. You can then load this party whenever you want."
+
+# From Data: QuestTutorials-QuestTutorials-select_a_dungeon-name
+msgctxt "Name of a tutorial quest"
+msgid "Select a dungeon."
+msgstr "Select a dungeon."
+
+# From Data: QuestTutorials-QuestTutorials-select_a_dungeon-text
+msgctxt "Description of a tutorial quest"
+msgid "The colored diamonds on the map are dungeons, their icon indicating the region. Select one to move to the provision screen. If you want to return, you can press the guild building on the map to return."
+msgstr "The colored diamonds on the map are dungeons, their icon indicating the region. Select one to move to the provision screen. If you want to return, you can press the guild building on the map to return."
+
+# From Data: QuestTutorials-QuestTutorials-select_level_upgrade-name
+msgctxt "Name of a tutorial quest"
+msgid "Select a level upgrade."
+msgstr "Select a level upgrade."
+
+# From Data: QuestTutorials-QuestTutorials-select_level_upgrade-text
+msgctxt "Description of a tutorial quest"
+msgid "As your adventurers get experience, they can spend it on class upgrades. These give new moves or other effects. There is no reason not to immediately spend your experience points!"
+msgstr "As your adventurers get experience, they can spend it on class upgrades. These give new moves or other effects. There is no reason not to immediately spend your experience points!"
+
+# From Data: QuestTutorials-QuestTutorials-select_new_move-name
+msgctxt "Name of a tutorial quest"
+msgid "Select a new move for your adventurer."
+msgstr "Select a new move for your adventurer."
+
+# From Data: QuestTutorials-QuestTutorials-select_new_move-text
+msgctxt "Description of a tutorial quest"
+msgid "The selected upgrade allow you to upgrade the moves of the adventurer. She can have five moves, so select the new move in the adventurer overview so it's available during combat."
+msgstr "The selected upgrade allow you to upgrade the moves of the adventurer. She can have five moves, so select the new move in the adventurer overview so it's available during combat."
+
+# From Data: QuestTutorials-QuestTutorials-start-name
+msgctxt "Name of a tutorial quest"
+msgid "Hover over this tutorial for further info."
+msgstr "Hover over this tutorial for further info."
+
+# From Data: QuestTutorials-QuestTutorials-start-text
+msgctxt "Description of a tutorial quest"
+msgid ""
+"Hover tutorials for further information. Most things in this game have tooltips, hover over them as well.\n"
+"\n"
+"Click the button to complete this tutorial!"
+msgstr ""
+"Hover tutorials for further information. Most things in this game have tooltips, hover over them as well.\n"
+"\n"
+"Click the button to complete this tutorial!"
+
+# From Data: QuestTutorials-QuestTutorials-switch_classes-name
+msgctxt "Name of a tutorial quest"
+msgid "Switch the class of an adventurer."
+msgstr "Switch the class of an adventurer."
+
+# From Data: QuestTutorials-QuestTutorials-switch_classes-text
+msgctxt "Description of a tutorial quest"
+msgid "For a small mana cost, you can switch classes of your adventurer in the class panel. The experience in the old class will be kept."
+msgstr "For a small mana cost, you can switch classes of your adventurer in the class panel. The experience in the old class will be kept."
+
+# From Data: QuestTutorials-QuestTutorials-target_a_move-name
+msgctxt "Name of a tutorial quest"
+msgid "Target an enemy with a move."
+msgstr "Target an enemy with a move."
+
+# From Data: QuestTutorials-QuestTutorials-target_a_move-text
+msgctxt "Description of a tutorial quest"
+msgid "The moves you can use depend on the rank (position) of your adventurer. The targets are also limited to specific ranks. If a move is grayed out, you're either in the wrong position, or there are no valid targets."
+msgstr "The moves you can use depend on the rank (position) of your adventurer. The targets are also limited to specific ranks. If a move is grayed out, you're either in the wrong position, or there are no valid targets."
+
+# From Data: QuestTutorials-QuestTutorials-train_a_girl-name
+msgctxt "Name of a tutorial quest"
+msgid "Train the stats of an adventurer."
+msgstr "Train the stats of an adventurer."
+
+# From Data: QuestTutorials-QuestTutorials-train_a_girl-text
+msgctxt "Description of a tutorial quest"
+msgid "You can improve the stats of your adventurers in the Training Field. Press the SELECT button and select the stat you want to train. In the beginning you're limited in how far you can train each stat."
+msgstr "You can improve the stats of your adventurers in the Training Field. Press the SELECT button and select the stat you want to train. In the beginning you're limited in how far you can train each stat."
+
+# From Data: QuestTutorials-QuestTutorials-uncurse_item-name
+msgctxt "Name of a tutorial quest"
+msgid "Uncurse an item."
+msgstr "Uncurse an item."
+
+# From Data: QuestTutorials-QuestTutorials-uncurse_item-text
+msgctxt "Description of a tutorial quest"
+msgid "The item that got equipped is cursed. You won't be able to take it off without doing an uncurse quest."
+msgstr "The item that got equipped is cursed. You won't be able to take it off without doing an uncurse quest."
+
+# From Data: QuestTutorials-QuestTutorials-upgrade_a_building-name
+msgctxt "Name of a tutorial quest"
+msgid "Upgrade a building."
+msgstr "Upgrade a building."
+
+# From Data: QuestTutorials-QuestTutorials-upgrade_a_building-text
+msgctxt "Description of a tutorial quest"
+msgid "You can use the mana and gold from missions to upgrade the buildings in your guild. Try upgrading the stagecoach to give you more adventurers. Or not, I'm just a tutorial prompt, I can't force you to do anything."
+msgstr "You can use the mana and gold from missions to upgrade the buildings in your guild. Try upgrading the stagecoach to give you more adventurers. Or not, I'm just a tutorial prompt, I can't force you to do anything."
+
+# From Data: QuestTutorials-QuestTutorials-use_a_morale_action-name
+msgctxt "Name of a tutorial quest"
+msgid "Use a morale action."
+msgstr "Use a morale action."
+
+# From Data: QuestTutorials-QuestTutorials-use_a_morale_action-text
+msgctxt "Description of a tutorial quest"
+msgid "You can use your party's morale to enact special actions in the dungeon or during combat. You can heal your girls, restore their durability, or grant them critical tokens."
+msgstr "You can use your party's morale to enact special actions in the dungeon or during combat. You can heal your girls, restore their durability, or grant them critical tokens."
+
+# From Data: QuestTutorials-QuestTutorials-use_an_aoe-name
+msgctxt "Name of a tutorial quest"
+msgid "Use an area of effect move."
+msgstr "Use an area of effect move."
+
+# From Data: QuestTutorials-QuestTutorials-use_an_aoe-text
+msgctxt "Description of a tutorial quest"
+msgid "Some moves target multiple enemies, they bypass stealth and taunt tokens. Don't know what those are? Check the token encyclopedia."
+msgstr "Some moves target multiple enemies, they bypass stealth and taunt tokens. Don't know what those are? Check the token encyclopedia."
+
+# From Data: QuestTutorials-QuestTutorials-wait_for_corruption-name
+msgctxt "Name of a tutorial quest"
+msgid "Wait for a girl to be corrupted."
+msgstr "Wait for a girl to be corrupted."
+
+# From Data: QuestTutorials-QuestTutorials-wait_for_corruption-text
+msgctxt "Description of a tutorial quest"
+msgid "Your adventurer has been kidnapped. Don't worry, you can get her back. Currently she's very heavily defended though, so you should wait a while. This will corrupt her a bit, but she knows what she signed up for."
+msgstr "Your adventurer has been kidnapped. Don't worry, you can get her back. Currently she's very heavily defended though, so you should wait a while. This will corrupt her a bit, but she knows what she signed up for."
 
 # From Data: Quests-BestiaryQuests-bestiary_10-name
 msgctxt "Name of a quest."
@@ -9904,7 +10462,9 @@ msgstr "牧师"
 
 # From Data: Quests-ClassQuests-cleric_veteran-text
 msgctxt "Description of a quest."
-msgid "Clerics are a versatile unit. They won't deal as much damage as other classes, but they can heal and buff their allies. Remember that even a small amount of healing can prevent your adventurers from getting kidnapped.\n"
+msgid ""
+"Clerics are a versatile unit. They won't deal as much damage as other classes, but they can heal and buff their allies. Remember that even a small amount of healing can prevent your adventurers from getting kidnapped.\n"
+""
 msgstr "牧师是一个多功能的职业。她们不会像其他职业那样造成大量伤害, 但她们可以治疗和给盟友加buff, 有效避免你的冒险者们被绑架。"
 
 # From Data: Quests-ClassQuests-mage_elite-name
@@ -9924,7 +10484,9 @@ msgstr "法师"
 
 # From Data: Quests-ClassQuests-mage_veteran-text
 msgctxt "Description of a quest."
-msgid "Mages are a strong backline unit. They deal large amounts of damage, but become useless when they don't have a strong frontline to defend them. Keep them out of harms way and let them burn things.\n"
+msgid ""
+"Mages are a strong backline unit. They deal large amounts of damage, but become useless when they don't have a strong frontline to defend them. Keep them out of harms way and let them burn things.\n"
+""
 msgstr "法师是一个强大的后排职业。她们能造成大量伤害, 但如果没有强大的前排保护的话她们就显得很脆弱。让她们原理危险并尽情释放力量吧。"
 
 # From Data: Quests-ClassQuests-noble_elite-name
@@ -9944,7 +10506,9 @@ msgstr "贵族剑士"
 
 # From Data: Quests-ClassQuests-noble_veteran-text
 msgctxt "Description of a quest."
-msgid "Nobles are a specialist class. They require careful positioning and proper planning. But in the hands of an expert, they are extremely powerful. They don't buff their allies, or heal though. That's what servants are for.\n"
+msgid ""
+"Nobles are a specialist class. They require careful positioning and proper planning. But in the hands of an expert, they are extremely powerful. They don't buff their allies, or heal though. That's what servants are for.\n"
+""
 msgstr "贵族是一个比较特殊的职业。她们需要谨慎的位置安排和适当的规划。缺点是她们不能给盟友加buff, 也不会治疗。那是仆人该干的。"
 
 # From Data: Quests-ClassQuests-paladin_elite-name
@@ -9964,7 +10528,9 @@ msgstr "圣骑士"
 
 # From Data: Quests-ClassQuests-paladin_veteran-text
 msgctxt "Description of a quest."
-msgid "Paladins are beloved by the gods. They will need to spend some turns building up divinity, but afterwards they can unleash the wrath of the gods on their enemies. It is said they can even turn back time and undo mistakes, though that is hard to confirm.\n"
+msgid ""
+"Paladins are beloved by the gods. They will need to spend some turns building up divinity, but afterwards they can unleash the wrath of the gods on their enemies. It is said they can even turn back time and undo mistakes, though that is hard to confirm.\n"
+""
 msgstr "圣骑士受到众神的恩赐。她们将需要花费几个回合来积累神性, 然后她们能够向敌人释放神之怒火。据说她们甚至可以让时光倒流, 撤回失误的回合，然而很难验证。"
 
 # From Data: Quests-ClassQuests-ranger_elite-name
@@ -9984,7 +10550,9 @@ msgstr "游侠"
 
 # From Data: Quests-ClassQuests-ranger_veteran-text
 msgctxt "Description of a quest."
-msgid "Rangers are a backline support unit. They excel in stripping away the protection of enemies and marking them for annihilation. They are completely powerless when they don't have a frontline to hide behind though.\n"
+msgid ""
+"Rangers are a backline support unit. They excel in stripping away the protection of enemies and marking them for annihilation. They are completely powerless when they don't have a frontline to hide behind though.\n"
+""
 msgstr "游侠是后防线支援单位。她们擅长把击破敌人的护盾, 找到敌人的弱点。但她们也很脆弱, 需要前排的保护。"
 
 # From Data: Quests-ClassQuests-rogue_elite-name
@@ -10004,7 +10572,9 @@ msgstr "游荡者"
 
 # From Data: Quests-ClassQuests-rogue_veteran-text
 msgctxt "Description of a quest."
-msgid "Rogues are damage dealers that can attack from any position. They can move between your ranks without any problems and fix allies that are out of position. They can't take many hits though, so be sure to have them move back before they are kidnapped.\n"
+msgid ""
+"Rogues are damage dealers that can attack from any position. They can move between your ranks without any problems and fix allies that are out of position. They can't take many hits though, so be sure to have them move back before they are kidnapped.\n"
+""
 msgstr "游荡者是可以从任何位置发起攻击的伤害输出角色。她们可以在你的队伍中自由移动, 有助于调整其他盟友的位置。但她们无法承受太多伤害, 所以确保她们被绑架前让她们撤退。"
 
 # From Data: Quests-ClassQuests-warrior_elite-name
@@ -10024,7 +10594,9 @@ msgstr "战士"
 
 # From Data: Quests-ClassQuests-warrior_veteran-text
 msgctxt "Description of a quest."
-msgid "Warriors are a good frontline unit. They excel in the first ranks and can take and deal a lot of damage. They lack some versatility though, and have trouble hitting all enemies. Watch out that her armor stays intact though, ratkin can easily chew through it and turn your brave warrior into a wretched prisoner. \n"
+msgid ""
+"Warriors are a good frontline unit. They excel in the first ranks and can take and deal a lot of damage. They lack some versatility though, and have trouble hitting all enemies. Watch out that her armor stays intact though, ratkin can easily chew through it and turn your brave warrior into a wretched prisoner. \n"
+""
 msgstr "战士是很好的前排职业。她们在队伍前排时表现出色, 可以承受或造成大量伤害。但她们缺乏灵活性, 难以击中所有敌人。请小心保持她的护甲完整, 鼠人可以很容易地咬破护甲, 把这位战士变成一个可怜的性奴。"
 
 # From Data: Quests-CurioQuests-curio_10-name
@@ -10913,558 +11485,6 @@ msgctxt "Name of a dynamic quest."
 msgid "Sluttification"
 msgstr "淫乱化"
 
-# From Data: QuestTutorials-QuestTutorials-abandon_adventurer-name
-msgctxt "Name of a tutorial quest"
-msgid "Dismiss an adventurer."
-msgstr "Dismiss an adventurer."
-
-# From Data: QuestTutorials-QuestTutorials-abandon_adventurer-text
-msgctxt "Description of a tutorial quest"
-msgid "While in the guild (and with at least two free adventurers), you can dismiss a girl by pressing the abandon button in the adventurer overview. Try it out now! Recruit a girl and throw her out immediately!"
-msgstr "While in the guild (and with at least two free adventurers), you can dismiss a girl by pressing the abandon button in the adventurer overview. Try it out now! Recruit a girl and throw her out immediately!"
-
-# From Data: QuestTutorials-QuestTutorials-accept_dynamic_quest-name
-msgctxt "Name of a tutorial quest"
-msgid "Accept a dynamic quest."
-msgstr "Accept a dynamic quest."
-
-# From Data: QuestTutorials-QuestTutorials-accept_dynamic_quest-text
-msgctxt "Description of a tutorial quest"
-msgid "You will periodically receive dynamic quests (40% chance per day). Completing them gives you favor. Favor can be used to skip days or buy high tier guild upgrades."
-msgstr "You will periodically receive dynamic quests (40% chance per day). Completing them gives you favor. Favor can be used to skip days or buy high tier guild upgrades."
-
-# From Data: QuestTutorials-QuestTutorials-advance_a_crest-name
-msgctxt "Name of a tutorial quest"
-msgid "Advance any crest."
-msgstr "Advance any crest."
-
-# From Data: QuestTutorials-QuestTutorials-advance_a_crest-text
-msgctxt "Description of a tutorial quest"
-msgid "When your adventurer has high lust, enemies can advance a crest. Crests give unique bonusses and drawbacks to your adventurers. Each region has its own assortment of crests. Later on, you can instill mantras in your girls to boost specific crests."
-msgstr "When your adventurer has high lust, enemies can advance a crest. Crests give unique bonusses and drawbacks to your adventurers. Each region has its own assortment of crests. Later on, you can instill mantras in your girls to boost specific crests."
-
-# From Data: QuestTutorials-QuestTutorials-apply_a_dot-name
-msgctxt "Name of a tutorial quest"
-msgid "Apply a DoT."
-msgstr "Apply a DoT."
-
-# From Data: QuestTutorials-QuestTutorials-apply_a_dot-text
-msgctxt "Description of a tutorial quest"
-msgid "Damage over Time effects (dots) give effects over time. You can hover over their icons in combat to see their strength and duration. These are great to bypass block, but will also trigger checks on your faltering adventurers."
-msgstr "Damage over Time effects (dots) give effects over time. You can hover over their icons in combat to see their strength and duration. These are great to bypass block, but will also trigger checks on your faltering adventurers."
-
-# From Data: QuestTutorials-QuestTutorials-apply_a_token-name
-msgctxt "Name of a tutorial quest"
-msgid "Apply any token."
-msgstr "Apply any token."
-
-# From Data: QuestTutorials-QuestTutorials-apply_a_token-text
-msgctxt "Description of a tutorial quest"
-msgid "All combat debuffs are handled through tokens. These show up below the characters in combat, hover over them for further information."
-msgstr "All combat debuffs are handled through tokens. These show up below the characters in combat, hover over them for further information."
-
-# From Data: QuestTutorials-QuestTutorials-assemble_a_party-name
-msgctxt "Name of a tutorial quest"
-msgid "Assemble a full party."
-msgstr "Assemble a full party."
-
-# From Data: QuestTutorials-QuestTutorials-assemble_a_party-text
-msgctxt "Description of a tutorial quest"
-msgid "You assemble a party by dragging adventurers from the right panel to the party on the bottom. You can select four adventurers. Going into dungeons with fewer adventurers is very dangerous."
-msgstr "You assemble a party by dragging adventurers from the right panel to the party on the bottom. You can select four adventurers. Going into dungeons with fewer adventurers is very dangerous."
-
-# From Data: QuestTutorials-QuestTutorials-buy_provisions-name
-msgctxt "Name of a tutorial quest"
-msgid "Buy as many provisions as possible."
-msgstr "Buy as many provisions as possible."
-
-# From Data: QuestTutorials-QuestTutorials-buy_provisions-text
-msgctxt "Description of a tutorial quest"
-msgid ""
-"Each day you get an amount of provision points that can be used to buy provisions. These are reset each day, so be sure to spend them all.\n"
-"You can upgrade these by improving your farmstead or employing forced labourers."
-msgstr ""
-"Each day you get an amount of provision points that can be used to buy provisions. These are reset each day, so be sure to spend them all.\n"
-"You can upgrade these by improving your farmstead or employing forced labourers."
-
-# From Data: QuestTutorials-QuestTutorials-check_bestiary-name
-msgctxt "Name of a tutorial quest"
-msgid "Check the Bestiary."
-msgstr "Check the Bestiary."
-
-# From Data: QuestTutorials-QuestTutorials-check_bestiary-text
-msgctxt "Description of a tutorial quest"
-msgid ""
-"Whenever you kill an enemy, your bestiary gets filled in. Have a look at it. There are also similar lists for your collected items, classes, and curios.\n"
-"These not only give you bragging rights, but are also necessary to complete certain quests."
-msgstr ""
-"Whenever you kill an enemy, your bestiary gets filled in. Have a look at it. There are also similar lists for your collected items, classes, and curios.\n"
-"These not only give you bragging rights, but are also necessary to complete certain quests."
-
-# From Data: QuestTutorials-QuestTutorials-check_dots-name
-msgctxt "Name of a tutorial quest"
-msgid "Check Dots."
-msgstr "Check Dots."
-
-# From Data: QuestTutorials-QuestTutorials-check_dots-text
-msgctxt "Description of a tutorial quest"
-msgid "You can find an overview of all dots by pressing the quest mark button. Have a look at them now."
-msgstr "You can find an overview of all dots by pressing the quest mark button. Have a look at them now."
-
-# From Data: QuestTutorials-QuestTutorials-check_encyclopedia-name
-msgctxt "Name of a tutorial quest"
-msgid "Check the Encyclopedia."
-msgstr "Check the Encyclopedia."
-
-# From Data: QuestTutorials-QuestTutorials-check_encyclopedia-text
-msgctxt "Description of a tutorial quest"
-msgid "If you find these tutorials insufficient, you can check out the encyclopedia after pressing on the question mark. This will give further information on specific game mechanics."
-msgstr "If you find these tutorials insufficient, you can check out the encyclopedia after pressing on the question mark. This will give further information on specific game mechanics."
-
-# From Data: QuestTutorials-QuestTutorials-check_tokens-name
-msgctxt "Name of a tutorial quest"
-msgid "Check the Tokens overview."
-msgstr "Check the Tokens overview."
-
-# From Data: QuestTutorials-QuestTutorials-check_tokens-text
-msgctxt "Description of a tutorial quest"
-msgid "Tokens can be complicated. You can find an overview of every single token by pressing on the question mark. Check it out."
-msgstr "Tokens can be complicated. You can find an overview of every single token by pressing on the question mark. Check it out."
-
-# From Data: QuestTutorials-QuestTutorials-complete_10_devgoals-name
-msgctxt "Name of a tutorial quest"
-msgid "Complete 10 development goals."
-msgstr "Complete 10 development goals."
-
-# From Data: QuestTutorials-QuestTutorials-complete_10_devgoals-text
-msgctxt "Description of a tutorial quest"
-msgid "Completing development goals is the way to strengthen your adventurers. Look out for opportunities to fulfill them efficiently."
-msgstr "Completing development goals is the way to strengthen your adventurers. Look out for opportunities to fulfill them efficiently."
-
-# From Data: QuestTutorials-QuestTutorials-complete_a_mission-name
-msgctxt "Name of a tutorial quest"
-msgid "Complete a mission."
-msgstr "Complete a mission."
-
-# From Data: QuestTutorials-QuestTutorials-complete_a_mission-text
-msgctxt "Description of a tutorial quest"
-msgid "Completing missions gives you mana, gold, and gear rewards. Apart from that, they strengthen your adventurers and bring you closer to your goal of cleansing these lands."
-msgstr "Completing missions gives you mana, gold, and gear rewards. Apart from that, they strengthen your adventurers and bring you closer to your goal of cleansing these lands."
-
-# From Data: QuestTutorials-QuestTutorials-complete_devgoal-name
-msgctxt "Name of a tutorial quest"
-msgid "Complete a development goal of an adventurer."
-msgstr "Complete a development goal of an adventurer."
-
-# From Data: QuestTutorials-QuestTutorials-complete_devgoal-text
-msgctxt "Description of a tutorial quest"
-msgid "To gain experience, your adventurers need to complete personal development goals. These are semi-random challenges and can be found in the adventurer overview. You can also hover over their icons (below your adventurer's portrait) to find out the specifics."
-msgstr "To gain experience, your adventurers need to complete personal development goals. These are semi-random challenges and can be found in the adventurer overview. You can also hover over their icons (below your adventurer's portrait) to find out the specifics."
-
-# From Data: QuestTutorials-QuestTutorials-complete_quest-name
-msgctxt "Name of a tutorial quest"
-msgid "Complete a quest."
-msgstr "Complete a quest."
-
-# From Data: QuestTutorials-QuestTutorials-complete_quest-text
-msgctxt "Description of a tutorial quest"
-msgid "By clicking on the question mark in the bottom right you can see all current quests. These quests give important rewards, and show what the Empire expects from you as guildmaster."
-msgstr "By clicking on the question mark in the bottom right you can see all current quests. These quests give important rewards, and show what the Empire expects from you as guildmaster."
-
-# From Data: QuestTutorials-QuestTutorials-cure_a_quirk-name
-msgctxt "Name of a tutorial quest"
-msgid "Cure a quirk."
-msgstr "Cure a quirk."
-
-# From Data: QuestTutorials-QuestTutorials-cure_a_quirk-text
-msgctxt "Description of a tutorial quest"
-msgid "Once you unlock the Mental Ward, you can remove unwanted quirks from your adventurers. If the quirk opposes the personality of the adventurer it will also decay by itself. "
-msgstr "Once you unlock the Mental Ward, you can remove unwanted quirks from your adventurers. If the quirk opposes the personality of the adventurer it will also decay by itself. "
-
-# From Data: QuestTutorials-QuestTutorials-employ_a_girl-name
-msgctxt "Name of a tutorial quest"
-msgid "Employ an adventurer."
-msgstr "Employ an adventurer."
-
-# From Data: QuestTutorials-QuestTutorials-employ_a_girl-text
-msgctxt "Description of a tutorial quest"
-msgid "Some upgrades unlock job slots in the buildings of the guild. Drag a girl from the panel to the left to that position to employ her. You can hover her icon for further info on the job."
-msgstr "Some upgrades unlock job slots in the buildings of the guild. Drag a girl from the panel to the left to that position to employ her. You can hover her icon for further info on the job."
-
-# From Data: QuestTutorials-QuestTutorials-enter_dungeon_too_easy-name
-msgctxt "Name of a tutorial quest"
-msgid "Enter a dungeon that's too easy for an adventurer."
-msgstr "Enter a dungeon that's too easy for an adventurer."
-
-# From Data: QuestTutorials-QuestTutorials-enter_dungeon_too_easy-text
-msgctxt "Description of a tutorial quest"
-msgid "Your adventurers aren't capable of completing development goals in dungeons that are below their level. They can still escort weaker girls, but won't be able to improve themselves."
-msgstr "Your adventurers aren't capable of completing development goals in dungeons that are below their level. They can still escort weaker girls, but won't be able to improve themselves."
-
-# From Data: QuestTutorials-QuestTutorials-favorite_an_adventurer-name
-msgctxt "Name of a tutorial quest"
-msgid "Favorite an adventurer."
-msgstr "Favorite an adventurer."
-
-# From Data: QuestTutorials-QuestTutorials-favorite_an_adventurer-text
-msgctxt "Description of a tutorial quest"
-msgid "If you toggle the box next to the job description of your girls in the adventurer overview, you'll favorite that girl. She'll always show up on top of the guild roster."
-msgstr "If you toggle the box next to the job description of your girls in the adventurer overview, you'll favorite that girl. She'll always show up on top of the guild roster."
-
-# From Data: QuestTutorials-QuestTutorials-find_cursed_equipment-name
-msgctxt "Name of a tutorial quest"
-msgid "Find cursed equipment."
-msgstr "Find cursed equipment."
-
-# From Data: QuestTutorials-QuestTutorials-find_cursed_equipment-text
-msgctxt "Description of a tutorial quest"
-msgid "Most cursed equipment pretends to be a different item until equipped. The only way to identify items is equipping it. Have fun."
-msgstr "Most cursed equipment pretends to be a different item until equipped. The only way to identify items is equipping it. Have fun."
-
-# From Data: QuestTutorials-QuestTutorials-get_a_cursed_class-name
-msgctxt "Name of a tutorial quest"
-msgid "Obtain a cursed class."
-msgstr "Obtain a cursed class."
-
-# From Data: QuestTutorials-QuestTutorials-get_a_cursed_class-text
-msgctxt "Description of a tutorial quest"
-msgid ""
-"If an adventurer wears enough cursed gear, she will turn into a cursed class. The only way for her to turn back is by advancing far enough in that class.\n"
-"Or you can keep her like that, cursed classes have niche specializations that can help out."
-msgstr ""
-"If an adventurer wears enough cursed gear, she will turn into a cursed class. The only way for her to turn back is by advancing far enough in that class.\n"
-"Or you can keep her like that, cursed classes have niche specializations that can help out."
-
-# From Data: QuestTutorials-QuestTutorials-get_afflicted-name
-msgctxt "Name of a tutorial quest"
-msgid "Get afflicted."
-msgstr "Get afflicted."
-
-# From Data: QuestTutorials-QuestTutorials-get_afflicted-text
-msgctxt "Description of a tutorial quest"
-msgid "If an adventurer reaches 100 lust, she will get afflicted. If her desires are low, she will shrug it off. If her desires are high however, there will be consequences."
-msgstr "If an adventurer reaches 100 lust, she will get afflicted. If her desires are low, she will shrug it off. If her desires are high however, there will be consequences."
-
-# From Data: QuestTutorials-QuestTutorials-get_equipped_with_gear-name
-msgctxt "Name of a tutorial quest"
-msgid "Get equipped with gear."
-msgstr "Get equipped with gear."
-
-# From Data: QuestTutorials-QuestTutorials-get_equipped_with_gear-text
-msgctxt "Description of a tutorial quest"
-msgid "Once an adventurer's equipment is broken by enemy attacks, and she has a free (or broken) inventory slot, enemies will try to attach cursed gear. The type of cursed gear depends on the region."
-msgstr "Once an adventurer's equipment is broken by enemy attacks, and she has a free (or broken) inventory slot, enemies will try to attach cursed gear. The type of cursed gear depends on the region."
-
-# From Data: QuestTutorials-QuestTutorials-get_infinite_equipment-name
-msgctxt "Name of a tutorial quest"
-msgid "Turn a piece of equipment infinite."
-msgstr "Turn a piece of equipment infinite."
-
-# From Data: QuestTutorials-QuestTutorials-get_infinite_equipment-text
-msgctxt "Description of a tutorial quest"
-msgid "Once you collect and identify four of the same types of equipment, the equipment will turn infinite. You will then be able to equip it to every adventurer without the item running out."
-msgstr "Once you collect and identify four of the same types of equipment, the equipment will turn infinite. You will then be able to equip it to every adventurer without the item running out."
-
-# From Data: QuestTutorials-QuestTutorials-get_kidnapped-name
-msgctxt "Name of a tutorial quest"
-msgid "Get an adventurer kidnapped."
-msgstr "Get an adventurer kidnapped."
-
-# From Data: QuestTutorials-QuestTutorials-get_kidnapped-text
-msgctxt "Description of a tutorial quest"
-msgid ""
-"Once an adventurer reaches 0 HP, she doesn't die. She turns into a faltering state. Whenever she takes damage, there's an increasing chance that she will be kidnapped.\n"
-"Once an adventurer is kidnapped, you'll have to rescue her."
-msgstr ""
-"Once an adventurer reaches 0 HP, she doesn't die. She turns into a faltering state. Whenever she takes damage, there's an increasing chance that she will be kidnapped.\n"
-"Once an adventurer is kidnapped, you'll have to rescue her."
-
-# From Data: QuestTutorials-QuestTutorials-inspect_an_enemy-name
-msgctxt "Name of a tutorial quest"
-msgid "Inspect an enemy."
-msgstr "Inspect an enemy."
-
-# From Data: QuestTutorials-QuestTutorials-inspect_an_enemy-text
-msgctxt "Description of a tutorial quest"
-msgid "You can inspect enemies by right clicking them (or their portrait in the turn order). This will show their moves and special effects."
-msgstr "You can inspect enemies by right clicking them (or their portrait in the turn order). This will show their moves and special effects."
-
-# From Data: QuestTutorials-QuestTutorials-interact_with_a_curio-name
-msgctxt "Name of a tutorial quest"
-msgid "Interact with a curio."
-msgstr "Interact with a curio."
-
-# From Data: QuestTutorials-QuestTutorials-interact_with_a_curio-text
-msgctxt "Description of a tutorial quest"
-msgid "Some encounters in a dungeon (such as a chest) will offer you a dilemma. Each adventurer will offer her opinion. Select her portrait to choose that option to handle the curio. Some curios are good, others are sometimes good, and even other are \"fun\". You'll learn over time."
-msgstr "Some encounters in a dungeon (such as a chest) will offer you a dilemma. Each adventurer will offer her opinion. Select her portrait to choose that option to handle the curio. Some curios are good, others are sometimes good, and even other are \"fun\". You'll learn over time."
-
-# From Data: QuestTutorials-QuestTutorials-kill_first_boss-name
-msgctxt "Name of a tutorial quest"
-msgid "Kill the first boss."
-msgstr "Kill the first boss."
-
-# From Data: QuestTutorials-QuestTutorials-kill_first_boss-text
-msgctxt "Description of a tutorial quest"
-msgid "The custom landmarks on the map are bosses. They have a custom dungeon, and are harder than usual enemies. Prepare well to take them out."
-msgstr "The custom landmarks on the map are bosses. They have a custom dungeon, and are harder than usual enemies. Prepare well to take them out."
-
-# From Data: QuestTutorials-QuestTutorials-load_an_autosaved_party-name
-msgctxt "Name of a tutorial quest"
-msgid "Load an autosaved party."
-msgstr "Load an autosaved party."
-
-# From Data: QuestTutorials-QuestTutorials-load_an_autosaved_party-text
-msgctxt "Description of a tutorial quest"
-msgid "The last used party after each dungeon is saved automatically. Press the shield above the party icons in the bottom of the guild to select the autosaved party."
-msgstr "The last used party after each dungeon is saved automatically. Press the shield above the party icons in the bottom of the guild to select the autosaved party."
-
-# From Data: QuestTutorials-QuestTutorials-lock_a_job-name
-msgctxt "Name of a tutorial quest"
-msgid "Lock a job."
-msgstr "Lock a job."
-
-# From Data: QuestTutorials-QuestTutorials-lock_a_job-text
-msgctxt "Description of a tutorial quest"
-msgid "You don't have to assign girls to specific jobs every day. Press the lock icon below their portrait to tell them to stay employed."
-msgstr "You don't have to assign girls to specific jobs every day. Press the lock icon below their portrait to tell them to stay employed."
-
-# From Data: QuestTutorials-QuestTutorials-lock_a_quirk-name
-msgctxt "Name of a tutorial quest"
-msgid "Lock a quirk."
-msgstr "Lock a quirk."
-
-# From Data: QuestTutorials-QuestTutorials-lock_a_quirk-text
-msgctxt "Description of a tutorial quest"
-msgid "Quirks will increase or decrease depending on the personality of your adventurer (which is defined by her starting traits). If you want to keep a quirk, you can lock it increasing its growth. A premium lock increases it even further."
-msgstr "Quirks will increase or decrease depending on the personality of your adventurer (which is defined by her starting traits). If you want to keep a quirk, you can lock it increasing its growth. A premium lock increases it even further."
-
-# From Data: QuestTutorials-QuestTutorials-open_class_overview-name
-msgctxt "Name of a tutorial quest"
-msgid "Open the Adventurer Class Overview."
-msgstr "Open the Adventurer Class Overview."
-
-# From Data: QuestTutorials-QuestTutorials-open_class_overview-text
-msgctxt "Description of a tutorial quest"
-msgid "From the Adventurer Overview, you can open the Class Overview. This shows all classes your adventurer has experience in. This panel also allows you to switch classes and reroll development goals."
-msgstr "From the Adventurer Overview, you can open the Class Overview. This shows all classes your adventurer has experience in. This panel also allows you to switch classes and reroll development goals."
-
-# From Data: QuestTutorials-QuestTutorials-open_crest_overview-name
-msgctxt "Name of a tutorial quest"
-msgid "Open the Adventurer Desire Overview."
-msgstr "Open the Adventurer Desire Overview."
-
-# From Data: QuestTutorials-QuestTutorials-open_crest_overview-text
-msgctxt "Description of a tutorial quest"
-msgid ""
-"In the adventurer overview, click the crest on the top to go to the Adventurer Desire overview. This shows the current desires of the girl, and her current crest progressions.\n"
-"The higher her desires, the more dangerous afflictions are going to be."
-msgstr ""
-"In the adventurer overview, click the crest on the top to go to the Adventurer Desire overview. This shows the current desires of the girl, and her current crest progressions.\n"
-"The higher her desires, the more dangerous afflictions are going to be."
-
-# From Data: QuestTutorials-QuestTutorials-open_pop_overview-name
-msgctxt "Name of a tutorial quest"
-msgid "Open the Adventurer Overview."
-msgstr "Open the Adventurer Overview."
-
-# From Data: QuestTutorials-QuestTutorials-open_pop_overview-text
-msgctxt "Description of a tutorial quest"
-msgid ""
-"To see more information about your adventurers, right click their portrait. This will show her stats, moves, quirks, and so on.\n"
-"You can also press the lists button in the bottom right."
-msgstr ""
-"To see more information about your adventurers, right click their portrait. This will show her stats, moves, quirks, and so on.\n"
-"You can also press the lists button in the bottom right."
-
-# From Data: QuestTutorials-QuestTutorials-reach_first_boss-name
-msgctxt "Name of a tutorial quest"
-msgid "Reach the first boss."
-msgstr "Reach the first boss."
-
-# From Data: QuestTutorials-QuestTutorials-reach_first_boss-text
-msgctxt "Description of a tutorial quest"
-msgid ""
-"Whenever you complete a mission, the tiles next to it on the overworld map will be revealed. This allows you to move to further and more dangerous dungeons.\n"
-"The landmarks on the map are bosses, try to reach the closest one (the castle on the island in the middle of the river)."
-msgstr ""
-"Whenever you complete a mission, the tiles next to it on the overworld map will be revealed. This allows you to move to further and more dangerous dungeons.\n"
-"The landmarks on the map are bosses, try to reach the closest one (the castle on the island in the middle of the river)."
-
-# From Data: QuestTutorials-QuestTutorials-recruit_from_stagecoach-name
-msgctxt "Name of a tutorial quest"
-msgid "Recruit two adventurers from the stagecoach."
-msgstr "Recruit two adventurers from the stagecoach."
-
-# From Data: QuestTutorials-QuestTutorials-recruit_from_stagecoach-text
-msgctxt "Description of a tutorial quest"
-msgid "You will need backup to expand your guild. Fortunately, new adventurers arrive daily on the stagecoach. Recruit two new ones, so you have a full party."
-msgstr "You will need backup to expand your guild. Fortunately, new adventurers arrive daily on the stagecoach. Recruit two new ones, so you have a full party."
-
-# From Data: QuestTutorials-QuestTutorials-reroll_goals-name
-msgctxt "Name of a tutorial quest"
-msgid "Reroll development goals."
-msgstr "Reroll development goals."
-
-# From Data: QuestTutorials-QuestTutorials-reroll_goals-text
-msgctxt "Description of a tutorial quest"
-msgid ""
-"If the development goals of an adventurer are too hard to complete, you can always reroll them for a mana cost.\n"
-"Try going to the the class adventurer panel and doing so now."
-msgstr ""
-"If the development goals of an adventurer are too hard to complete, you can always reroll them for a mana cost.\n"
-"Try going to the the class adventurer panel and doing so now."
-
-# From Data: QuestTutorials-QuestTutorials-rescue_victim-name
-msgctxt "Name of a tutorial quest"
-msgid "Rescue a kidnapped adventurer."
-msgstr "Rescue a kidnapped adventurer."
-
-# From Data: QuestTutorials-QuestTutorials-rescue_victim-text
-msgctxt "Description of a tutorial quest"
-msgid ""
-"You can rescue kidnapped adventurers by going to the rescue screen (to the left on the overworld map) and selecting her corresponding mission.\n"
-"You need to actively rescue the adventurer during the mission. Just completing the mission isn't sufficient."
-msgstr ""
-"You can rescue kidnapped adventurers by going to the rescue screen (to the left on the overworld map) and selecting her corresponding mission.\n"
-"You need to actively rescue the adventurer during the mission. Just completing the mission isn't sufficient."
-
-# From Data: QuestTutorials-QuestTutorials-save_a_party-name
-msgctxt "Name of a tutorial quest"
-msgid "Save a party layout."
-msgstr "Save a party layout."
-
-# From Data: QuestTutorials-QuestTutorials-save_a_party-text
-msgctxt "Description of a tutorial quest"
-msgid "You can save a specific party layout by giving them a name and pressing the quill icon. You can then load this party whenever you want."
-msgstr "You can save a specific party layout by giving them a name and pressing the quill icon. You can then load this party whenever you want."
-
-# From Data: QuestTutorials-QuestTutorials-select_a_dungeon-name
-msgctxt "Name of a tutorial quest"
-msgid "Select a dungeon."
-msgstr "Select a dungeon."
-
-# From Data: QuestTutorials-QuestTutorials-select_a_dungeon-text
-msgctxt "Description of a tutorial quest"
-msgid "The colored diamonds on the map are dungeons, their icon indicating the region. Select one to move to the provision screen. If you want to return, you can press the guild building on the map to return."
-msgstr "The colored diamonds on the map are dungeons, their icon indicating the region. Select one to move to the provision screen. If you want to return, you can press the guild building on the map to return."
-
-# From Data: QuestTutorials-QuestTutorials-select_level_upgrade-name
-msgctxt "Name of a tutorial quest"
-msgid "Select a level upgrade."
-msgstr "Select a level upgrade."
-
-# From Data: QuestTutorials-QuestTutorials-select_level_upgrade-text
-msgctxt "Description of a tutorial quest"
-msgid "As your adventurers get experience, they can spend it on class upgrades. These give new moves or other effects. There is no reason not to immediately spend your experience points!"
-msgstr "As your adventurers get experience, they can spend it on class upgrades. These give new moves or other effects. There is no reason not to immediately spend your experience points!"
-
-# From Data: QuestTutorials-QuestTutorials-select_new_move-name
-msgctxt "Name of a tutorial quest"
-msgid "Select a new move for your adventurer."
-msgstr "Select a new move for your adventurer."
-
-# From Data: QuestTutorials-QuestTutorials-select_new_move-text
-msgctxt "Description of a tutorial quest"
-msgid "The selected upgrade allow you to upgrade the moves of the adventurer. She can have five moves, so select the new move in the adventurer overview so it's available during combat."
-msgstr "The selected upgrade allow you to upgrade the moves of the adventurer. She can have five moves, so select the new move in the adventurer overview so it's available during combat."
-
-# From Data: QuestTutorials-QuestTutorials-start-name
-msgctxt "Name of a tutorial quest"
-msgid "Hover over this tutorial for further info."
-msgstr "Hover over this tutorial for further info."
-
-# From Data: QuestTutorials-QuestTutorials-start-text
-msgctxt "Description of a tutorial quest"
-msgid ""
-"Hover tutorials for further information. Most things in this game have tooltips, hover over them as well.\n"
-"\n"
-"Click the button to complete this tutorial!"
-msgstr ""
-"Hover tutorials for further information. Most things in this game have tooltips, hover over them as well.\n"
-"\n"
-"Click the button to complete this tutorial!"
-
-# From Data: QuestTutorials-QuestTutorials-switch_classes-name
-msgctxt "Name of a tutorial quest"
-msgid "Switch the class of an adventurer."
-msgstr "Switch the class of an adventurer."
-
-# From Data: QuestTutorials-QuestTutorials-switch_classes-text
-msgctxt "Description of a tutorial quest"
-msgid "For a small mana cost, you can switch classes of your adventurer in the class panel. The experience in the old class will be kept."
-msgstr "For a small mana cost, you can switch classes of your adventurer in the class panel. The experience in the old class will be kept."
-
-# From Data: QuestTutorials-QuestTutorials-target_a_move-name
-msgctxt "Name of a tutorial quest"
-msgid "Target an enemy with a move."
-msgstr "Target an enemy with a move."
-
-# From Data: QuestTutorials-QuestTutorials-target_a_move-text
-msgctxt "Description of a tutorial quest"
-msgid "The moves you can use depend on the rank (position) of your adventurer. The targets are also limited to specific ranks. If a move is grayed out, you're either in the wrong position, or there are no valid targets."
-msgstr "The moves you can use depend on the rank (position) of your adventurer. The targets are also limited to specific ranks. If a move is grayed out, you're either in the wrong position, or there are no valid targets."
-
-# From Data: QuestTutorials-QuestTutorials-train_a_girl-name
-msgctxt "Name of a tutorial quest"
-msgid "Train the stats of an adventurer."
-msgstr "Train the stats of an adventurer."
-
-# From Data: QuestTutorials-QuestTutorials-train_a_girl-text
-msgctxt "Description of a tutorial quest"
-msgid "You can improve the stats of your adventurers in the Training Field. Press the SELECT button and select the stat you want to train. In the beginning you're limited in how far you can train each stat."
-msgstr "You can improve the stats of your adventurers in the Training Field. Press the SELECT button and select the stat you want to train. In the beginning you're limited in how far you can train each stat."
-
-# From Data: QuestTutorials-QuestTutorials-uncurse_item-name
-msgctxt "Name of a tutorial quest"
-msgid "Uncurse an item."
-msgstr "Uncurse an item."
-
-# From Data: QuestTutorials-QuestTutorials-uncurse_item-text
-msgctxt "Description of a tutorial quest"
-msgid "The item that got equipped is cursed. You won't be able to take it off without doing an uncurse quest."
-msgstr "The item that got equipped is cursed. You won't be able to take it off without doing an uncurse quest."
-
-# From Data: QuestTutorials-QuestTutorials-upgrade_a_building-name
-msgctxt "Name of a tutorial quest"
-msgid "Upgrade a building."
-msgstr "Upgrade a building."
-
-# From Data: QuestTutorials-QuestTutorials-upgrade_a_building-text
-msgctxt "Description of a tutorial quest"
-msgid "You can use the mana and gold from missions to upgrade the buildings in your guild. Try upgrading the stagecoach to give you more adventurers. Or not, I'm just a tutorial prompt, I can't force you to do anything."
-msgstr "You can use the mana and gold from missions to upgrade the buildings in your guild. Try upgrading the stagecoach to give you more adventurers. Or not, I'm just a tutorial prompt, I can't force you to do anything."
-
-# From Data: QuestTutorials-QuestTutorials-use_a_morale_action-name
-msgctxt "Name of a tutorial quest"
-msgid "Use a morale action."
-msgstr "Use a morale action."
-
-# From Data: QuestTutorials-QuestTutorials-use_a_morale_action-text
-msgctxt "Description of a tutorial quest"
-msgid "You can use your party's morale to enact special actions in the dungeon or during combat. You can heal your girls, restore their durability, or grant them critical tokens."
-msgstr "You can use your party's morale to enact special actions in the dungeon or during combat. You can heal your girls, restore their durability, or grant them critical tokens."
-
-# From Data: QuestTutorials-QuestTutorials-use_an_aoe-name
-msgctxt "Name of a tutorial quest"
-msgid "Use an area of effect move."
-msgstr "Use an area of effect move."
-
-# From Data: QuestTutorials-QuestTutorials-use_an_aoe-text
-msgctxt "Description of a tutorial quest"
-msgid "Some moves target multiple enemies, they bypass stealth and taunt tokens. Don't know what those are? Check the token encyclopedia."
-msgstr "Some moves target multiple enemies, they bypass stealth and taunt tokens. Don't know what those are? Check the token encyclopedia."
-
-# From Data: QuestTutorials-QuestTutorials-wait_for_corruption-name
-msgctxt "Name of a tutorial quest"
-msgid "Wait for a girl to be corrupted."
-msgstr "Wait for a girl to be corrupted."
-
-# From Data: QuestTutorials-QuestTutorials-wait_for_corruption-text
-msgctxt "Description of a tutorial quest"
-msgid "Your adventurer has been kidnapped. Don't worry, you can get her back. Currently she's very heavily defended though, so you should wait a while. This will corrupt her a bit, but she knows what she signed up for."
-msgstr "Your adventurer has been kidnapped. Don't worry, you can get her back. Currently she's very heavily defended though, so you should wait a while. This will corrupt her a bit, but she knows what she signed up for."
-
 # From Data: Quirks-Negatives-abrasive-name
 msgctxt "Name of a quirk."
 msgid "Abrasive"
@@ -12295,6 +12315,16 @@ msgctxt "Description of a quirk."
 msgid "Harnessing the powers of corruption has made Tyria a beacon that draws nearby monsters to her. Surely this was an unintended side effect..."
 msgstr "利用腐败的力量让泰瑞亚成为了一座灯塔，吸引着附近的怪物向她靠近。这肯定是意外的副作用......"
 
+# From Data: Quirks-PresetsNeg-affliction_weakness-name
+msgctxt "Name of a quirk."
+msgid "Affliction Weakness"
+msgstr "Affliction Weakness"
+
+# From Data: Quirks-PresetsNeg-affliction_weakness-text
+msgctxt "Description of a quirk."
+msgid "Many times trained. Many times bent. So close, yet unbroken."
+msgstr "Many times trained. Many times bent. So close, yet unbroken."
+
 # From Data: Quirks-PresetsNeg-apathetic-name
 msgctxt "Name of a quirk."
 msgid "Apathetic"
@@ -12312,7 +12342,7 @@ msgstr "毁约"
 
 # From Data: Quirks-PresetsNeg-breach_of_contract-text
 msgctxt "Description of a quirk."
-msgid "\"...What? How? AND THEY'RE DOING WHAT WITH HER?!\""
+msgid ""...What? How? AND THEY'RE DOING WHAT WITH HER?!""
 msgstr "\"......什么？他们对她做了什么？\""
 
 # From Data: Quirks-PresetsNeg-ensorced-name
@@ -12324,6 +12354,16 @@ msgstr "禁锢束缚"
 msgctxt "Description of a quirk."
 msgid "[NAME] often wore cursed items to save space in her inventory. Now, cursed items wear her to fill in and lewdify her body. Turnabout is fair play. "
 msgstr "[NAME] 经常穿戴诅咒物品，以节省库存空间。现在，诅咒物品穿在她身上是为了填充和美化她的身体。"
+
+# From Data: Quirks-PresetsNeg-last_life-name
+msgctxt "Name of a quirk."
+msgid "Last Life"
+msgstr "Last Life"
+
+# From Data: Quirks-PresetsNeg-last_life-text
+msgctxt "Description of a quirk."
+msgid "Heart of iron, rusting unto dust or tempering into steel."
+msgstr "Heart of iron, rusting unto dust or tempering into steel."
 
 # From Data: Quirks-PresetsNeg-meguca-name
 msgctxt "Name of a quirk."
@@ -12405,6 +12445,16 @@ msgctxt "Description of a quirk."
 msgid "The more often [NAME] does something new, the more she wants to seek out the unknown. "
 msgstr "[NAME] 越是经常做新的事情，就越想去探索未知。"
 
+# From Data: Quirks-PresetsPlus-criticality-name
+msgctxt "Name of a quirk."
+msgid "Criticality"
+msgstr "Criticality"
+
+# From Data: Quirks-PresetsPlus-criticality-text
+msgctxt "Description of a quirk."
+msgid "Half desperation, half hope, surrounded by a ring of stubbornness, joined together in trinity."
+msgstr "Half desperation, half hope, surrounded by a ring of stubbornness, joined together in trinity."
+
 # From Data: Quirks-PresetsPlus-degenerate_alisza-name
 msgctxt "Name of a quirk."
 msgid "Sadistic Desire"
@@ -12432,7 +12482,7 @@ msgstr "护卫使命"
 
 # From Data: Quirks-PresetsPlus-escort_mission-text
 msgctxt "Description of a quirk."
-msgid "\"You did a great job today!\""
+msgid ""You did a great job today!""
 msgstr "\"你今天干得很好！\""
 
 # From Data: Quirks-PresetsPlus-juggernaut-name
@@ -12444,6 +12494,16 @@ msgstr "巨像"
 msgctxt "Description of a quirk."
 msgid "[NAME] may not be the smartest or fastest, but good luck stopping her."
 msgstr "[NAME] 可能不是最聪明的，也不是最快的，但祝你好运能阻止她。"
+
+# From Data: Quirks-PresetsPlus-last_razorwing-name
+msgctxt "Name of a quirk."
+msgid "The Last Razorwing"
+msgstr "The Last Razorwing"
+
+# From Data: Quirks-PresetsPlus-last_razorwing-text
+msgctxt "Description of a quirk."
+msgid "As Kaldea elites more classes, her growing experience and influence earns more favors."
+msgstr "As Kaldea elites more classes, her growing experience and influence earns more favors."
 
 # From Data: Quirks-PresetsPlus-lust_conversion-name
 msgctxt "Name of a quirk."
@@ -13317,7 +13377,7 @@ msgstr "[PARAM] 工作: [PARAM1]"
 
 # From Data: Scripts-Buildingscript-keep_uncursion-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
-msgid "Allows lossless Curse Removal\t"
+msgid "Allows lossless Curse Removal	"
 msgstr "允许无损诅咒移除\t"
 
 # From Data: Scripts-Buildingscript-maid_morale-short
@@ -13465,6 +13525,11 @@ msgctxt "Explanation of a script (shows in tooltips, do not replace anything bet
 msgid "Start combat with encounter of type [PARAM]"
 msgstr "开始指定类型的遭遇战 [PARAM]"
 
+# From Data: Scripts-Commandscript-combat_speed-short
+msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
+msgid "Set combat speed multiplier <EXPERIMENTAL>"
+msgstr "Set combat speed multiplier <EXPERIMENTAL>"
+
 # From Data: Scripts-Commandscript-commands-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "List all console commands."
@@ -13502,7 +13567,7 @@ msgstr "增加人脉点数: [PARAM]"
 
 # From Data: Scripts-Commandscript-force_preset-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
-msgid "Force next randomly generated adventurer to be preset [PARAM]. REMEMBER: You can use \"next_day\" to refresh the stagecoach."
+msgid "Force next randomly generated adventurer to be preset [PARAM]. REMEMBER: You can use "next_day" to refresh the stagecoach."
 msgstr "强制下一个随机生成的冒险者预设为 [PARAM]。请记住: 你可以用「next_day」来刷新马车驿站。"
 
 # From Data: Scripts-Commandscript-free_jobs-short
@@ -14045,6 +14110,11 @@ msgctxt "Explanation of a script (shows in tooltips, do not replace anything bet
 msgid "Per ally with a DoT:"
 msgstr "每个带有DoT效果的队友: "
 
+# From Data: Scripts-Counterscript-elite_class-short
+msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
+msgid "Per elite class obtained:"
+msgstr "Per elite class obtained:"
+
 # From Data: Scripts-Counterscript-empty_slots-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Per empty equipment slot:"
@@ -14074,6 +14144,11 @@ msgstr "每个公会等级:"
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Per [PARAM] Horse Efficiency:"
 msgstr "每 [PARAM] 个马奴精通:"
+
+# From Data: Scripts-Counterscript-hp_lost_ratio-short
+msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
+msgid "Per [PARAM] health lost:"
+msgstr "Per [PARAM] health lost:"
 
 # From Data: Scripts-Counterscript-loot_gold-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -15643,14 +15718,14 @@ msgstr "必须介于 [PARAM] 到 [PARAM1] 步之间，距离死胡同 [PARAM2] �
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid ""
 "Must be at most [PARAM] steps from [PARAM1] by A*\n"
-"Valid PARAM1: [\"start\",\"end\"]"
+"Valid PARAM1: ["start","end"]"
 msgstr "通过 A*Valid PARAM1: [\"start\",\"end\"] 从 [PARAM1] 至多必须是 [PARAM] 步。"
 
 # From Data: Scripts-Roomreqscript-distance_astar_min-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid ""
 "Must be at least [PARAM] steps from [PARAM1] by A*\n"
-"Valid PARAM1: [\"start\",\"end\"]"
+"Valid PARAM1: ["start","end"]"
 msgstr "必须至少是 [PARAM] 步距 [PARAM1] 的 A*Valid PARAM1: [\"start\", \"end\"]"
 
 # From Data: Scripts-Roomreqscript-dungeon.difficulty-short
@@ -16260,6 +16335,11 @@ msgctxt "Explanation of a script (shows in tooltips, do not replace anything bet
 msgid "Parasite growth: [PARAM:plus]"
 msgstr "寄生虫成长: [PARAM:plus]"
 
+# From Data: Scripts-Scriptablescript-permadeath-short
+msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
+msgid "Cannot be rescued when kidnapped."
+msgstr "Cannot be rescued when kidnapped."
+
 # From Data: Scripts-Scriptablescript-phyDMG-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "[TYPE:physical] DMG: [PARAM:plus]"
@@ -16450,6 +16530,11 @@ msgctxt "Explanation of a script (shows in tooltips, do not replace anything bet
 msgid "When possible, must be targetted"
 msgstr "一般情况下, 优先被锁定"
 
+# From Data: Scripts-Scriptablescript-tooltip_explain-short
+msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
+msgid "Include and explanation for [PARAM1] (of type [PARAM]) in the tooltip."
+msgstr "Include and explanation for [PARAM1] (of type [PARAM]) in the tooltip."
+
 # From Data: Scripts-Scriptablescript-unstoppable-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Ignore skip turn and delay"
@@ -16631,6 +16716,11 @@ msgstr "[NAME] 一整天都在酒馆陪酒。被动效果: 性欲减少的幅度
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Unless ordered otherwise, she'll spend today serving drinks as well."
 msgstr "没有其他安排的话, 她今天会继续去陪酒。"
+
+# From Data: Scripts-Temporalscript-affliction-short
+msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
+msgid "On affliction:"
+msgstr "On affliction:"
 
 # From Data: Scripts-Temporalscript-affliction_instant-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -16894,7 +16984,7 @@ msgstr "数据文件夹。"
 
 # From Data: Scripts-Verificationscript-ICON_ID-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
-msgid "An icon texture from the Icons folder, the ID refers to the part after \"<PREFIX>_\" and before \".png\"."
+msgid "An icon texture from the Icons folder, the ID refers to the part after "<PREFIX>_" and before ".png"."
 msgstr "图标文件夹中的图标纹理, ID 是指在 \"<PREFIX>_\" 之后、\".png\" 之前的部分。"
 
 # From Data: Scripts-Verificationscript-INT-short
@@ -16929,7 +17019,7 @@ msgstr "puppet上的纹理，可以单独存在，也可以用逗号与 COLOR �
 
 # From Data: Scripts-Verificationscript-QUIRK_REQ-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
-msgid "Requirement for quirks, either a personality, or a \"region,REGION_ID\" text."
+msgid "Requirement for quirks, either a personality, or a "region,REGION_ID" text."
 msgstr "对怪癖的要求，可以是个性，也可以是 \"region,REGION_ID\"文本。"
 
 # From Data: Scripts-Verificationscript-RACE_ID-short
@@ -17287,6 +17377,11 @@ msgctxt "Explanation of a script (shows in tooltips, do not replace anything bet
 msgid "[PARAM] chance: Party gains [PARAM1]"
 msgstr "[PARAM] 的概率: 队伍获得 [PARAM1]"
 
+# From Data: Scripts-Whenscript-add_lootable-short
+msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
+msgid "Add [PARAM] to inventory"
+msgstr "Add [PARAM] to inventory"
+
 # From Data: Scripts-Whenscript-add_wear_from_set-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Add a [PARAM] item"
@@ -17371,6 +17466,11 @@ msgstr "将发型改为随机有效发型。"
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Randomize basestats."
 msgstr "随机化初始属性。"
+
+# From Data: Scripts-Whenscript-reduce_hp-short
+msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
+msgid "Reduce health to [PARAM]"
+msgstr "Reduce health to [PARAM]"
 
 # From Data: Scripts-Whenscript-remove_negative_quirk-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -17725,6 +17825,11 @@ msgstr "乳胶套装"
 msgctxt "Name of an equipment set."
 msgid "Maid Set"
 msgstr "女仆套装"
+
+# From Data: Sets-PrisonerSet-parasite6-name
+msgctxt "Name of an equipment set."
+msgid "Parasite Set"
+msgstr "Parasite Set"
 
 # From Data: Sets-PrisonerSet-pet3-name
 msgctxt "Name of an equipment set."
@@ -19104,7 +19209,7 @@ msgstr "哈, 她们落荒而逃！"
 
 # From Data: Voices-Voicelines-paladin-text
 msgctxt "Subtitles for a narrator voice over."
-msgid "A mighty sword-arm anchored by a holy purpose. A zealous warrior.\t"
+msgid "A mighty sword-arm anchored by a holy purpose. A zealous warrior.	"
 msgstr "被神圣使命激励, 他的剑术已臻化境。狂热的战士。"
 
 # From Data: Voices-Voicelines-ranger-text
@@ -19816,7 +19921,7 @@ msgstr "巨人戒指"
 
 # From Data: Wearables-2Common-giant_ring-text
 msgctxt "Description of a piece of equipment."
-msgid "\"Monstrous size has no intrinsic merit.\""
+msgid ""Monstrous size has no intrinsic merit.""
 msgstr "\"庞大的体型并没有什么好处。\""
 
 # From Data: Wearables-2Common-halfling_ring-name
@@ -19826,7 +19931,7 @@ msgstr "矮人戒指"
 
 # From Data: Wearables-2Common-halfling_ring-text
 msgctxt "Description of a piece of equipment."
-msgid "\"Miniscule size has no intrinsic merit.\""
+msgid ""Miniscule size has no intrinsic merit.""
 msgstr "\"渺小的体型也没有什么好处。\""
 
 # From Data: Wearables-2Common-lace_underwear-name
@@ -20565,8 +20670,8 @@ msgstr "哥特式连衣裙"
 
 # From Data: Wearables-5VeryRare-gothic_dress-text
 msgctxt "Description of a piece of equipment."
-msgid "An ancient dress, ordered by a rebellious princess. She said it would only respond to the worthy. It looks very fashionable since the tailor refused to add \"extra blood spatters\", a \"utility belt\", and \"large black pauldrons\"."
-msgstr "An ancient dress, ordered by a rebellious princess. She said it would only respond to the worthy. It looks very fashionable since the tailor refused to add \"extra blood spatters\", a \"utility belt\", and \"large black pauldrons\"."
+msgid "An ancient dress, ordered by a rebellious princess. She said it would only respond to the worthy. It looks very fashionable since the tailor refused to add "extra blood spatters", a "utility belt", and "large black pauldrons"."
+msgstr "An ancient dress, ordered by a rebellious princess. She said it would only respond to the worthy. It looks very fashionable since the tailor refused to add "extra blood spatters", a "utility belt", and "large black pauldrons"."
 
 # From Data: Wearables-5VeryRare-love_choker-name
 msgctxt "Name of a piece of equipment."
@@ -20969,7 +21074,7 @@ msgstr "背刺之刃"
 
 # From Data: Wearables-B3Rogue-backstab_blade-text
 msgctxt "Description of a piece of equipment."
-msgid "\"Watch your back.\""
+msgid ""Watch your back.""
 msgstr "\"小心背后。\""
 
 # From Data: Wearables-B3Rogue-backstabbing_blade-name
@@ -21482,7 +21587,7 @@ msgstr "炼金喷射器"
 
 # From Data: Wearables-B8Alchemist-alchemy_blaster-text
 msgctxt "Description of a piece of equipment."
-msgid "\"The power of science.\""
+msgid ""The power of science.""
 msgstr "\"科学的力量\""
 
 # From Data: Wearables-B8Alchemist-auto_aiming_rifle-name
@@ -22242,7 +22347,7 @@ msgstr "狗项圈"
 
 # From Data: Wearables-C4Pet-dog_collar-text
 msgctxt "Description of a piece of equipment."
-msgid "A red collar with a tag with the wearer's name on it. The nameplate is enchanted to change depending on the wearer's name, though it will sometimes default to \"Bitch\"."
+msgid "A red collar with a tag with the wearer's name on it. The nameplate is enchanted to change depending on the wearer's name, though it will sometimes default to "Bitch"."
 msgstr "一条带有穿戴者名字标签的红色项圈。名牌被施了魔法, 可以根据穿戴者的名字变化, 尽管有时会默认显示为“母狗”。"
 
 # From Data: Wearables-C4Pet-dog_ears-name
@@ -22272,7 +22377,7 @@ msgstr "狗尾肛塞"
 
 # From Data: Wearables-C4Pet-dog_tail-text
 msgctxt "Description of a piece of equipment."
-msgid "This \"tail\" is actually a plug. It distracts the wearer and magically drains her intelligence. In return it gives her animal-like reflexes."
+msgid "This "tail" is actually a plug. It distracts the wearer and magically drains her intelligence. In return it gives her animal-like reflexes."
 msgstr "这“尾巴”实际上是一个塞子, 它分散穿戴者的注意力, 并神奇地削减她的智力。作为回报, 它给予她类似动物的反射能力。"
 
 # From Data: Wearables-C4Pet-muzzle-name
@@ -22322,7 +22427,7 @@ msgstr "橡胶小狗口塞"
 
 # From Data: Wearables-C4Pet-rubberpuppy_gag-text
 msgctxt "Description of a piece of equipment."
-msgid "An  inflatable gag that fills the cheeks and throat,  blocking human speech. It also has a \"snout\" that's long and ribbed... odd."
+msgid "An  inflatable gag that fills the cheeks and throat,  blocking human speech. It also has a "snout" that's long and ribbed... odd."
 msgstr "一种充满脸颊和喉咙的充气式口塞，可以阻止人类说话。它还有一个长而有棱的“鼻子”……有点怪。"
 
 # From Data: Wearables-C4Pet-rubberpuppy_hood-name
@@ -22462,8 +22567,8 @@ msgstr "饮水口塞"
 
 # From Data: Wearables-C5Horse-horse_drinking_gag-text
 msgctxt "Description of a piece of equipment."
-msgid "A gag connected to a large funnel pointing upwards. It allows the wearer's teammates to \"water\" their ponygirl."
-msgstr "A gag connected to a large funnel pointing upwards. It allows the wearer's teammates to \"water\" their ponygirl."
+msgid "A gag connected to a large funnel pointing upwards. It allows the wearer's teammates to "water" their ponygirl."
+msgstr "A gag connected to a large funnel pointing upwards. It allows the wearer's teammates to "water" their ponygirl."
 
 # From Data: Wearables-C5Horse-horse_ears-name
 msgctxt "Name of a piece of equipment."
@@ -23500,572 +23605,3 @@ msgctxt "Description of a piece of equipment."
 msgid "Warspiders accompany other Spidergirls while hunting for breeding targets. Their custom-made armor is provided by Ratkin blacksmiths, in exchange for their usage as mounts for Ratkin Spiderriders."
 msgstr "Warspiders accompany other Spidergirls while hunting for breeding targets. Their custom-made armor is provided by Ratkin blacksmiths, in exchange for their usage as mounts for Ratkin Spiderriders."
 
-# From Engine: Nodes/Actors/Actor.gd
-msgid "Interact (%s)"
-msgstr "交互 (%s)"
-
-# From Engine: Nodes/Actors/DoorActor.gd
-msgid "Open (%s)"
-msgstr "开启 (%s)"
-
-# From Engine: Nodes/Dungeon/ConclusionScene.gd
-msgid "Gold Earned: %s"
-msgstr "获得金币: %s"
-
-# From Engine: Nodes/Dungeon/ConclusionScene.gd
-msgid "Mana Collected: %s"
-msgstr "已收集的魔法精粹: %s"
-
-# From Engine: Nodes/Dungeon/ConclusionScene.gd
-msgid "Equipment Found: %s"
-msgstr "找到装备: %s"
-
-# From Engine: Nodes/Dungeon/ConclusionScene.tscn
-msgid "Mission Success!"
-msgstr "任务成功!"
-
-# From Engine: Nodes/Dungeon/ConclusionScene.gd
-msgid "Mission Failed!"
-msgstr "任务失败!"
-
-# From Engine: Nodes/Dungeon/ConclusionScene.tscn
-msgid " Return to the Guild "
-msgstr " 返回公会 "
-
-# From Engine: Nodes/Dungeon/ConclusionScene.tscn
-msgid "Mission Failed\n"
-msgstr "Mission Failed\n"
-
-# From Engine: Nodes/Dungeon/Inventory/LootPanel.tscn
-msgid "   Collect Loot:"
-msgstr "   收集战利品:"
-
-# From Engine: Nodes/Dungeon/Inventory/LootPanel.tscn
-msgid "Take All"
-msgstr "全部拿走"
-
-# From Engine: Nodes/Dungeon/Inventory/LootPanel.tscn
-msgid "Leave"
-msgstr "离开"
-
-# From Engine: Nodes/Dungeon/Overview/BasestatsPanel.tscn
-msgid "Base Stats:"
-msgstr "基础属性:"
-
-# From Engine: Nodes/Guild/PopPanel/ClassPopPanel.tscn
-msgid "Upgrade Points: %s"
-msgstr "升级点数: %s"
-
-# From Engine: Nodes/Dungeon/Overview/CombatstatsPanel.tscn
-msgid "Combat Stats:"
-msgstr "战斗属性:"
-
-# From Engine: Nodes/Dungeon/Overview/GoalPanel.tscn
-msgid "Personal Development Goals:"
-msgstr "个人进阶目标:"
-
-# From Engine: Nodes/Dungeon/Overview/GoalPanel.tscn
-msgid "Goals: 0/2"
-msgstr "目标: 0/2"
-
-# From Engine: Nodes/Dungeon/Overview/GoalPanel.tscn
-msgid "Paused due to low dungeon difficulty."
-msgstr "由于地牢难度较低而暂停。"
-
-# From Engine: Nodes/Dungeon/Overview/MovesOverview.tscn
-msgid "  CLASS NAME:"
-msgstr "  职业名称:"
-
-# From Engine: Nodes/Dungeon/Overview/MovesOverview.tscn
-msgid "Available Moves:"
-msgstr "可用动作:"
-
-# From Engine: Nodes/Dungeon/Overview/Quirks.tscn
-msgid "Quirks:"
-msgstr "怪癖:"
-
-# From Engine: Nodes/Guild/BuildingPanels/PopsList.gd
-msgid "  Roster Size: {current}/{max}"
-msgstr "  队伍规模: {current}/{max}"
-
-# From Engine: Nodes/Guild/BuildingPanels/TavernPanel.gd
-msgid "Passive Lust Reduction: %s"
-msgstr "被动欲望减少: %s"
-
-# From Engine: Nodes/Guild/BuildingPanels/TavernPanel.gd
-msgid "From Tavern Facilities: -%s"
-msgstr "来自酒馆: -%s"
-
-# From Engine: Nodes/Guild/Personality/TraitPanel.tscn
-msgid "Traits:"
-msgstr "特质:"
-
-# From Engine: Nodes/Guild/PopOverview/PopOverviewEntry.tscn
-msgid "Show"
-msgstr "展示"
-
-# From Engine: Nodes/Guild/PopOverview/PopOverviewEntry.tscn
-msgid "Stats"
-msgstr "属性"
-
-# From Engine: Nodes/Guild/PopOverview/PopOverviewEntry.tscn
-msgid "Equipment"
-msgstr "装备"
-
-# From Engine: Nodes/Guild/PopOverview/PopOverviewEntry.tscn
-msgid "Infections"
-msgstr "感染"
-
-# From Engine: Nodes/Guild/PopOverview/PopOverviewEntry.tscn
-msgid "Sensitivity"
-msgstr "敏感"
-
-# From Engine: Nodes/Guild/PopOverview/PopOverviewEntry.tscn
-msgid "Personality"
-msgstr "个性"
-
-# From Engine: Nodes/Guild/PopOverview/PopOverviewEntry.tscn
-msgid "Other Classes"
-msgstr "其他职业"
-
-# From Engine: Nodes/Guild/PopOverview/PopOverviewEntry.tscn
-msgid "Goals"
-msgstr "目标"
-
-# From Engine: Nodes/Guild/PopOverview/PopOverviewEntry.tscn
-msgid "Goals (long)"
-msgstr "目标(长期)"
-
-# From Engine: Nodes/Guild/PopOverview/PopOverviewEntry.tscn
-msgid "Adventurer"
-msgstr "冒险者"
-
-# From Engine: Nodes/Guild/PopOverview/PopOverviewPanel.tscn
-msgid "Sort"
-msgstr "排序"
-
-# From Engine: Nodes/Guild/PopOverview/PopOverviewPanel.tscn
-msgid "Custom"
-msgstr "定制"
-
-# From Engine: Nodes/Guild/PopOverview/PopOverviewPanel.tscn
-msgid "Name"
-msgstr "名字"
-
-# From Engine: Nodes/Guild/PopOverview/PopOverviewPanel.tscn
-msgid "Lust"
-msgstr "性欲"
-
-# From Engine: Nodes/Guild/PopOverview/PopOverviewPanel.tscn
-msgid "Class"
-msgstr "职业"
-
-# From Engine: Nodes/Guild/PopOverview/PopOverviewPanel.tscn
-msgid "Desire"
-msgstr "欲望"
-
-# From Engine: Nodes/Guild/PopOverview/PopOverviewPanel.tscn
-msgid "Rarity"
-msgstr "稀有度"
-
-# From Engine: Nodes/Guild/PopOverview/PopOverviewPanel.tscn
-msgid "Experience"
-msgstr "经验"
-
-# From Engine: Nodes/Guild/PopOverview/PopOverviewPanel.tscn
-msgid "Experience Total"
-msgstr "总经验"
-
-# From Engine: Nodes/Guild/PopOverview/PopOverviewPanel.tscn
-msgid "Invert"
-msgstr "反转"
-
-# From Engine: Nodes/Guild/PopOverview/PopOverviewPanel.tscn
-msgid "Find..."
-msgstr "寻找..."
-
-# From Engine: Nodes/Guild/PopOverview/PopOverviewPanel.tscn
-msgid "Active Class"
-msgstr "可用职业"
-
-# From Engine: Nodes/Guild/PopOverview/PopOverviewPanel.tscn
-msgid "All Classes"
-msgstr "所有职业"
-
-# From Engine: Nodes/Guild/PopOverview/PopOverviewPanel.tscn
-msgid "Job"
-msgstr "工作"
-
-# From Engine: Nodes/Guild/PopOverview/PopOverviewPanel.tscn
-msgid "Parasite"
-msgstr "寄生虫"
-
-# From Engine: Nodes/Guild/PopOverview/PopOverviewPanel.tscn
-msgid "Crest"
-msgstr "印记"
-
-# From Engine: Nodes/Guild/PopOverview/PopOverviewPanel.tscn
-msgid "Hypnosis"
-msgstr "催眠"
-
-# From Engine: Nodes/Guild/PopPanel/ClassPopPanel.tscn
-msgid "Cannot switch classes."
-msgstr "无法切换职业。"
-
-# From Engine: Nodes/Guild/PopPanel/ClassPopPanel.tscn
-msgid "Upon switching classes, all class specific equipment will be unequipped, and all development goals will be rerolled. You keep the experience and levels in the current class if you ever switch back."
-msgstr "转换职业后，所有职业专用装备都将无法装备，所有发展目标都将被重置。当切换回当前职业时，当前职业的经验和等级会保留。"
-
-# From Engine: Nodes/Guild/PopPanel/ClassPopPanel.tscn
-msgid "Alchemist"
-msgstr "炼金术士"
-
-# From Engine: Nodes/Guild/PopPanel/ClassPopPanel.tscn
-msgid "Basic class"
-msgstr "基本职业"
-
-# From Engine: Nodes/Guild/PopPanel/ClassPopPanel.tscn
-msgid "Switch cost:"
-msgstr "切换职业消耗:"
-
-# From Engine: Nodes/Guild/PopPanel/ClassPopPanel.tscn
-msgid "50"
-msgstr "50"
-
-# From Engine: Nodes/Guild/PopPanel/ClassPopPanel.tscn
-msgid "Upgrade Points: 0"
-msgstr "升级点数: 0"
-
-# From Engine: Nodes/Guild/PopPanel/ClassPopPanel.tscn
-msgid "12/12"
-msgstr "12/12"
-
-# From Engine: Nodes/Guild/PopPanel/ClassPopPanel.tscn
-msgid "  Permanent:  "
-msgstr "  永久:  "
-
-# From Engine: Nodes/Guild/PopPanel/ClassPopPanel.tscn
-msgid "Reroll Goals: 30"
-msgstr "重置目标: 30"
-
-# From Engine: Nodes/Guild/PopPanel/ClassPopPanel.tscn
-msgid "Effects: Here"
-msgstr "影响: 这里"
-
-# From Engine: Nodes/Guild/PopPanel/Desire/DesirePopPanel.tscn
-msgid "Afflictions:"
-msgstr "折磨:"
-
-# From Engine: Nodes/Guild/PopPanel/EquipmentPopPanel.tscn
-msgid "Unequip excess %s."
-msgstr "解除多余的%s装备。"
-
-# From Engine: Nodes/Guild/PopPanel/EquipmentPopPanel.tscn
-msgid "CHARACTERNAME"
-msgstr "角色名称"
-
-# From Engine: Nodes/Guild/PopPanel/EquipmentPopPanel.tscn
-msgid "Loafing Around"
-msgstr "消磨时间"
-
-# From Engine: Nodes/Guild/PopPanel/EquipmentPopPanel.tscn
-msgid "Unequip all excess %s."
-msgstr "解除所有多余的%s装备。"
-
-# From Engine: Nodes/Guild/PopPanel/EquipmentPopPanel.tscn
-msgid "Search..."
-msgstr "查找..."
-
-# From Engine: Nodes/Guild/PopPanel/EquipmentPopPanel.tscn
-msgid "Filter Equipment.         "
-msgstr "筛选装备。         "
-
-# From Engine: Nodes/Guild/PopPanel/EquipmentPopPanel.tscn
-msgid "Shift-Click to permanently delete items."
-msgstr "点击Shift键可永久删除物品。"
-
-# From Engine: Nodes/Menu/MenuScene.tscn
-msgid "Ero Dungeons"
-msgstr "淫欲地牢"
-
-# From Engine: Nodes/Menu/MenuScene.tscn
-msgid "Start Campaign"
-msgstr "开始战役"
-
-# From Engine: Nodes/Menu/MenuScene.tscn
-msgid "VERSION"
-msgstr "版本"
-
-# From Engine: Nodes/Menu/MenuScene.tscn
-msgid " [DEBUG:TOUCH]"
-msgstr " [DEBUG:TOUCH]"
-
-# From Engine: Nodes/Menu/MenuScene.tscn
-msgid "Patch Loaded Successfully!"
-msgstr "补丁已成功加载！"
-
-# From Engine: Nodes/Menu/MenuScene.tscn
-msgid ""
-"This game engages in safe and consensual analytics.\n"
-"It sends data of your move choices, goals completed, etc, to help balance and improve the game.\n"
-"No personal data is sent or stored.\n"
-"You can change your choice in the settings."
-msgstr ""
-"本游戏进行安全且双方同意的分析。\n"
-"它会发送您的移动选择、目标完成情况等数据，以帮助平衡和改进游戏。\n"
-"不会发送或存储任何个人数据。\n"
-"您可以在设置中更改您的选择。"
-
-# From Engine: Nodes/Menu/MenuScene.tscn
-msgid "Accept"
-msgstr "接受"
-
-# From Engine: Nodes/Menu/MenuScene.tscn
-msgid "Don't Track Me"
-msgstr "不要追踪我"
-
-# From Engine: Nodes/Menu/MenuScene.tscn
-msgid "Disclaimer"
-msgstr "免责声明"
-
-# From Engine: Nodes/Menu/MenuScene.tscn
-msgid ""
-"This game contains pornographic and adult material and is intended for adult audiences ONLY. By continuing to play you are confirming that you are over the legal age to view such content and are agreeing to do so. If you do not agree, or are otherwise sensitive to any specific type of adult content which may be present in this game, please close the game now.\n"
-"\n"
-msgstr ""
-"This game contains pornographic and adult material and is intended for adult audiences ONLY. By continuing to play you are confirming that you are over the legal age to view such content and are agreeing to do so. If you do not agree, or are otherwise sensitive to any specific type of adult content which may be present in this game, please close the game now.\n"
-"\n"
-
-# From Engine: Nodes/Menu/MenuScene.tscn
-msgid ""
-"Inspired by fictional events and characters, this work of fiction was designed, developed, and produced by a multicultural team of various beliefs, sexual orientations and gender identities. All characters involved are guild licensed adventurers and over the age of 18.\n"
-"\n"
-msgstr ""
-"Inspired by fictional events and characters, this work of fiction was designed, developed, and produced by a multicultural team of various beliefs, sexual orientations and gender identities. All characters involved are guild licensed adventurers and over the age of 18.\n"
-"\n"
-
-# From Engine: Nodes/Menu/MenuScene.tscn
-msgid "I understand."
-msgstr "我明白了。"
-
-# From Engine: Nodes/Menu/ProfileSlot.tscn
-msgid "Day: %s"
-msgstr "天数: %s"
-
-# From Engine: Nodes/Menu/ProfileSlot.tscn
-msgid "This file is from the alpha, it should work (probably)."
-msgstr "该文件来自alpha测试版本，应该能用(大概)。"
-
-# From Engine: Nodes/Menu/ProfileSlot.tscn
-msgid "The Lewdest Guild"
-msgstr "淫荡公会"
-
-# From Engine: Nodes/Menu/ProfileSlot.tscn
-msgid "This save is from an older version and will not work!"
-msgstr "这个存档来自旧版本, 可能无法正常运行!"
-
-# From Engine: Nodes/Menu/ProfileSlot.tscn
-msgid "Click the crest to begin"
-msgstr "点击印记图标开始游戏"
-
-# From Engine: Nodes/Menu/Settings/SettingsPanel.tscn
-msgid "Settings"
-msgstr "设置"
-
-# From Engine: Nodes/Menu/Settings/SettingsPanel.tscn
-msgid "Hotkeys"
-msgstr "Hotkeys"
-
-# From Engine: Nodes/Menu/Settings/SettingsPanel.tscn
-msgid "Content"
-msgstr "Content"
-
-# From Engine: Nodes/Menu/Settings/SettingsPanel.tscn
-msgid "Some censorship options require a full restart."
-msgstr "部分和谐选项需要重新启动才可生效。"
-
-# From Engine: Nodes/Menu/Settings/SettingsPanel.tscn
-msgid "Report bugs, make suggestions, or talk about the game."
-msgstr "报告错误、提出建议或讨论游戏。"
-
-# From Engine: Nodes/Menu/Settings/SettingsPanel.tscn
-msgid "Gain access to more content, a debug console, and influence development of the game."
-msgstr "获取更多内容、调试控制台，并影响游戏开发。"
-
-# From Engine: Nodes/Menu/Toggles.tscn
-msgid "Quit to Desktop"
-msgstr "退出到桌面"
-
-# From Engine: Nodes/Menu/Toggles.tscn
-msgid "Disable Tutorial Quests"
-msgstr "关闭教程"
-
-# From Engine: Nodes/Menu/Toggles.tscn
-msgid "Disable Particles (prevents stutters on Web)"
-msgstr "关闭粒子效果(防止网页卡顿)"
-
-# From Engine: Nodes/Menu/Toggles.tscn
-msgid "Hide Subtitles"
-msgstr "隐藏字幕"
-
-# From Engine: Nodes/Menu/Toggles.tscn
-msgid "Colorblind Mode"
-msgstr "盲模式"
-
-# From Engine: Nodes/Menu/Toggles.tscn
-msgid "Fullscreen (F11)"
-msgstr "全屏(F11)"
-
-# From Engine: Nodes/Menu/Toggles.tscn
-msgid "Enable analytics upload"
-msgstr "启用分析数据上传"
-
-# From Engine: Nodes/Menu/Toggles.tscn
-msgid "Language:  "
-msgstr "语言:  "
-
-# From Engine: Nodes/Menu/Toggles.tscn
-msgid "Save & Return to Menu"
-msgstr "存档并返回主菜单"
-
-# From Engine: Nodes/Menu/Toggles.tscn
-msgid "Save & Quit to Desktop"
-msgstr "存档并退出到桌面"
-
-# From Engine: Nodes/Overworld/OverworldScene.tscn
-msgid "Embark"
-msgstr "开始"
-
-# From Engine: Nodes/Overworld/OverworldScene.tscn
-msgid "Select Mission"
-msgstr "选择任务"
-
-# From Engine: Nodes/Overworld/OverworldScene.tscn
-msgid "Return Home"
-msgstr "返回主页"
-
-# From Engine: Nodes/Utility/BugReportPanel.tscn
-msgid "  Name"
-msgstr "  名字"
-
-# From Engine: Nodes/Utility/BugReportPanel.tscn
-msgid "@discordname OR <email@example.org>"
-msgstr "@discordname 或 <email@example.org>"
-
-# From Engine: Nodes/Utility/BugReportPanel.tscn
-msgid "(optional)"
-msgstr "(可选)"
-
-# From Engine: Nodes/Utility/BugReportPanel.tscn
-msgid "  Error report:"
-msgstr "  错误报告:"
-
-# From Engine: Nodes/Utility/BugReportPanel.tscn
-msgid ""
-"What were you doing when this happened?\n"
-"What were you expecting to happen?\n"
-"What happened instead?"
-msgstr ""
-"当发生这个问题时你在做什么？\n"
-"你期望会发生什么？\n"
-"实际发生了什么？"
-
-# From Engine: Nodes/Utility/BugReportPanel.tscn
-msgid "Attachments: "
-msgstr "附件: "
-
-# From Engine: Nodes/Utility/BugReportPanel.tscn
-msgid "Screenshot"
-msgstr "截图"
-
-# From Engine: Nodes/Utility/BugReportPanel.tscn
-msgid "Log File"
-msgstr "日志文件"
-
-# From Engine: Nodes/Utility/BugReportPanel.tscn
-msgid "Save File"
-msgstr "存档文件"
-
-# From Engine: Nodes/Utility/BugReportPanel.tscn
-msgid "Send"
-msgstr "发送"
-
-# From Engine: Nodes/Utility/BugReportPanel.tscn
-msgid "Cancel"
-msgstr "取消"
-
-# From Engine: Nodes/Utility/BugReportPanel.tscn
-msgid ""
-"Upload failed, check your internet connection. \n"
-"You may also upload report.zip to the Discord server."
-msgstr ""
-"上传失败, 请检查你的网络连接。\n"
-"你也可以将report.zip上传到Discord服务器。"
-
-# From Engine: Nodes/Utility/Glossary/DotInfoBlock.gd
-msgid "Take damage per turn."
-msgstr "每回合受到伤害。"
-
-# From Engine: Nodes/Utility/Glossary/DotInfoBlock.gd
-msgid "Lust increases per turn."
-msgstr "每回合增加情欲。"
-
-# From Engine: Nodes/Utility/Glossary/DotInfoBlock.gd
-msgid "Regenerate health per turn."
-msgstr "每回合恢复生命值。"
-
-# From Engine: Nodes/Utility/Glossary/DotInfoBlock.gd
-msgid "Lose durability per turn."
-msgstr "每回合损失服装耐久度。"
-
-# From Engine: Nodes/Utility/Glossary/DotInfoBlock.gd
-msgid "Lust decreases per turn."
-msgstr "每回合减少情欲。"
-
-# From Engine: Nodes/Utility/Glossary/DotOverview.tscn
-msgid "Over Time Effects"
-msgstr "Over Time Effects"
-
-# From Engine: Nodes/Combat/RetreatPanel.gd
-msgid "Though %s has been safely transported to the guild, we are at a disadvantage."
-msgstr "Though %s has been safely transported to the guild, we are at a disadvantage."
-
-# From Engine: Nodes/Combat/RetreatPanel.gd
-msgid "The tide of battle seems to have turned against us, "
-msgstr "The tide of battle seems to have turned against us, "
-
-# From Engine: Nodes/Combat/RetreatPanel.gd
-msgid "%s has been captured by the enemy. "
-msgstr "%s has been captured by the enemy. "
-
-# From Engine: Nodes/Combat/RetreatPanel.gd
-msgid "She is lost for now, but we can always stage a rescue mission later. "
-msgstr "She is lost for now, but we can always stage a rescue mission later. "
-
-# From Engine: Nodes/Combat/RetreatPanel.gd
-msgid "It might be prudent to end the mission early and sound the retreat."
-msgstr "It might be prudent to end the mission early and sound the retreat."
-
-# From Engine: Nodes/Combat/RetreatPanel.gd
-msgid "Do you want to end the mission early and sound the retreat?"
-msgstr "Do you want to end the mission early and sound the retreat?"
-
-# From Engine: Autoload/Const.gd
-msgid "Novice"
-msgstr "新手"
-
-# From Engine: Autoload/Const.gd
-msgid "Adept"
-msgstr "熟练"
-
-# From Engine: Autoload/Const.gd
-msgid "Veteran"
-msgstr "老练"
-
-# From Engine: Autoload/Const.gd
-msgid "Elite"
-msgstr "精英"
-
-# From Engine: Autoload/Const.gd
-msgid "Door does not open from this side."
-msgstr "此门不能从这一侧打开。"
