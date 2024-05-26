@@ -5747,7 +5747,7 @@ msgstr "Semen Tank"
 # From Data: Enemies-Orcs-goblin-description
 msgctxt "Description of an enemy."
 msgid "The ruins are filled with goblins, filthy and deceitful creatures, with a lust far exceeding their size. Some scholars have suggested that goblins might be mutated humans, before being summarily executed."
-msgstr "废墟中到处都是地精，它们肮脏而狡诈，欲望远远超过了它们的体型。一些学者提出，地精可能是变异的人类，然后就被立即处死了。"
+msgstr "废墟中到处都是哥布林，它们肮脏而狡诈，欲望远远超过了它们的体型。一些学者提出，地精可能是变异的人类，然后就被立即处死了。"
 
 # From Data: Enemies-Orcs-goblin-name
 msgctxt "Name of an enemy."
@@ -9252,7 +9252,7 @@ msgstr "使用避孕套"
 # From Data: Playermoves-Provisions-cramps_move-name
 msgctxt "Name of a move."
 msgid "Cramps"
-msgstr "腹痛"
+msgstr "喷射"
 
 # From Data: Playermoves-Provisions-eject_enema-name
 msgctxt "Name of a move."
@@ -13780,7 +13780,7 @@ msgstr "奇数回合:"
 # From Data: Scripts-Conditionalscript-pale_skin-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "If Pale Skin:"
-msgstr "如果白皮肤:"
+msgstr "如果皮肤苍白:"
 
 # From Data: Scripts-Conditionalscript-parasite_max_phase-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -13805,7 +13805,7 @@ msgstr "若位置在 [PARAM] :"
 # From Data: Scripts-Conditionalscript-raven_hair-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "If Raven Hair:"
-msgstr "如果黑头发:"
+msgstr "如果头发漆黑:"
 
 # From Data: Scripts-Conditionalscript-slave_efficiency-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -17622,12 +17622,12 @@ msgstr "耐久"
 # From Data: Stats-Stats-FOR-acronym
 msgctxt "Acronym of a stat."
 msgid "FOR"
-msgstr "体质坚韧"
+msgstr "体质豁免检定"
 
 # From Data: Stats-Stats-FOR-name
 msgctxt "Name of a stat."
 msgid "Fortitude Save"
-msgstr "体质坚韧"
+msgstr "体质豁免检定"
 
 # From Data: Stats-Stats-HP-acronym
 msgctxt "Acronym of a stat."
@@ -17662,12 +17662,12 @@ msgstr "性欲"
 # From Data: Stats-Stats-REF-acronym
 msgctxt "Acronym of a stat."
 msgid "REF"
-msgstr "反应速度"
+msgstr "反应豁免检定"
 
 # From Data: Stats-Stats-REF-name
 msgctxt "Name of a stat."
 msgid "Reflex Save"
-msgstr "反应速度"
+msgstr "反应豁免检定"
 
 # From Data: Stats-Stats-SPD-acronym
 msgctxt "Acronym of a stat."
@@ -17692,12 +17692,12 @@ msgstr "力量"
 # From Data: Stats-Stats-WIL-acronym
 msgctxt "Acronym of a stat."
 msgid "WIL"
-msgstr "意志抵抗"
+msgstr "意志豁免检定"
 
 # From Data: Stats-Stats-WIL-name
 msgctxt "Name of a stat."
 msgid "Will Save"
-msgstr "意志抵抗"
+msgstr "意志豁免检定"
 
 # From Data: Stats-Stats-WIS-acronym
 msgctxt "Acronym of a stat."
@@ -17882,7 +17882,7 @@ msgstr "姿势训练"
 # From Data: Tokens-Gear-relief-name
 msgctxt "Name of a token."
 msgid "Relief"
-msgstr "缓解"
+msgstr "解脱"
 
 # From Data: Tokens-Horse-amble-name
 msgctxt "Name of a token."
@@ -18062,7 +18062,7 @@ msgstr "眩晕"
 # From Data: Tokens-MainTokens-taunt-name
 msgctxt "Name of a token."
 msgid "Taunt"
-msgstr "挑衅"
+msgstr "嘲讽"
 
 # From Data: Tokens-MainTokens-vuln-name
 msgctxt "Name of a token."
@@ -18117,12 +18117,12 @@ msgstr "茧缚"
 # From Data: Tokens-OtherTokens-cramps-name
 msgctxt "Name of a token."
 msgid "Cramps"
-msgstr "腹痛"
+msgstr "喷射"
 
 # From Data: Tokens-OtherTokens-denial-name
 msgctxt "Name of a token."
 msgid "Frustrated"
-msgstr "沮丧"
+msgstr "欲求不满"
 
 # From Data: Tokens-OtherTokens-divine-name
 msgctxt "Name of a token."
@@ -18152,17 +18152,17 @@ msgstr "丰满"
 # From Data: Tokens-OtherTokens-harden-name
 msgctxt "Name of a token."
 msgid "Harden"
-msgstr "硬度"
+msgstr "硬质化"
 
 # From Data: Tokens-OtherTokens-incubate-name
 msgctxt "Name of a token."
 msgid "Incubating"
-msgstr "孵化"
+msgstr "孵育中"
 
 # From Data: Tokens-OtherTokens-iron_horse-name
 msgctxt "Name of a token."
 msgid "USED FOR CURIO"
-msgstr "用于收藏"
+msgstr "用于贩卖"
 
 # From Data: Tokens-OtherTokens-latex-name
 msgctxt "Name of a token."
@@ -18172,12 +18172,12 @@ msgstr "乳胶化"
 # From Data: Tokens-OtherTokens-latex_cocoon-name
 msgctxt "Name of a token."
 msgid "Latex Cocoon"
-msgstr "乳胶包裹"
+msgstr "乳胶茧缚"
 
 # From Data: Tokens-OtherTokens-latex_cover-name
 msgctxt "Name of a token."
 msgid "Latex Cover"
-msgstr "Latex Cover"
+msgstr "乳胶包覆"
 
 # From Data: Tokens-OtherTokens-latex_puddle-name
 msgctxt "Name of a token."
@@ -18212,7 +18212,7 @@ msgstr "高潮"
 # From Data: Tokens-OtherTokens-permanent_estrus-name
 msgctxt "Name of a token."
 msgid "Permanent Estrus"
-msgstr "Permanent Estrus"
+msgstr "永久发情"
 
 # From Data: Tokens-OtherTokens-sit-name
 msgctxt "Name of a token."
@@ -18232,12 +18232,12 @@ msgstr "Aster"
 # From Data: Tokens-Seedbed-seedbed_lily-name
 msgctxt "Name of a token."
 msgid "Lily"
-msgstr "Lily"
+msgstr "百合"
 
 # From Data: Tokens-Seedbed-seedbed_tulip-name
 msgctxt "Name of a token."
 msgid "Tulip"
-msgstr "Tulip"
+msgstr "郁金香"
 
 # From Data: Traits-Traits-accomodating-name
 msgctxt "Name of a personality trait."
@@ -19526,7 +19526,7 @@ msgstr "隐形外套"
 # From Data: Wearables-2Common-coat_of_invisibility-text
 msgctxt "Description of a piece of equipment."
 msgid "While useful in combat, it is extremely hard to store these cloaks as they are - as the name implies - invisible."
-msgstr "While useful in combat, it is extremely hard to store these cloaks as they are - as the name implies - invisible."
+msgstr "虽然在战斗中很有用，但储存管理起来着实麻烦————看不见它放在哪里了."
 
 # From Data: Wearables-2Common-coat_of_visibility-name
 msgctxt "Name of a piece of equipment."
@@ -19556,7 +19556,7 @@ msgstr "节制手环"
 # From Data: Wearables-2Common-cuffs_of_temperance-text
 msgctxt "Description of a piece of equipment."
 msgid "A set of clerical cuffs that are meant to punish greed. The more wealth the wearer has, the more her pain gets amplified."
-msgstr "A set of clerical cuffs that are meant to punish greed. The more wealth the wearer has, the more her pain gets amplified."
+msgstr "一套用来惩罚贪婪的牧师手铐。佩戴者的财富越多，她的痛苦就越大."
 
 # From Data: Wearables-2Common-dildo_pants-name
 msgctxt "Name of a piece of equipment."
@@ -19681,7 +19681,7 @@ msgstr "鼻钩"
 # From Data: Wearables-2Common-nose_hook-text
 msgctxt "Description of a piece of equipment."
 msgid "A small metal hook, fastened around the wearer's head. It is inserted into her nostrils, pulling these upwards. It's primary purpose is humiliation. Well, it's only purpose is humiliation really."
-msgstr "A small metal hook, fastened around the wearer's head. It is inserted into her nostrils, pulling these upwards. It's primary purpose is humiliation. Well, it's only purpose is humiliation really."
+msgstr "一种小金属钩，系在佩戴者的头上，插入鼻孔，向上拉。它的主要作用是羞辱。好吧，唯一的作用就是羞辱。"
 
 # From Data: Wearables-2Common-pocketwatch-name
 msgctxt "Name of a piece of equipment."
@@ -19693,9 +19693,9 @@ msgctxt "Description of a piece of equipment."
 msgid "Tick...\n"
 "Tock...\n"
 "Time is running out."
-msgstr "Tick...\n"
-"Tock...\n"
-"Time is running out."
+msgstr "嘀...\n"
+"嗒...\n"
+"时间不多了."
 
 # From Data: Wearables-2Common-sealing_patch-name
 msgctxt "Name of a piece of equipment."
@@ -22078,12 +22078,12 @@ msgstr "会叫的狗不会咬人。"
 # From Data: Wearables-C4Pet-pet_contacts-name
 msgctxt "Name of a piece of equipment."
 msgid "Pet Contacts"
-msgstr "宠物联系物"
+msgstr "母狗美瞳"
 
 # From Data: Wearables-C4Pet-pet_contacts-text
 msgctxt "Description of a piece of equipment."
 msgid "These contacts change the wearer's vision to be more dog-like. It muddles the colors and weakens peripheral vision but makes her very perceptive to sudden motions."
-msgstr "These contacts change the wearer's vision to be more dog-like. It muddles the colors and weakens peripheral vision but makes her very perceptive to sudden motions."
+msgstr "这个美瞳将佩戴者的视觉变得更像狗的视觉.它会模糊颜色，削弱周围视野，但能够使佩戴者对突然的运动非常敏感"
 
 # From Data: Wearables-C4Pet-puppy_suit-name
 msgctxt "Name of a piece of equipment."
@@ -22093,7 +22093,7 @@ msgstr "小狗宠物服"
 # From Data: Wearables-C4Pet-puppy_suit-text
 msgctxt "Description of a piece of equipment."
 msgid "A brown full body suit. It helps keep your pet warm and cozy."
-msgstr "A brown full body suit. It helps keep your pet warm and cozy."
+msgstr "一件棕色全身服装，它能让您的宠物保持温暖舒适。"
 
 # From Data: Wearables-C4Pet-rubber_collar-name
 msgctxt "Name of a piece of equipment."
@@ -22913,7 +22913,7 @@ msgstr "战士，帝国的武装之臂。"
 # From Data: Wearables-D4Crowns-crown_of_accomodation-name
 msgctxt "Name of a piece of equipment."
 msgid "Crown of Accomodation"
-msgstr "适应之冠"
+msgstr "屈从之冠"
 
 # From Data: Wearables-D4Crowns-crown_of_accomodation-text
 msgctxt "Description of a piece of equipment."
