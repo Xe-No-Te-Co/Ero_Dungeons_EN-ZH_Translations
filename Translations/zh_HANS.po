@@ -3608,7 +3608,7 @@ msgstr "乳胶铸模"
 # From Data: Encounters-Boss4-boss4-name
 msgctxt "Name of a combat encounter."
 msgid "The Seedbed"
-msgstr ""
+msgstr "播种苗床"
 
 # From Data: Encounters-Boss4-boss4_lab-name
 msgctxt "Name of a combat encounter."
@@ -23719,7 +23719,7 @@ msgstr "存档并退出到桌面"
 
 # From Engine: Nodes/Overworld/OverworldScene.tscn
 msgid "Embark"
-msgstr "开始"
+msgstr "出击！"
 
 # From Engine: Nodes/Overworld/OverworldScene.tscn
 msgid "Select Mission"
@@ -24556,3 +24556,111 @@ msgctxt "Name of an adventurer."
 msgid "Yui"
 msgstr "由衣"
 
+msgid "Dismiss Adventurer"
+msgstr "解雇冒险者"
+
+msgid "Quests"
+msgstr "任务"
+
+msgid "Tutorial Quests"
+msgstr "教程任务"
+
+msgid "Mission Requests"
+msgstr "委托"
+
+msgid "Bestiary"
+msgstr "怪物图鉴"
+
+msgid "Catalog"
+msgstr "物品图鉴"
+
+msgid "Curio Log"
+msgstr "事件日志"
+
+msgid "Class Log"
+msgstr "职业图鉴"
+
+msgid "Encyclopedia"
+msgstr "新手指南"
+
+msgid "Tokens"
+msgstr "状态标记"
+
+msgid "DoTs/Crests"
+msgstr "持续伤害/淫纹"
+
+msgid "Venture Forth"
+msgstr "开始冒险"
+
+msgid "Idle"
+msgstr "闲置中"
+
+msgid "Adventuring"
+msgstr "冒险中"
+
+msgid "Favorites:"
+msgstr "收藏队员"
+
+msgid "Idle:"
+msgstr "闲置中"
+
+msgid "Adventuring:"
+msgstr "冒险中"
+
+msgid "Employed:"
+msgstr "工作中"
+
+msgid "Arrivals"
+msgstr "抵达"
+
+msgid "Stables"
+msgstr "马厩"
+
+msgid "Recruits"
+msgstr "新兵招募"
+
+msgid "Training"
+msgstr "训练场"
+
+msgid "Kennels"
+msgstr "猎犬舍"
+
+msgid "Maximum Morale"
+msgstr "最大士气"
+
+msgid "Provisions"
+msgstr "补给"
+
+msgid "Scouting"
+msgstr "侦查"
+
+msgid "Barn"
+msgstr "粮仓"
+
+msgid "Roster"
+msgstr "队员名单"
+
+# not working
+msgctxt "Name of a building upgrade."
+msgid "Maid Support"
+msgstr "女仆援气"
+
+# not working
+msgid "Mission Count"
+msgstr "任务搜寻数量"
+
+# not working
+msgid "Roster Size"
+msgstr "冒险者上限"
+
+# not working
+msgid "Starting Level"
+msgstr "初始等级"
+
+# not working
+msgid "Maximum Trainable Stat"
+msgstr "训练属性上限"
+
+# not working
+msgid "Previous Party"
+msgstr "先前阵容"
