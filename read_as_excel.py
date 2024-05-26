@@ -25,6 +25,8 @@ def merge_po_files(simplified_po, traditional_po):
         msgid, msgctxt = key
         simp_translation = simplified_po.get(key, '')
         trad_translation = traditional_po.get(key, '')
+        if msgid == "":
+            continue
         merged_entries.append([msgctxt, msgid, trad_translation, simp_translation])
     
     return merged_entries
@@ -60,7 +62,7 @@ def export_to_excel(data, output_path):
 
 # 文件路径
 simplified_po_path = './Translations/zh_HANS.po'
-traditional_po_path = './Translations/zh_TW.po'
+traditional_po_path = './Translations/zh_TW2CN.po'
 output_excel_path = 'merged_translations.xlsx'
 
 # 读取po文件
