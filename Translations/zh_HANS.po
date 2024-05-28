@@ -5036,7 +5036,7 @@ msgstr "当你将鼠标悬停在行动上时，屏幕左下角会显示一个简
 "你也可以看到可以使用该行动的位置，以及它能生效的范围。\n"
 "\n"
 "信息中也包含了行动的简要描述。一开始可能看起来有些难懂，但你很快就会习惯的。\n"
-"例如，”添加：状态”意味着该行动会添加一个状态标记， “向前：1”意味着该行动会让你向前移动1格。"
+"例如，”添加：状态标记”意味着该行动会添加一个状态标记， “向前：1”意味着该行动会让你向前移动1格。"
 
 # From Data: Encyclopedia-Encyclopedia-move_selection-name
 msgctxt "Name of a tutorial."
@@ -5218,7 +5218,7 @@ msgid "During combat, buffs and debuffs are handled with \"tokens\". These are s
 "\n"
 "Be sure to hover over any new tokens you see, as they are an important part of combat. You can view a complete overview of all tokens in the Glossary, right next to where you can review all these tutorials."
 msgstr "在战斗中，增益和减益效果状态以图标的形式显示在生命条下方，为玩家提供buff或debuff。\n"
-"例如，那个在鼠人战士身上的标记叫做“格挡+”, 它为她提供下一次受到的攻击75%的伤害减免。\n"
+"例如，那个在鼠人战士身上的状态标记叫做“格挡+”, 它为她提供下一次受到的攻击75%的伤害减免。\n"
 "标记会随时间消失，或者在被触发时消失。因此,攻击那个鼠人会移除该标记，等待3回合让它自己消失也一样。\n"
 "\n"
 "一定要将鼠标悬停在任何你看到的新标记上，因为它们是战斗的重要组成部分。\n"
@@ -9252,7 +9252,7 @@ msgstr "使用避孕套"
 # From Data: Playermoves-Provisions-cramps_move-name
 msgctxt "Name of a move."
 msgid "Cramps"
-msgstr "喷射"
+msgstr "排泄感"
 
 # From Data: Playermoves-Provisions-eject_enema-name
 msgctxt "Name of a move."
@@ -9899,7 +9899,7 @@ msgstr "精英游侠"
 # From Data: Quests-ClassQuests-ranger_elite-text
 msgctxt "Description of a quest."
 msgid "Removing enemy tokens is extremely powerful. However, you don't need a specialized move for that. Multi-target moves will clear tokens very efficiently."
-msgstr "移除敌人的状态是非常强大的。然而，你不需要特地这么做。多目标的行动将非常有效地清除各种状态。"
+msgstr "移除敌人的状态标记是非常强大的。然而，你不需要特地这么做。多目标的行动将非常有效地清除各种状态标记。"
 
 # From Data: Quests-ClassQuests-ranger_veteran-name
 msgctxt "Name of a quest."
@@ -10029,7 +10029,7 @@ msgstr "仆人"
 # From Data: Quests-DungeonQuests-class_maid-text
 msgctxt "Description of a quest."
 msgid "While a maid lacks any noticeable offence, she's great at cleaning up enemy tokens. Her massages are heavenly as well. And if she fails on the battlefield she can always keep the barracks tidy."
-msgstr "女仆虽然缺少显著的抵抗能力，但她很擅长清除敌人的状态。她的按摩也是天堂般的享受。如果她在战场上失败了，也还是能去扫扫营房。"
+msgstr "女仆虽然缺少显著的抵抗能力，但她很擅长清除敌人的状态标记。她的按摩也是天堂般的享受。如果她在战场上失败了，也还是能去扫扫营房。"
 
 # From Data: Quests-DungeonQuests-class_pet-name
 msgctxt "Name of a quest."
@@ -10815,7 +10815,7 @@ msgstr "附加任何状态标记。"
 # From Data: QuestTutorials-QuestTutorials-apply_a_token-text
 msgctxt "Description of a tutorial quest"
 msgid "All combat debuffs are handled through tokens. These show up below the characters in combat, hover over them for further information."
-msgstr "所有战斗增益/减益都通过状态标记来表示。这些标记会显示在战斗中角色的下方，悬停在标记上可获得更多信息。"
+msgstr "所有战斗增益/减益都通过状态标记来表示。这些状态标记会显示在战斗中角色的下方，悬停在标记上可获得更多信息。"
 
 # From Data: QuestTutorials-QuestTutorials-assemble_a_party-name
 msgctxt "Name of a tutorial quest"
@@ -11285,7 +11285,7 @@ msgstr "使用范围攻击招式。"
 # From Data: QuestTutorials-QuestTutorials-use_an_aoe-text
 msgctxt "Description of a tutorial quest"
 msgid "Some moves target multiple enemies, they bypass stealth and taunt tokens. Don't know what those are? Check the token encyclopedia."
-msgstr "有些招式会针对多个敌人，会绕过隐身和嘲讽标记。不知道这些是什么？请查阅令牌百科全书。"
+msgstr "有些招式会针对多个敌人，会绕过隐身和嘲讽状态标记。不知道这些是什么？请查阅状态标记百科全书。"
 
 # From Data: QuestTutorials-QuestTutorials-wait_for_corruption-name
 msgctxt "Name of a tutorial quest"
@@ -12860,7 +12860,7 @@ msgstr "移除怪癖: [PARAM]"
 # From Data: Scripts-Actionscript-remove_token-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Remove token: [PARAM]"
-msgstr "移除状态: [PARAM]"
+msgstr "移除状态标记: [PARAM]"
 
 # From Data: Scripts-Actionscript-replace_all_traits-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -12920,7 +12920,7 @@ msgstr "深入房间。"
 # From Data: Scripts-Actionscript-token-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Add token: [PARAM]"
-msgstr "添加状态: [PARAM]"
+msgstr "添加状态标记: [PARAM]"
 
 # From Data: Scripts-Actionscript-undress-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -13965,7 +13965,7 @@ msgstr "每 [PARAM] 受暗示度:"
 # From Data: Scripts-Counterscript-token_type-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Per [PARAM] token:"
-msgstr "每个 [PARAM] 状态 :"
+msgstr "每个 [PARAM] 状态标记 :"
 
 # From Data: Scripts-Counterscript-wear_from_set-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -14055,7 +14055,7 @@ msgstr "有角色拥有怪癖: [PARAM]"
 # From Data: Scripts-Curioreqscript-has_token-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Has token: [PARAM]"
-msgstr "带有状态 : [PARAM]"
+msgstr "带有状态标记 : [PARAM]"
 
 # From Data: Scripts-Curioreqscript-min_dungeon_difficulty-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -14110,7 +14110,7 @@ msgstr "没有人拥有怪癖: [PARAM]"
 # From Data: Scripts-Curioreqscript-no_token-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "No token: [PARAM]"
-msgstr "没有状态 : [PARAM]"
+msgstr "没有状态标记 : [PARAM]"
 
 # From Data: Scripts-Curioreqscript-not_preset-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -14256,7 +14256,7 @@ msgstr "移除怪癖 [PARAM]."
 # From Data: Scripts-Dayscript-remove_tokens-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Remove all tokens: [PARAM]"
-msgstr "移除所有状态 : [PARAM]"
+msgstr "移除所有状态标记 : [PARAM]"
 
 # From Data: Scripts-Dayscript-set_suggestion-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -14281,7 +14281,7 @@ msgstr "失去催眠的概率: [PARAM:plus]"
 # From Data: Scripts-Dayscript-tokens-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Add tokens: [PARAM]"
-msgstr "添加状态 : [PARAM]"
+msgstr "添加状态标记 : [PARAM]"
 
 # From Data: Scripts-Goalscript-affliction-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -14521,17 +14521,17 @@ msgstr "受到 [PARAM] 伤害:"
 # From Data: Scripts-Goalscript-token_count-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Start turn with [PARAM] [PARAM1] tokens:"
-msgstr "回合开始时拥有 [PARAM] 个 [PARAM1]:"
+msgstr "回合开始时拥有 [PARAM] 个 [PARAM1] 状态标记:"
 
 # From Data: Scripts-Goalscript-token_turns-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Start turns with token [PARAM]:"
-msgstr "回合开始时拥有 [PARAM]:"
+msgstr "回合开始时拥有 [PARAM] 状态标记:"
 
 # From Data: Scripts-Goalscript-tokens-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Get [PARAM] tokens:"
-msgstr "获得 [PARAM] :"
+msgstr "获得 [PARAM] 状态标记:"
 
 # From Data: Scripts-Hallscript-all-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -14551,17 +14551,17 @@ msgstr "地牢是 [PARAM]x[PARAM1] 的网格, 每清理 [PARAM2] 个房间, 有 
 # From Data: Scripts-Moveaiscript-any_defensive_tokens-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Target has any positive defensive token"
-msgstr "目标有正面的防御状态"
+msgstr "目标有正面的防御性状态标记"
 
 # From Data: Scripts-Moveaiscript-any_negative_tokens-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Target has any negative token"
-msgstr "目标有负面的状态"
+msgstr "目标有负面的状态标记"
 
 # From Data: Scripts-Moveaiscript-any_positive_tokens-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Target has any positive token"
-msgstr "目标有正面的状态"
+msgstr "目标有正面的状态标记"
 
 # From Data: Scripts-Moveaiscript-can_equip-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -14691,7 +14691,7 @@ msgstr "没有ID为 [PARAM] 的盟友"
 # From Data: Scripts-Moveaiscript-no_ally_tokens-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "No ally has tokens: [PARAM]"
-msgstr "没有盟友拥有状态: [PARAM]"
+msgstr "没有盟友拥有状态标记: [PARAM]"
 
 # From Data: Scripts-Moveaiscript-no_alt-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -14701,7 +14701,7 @@ msgstr "如果不是 [PARAM]."
 # From Data: Scripts-Moveaiscript-no_enemy_tokens-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "No enemy has tokens: [PARAM]"
-msgstr "没有敌人拥有状态: [PARAM]"
+msgstr "没有敌人拥有状态标记: [PARAM]"
 
 # From Data: Scripts-Moveaiscript-no_target_parasite-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -14711,12 +14711,12 @@ msgstr "目标没有寄生虫。"
 # From Data: Scripts-Moveaiscript-no_target_tokens-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Target does not have tokens: [PARAM]"
-msgstr "目标没有状态: [PARAM]"
+msgstr "目标没有状态标记: [PARAM]"
 
 # From Data: Scripts-Moveaiscript-no_tokens-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "User does not have tokens: [PARAM]"
-msgstr "自身没有状态: [PARAM]"
+msgstr "自身没有状态标记: [PARAM]"
 
 # From Data: Scripts-Moveaiscript-not_preset-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -14746,12 +14746,12 @@ msgstr "带有持续伤害: [PARAM]"
 # From Data: Scripts-Moveaiscript-self_token_count-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Has token: [PARAM] (x[PARAM1])"
-msgstr "带有状态 : [PARAM] (x [PARAM1])"
+msgstr "带有状态标记 : [PARAM] (x [PARAM1])"
 
 # From Data: Scripts-Moveaiscript-self_tokens-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Has tokens: [PARAM]"
-msgstr "带有状态 : [PARAM]"
+msgstr "带有状态标记 : [PARAM]"
 
 # From Data: Scripts-Moveaiscript-target_ID-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -14791,7 +14791,7 @@ msgstr "目标类型: [PARAM]"
 # From Data: Scripts-Moveaiscript-tokens-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Target tokens: [PARAM]"
-msgstr "目标状态: [PARAM]"
+msgstr "目标状态标记: [PARAM]"
 
 # From Data: Scripts-Movescript-add_boob_size-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -14821,7 +14821,7 @@ msgstr "添加随机寄生虫至目标。"
 # From Data: Scripts-Movescript-add_token_of_type-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Add random [PARAM] token"
-msgstr "随机添加[PARAM]状态"
+msgstr "随机添加 [PARAM] 状态标记"
 
 # From Data: Scripts-Movescript-add_turn-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -14981,12 +14981,12 @@ msgstr "添加催眠"
 # From Data: Scripts-Movescript-ignore_defensive_tokens-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Bypasses defensive tokens."
-msgstr "绕开防御性的状态。"
+msgstr "绕开防御性状态标记。"
 
 # From Data: Scripts-Movescript-ignore_tokens-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Ignore tokens: [PARAM]"
-msgstr "忽略状态: [PARAM]"
+msgstr "忽略状态标记: [PARAM]"
 
 # From Data: Scripts-Movescript-leech-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -15036,7 +15036,7 @@ msgstr "免疫强制行动"
 # From Data: Scripts-Movescript-random_positive_token-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Add a random positive token."
-msgstr "添加随机正面状态 。"
+msgstr "添加随机正面状态标记。"
 
 # From Data: Scripts-Movescript-random_token-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -15066,12 +15066,12 @@ msgstr "移除物品 : [PARAM]"
 # From Data: Scripts-Movescript-remove_negative_tokens-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Remove all negative tokens"
-msgstr "移除全部负面状态"
+msgstr "移除全部负面状态标记"
 
 # From Data: Scripts-Movescript-remove_positive_tokens-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Remove all positive tokens"
-msgstr "移除全部正面状态"
+msgstr "移除全部正面状态标记"
 
 # From Data: Scripts-Movescript-remove_provision-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -15081,7 +15081,7 @@ msgstr "从背包中移除[PARAM]。"
 # From Data: Scripts-Movescript-remove_token_of_type-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Remove random [PARAM] token"
-msgstr "随机移除[PARAM]状态"
+msgstr "随机移除[PARAM]状态标记"
 
 # From Data: Scripts-Movescript-remove_tokens-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -16119,7 +16119,7 @@ msgstr "免疫: [PARAM]"
 # From Data: Scripts-Scriptablescript-prevent_tokens-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Prevent tokens: [PARAM]"
-msgstr "免疫状态: [PARAM]"
+msgstr "免疫状态标记: [PARAM]"
 
 # From Data: Scripts-Scriptablescript-provision_efficiency-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -16990,7 +16990,7 @@ msgstr "将不会被触发。"
 # From Data: Scripts-Voicescript-on_buff-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Triggers when getting a positive token from an ally."
-msgstr "当从队友那里得到正面状态时触发。"
+msgstr "当从队友那里得到正面状态标记时触发。"
 
 # From Data: Scripts-Voicescript-on_building_entered-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -17200,7 +17200,7 @@ msgstr "移除一个负面怪癖 ([PARAM])"
 # From Data: Scripts-Whenscript-remove_negative_tokens-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Remove all negative tokens."
-msgstr "移除所有负面状态 。"
+msgstr "移除所有负面状态标记。"
 
 # From Data: Scripts-Whenscript-remove_positive_quirk-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -17210,7 +17210,7 @@ msgstr "移除一个正面怪癖 ([PARAM])"
 # From Data: Scripts-Whenscript-remove_positive_tokens-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Remove all positive tokens."
-msgstr "移除所有正面状态 。"
+msgstr "移除所有正面状态标记。"
 
 # From Data: Scripts-Whenscript-remove_tokens-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -18117,7 +18117,7 @@ msgstr "茧缚"
 # From Data: Tokens-OtherTokens-cramps-name
 msgctxt "Name of a token."
 msgid "Cramps"
-msgstr "喷射"
+msgstr "排泄感"
 
 # From Data: Tokens-OtherTokens-denial-name
 msgctxt "Name of a token."
