@@ -560,7 +560,7 @@ msgstr "强制执行"
 # From Data: Buildings-Buildings-barracks-name
 msgctxt "Name of a building."
 msgid "Barracks"
-msgstr "冒险者营地"
+msgstr "兵营"
 
 # From Data: Buildings-Buildings-church-name
 msgctxt "Name of a building."
@@ -4575,15 +4575,15 @@ msgstr "公会大厅是家园的核心建筑，主要用于解锁其他建筑和
 # From Data: Encyclopedia-Encyclopedia-b2_barracks-name
 msgctxt "Name of a tutorial."
 msgid "The Barracks"
-msgstr "冒险者营地"
+msgstr "兵营"
 
 # From Data: Encyclopedia-Encyclopedia-b2_barracks-text
 msgctxt "Explanation of a tutorial."
 msgid "Fully upgraded (click on the icon at top left next to the word ‘barracks’) the barracks can increase your roster size to 44 or more. Additional upgrades increase starting morale of adventurers - and you can add maid slots up to a maximum of three.\n"
 "\n"
 "The maids clean the barracks - or so they say, know one knows what really goes on in there, but there are all kinds of muffled noises, so join the dots. Putting the most highly upgraded maids you have into these slots is worth it because each one makes an additional contribution to maximum morale."
-msgstr "冒险者营地是冒险者们居住的地方。\n"
-"升满级后(点击左上角 \"冒险者营地 \"旁边的图标)，营地可以将队伍最大规模增加到 44 人或更多。\n"
+msgstr "兵营是冒险者们居住的地方。\n"
+"升满级后(点击左上角 \"兵营 \"旁边的图标)，营地可以将队伍最大规模增加到 44 人或更多。\n"
 "升级可以提高冒险者的起始士气，你最多可以增加三个女仆岗位。\n"
 "女仆们负责打扫营地(她们是这么说的，没人知道里面到底发生了什么)。\n"
 "每个女仆都会增加最大士气值上限，所以建议将你拥有的等级最高的女仆放进来。"
@@ -7382,12 +7382,12 @@ msgstr "猎犬"
 # From Data: Jobs-Jobs-realignment-name
 msgctxt "Name of the name of an adventurer performing a job."
 msgid "Realignment"
-msgstr "重组"
+msgstr "性格矫正"
 
 # From Data: Jobs-Jobs-realignment-plural
 msgctxt "Plural of the name of an adventurer performing a job."
 msgid "Realignment Patients"
-msgstr "重组病人"
+msgstr "性格矫正病人"
 
 # From Data: Jobs-Jobs-recruit-name
 msgctxt "Name of the name of an adventurer performing a job."
@@ -24556,9 +24556,7 @@ msgctxt "Name of an adventurer."
 msgid "Yui"
 msgstr "由衣"
 
-msgid "Dismiss Adventurer"
-msgstr "解雇冒险者"
-
+# ----Helper UI
 msgid "Quests"
 msgstr "任务"
 
@@ -24589,8 +24587,9 @@ msgstr "状态标记"
 msgid "DoTs/Crests"
 msgstr "持续伤害/淫纹"
 
-msgid "Venture Forth"
-msgstr "开始冒险"
+# ----Character manage UI
+msgid "Dismiss Adventurer"
+msgstr "解雇冒险者"
 
 msgid "Idle"
 msgstr "闲置中"
@@ -24610,6 +24609,92 @@ msgstr "冒险中"
 msgid "Employed:"
 msgstr "工作中"
 
+# ----Guild and overworld UI
+msgid "Overworld"
+msgstr "世界地图"
+
+msgid "Venture Forth"
+msgstr "开始冒险"
+
+# not working
+msgid "Previous Party"
+msgstr "先前阵容"
+
+# ----Barracks
+msgid "Roster Size"
+msgstr "冒险者上限"
+
+msgid "Starting Morale"
+msgstr "初始士气"
+
+msgid "Maid Support"
+msgstr "女仆援气"
+
+msgid "Maximum Morale"
+msgstr "最大士气"
+
+msgid "From Barracks Facilities"
+msgstr "来自"
+
+msgid "Maids"
+msgstr "女仆"
+
+
+# ----Farmstead
+msgid "Cows"
+msgstr "奶牛"
+
+msgid "Slaves"
+msgstr "奴隶"
+
+msgid "Liters per day: [PARAM]"
+msgstr "每天挤奶升数： [PARAM]"
+
+msgid "Extra Provisions: [PARAM]"
+msgstr "额外补给： [PARAM]"
+
+msgid "Provisions are added at the start of the day."
+msgstr "补给每天开始时刷新。"
+
+# ----Guild Hall(translation item from other building wont show here) 
+msgid "Mission Count"
+msgstr "任务搜寻数量"
+
+msgid "Roster"
+msgstr "任务搜寻数量"
+
+msgid "Jobs"
+msgstr "工作"
+
+msgid "Starting Level"
+msgstr "初始等级"
+
+msgid "Maximum Trainable Stat"
+msgstr "训练属性上限"
+
+msgid "Maid Support"
+msgstr "女仆援气"
+
+msgid "Mission Count"
+msgstr "任务搜寻数量"
+
+msgid "Roster Size"
+msgstr "冒险者上限"
+
+msgid "Starting Level"
+msgstr "初始等级"
+
+msgid "Maximum Trainable Stat"
+msgstr "训练属性上限"
+
+msgid "Unlimited Roster"
+msgstr "无限队员"
+
+msgid "Starting stats: Roll [PARAM], [PARAM1]-sided dice, remove the [PARAM2] lowest ones."
+msgstr "初始属性：投掷 [PARAM] 个 [PARAM1] 边骰子，移除 [PARAM2] 个最低的."
+
+
+# ----Stagecoach
 msgid "Arrivals"
 msgstr "抵达"
 
@@ -24625,9 +24710,35 @@ msgstr "训练场"
 msgid "Kennels"
 msgstr "猎犬舍"
 
-msgid "Maximum Morale"
-msgstr "最大士气"
+msgid "Due to the effort of your ponygirls, these recruits have between [PARAM] and [PARAM1] free skill points."
+msgstr "由于您小马姑娘们的努力，这些招募的新兵拥有[PARAM] ~ [PARAM1]点免费技能点：[PARAM] ~ [PARAM1]。"
 
+msgid "Their stat distribution will be as follow:"
+msgstr "队员属性分布如下："
+
+msgid "Ponygirls improve the quality of the stagecoach network.Tomorrow's recruits will have between [PARAM]  and [PARAM1] free skill points."
+msgstr "小马姑娘能提高驿站网络的质量。明天招募的新兵将有[PARAM] ~ [PARAM1]点免费技能点。"
+
+
+# ----Church
+msgid "Curse Removal"
+msgstr "移除诅咒"
+
+# From Data: Jobs-Jobs-prayer-plural (existing working translation)
+# msgctxt "Plural of the name of an adventurer performing a job."
+msgid "Prayers"
+msgstr "祈祷"
+
+msgid "Realignment"
+msgstr "性格矫正"
+
+# existing working translation
+# msgctxt "Plural of the name of an adventurer performing a job."
+msgid "Realignment Patients"
+msgstr "性格矫正病人"
+
+
+# ----Embark UI
 msgid "Provisions"
 msgstr "补给"
 
@@ -24640,27 +24751,3 @@ msgstr "粮仓"
 msgid "Roster"
 msgstr "队员名单"
 
-# not working
-msgctxt "Name of a building upgrade."
-msgid "Maid Support"
-msgstr "女仆援气"
-
-# not working
-msgid "Mission Count"
-msgstr "任务搜寻数量"
-
-# not working
-msgid "Roster Size"
-msgstr "冒险者上限"
-
-# not working
-msgid "Starting Level"
-msgstr "初始等级"
-
-# not working
-msgid "Maximum Trainable Stat"
-msgstr "训练属性上限"
-
-# not working
-msgid "Previous Party"
-msgstr "先前阵容"
