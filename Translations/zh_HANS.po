@@ -24643,7 +24643,7 @@ msgid "Maids"
 msgstr "女仆"
 
 msgid "Maid Jobs"
-msgstr "女仆容量"
+msgstr "女仆槽位"
 
 
 # ----Farmstead
@@ -24666,10 +24666,10 @@ msgid "Provision Points"
 msgstr "补给点数"
 
 msgid "Cow Slots"
-msgstr "奶牛容量"
+msgstr "奶牛槽位"
 
 msgid "Slave Slots"
-msgstr "奴隶容量"
+msgstr "奴隶槽位"
 
 msgid "Carry Capacity"
 msgstr "负重能力"
@@ -24751,39 +24751,39 @@ msgstr "基础属性"
 msgid "More Recruits"
 msgstr "更多招募"
 
-msgid "Ponygirls Slots"
-msgstr "马奴容量"
+msgid "Ponygirl Slots"
+msgstr "马奴槽位"
 
 # ----Tavern
 msgid "Tavern Efficiency"
 msgstr "酒馆效率"
 
 msgid "Taverneer Slots"
-msgstr "陪酒容量"
+msgstr "陪酒槽位"
 
 # ----TrainingField
 msgid "Max Train Level"
 msgstr "最大训练等级"
 
 msgid "Train Slots"
-msgstr "学员容量"
+msgstr "学员槽位"
 
 msgid "Puppy Slots"
-msgstr "猎犬容量"
+msgstr "猎犬槽位"
 
 # ----Mental Ward
 msgid "Ward Slots"
-msgstr "病人容量"
+msgstr "病人槽位"
 
 msgid "Mantra Slots"
-msgstr "催眠容量"
+msgstr "催眠槽位"
 
 # ----Nursery育虫屋
 msgid "Extraction Slots"
-msgstr "提取容量"
+msgstr "提取槽位"
 
 msgid "Seedbed Slots"
-msgstr "苗床容量"
+msgstr "苗床槽位"
 
 msgid "Parasite Profit"
 msgstr "寄生虫利润"
@@ -24822,10 +24822,10 @@ msgid "Church Uncurse Unlock"
 msgstr "圣堂净化诅咒"
 
 msgid "Realignment Slots"
-msgstr "性格矫正容量"
+msgstr "性格矫正槽位"
 
 msgid "Church Slots"
-msgstr "圣堂追忆容量"
+msgstr "圣堂追忆槽位"
 
 msgid "Curse Removal"
 msgstr "移除诅咒"
