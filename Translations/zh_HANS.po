@@ -12765,7 +12765,7 @@ msgstr "强制装备 [PARAM]。"
 # From Data: Scripts-Actionscript-full_heal-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Fully heal adventurer."
-msgstr "完全治愈所有冒险者。"
+msgstr "完全治愈该冒险者。"
 
 # From Data: Scripts-Actionscript-heal_all-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -13095,7 +13095,7 @@ msgstr "解锁 [PARAM]"
 # From Data: Scripts-Buildingscript-church_slots-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Permanent Saveslots: [PARAM]"
-msgstr "永久固定插槽: [PARAM]"
+msgstr "永久固定存档槽位: [PARAM]"
 
 # From Data: Scripts-Buildingscript-church_uncurse_cost-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -13255,7 +13255,7 @@ msgstr "手术成功率: [PARAM]"
 # From Data: Scripts-Buildingscript-surgery_unlock-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Unlock Operation: [PARAM]"
-msgstr "解锁操作 : [PARAM]"
+msgstr "解锁手术 : [PARAM]"
 
 # From Data: Scripts-Buildingscript-train_stat_as_defined-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -14421,7 +14421,7 @@ msgstr "提高 [PARAM]:"
 # From Data: Scripts-Goalscript-get_healed-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
 msgid "Receive [PARAM] [ICON:heal_type] healing:"
-msgstr "收到 [PARAM] [ICON:heal_type] 治疗 :"
+msgstr "受到治疗 [PARAM] [ICON:heal_type]:"
 
 # From Data: Scripts-Goalscript-heal-short
 msgctxt "Explanation of a script (shows in tooltips, do not replace anything between [brackets])."
@@ -24624,20 +24624,26 @@ msgstr "先前阵容"
 msgid "Roster Size"
 msgstr "冒险者上限"
 
+msgid "Roster Size:"
+msgstr "冒险者上限："
+
 msgid "Starting Morale"
 msgstr "初始士气"
 
-msgid "Maid Support"
-msgstr "女仆援气"
+msgid "Maid Support:"
+msgstr "女仆援气："
 
-msgid "Maximum Morale"
-msgstr "最大士气"
+msgid "Maximum Morale:"
+msgstr "最大士气："
 
-msgid "From Barracks Facilities"
-msgstr "来自"
+msgid "From Barracks Facilities:"
+msgstr "来自兵营设施："
 
 msgid "Maids"
 msgstr "女仆"
+
+msgid "Maid Jobs"
+msgstr "女仆容量"
 
 
 # ----Farmstead
@@ -24655,6 +24661,18 @@ msgstr "额外补给： [PARAM]"
 
 msgid "Provisions are added at the start of the day."
 msgstr "补给每天开始时刷新。"
+
+msgid "Provision Points"
+msgstr "补给点数"
+
+msgid "Cow Slots"
+msgstr "奶牛容量"
+
+msgid "Slave Slots"
+msgstr "奴隶容量"
+
+msgid "Carry Capacity"
+msgstr "负重能力"
 
 # ----Guild Hall(translation item from other building wont show here) 
 msgid "Mission Count"
@@ -24681,6 +24699,9 @@ msgstr "任务搜寻数量"
 msgid "Roster Size"
 msgstr "冒险者上限"
 
+msgid "Roster Size: [PARAM:plus]"
+msgstr "人员名册上限: [PARAM:plus]"
+
 msgid "Starting Level"
 msgstr "初始等级"
 
@@ -24693,6 +24714,11 @@ msgstr "无限队员"
 msgid "Starting stats: Roll [PARAM], [PARAM1]-sided dice, remove the [PARAM2] lowest ones."
 msgstr "初始属性：投掷 [PARAM] 个 [PARAM1] 边骰子，移除 [PARAM2] 个最低的."
 
+msgid "Base Values"
+msgstr "基础属性"
+
+msgid "Building Unlocks"
+msgstr "建筑解锁"
 
 # ----Stagecoach
 msgid "Arrivals"
@@ -24719,6 +24745,61 @@ msgstr "队员属性分布如下："
 msgid "Ponygirls improve the quality of the stagecoach network.Tomorrow's recruits will have between [PARAM]  and [PARAM1] free skill points."
 msgstr "小马姑娘能提高驿站网络的质量。明天招募的新兵将有[PARAM] ~ [PARAM1]点免费技能点。"
 
+msgid "Basestats"
+msgstr "基础属性"
+
+msgid "More Recruits"
+msgstr "更多招募"
+
+msgid "Ponygirls Slots"
+msgstr "马奴容量"
+
+# ----Tavern
+msgid "Tavern Efficiency"
+msgstr "酒馆效率"
+
+msgid "Taverneer Slots"
+msgstr "陪酒容量"
+
+# ----TrainingField
+msgid "Max Train Level"
+msgstr "最大训练等级"
+
+msgid "Train Slots"
+msgstr "学员容量"
+
+msgid "Puppy Slots"
+msgstr "猎犬容量"
+
+# ----Mental Ward
+msgid "Ward Slots"
+msgstr "病人容量"
+
+msgid "Mantra Slots"
+msgstr "催眠容量"
+
+# ----Nursery育虫屋
+msgid "Extraction Slots"
+msgstr "提取容量"
+
+msgid "Seedbed Slots"
+msgstr "苗床容量"
+
+msgid "Parasite Profit"
+msgstr "寄生虫利润"
+
+msgid "Seedbed Growth"
+msgstr "寄生虫生长效率"
+
+# ----Surgery美容院
+msgid "Surgery Cost"
+msgstr "手术费用"
+
+msgid "Operations"
+msgstr "手术"
+
+msgid "Sensitivity Operations"
+msgstr "敏感手术"
 
 # ----Church
 msgid "Curse Removal"
@@ -24737,6 +24818,23 @@ msgstr "性格矫正"
 msgid "Realignment Patients"
 msgstr "性格矫正病人"
 
+msgid "Church Uncurse Unlock"
+msgstr "圣堂净化诅咒"
+
+msgid "Realignment Slots"
+msgstr "性格矫正容量"
+
+msgid "Church Slots"
+msgstr "圣堂追忆容量"
+
+msgid "Curse Removal"
+msgstr "移除诅咒"
+
+msgid "Memories"
+msgstr "圣堂追忆"
+
+msgid "Eternal Memories:"
+msgstr "永恒追忆（花费250人脉记录存档）"
 
 # ----Embark UI
 msgid "Provisions"
